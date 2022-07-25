@@ -1,0 +1,38 @@
+{
+    "uid": "575438722a6e4dee836e791c6738eb8e",
+    "name": "Quận Hải An",
+    "wards": [
+        {
+            "uid": "82d387d3b2ea4af1b7d5c0554beee801",
+            "name": "Phường Đông Hải 1"
+        },
+        {
+            "uid": "c6fd39e1aed94d79b3ff6fa3e8c68952",
+            "name": "Phường Đông Hải 2"
+        },
+        {
+            "uid": "ab98aebb5b04421f9f4bf5a91bb202c3",
+            "name": "Phường Đằng Lâm"
+        },
+        {
+            "uid": "fcae5b5dd8fa4a05be72bbeae19f7213",
+            "name": "Phường Thành Tô"
+        },
+        {
+            "uid": "1d3042866ba442b7aed4073c5c2257b1",
+            "name": "Phường Đằng Hải"
+        },
+        {
+            "uid": "d08e118f4867453b950eaabd54e9153f",
+            "name": "Phường Nam Hải"
+        },
+        {
+            "uid": "db143615fc0f4d73b5913747aaf2d9f2",
+            "name": "Phường Cát Bi"
+        },
+        {
+            "uid": "b5e37829f3114562a55c48ac0a83d6a2",
+            "name": "Phường Tràng Cát"
+        }
+    ]
+}

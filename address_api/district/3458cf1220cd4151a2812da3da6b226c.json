@@ -1,0 +1,58 @@
+{
+    "uid": "3458cf1220cd4151a2812da3da6b226c",
+    "name": "Huyện Xuyên Mộc",
+    "wards": [
+        {
+            "uid": "0bc124d2bd244808a1e8fc05d4d2e9f2",
+            "name": "Thị trấn Phước Bửu"
+        },
+        {
+            "uid": "bf54dabb21a946bd9708853b87bb6827",
+            "name": "Xã Phước Thuận"
+        },
+        {
+            "uid": "80be4f5e33524399a0c207456487345c",
+            "name": "Xã Phước Tân"
+        },
+        {
+            "uid": "df63fadc789f49d399a27e6422ba70b0",
+            "name": "Xã Xuyên Mộc"
+        },
+        {
+            "uid": "a09d0f87d5924ff1b26d54380e718feb",
+            "name": "Xã Bông Trang"
+        },
+        {
+            "uid": "93266e8d7b5a4f319e765942c9685a07",
+            "name": "Xã Tân Lâm"
+        },
+        {
+            "uid": "f78664843450430a843a459d0b10c17c",
+            "name": "Xã Bàu Lâm"
+        },
+        {
+            "uid": "6f41efa7efa84f4aa9e0f4c96bbf9a6f",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "6321270dcab440a080bc617a351a8337",
+            "name": "Xã Hòa Hưng"
+        },
+        {
+            "uid": "c4a6b656c0ef4667af64e9110fd39db9",
+            "name": "Xã Hòa Hiệp"
+        },
+        {
+            "uid": "1eb6afd425b7435ab9ceda2856757850",
+            "name": "Xã Hòa Hội"
+        },
+        {
+            "uid": "3747dac15b584340a52b081a3cdfb179",
+            "name": "Xã Bưng Riềng"
+        },
+        {
+            "uid": "443bedfa525e44adbbff20ee708a0875",
+            "name": "Xã Bình Châu"
+        }
+    ]
+}

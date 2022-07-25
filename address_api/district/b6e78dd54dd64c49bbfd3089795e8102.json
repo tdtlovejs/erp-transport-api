@@ -1,0 +1,54 @@
+{
+    "uid": "b6e78dd54dd64c49bbfd3089795e8102",
+    "name": "Thành phố Điện Biên Phủ",
+    "wards": [
+        {
+            "uid": "3d6f124b6b014a23bfaba3d1c9f52b82",
+            "name": "Phường Noong Bua"
+        },
+        {
+            "uid": "a60d03175eb4421d815447d32d02cb8d",
+            "name": "Phường Him Lam"
+        },
+        {
+            "uid": "cf55531fd1f14b7d8fad9cd5987a3cfe",
+            "name": "Phường Thanh Bình"
+        },
+        {
+            "uid": "d21151bf51ed4284a6c7cdf29a1480c2",
+            "name": "Phường Tân Thanh"
+        },
+        {
+            "uid": "dd44eceb1e164b7aa95c28dbe923d160",
+            "name": "Phường Mường Thanh"
+        },
+        {
+            "uid": "f5b5d975c9e0428393c5643c439411ee",
+            "name": "Phường Nam Thanh"
+        },
+        {
+            "uid": "4fa48b45ab044a06b3703a0e824fcaaa",
+            "name": "Phường Thanh Trường"
+        },
+        {
+            "uid": "d309e4f643ad48b98d4912807d5ffb37",
+            "name": "Xã Thanh Minh"
+        },
+        {
+            "uid": "f1da630356154c93bdab6c015f6433d2",
+            "name": "Xã Nà Tấu"
+        },
+        {
+            "uid": "5e8d168fdb654dcd92e70fdef5ed8cd8",
+            "name": "Xã Nà Nhạn"
+        },
+        {
+            "uid": "ad1553819d50408b98652d0eba6be75d",
+            "name": "Xã Mường Phăng"
+        },
+        {
+            "uid": "111910d9760b4cb8897e0d06cb41cf2e",
+            "name": "Xã Pá Khoang"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "fd780da7464547d59c9966c737e7f590",
+    "name": "Huyện Gò Quao",
+    "wards": [
+        {
+            "uid": "d82fa4bc062941e2b6b38ae6b365b7d8",
+            "name": "Thị trấn Gò Quao"
+        },
+        {
+            "uid": "707a7ca5fc0a4613a6dee0fbbdc519d7",
+            "name": "Xã Vĩnh Hòa Hưng Bắc"
+        },
+        {
+            "uid": "41447b2921754ed1b3eb94876992b887",
+            "name": "Xã Định Hòa"
+        },
+        {
+            "uid": "b169253368cd4aba9b23e4e66a58fee4",
+            "name": "Xã Thới Quản"
+        },
+        {
+            "uid": "84862803e73841bfb6bf4e1d5dca1142",
+            "name": "Xã Định An"
+        },
+        {
+            "uid": "bd01f8850df740e19aeb0abd55e8d2c2",
+            "name": "Xã Thủy Liễu"
+        },
+        {
+            "uid": "e82b4b39cab948c680afdca5ea3af6f1",
+            "name": "Xã Vĩnh Hòa Hưng Nam"
+        },
+        {
+            "uid": "5d27d6afa9214806ab294d979837ba9f",
+            "name": "Xã Vĩnh Phước A"
+        },
+        {
+            "uid": "2e8ce7a28a1e413198aa0c059e4dcdbd",
+            "name": "Xã Vĩnh Phước B"
+        },
+        {
+            "uid": "4c31967914c446cb8def78570e206276",
+            "name": "Xã Vĩnh Tuy"
+        },
+        {
+            "uid": "0cf76819711e4835952fec8fb058f974",
+            "name": "Xã Vĩnh Thắng"
+        }
+    ]
+}

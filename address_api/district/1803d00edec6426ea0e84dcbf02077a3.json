@@ -1,0 +1,46 @@
+{
+    "uid": "1803d00edec6426ea0e84dcbf02077a3",
+    "name": "Huyện Phú Riềng",
+    "wards": [
+        {
+            "uid": "d1d7eca7df36400b9d04c09eaf9f3d8f",
+            "name": "Xã Long Bình"
+        },
+        {
+            "uid": "cd6f6097bb8747b3a68abfc523d88c68",
+            "name": "Xã Bình Tân"
+        },
+        {
+            "uid": "bd4d8260e98647e0a3ff87bd29aaffb3",
+            "name": "Xã Bình Sơn"
+        },
+        {
+            "uid": "62e2eeadb0f64211a5765a8ec6ee2cac",
+            "name": "Xã Long Hưng"
+        },
+        {
+            "uid": "8750bab5b2c049929e3b98fa3a639a02",
+            "name": "Xã Phước Tân"
+        },
+        {
+            "uid": "ce5e23ffc1f24f579b03b84d450e2871",
+            "name": "Xã Bù Nho"
+        },
+        {
+            "uid": "38f1f0140786443fab9fa8a64e410cf0",
+            "name": "Xã Long Hà"
+        },
+        {
+            "uid": "19430891b7864d1ea7eff4d76207454c",
+            "name": "Xã Long Tân"
+        },
+        {
+            "uid": "c202b6073edf40659c756835f5fe5287",
+            "name": "Xã Phú Trung"
+        },
+        {
+            "uid": "66574a42ed804e08a8602c7c5763805c",
+            "name": "Xã Phú Riềng"
+        }
+    ]
+}

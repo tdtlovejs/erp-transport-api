@@ -1,0 +1,78 @@
+{
+    "uid": "aa0c7b5c617d4ffaad7646fd9fe747f0",
+    "name": "Huyện Bắc Bình",
+    "wards": [
+        {
+            "uid": "00f90170ecfe4953ac10a4da3a40df72",
+            "name": "Thị trấn Chợ Lầu"
+        },
+        {
+            "uid": "8b537065bcb441d9bb49f4394d80735e",
+            "name": "Xã Phan Sơn"
+        },
+        {
+            "uid": "fe0042e61fbd4bf8a90471de407285c3",
+            "name": "Xã Phan Lâm"
+        },
+        {
+            "uid": "dedb5a02ebc44dab88471bec313d7357",
+            "name": "Xã Bình An"
+        },
+        {
+            "uid": "38eeecc051f24ce4b6461c55e9bfa0b4",
+            "name": "Xã Phan Điền"
+        },
+        {
+            "uid": "b9a376ee1e3047e6b56be21c3e6ca0ee",
+            "name": "Xã Hải Ninh"
+        },
+        {
+            "uid": "5d0902559387440eb3e3be42c342b9ee",
+            "name": "Xã Sông Lũy"
+        },
+        {
+            "uid": "1184c2ec5b694caa8aec35fb9d8a2233",
+            "name": "Xã Phan Tiến"
+        },
+        {
+            "uid": "d46bdbee7d0e444497756722821c4093",
+            "name": "Xã Sông Bình"
+        },
+        {
+            "uid": "02e08c68944746108351cf790d77fd29",
+            "name": "Thị trấn Lương Sơn"
+        },
+        {
+            "uid": "dd8320d1732a49dfb8cffb5397ceee3e",
+            "name": "Xã Phan Hòa"
+        },
+        {
+            "uid": "2f807907d6f9454d9a75781af29d717a",
+            "name": "Xã Phan Thanh"
+        },
+        {
+            "uid": "f7f69721b1d446ad996bcc2824af4e5b",
+            "name": "Xã Hồng Thái"
+        },
+        {
+            "uid": "8045365de3d8444898addc87debd81bd",
+            "name": "Xã Phan Hiệp"
+        },
+        {
+            "uid": "946ff86cf2934fc3815dc0c56a58155f",
+            "name": "Xã Bình Tân"
+        },
+        {
+            "uid": "9d3eb042a3da4744bece6e7789d23bd8",
+            "name": "Xã Phan Rí Thành"
+        },
+        {
+            "uid": "de6fd1ef3dd742788d403566ae5fe57f",
+            "name": "Xã Hòa Thắng"
+        },
+        {
+            "uid": "70f939b985f5470ebd0dafbc5eaae1c2",
+            "name": "Xã Hồng Phong"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "uid": "8077ef1154f24a36a49b901f7758300d",
+    "name": "Huyện Sơn Hà",
+    "wards": [
+        {
+            "uid": "3b9d713d652a44afb5fa64e314a949f9",
+            "name": "Thị trấn Di Lăng"
+        },
+        {
+            "uid": "8b4c07df8a434213a5d88f13f6df7ac7",
+            "name": "Xã Sơn Hạ"
+        },
+        {
+            "uid": "94f5d0675fde42b087604578681d2d74",
+            "name": "Xã Sơn Thành"
+        },
+        {
+            "uid": "8e15d29e7228425288ddc7778102a391",
+            "name": "Xã Sơn Nham"
+        },
+        {
+            "uid": "3d7004b8627b44f7a94793855f635d6f",
+            "name": "Xã Sơn Bao"
+        },
+        {
+            "uid": "fd6333e9d33a4c8baf0e6df7298fd3de",
+            "name": "Xã Sơn Linh"
+        },
+        {
+            "uid": "b34c05a5843340ef837d0cad37454d05",
+            "name": "Xã Sơn Giang"
+        },
+        {
+            "uid": "dd19abad48e64f91b0e5332b7c70d9b8",
+            "name": "Xã Sơn Trung"
+        },
+        {
+            "uid": "704b0d7bbcf64dcba98798e3bf679831",
+            "name": "Xã Sơn Thượng"
+        },
+        {
+            "uid": "88c69c8924934c22a7aadf1f8c98d390",
+            "name": "Xã Sơn Cao"
+        },
+        {
+            "uid": "56ad2ad2845a45f5bdc53a0b734f64e7",
+            "name": "Xã Sơn Hải"
+        },
+        {
+            "uid": "af3f3fcd5d9b4206ad0005d61cebca2f",
+            "name": "Xã Sơn Thủy"
+        },
+        {
+            "uid": "2a844cf2349f4171ab67edbda84462af",
+            "name": "Xã Sơn Kỳ"
+        },
+        {
+            "uid": "6f5061284d574e04b6d8b24c6d3c8d11",
+            "name": "Xã Sơn Ba"
+        }
+    ]
+}

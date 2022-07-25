@@ -1,0 +1,54 @@
+{
+    "uid": "3b4bf6cd56a1496eb6f7c9fc15cd1e7a",
+    "name": "Huyện Tủa Chùa",
+    "wards": [
+        {
+            "uid": "d75590621a17421db2882111c7992b6a",
+            "name": "Thị trấn Tủa Chùa"
+        },
+        {
+            "uid": "8755cde57cc94f5a9c9ec76fcf4c64f3",
+            "name": "Xã Huổi Só"
+        },
+        {
+            "uid": "7bf79c81dccf40439ef07371effcf744",
+            "name": "Xã Xín Chải"
+        },
+        {
+            "uid": "f81d405ca7504a4e835d00275aff0fd3",
+            "name": "Xã Tả Sìn Thàng"
+        },
+        {
+            "uid": "4f4feb8320aa44beb869b40c463aaba1",
+            "name": "Xã Lao Xả Phình"
+        },
+        {
+            "uid": "6952cc75830d4e639c797435b9c9e118",
+            "name": "Xã Tả Phìn"
+        },
+        {
+            "uid": "aa888a17ed9f4822893e4557571a9b41",
+            "name": "Xã Tủa Thàng"
+        },
+        {
+            "uid": "a9c9225f1dcf4b1a956f6c23d7700228",
+            "name": "Xã Trung Thu"
+        },
+        {
+            "uid": "53cafc4b9f014c94b90fd69ed69618be",
+            "name": "Xã Sính Phình"
+        },
+        {
+            "uid": "49613ac91c77415dbf89f665baed9ede",
+            "name": "Xã Sáng Nhè"
+        },
+        {
+            "uid": "4132d7bdc925453eb6b3204f024c200a",
+            "name": "Xã Mường Đun"
+        },
+        {
+            "uid": "4856250df5124167960ed4c9faf19d26",
+            "name": "Xã Mường Báng"
+        }
+    ]
+}

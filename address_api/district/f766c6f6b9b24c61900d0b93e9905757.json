@@ -1,0 +1,66 @@
+{
+    "uid": "f766c6f6b9b24c61900d0b93e9905757",
+    "name": "Huyện Châu Thành",
+    "wards": [
+        {
+            "uid": "93c4fc5a43514d6c8ed341f0d2e93739",
+            "name": "Thị trấn Châu Thành"
+        },
+        {
+            "uid": "74df6fa863b94236a27c0973ae70aab9",
+            "name": "Xã Hảo Đước"
+        },
+        {
+            "uid": "3732f5a3a0eb4922be5af5e88c4e6a3c",
+            "name": "Xã Phước Vinh"
+        },
+        {
+            "uid": "cea31a54c45c4b29a30ef28b9eddab04",
+            "name": "Xã Đồng Khởi"
+        },
+        {
+            "uid": "98159811efb24f0381478b8908e9c821",
+            "name": "Xã Thái Bình"
+        },
+        {
+            "uid": "6bbe22d027d24b5fb6fa818e0f9fc123",
+            "name": "Xã An Cơ"
+        },
+        {
+            "uid": "be78c1a75a8e481798a7385acdf2301a",
+            "name": "Xã Biên Giới"
+        },
+        {
+            "uid": "3990b76828dc47b486c4d5fe74025948",
+            "name": "Xã Hòa Thạnh"
+        },
+        {
+            "uid": "966dfee42db84de7a1225a0db3870d6b",
+            "name": "Xã Trí Bình"
+        },
+        {
+            "uid": "351d1ed4a5004a4684873728a425c6e3",
+            "name": "Xã Hòa Hội"
+        },
+        {
+            "uid": "9d902138e0de4d0c85e954c6fbb3061f",
+            "name": "Xã An Bình"
+        },
+        {
+            "uid": "e39a1efedb34463080a3bd476043b4b3",
+            "name": "Xã Thanh Điền"
+        },
+        {
+            "uid": "b01bd601e0a2437da24bd0ab2dcef746",
+            "name": "Xã Thành Long"
+        },
+        {
+            "uid": "5c557a026a134715935caeb7ce442059",
+            "name": "Xã Ninh Điền"
+        },
+        {
+            "uid": "c2ce895327994c4ba26f581af98baa53",
+            "name": "Xã Long Vĩnh"
+        }
+    ]
+}

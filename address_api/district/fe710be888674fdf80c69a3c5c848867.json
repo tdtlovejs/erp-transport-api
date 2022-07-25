@@ -1,0 +1,34 @@
+{
+    "uid": "fe710be888674fdf80c69a3c5c848867",
+    "name": "Thị xã Cửa Lò",
+    "wards": [
+        {
+            "uid": "69097d2a42564e618feb79f9d708b582",
+            "name": "Phường Nghi Thuỷ"
+        },
+        {
+            "uid": "f49121c0b3ad449aa196e3c9a53aef3c",
+            "name": "Phường Nghi Tân"
+        },
+        {
+            "uid": "065aef50421548418d6a1d03a557d146",
+            "name": "Phường Thu Thuỷ"
+        },
+        {
+            "uid": "f2a5e5f691784dd680a0d168b4483c49",
+            "name": "Phường Nghi Hòa"
+        },
+        {
+            "uid": "e7ab286f01b245dbb9f90a4ecb5df45e",
+            "name": "Phường Nghi Hải"
+        },
+        {
+            "uid": "4d31d24fda2941cfb9b56ebb1481cfbb",
+            "name": "Phường Nghi Hương"
+        },
+        {
+            "uid": "f49a319304ab4b419104e280b11fd8bb",
+            "name": "Phường Nghi Thu"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "dbc2dc2d62094b5290b00804e49ae564",
+    "name": "Thành phố Tam Điệp",
+    "wards": [
+        {
+            "uid": "95b3058217e74904a74c2826d6c1bee6",
+            "name": "Phường Bắc Sơn"
+        },
+        {
+            "uid": "a0b574fdfc544a4a8d79a730ca00976f",
+            "name": "Phường Trung Sơn"
+        },
+        {
+            "uid": "5f4c72651b594c3980994a57408c7a15",
+            "name": "Phường Nam Sơn"
+        },
+        {
+            "uid": "b4ea9d14042a4d63b606c2dd14183d8d",
+            "name": "Phường Tây Sơn"
+        },
+        {
+            "uid": "31a44a8119f4428ab1f692fb2b72fb5d",
+            "name": "Xã Yên Sơn"
+        },
+        {
+            "uid": "c540fd09fe464231b5000831d9230ae6",
+            "name": "Phường Yên Bình"
+        },
+        {
+            "uid": "0583f8d454db47fdb2055ca6fad52394",
+            "name": "Phường Tân Bình"
+        },
+        {
+            "uid": "7e6621aede8843939919d467cff66f3d",
+            "name": "Xã Quang Sơn"
+        },
+        {
+            "uid": "4a091845aa7c454ea307c9c8a0f97ecf",
+            "name": "Xã Đông Sơn"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "uid": "38d4d1d1ef1b439694bc51a64d348cb7",
+    "name": "Huyện Hóc Môn",
+    "wards": [
+        {
+            "uid": "bf39c9900c194279ba795d1bbcb14f74",
+            "name": "Thị trấn Hóc Môn"
+        },
+        {
+            "uid": "238a39cfcfba40ddb52845c4b463f34f",
+            "name": "Xã Tân Hiệp"
+        },
+        {
+            "uid": "966bfaa8a6504821a04feba36cbe119a",
+            "name": "Xã Nhị Bình"
+        },
+        {
+            "uid": "1628e341b64c4f1eb7c8cf99c1291979",
+            "name": "Xã Đông Thạnh"
+        },
+        {
+            "uid": "c708d530da6d4e2a9fbc6559d0dea725",
+            "name": "Xã Tân Thới Nhì"
+        },
+        {
+            "uid": "55d91ffdd3074727914eb6d8c12b286f",
+            "name": "Xã Thới Tam Thôn"
+        },
+        {
+            "uid": "dab6ed6601724093b889273367297456",
+            "name": "Xã Xuân Thới Sơn"
+        },
+        {
+            "uid": "01a265dc1ee84304a23e6e9e71f70328",
+            "name": "Xã Tân Xuân"
+        },
+        {
+            "uid": "80000ea3d1be4eddb240894e4ad025e8",
+            "name": "Xã Xuân Thới Đông"
+        },
+        {
+            "uid": "2b94df2609e1417e8e2105b64ddf2730",
+            "name": "Xã Trung Chánh"
+        },
+        {
+            "uid": "16f4c4ebb21b4584b47dd3fc99d33f33",
+            "name": "Xã Xuân Thới Thượng"
+        },
+        {
+            "uid": "b16c80b8a36a416f9ea6a0b7a8688de6",
+            "name": "Xã Bà Điểm"
+        }
+    ]
+}

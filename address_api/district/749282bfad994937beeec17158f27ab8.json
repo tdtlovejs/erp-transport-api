@@ -1,0 +1,54 @@
+{
+    "uid": "749282bfad994937beeec17158f27ab8",
+    "name": "Huyện Dầu Tiếng",
+    "wards": [
+        {
+            "uid": "d070dd50b8a645f997571b67c2eb5f7f",
+            "name": "Thị trấn Dầu Tiếng"
+        },
+        {
+            "uid": "0cc1f64857334fccbf1906cf17067acd",
+            "name": "Xã Minh Hoà"
+        },
+        {
+            "uid": "121b0b9db5b545ddb33b9314dc472e74",
+            "name": "Xã Minh Thạnh"
+        },
+        {
+            "uid": "50416976e8134ef2b92f4255f32323d9",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "ff1be1edb0554e88b30ce0609294a138",
+            "name": "Xã Định An"
+        },
+        {
+            "uid": "b22528dfdf9946e280911f83dfa8b542",
+            "name": "Xã Long Hoà"
+        },
+        {
+            "uid": "40e09c8f532f42119ef3090d13bb719a",
+            "name": "Xã Định Thành"
+        },
+        {
+            "uid": "eb252ad27d1f4c748ab413818df23b26",
+            "name": "Xã Định Hiệp"
+        },
+        {
+            "uid": "7310beff09184e58abaf1a3cf3be879f",
+            "name": "Xã An Lập"
+        },
+        {
+            "uid": "37d0f58cc6a3478bb76f0749ca36ea7f",
+            "name": "Xã Long Tân"
+        },
+        {
+            "uid": "d84bfeed6be84cd2a3eb0e7f66394e18",
+            "name": "Xã Thanh An"
+        },
+        {
+            "uid": "2eae9e5d40b44ac5b1c4ab2936c6f638",
+            "name": "Xã Thanh Tuyền"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "uid": "76469606252e4c738f1b5e097d987b7b",
+    "name": "Huyện Tam Đường",
+    "wards": [
+        {
+            "uid": "18b21b0bb46243ae8a4667421253b3f9",
+            "name": "Thị trấn Tam Đường"
+        },
+        {
+            "uid": "f3f64459369f40ba9124413653ea280c",
+            "name": "Xã Thèn Sin"
+        },
+        {
+            "uid": "577eb261c11d48328069db03af5d1a25",
+            "name": "Xã Tả Lèng"
+        },
+        {
+            "uid": "96917904b0af40c380c46be735d7a300",
+            "name": "Xã Giang Ma"
+        },
+        {
+            "uid": "10b78e44257f4052aaeb5647728549fc",
+            "name": "Xã Hồ Thầu"
+        },
+        {
+            "uid": "40dd6765e2a44e099ea6b445c6665eca",
+            "name": "Xã Bình Lư"
+        },
+        {
+            "uid": "cf127ed2a5b44d488dd2d0d47fc14030",
+            "name": "Xã Sơn Bình"
+        },
+        {
+            "uid": "f7026e505ed2418593759aecb0cc4b29",
+            "name": "Xã Nùng Nàng"
+        },
+        {
+            "uid": "49733f3531cd47b1a32e38683e9b8064",
+            "name": "Xã Bản Giang"
+        },
+        {
+            "uid": "0515444956344ca4baecdc3ec8c28f75",
+            "name": "Xã Bản Hon"
+        },
+        {
+            "uid": "507b2367d4ef43a58d969adf83490bb4",
+            "name": "Xã Bản Bo"
+        },
+        {
+            "uid": "6fb5fd2fa44a4b07a85948ea85d278df",
+            "name": "Xã Nà Tăm"
+        },
+        {
+            "uid": "883438c568c147ce867031b54ca43f2d",
+            "name": "Xã Khun Há"
+        }
+    ]
+}

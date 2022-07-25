@@ -1,0 +1,70 @@
+{
+    "uid": "042189dcfebd4192994b579e7af69085",
+    "name": "Huyện Đầm Dơi",
+    "wards": [
+        {
+            "uid": "c0bc71d1d9874ec5b8f38b0e9e919031",
+            "name": "Thị trấn Đầm Dơi"
+        },
+        {
+            "uid": "982148cd887f42d79ae564f99d102ff1",
+            "name": "Xã Tạ An Khương"
+        },
+        {
+            "uid": "976f936679874c9d8aec93d2832b9da3",
+            "name": "Xã Tạ An Khương Đông"
+        },
+        {
+            "uid": "627a2697207047d39723be2cb39b1ae5",
+            "name": "Xã Trần Phán"
+        },
+        {
+            "uid": "1f252a34e7844197b873cfbdcb344088",
+            "name": "Xã Tân Trung"
+        },
+        {
+            "uid": "a9ca5f2969404e0c91d106869af01457",
+            "name": "Xã Tân Đức"
+        },
+        {
+            "uid": "642e7f6362cc4bbd9bfd314cb1305e37",
+            "name": "Xã Tân Thuận"
+        },
+        {
+            "uid": "172e34351eef47098beeabd00931943c",
+            "name": "Xã Tạ An Khương Nam"
+        },
+        {
+            "uid": "ff5fc204074a4f1cadba2faed07385df",
+            "name": "Xã Tân Duyệt"
+        },
+        {
+            "uid": "37f77f39c2414e5993ef8537f93e292e",
+            "name": "Xã Tân Dân"
+        },
+        {
+            "uid": "6112be9d8e6c440b86e815944c1b6337",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "47b54313bb3242c3b18ab066e7afe9cc",
+            "name": "Xã Quách Phẩm Bắc"
+        },
+        {
+            "uid": "ed0bfbf4292c4524bfb0afefa47a8027",
+            "name": "Xã Quách Phẩm"
+        },
+        {
+            "uid": "713cff498004468a967c69586ac14e53",
+            "name": "Xã Thanh Tùng"
+        },
+        {
+            "uid": "1d14bc6f7c46491e8eb12ab57417271c",
+            "name": "Xã Ngọc Chánh"
+        },
+        {
+            "uid": "ed61e0f7710842d08ffdcf3ca3c5f9d2",
+            "name": "Xã Nguyễn Huân"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "uid": "1c5ce0702fab4343ad870a1ef8bb938a",
+    "name": "Huyện Bắc Hà",
+    "wards": [
+        {
+            "uid": "242800d9fb5748b0b779b496e3735ca1",
+            "name": "Thị trấn Bắc Hà"
+        },
+        {
+            "uid": "8a10458d508e482d858d2bd8c1db33c6",
+            "name": "Xã Lùng Cải"
+        },
+        {
+            "uid": "1a2ebd8e193b4c568b8fc4cb374a8488",
+            "name": "Xã Lùng Phình"
+        },
+        {
+            "uid": "f8ffd785abc5409d967cbd6f33d20a4c",
+            "name": "Xã Tả Van Chư"
+        },
+        {
+            "uid": "4af483cda23845b6b802ec1f351a619f",
+            "name": "Xã Tả Củ Tỷ"
+        },
+        {
+            "uid": "c09fc279cd3b4f69812c8d63795e6e24",
+            "name": "Xã Thải Giàng Phố"
+        },
+        {
+            "uid": "a11dc9da0ede45dd9b2a3df396409465",
+            "name": "Xã Hoàng Thu Phố"
+        },
+        {
+            "uid": "0517dc3f31454bfe894642cb7af5d609",
+            "name": "Xã Bản Phố"
+        },
+        {
+            "uid": "2cbb9e71f3d0483692955f7d986bbba2",
+            "name": "Xã Bản Liền"
+        },
+        {
+            "uid": "11daacdca0fe44a6bf126fc53fb61dc5",
+            "name": "Xã Tà Chải"
+        },
+        {
+            "uid": "3bdb96a9f5004ebc8dd9c26688722f3c",
+            "name": "Xã Na Hối"
+        },
+        {
+            "uid": "507bd9042ff5488991f8294cf1b137e2",
+            "name": "Xã Cốc Ly"
+        },
+        {
+            "uid": "2873448a81744de6b08e360780fbbe1e",
+            "name": "Xã Nậm Mòn"
+        },
+        {
+            "uid": "6c975eba93bc447aade881f86d15beb5",
+            "name": "Xã Nậm Đét"
+        },
+        {
+            "uid": "0f0cca78bdc44b208c0cfaaf99418c4d",
+            "name": "Xã Nậm Khánh"
+        },
+        {
+            "uid": "c03ba5e87b2f4673a70d7cb14ef7891f",
+            "name": "Xã Bảo Nhai"
+        },
+        {
+            "uid": "9219f426a81c4c5d92bad848cce8000a",
+            "name": "Xã Nậm Lúc"
+        },
+        {
+            "uid": "2e7217f3e3c34e0bb416a0ed352f88ae",
+            "name": "Xã Cốc Lầu"
+        },
+        {
+            "uid": "47fb2311c56340db9c7fe212d2820298",
+            "name": "Xã Bản Cái"
+        }
+    ]
+}

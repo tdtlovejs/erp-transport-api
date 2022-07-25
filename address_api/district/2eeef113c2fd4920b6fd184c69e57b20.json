@@ -1,0 +1,54 @@
+{
+    "uid": "2eeef113c2fd4920b6fd184c69e57b20",
+    "name": "Huyện Lai Vung",
+    "wards": [
+        {
+            "uid": "794f8de8bdf7406fb4f8d26a96f8cb6e",
+            "name": "Thị trấn Lai Vung"
+        },
+        {
+            "uid": "e8aadbbd4a5b42d888e2cf5be9270e2b",
+            "name": "Xã Tân Dương"
+        },
+        {
+            "uid": "55bc1bf2628e4970991e42b2136a76a9",
+            "name": "Xã Hòa Thành"
+        },
+        {
+            "uid": "48f6f2738e504ac58543493ba0fd8dc7",
+            "name": "Xã Long Hậu"
+        },
+        {
+            "uid": "62a83e9abba546cc897908920f7b1795",
+            "name": "Xã Tân Phước"
+        },
+        {
+            "uid": "7c611effc58843fbb4da9a7f0a6f7ae4",
+            "name": "Xã Hòa Long"
+        },
+        {
+            "uid": "7a6600434d664a7abd2741d8f2d217cc",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "5bcb42f0a03b4551999335f858b1091f",
+            "name": "Xã Long Thắng"
+        },
+        {
+            "uid": "7d6464e8ce9d4ebeb5c35d75472ca9e9",
+            "name": "Xã Vĩnh Thới"
+        },
+        {
+            "uid": "1472e7049c4148f88d5488002baaf668",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "c7e77bc328c84f038d189e24541f8594",
+            "name": "Xã Định Hòa"
+        },
+        {
+            "uid": "edc306d7627b477aa0be3ec7f9cda194",
+            "name": "Xã Phong Hòa"
+        }
+    ]
+}

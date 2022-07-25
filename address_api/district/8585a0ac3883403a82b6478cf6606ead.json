@@ -1,0 +1,70 @@
+{
+    "uid": "8585a0ac3883403a82b6478cf6606ead",
+    "name": "Huyện Ea Kar",
+    "wards": [
+        {
+            "uid": "51e8fefcdc4d454facfbe5846913da04",
+            "name": "Thị trấn Ea Kar"
+        },
+        {
+            "uid": "a975f6abacc34d01a7005717ab0b4148",
+            "name": "Thị trấn Ea Knốp"
+        },
+        {
+            "uid": "0a09144566254113b203885287b4094f",
+            "name": "Xã Ea Sô"
+        },
+        {
+            "uid": "a43981ab9ef14f85a0dcca84473d1615",
+            "name": "Xã Ea Sar"
+        },
+        {
+            "uid": "b060e41b78c14e13ad1adaee5f655a6d",
+            "name": "Xã Xuân Phú"
+        },
+        {
+            "uid": "72a8d1a52daa4f17a3daaa0eef21bd74",
+            "name": "Xã Cư Huê"
+        },
+        {
+            "uid": "983921a1d58649df82351fc0fc0a652f",
+            "name": "Xã Ea Tih"
+        },
+        {
+            "uid": "c5f45f473b704a4cb23690073788ccbc",
+            "name": "Xã Ea Đar"
+        },
+        {
+            "uid": "4ccba80bf12044f4a2fdfe2f02925d97",
+            "name": "Xã Ea Kmút"
+        },
+        {
+            "uid": "b1122dbbb20641b5bee14603ebc9c636",
+            "name": "Xã Cư Ni"
+        },
+        {
+            "uid": "cf3dd3cd2b2a40f2a54d1ee6fed5d606",
+            "name": "Xã Ea Păl"
+        },
+        {
+            "uid": "741ae3e328a64bf0a9b8c3d77dc7c9b5",
+            "name": "Xã Cư Prông"
+        },
+        {
+            "uid": "4ad0d91572d3476c8858280cb65071fb",
+            "name": "Xã Ea Ô"
+        },
+        {
+            "uid": "8c48dc3f1ae648d6b65d697901811b2a",
+            "name": "Xã Cư ELang"
+        },
+        {
+            "uid": "165ca86df17e4d53be2d6a0cfdb6bfc6",
+            "name": "Xã Cư Bông"
+        },
+        {
+            "uid": "17bef981aabd4641acf0fcb20552c9cf",
+            "name": "Xã Cư Jang"
+        }
+    ]
+}

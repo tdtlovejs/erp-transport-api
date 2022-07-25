@@ -1,0 +1,54 @@
+{
+    "uid": "6929cc8327a6486592909c355261c51a",
+    "name": "Huyện Tam Nông",
+    "wards": [
+        {
+            "uid": "41c126fd602b49c28cf3ad239bd64e63",
+            "name": "Thị trấn Tràm Chim"
+        },
+        {
+            "uid": "25411a111a0a4354bc5289aef70a4947",
+            "name": "Xã Hoà Bình"
+        },
+        {
+            "uid": "4752f688d4e14f73bf727c35f8a14ab0",
+            "name": "Xã Tân Công Sính"
+        },
+        {
+            "uid": "ae3445569bc64ef3a738a9698c1e7099",
+            "name": "Xã Phú Hiệp"
+        },
+        {
+            "uid": "b67567176b5a475cbc81f1a541ae6ec8",
+            "name": "Xã Phú Đức"
+        },
+        {
+            "uid": "3583451199c94b2794e6a2d1deb181dc",
+            "name": "Xã Phú Thành B"
+        },
+        {
+            "uid": "0b0e3e0e2520419ab9cc10fcbe22a5e9",
+            "name": "Xã An Hòa"
+        },
+        {
+            "uid": "2e6678b63a6546e6ad052a3f4463c3cb",
+            "name": "Xã An Long"
+        },
+        {
+            "uid": "14aa2ec4b55447e4b2e426e18131937a",
+            "name": "Xã Phú Cường"
+        },
+        {
+            "uid": "1dbdbe117673436e88f7f5c243bf4930",
+            "name": "Xã Phú Ninh"
+        },
+        {
+            "uid": "91fe86ebf4854fb1b83142302c653be2",
+            "name": "Xã Phú Thọ"
+        },
+        {
+            "uid": "5ec3a4a88f67450baeeba75110e88ba7",
+            "name": "Xã Phú Thành A"
+        }
+    ]
+}

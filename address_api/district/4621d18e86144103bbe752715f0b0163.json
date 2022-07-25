@@ -1,0 +1,86 @@
+{
+    "uid": "4621d18e86144103bbe752715f0b0163",
+    "name": "Huyện Lập Thạch",
+    "wards": [
+        {
+            "uid": "6c788cb539b245659be59c66bd8ef83b",
+            "name": "Thị trấn Lập Thạch"
+        },
+        {
+            "uid": "7395889712d64b18b6d12aee216b1bfd",
+            "name": "Xã Quang Sơn"
+        },
+        {
+            "uid": "76665f238c574cac8e5e6cf6b1b35a61",
+            "name": "Xã Ngọc Mỹ"
+        },
+        {
+            "uid": "418f2f10e90a437693c29ee393ce2a2c",
+            "name": "Xã Hợp Lý"
+        },
+        {
+            "uid": "172390fe6ede403380a105ea58beab37",
+            "name": "Xã Bắc Bình"
+        },
+        {
+            "uid": "80c1fb55c44549b38d1741a913903bed",
+            "name": "Xã Thái Hòa"
+        },
+        {
+            "uid": "6f8b75a4e6044c3d8f3d3f7457859b10",
+            "name": "Thị trấn Hoa Sơn"
+        },
+        {
+            "uid": "5da7d073e860496f8040506cc9173909",
+            "name": "Xã Liễn Sơn"
+        },
+        {
+            "uid": "ad8f8ff9212840fabd0426f82c6ff37d",
+            "name": "Xã Xuân Hòa"
+        },
+        {
+            "uid": "6f7fe2eaaab345d2aab311c3a43fd8bb",
+            "name": "Xã Vân Trục"
+        },
+        {
+            "uid": "d4dee3e0c94c4eb58d08bd750f5c3924",
+            "name": "Xã Liên Hòa"
+        },
+        {
+            "uid": "4a730efde6b042d38230cf9d7fb33099",
+            "name": "Xã Tử Du"
+        },
+        {
+            "uid": "60d4cfdefaf846acaea83eaebb1f8b3b",
+            "name": "Xã Bàn Giản"
+        },
+        {
+            "uid": "47864d0c905f4ccdbecaac638c17b578",
+            "name": "Xã Xuân Lôi"
+        },
+        {
+            "uid": "fba3696f4e334dda929fa76bbe7deeec",
+            "name": "Xã Đồng Ích"
+        },
+        {
+            "uid": "58100d799cdf4a3fae0609e8279e05df",
+            "name": "Xã Tiên Lữ"
+        },
+        {
+            "uid": "3867bea97b614395a1939e125adeaa9a",
+            "name": "Xã Văn Quán"
+        },
+        {
+            "uid": "11e44e57c7ab4d3e89e24b4cfb39181d",
+            "name": "Xã Đình Chu"
+        },
+        {
+            "uid": "3852d63561d74f648de102da7621b138",
+            "name": "Xã Triệu Đề"
+        },
+        {
+            "uid": "8fc518ccc6844216bbf79431ba09545c",
+            "name": "Xã Sơn Đông"
+        }
+    ]
+}

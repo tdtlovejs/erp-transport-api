@@ -1,0 +1,58 @@
+{
+    "uid": "81447c8bc7564b8187583fe9bd3b80ab",
+    "name": "Huyện Hớn Quản",
+    "wards": [
+        {
+            "uid": "2e13c9bc52644d16b154d2866f08b1af",
+            "name": "Xã Thanh An"
+        },
+        {
+            "uid": "a6d77f31fb404b51a5526c55dcfe5283",
+            "name": "Xã An Khương"
+        },
+        {
+            "uid": "c0d738cf639045a1b577c4d7f6bccd19",
+            "name": "Xã An Phú"
+        },
+        {
+            "uid": "e71fe179322e4237b77ea2dcd494593b",
+            "name": "Xã Tân Lợi"
+        },
+        {
+            "uid": "481804ffeee2432bb28a4622137ffdd6",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "d81315c8bfb746088565c34388511293",
+            "name": "Xã Minh Đức"
+        },
+        {
+            "uid": "9af1391254da46b88f064e623f378037",
+            "name": "Xã Minh Tâm"
+        },
+        {
+            "uid": "0e9203e2b0f64a4b98f90dd0cf216dea",
+            "name": "Xã Phước An"
+        },
+        {
+            "uid": "c41b80ffe6e1488ab190777b95fb4f6a",
+            "name": "Xã Thanh Bình"
+        },
+        {
+            "uid": "c2c553895e534d24a8d723e52e221cc6",
+            "name": "Thị trấn Tân Khai"
+        },
+        {
+            "uid": "e21088815dfc4ff8be3894af96cc509f",
+            "name": "Xã Đồng Nơ"
+        },
+        {
+            "uid": "35d529cde0614100b130c57ea72f9273",
+            "name": "Xã Tân Hiệp"
+        },
+        {
+            "uid": "c5d1f279b86a44e4803812ecf8058953",
+            "name": "Xã Tân Quan"
+        }
+    ]
+}

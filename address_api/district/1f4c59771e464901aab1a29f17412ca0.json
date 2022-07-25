@@ -1,0 +1,106 @@
+{
+    "uid": "1f4c59771e464901aab1a29f17412ca0",
+    "name": "Huyện Lục Nam",
+    "wards": [
+        {
+            "uid": "b2387419e3c94923a9460b12aed46c8e",
+            "name": "Thị trấn Đồi Ngô"
+        },
+        {
+            "uid": "4f91789cee3046699f2a7d036bbbfd30",
+            "name": "Xã Đông Hưng"
+        },
+        {
+            "uid": "866888fc7a2a4e4f82bf0a132fcc19e8",
+            "name": "Xã Đông Phú"
+        },
+        {
+            "uid": "cf711ad9855d4b7aa68ab6e437041685",
+            "name": "Xã Tam Dị"
+        },
+        {
+            "uid": "491fcc9f6c1146d4b890541fbdc1d455",
+            "name": "Xã Bảo Sơn"
+        },
+        {
+            "uid": "73ba46393c81429db618f3a441450099",
+            "name": "Xã Bảo Đài"
+        },
+        {
+            "uid": "4ab657c0a9424ee38fffccf61888768d",
+            "name": "Xã Thanh Lâm"
+        },
+        {
+            "uid": "b27962e7549646c2b408cb0b3b551acb",
+            "name": "Xã Tiên Nha"
+        },
+        {
+            "uid": "30818ce317de4fbe910bb2a6d391c081",
+            "name": "Xã Trường Giang"
+        },
+        {
+            "uid": "3e2a2b2a2748480ebb45963198d1e32b",
+            "name": "Xã Phương Sơn"
+        },
+        {
+            "uid": "308945dc3d4f4bdab29a94ca17288a88",
+            "name": "Xã Chu Điện"
+        },
+        {
+            "uid": "70ddeb645ae447368437d59c26cb0fd4",
+            "name": "Xã Cương Sơn"
+        },
+        {
+            "uid": "1fd7a105be03434389749d75e8855d0a",
+            "name": "Xã Nghĩa Phương"
+        },
+        {
+            "uid": "b8e2b5a9dd2d4e06b2d0488ce906f33c",
+            "name": "Xã Vô Tranh"
+        },
+        {
+            "uid": "407a00e2c7844f1ab457d7d2c75f7112",
+            "name": "Xã Bình Sơn"
+        },
+        {
+            "uid": "290d3fce817e4d00b637acb052f04d3b",
+            "name": "Xã Lan Mẫu"
+        },
+        {
+            "uid": "dc3a3ab3f9c64d4f979067aa1aa59fe3",
+            "name": "Xã Yên Sơn"
+        },
+        {
+            "uid": "5e00dc70fad840c0bc84aa1859e64192",
+            "name": "Xã Khám Lạng"
+        },
+        {
+            "uid": "b7806c1e6563439997970da18af413a4",
+            "name": "Xã Huyền Sơn"
+        },
+        {
+            "uid": "bf7820b485184dc68fb70d5e33ab8444",
+            "name": "Xã Trường Sơn"
+        },
+        {
+            "uid": "58880e62b4864bf39921b10c22c1b5c5",
+            "name": "Xã Lục Sơn"
+        },
+        {
+            "uid": "3667fd6d70854ae09f0590e86d1f94fa",
+            "name": "Xã Bắc Lũng"
+        },
+        {
+            "uid": "a172e24a32af4e0d9cb1b458d80b3df0",
+            "name": "Xã Vũ Xá"
+        },
+        {
+            "uid": "edfc488d0c6549eb903b3f859d2e99bf",
+            "name": "Xã Cẩm Lý"
+        },
+        {
+            "uid": "ae4008aeaa8e4f1fa9ddf2bb3379762e",
+            "name": "Xã Đan Hội"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "uid": "89d34febf4c1489981fc43d2e2e32d5e",
+    "name": "Quận Bắc Từ Liêm",
+    "wards": [
+        {
+            "uid": "93971bb50a024100bacf0f112347c1d4",
+            "name": "Phường Thượng Cát"
+        },
+        {
+            "uid": "64635fec25d54a83824d4f0ef75b23fb",
+            "name": "Phường Liên Mạc"
+        },
+        {
+            "uid": "f10fe088036f49509eccf476603df767",
+            "name": "Phường Đông Ngạc"
+        },
+        {
+            "uid": "4bca7ede7179497f8c3605509b8bd3fd",
+            "name": "Phường Đức Thắng"
+        },
+        {
+            "uid": "460a0c0e6c56489e9336e00e16953764",
+            "name": "Phường Thụy Phương"
+        },
+        {
+            "uid": "66387f322293413a99df857886a931ed",
+            "name": "Phường Tây Tựu"
+        },
+        {
+            "uid": "f21e3beaea2740598693f3de9d0eb6da",
+            "name": "Phường Xuân Đỉnh"
+        },
+        {
+            "uid": "0dae56ed3d3f422b895e69c84b664089",
+            "name": "Phường Xuân Tảo"
+        },
+        {
+            "uid": "d322113697394c3b9afb0ede8f15432b",
+            "name": "Phường Minh Khai"
+        },
+        {
+            "uid": "656d692cdd1d4d8c9102116043451ce6",
+            "name": "Phường Cổ Nhuế 1"
+        },
+        {
+            "uid": "4a1def96d78f40908b1ad712498e7131",
+            "name": "Phường Cổ Nhuế 2"
+        },
+        {
+            "uid": "cfa8acec2ae44bbf968ef1d161da4fe5",
+            "name": "Phường Phú Diễn"
+        },
+        {
+            "uid": "9edc44d7c74d4426bcc1a136cf55a8bc",
+            "name": "Phường Phúc Diễn"
+        }
+    ]
+}

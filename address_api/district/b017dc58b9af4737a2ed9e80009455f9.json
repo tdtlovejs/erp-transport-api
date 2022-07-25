@@ -1,0 +1,110 @@
+{
+    "uid": "b017dc58b9af4737a2ed9e80009455f9",
+    "name": "Huyện Chiêm Hóa",
+    "wards": [
+        {
+            "uid": "1ad852c5c2244d07af4a7e0c65d8d21f",
+            "name": "Thị trấn Vĩnh Lộc"
+        },
+        {
+            "uid": "e7c85d4a3c574abeb34ecfea54c55f26",
+            "name": "Xã Phúc Sơn"
+        },
+        {
+            "uid": "6d602e1983d44e0caf8ea80f17cf2d1a",
+            "name": "Xã Minh Quang"
+        },
+        {
+            "uid": "e3e6ba06c83a4b159112bb34237f636f",
+            "name": "Xã Trung Hà"
+        },
+        {
+            "uid": "4be839a889274d3aaf3395ec0d906f6b",
+            "name": "Xã Tân Mỹ"
+        },
+        {
+            "uid": "ce40b8a2c5fe4a90bd154e9b06795d31",
+            "name": "Xã Hà Lang"
+        },
+        {
+            "uid": "3029b6660a194dd883f6f554c36bd167",
+            "name": "Xã Hùng Mỹ"
+        },
+        {
+            "uid": "407af8c0749a4722a790b1d78b0c720c",
+            "name": "Xã Yên Lập"
+        },
+        {
+            "uid": "b083722c6ff34b3a91186b685a9c3c7a",
+            "name": "Xã Tân An"
+        },
+        {
+            "uid": "ea69a6334f914912b856b2087c243c1d",
+            "name": "Xã Bình Phú"
+        },
+        {
+            "uid": "81af68df6a924352936c30df671a9713",
+            "name": "Xã Xuân Quang"
+        },
+        {
+            "uid": "594cac6ead36497894d25f2275a16fbe",
+            "name": "Xã Ngọc Hội"
+        },
+        {
+            "uid": "e446186db42b41969c257ba96d8f00b9",
+            "name": "Xã Phú Bình"
+        },
+        {
+            "uid": "f722f0c653884d70bda37b4aa8b30671",
+            "name": "Xã Hòa Phú"
+        },
+        {
+            "uid": "784b1625a6eb4632a2e9e34a20484666",
+            "name": "Xã Phúc Thịnh"
+        },
+        {
+            "uid": "0e8a925ac6ec4bb891d6d8e9d3f40537",
+            "name": "Xã Kiên Đài"
+        },
+        {
+            "uid": "d94d63c78610473291f6c6518db5733b",
+            "name": "Xã Tân Thịnh"
+        },
+        {
+            "uid": "0a20047b117a4a758d652af52951d840",
+            "name": "Xã Trung Hòa"
+        },
+        {
+            "uid": "90faab55640a4d5388907a04c783d265",
+            "name": "Xã Kim Bình"
+        },
+        {
+            "uid": "c09ff794abd9481c99bd70ef258ca4bf",
+            "name": "Xã Hòa An"
+        },
+        {
+            "uid": "358af89b4360405b96cea8ecb938ce97",
+            "name": "Xã Vinh Quang"
+        },
+        {
+            "uid": "db156f8b714844f496b77ad13639d779",
+            "name": "Xã Tri Phú"
+        },
+        {
+            "uid": "6a1f1964dce440149bfb04b3d2a9e4f4",
+            "name": "Xã Nhân Lý"
+        },
+        {
+            "uid": "75aaea32d410413b820dd6372a87eeb0",
+            "name": "Xã Yên Nguyên"
+        },
+        {
+            "uid": "9f745b2d9301449880627a44ef6096d3",
+            "name": "Xã Linh Phú"
+        },
+        {
+            "uid": "a8cbb9a6b1094053b828e2de33f48277",
+            "name": "Xã Bình Nhân"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "25bb6a8cc8d0441190672842be69d2b7",
+    "name": "Huyện Tuy Phong",
+    "wards": [
+        {
+            "uid": "e83ae69071de471088a121ab1c6abc57",
+            "name": "Thị trấn Liên Hương"
+        },
+        {
+            "uid": "8b55b69cb3624b90a5b5246f2d48146a",
+            "name": "Thị trấn Phan Rí Cửa"
+        },
+        {
+            "uid": "fde287acd17941ef82e2d8ce4b77762e",
+            "name": "Xã Phan Dũng"
+        },
+        {
+            "uid": "b050db6e07d949ae86be42f1f34a559b",
+            "name": "Xã Phong Phú"
+        },
+        {
+            "uid": "a3d0a8421c96482cbbf75b70cfdc9ff1",
+            "name": "Xã Vĩnh Hảo"
+        },
+        {
+            "uid": "b8efe753d64b4b8888371445e7491571",
+            "name": "Xã Vĩnh Tân"
+        },
+        {
+            "uid": "3faeaffabacb46d59c396c422c354865",
+            "name": "Xã Phú Lạc"
+        },
+        {
+            "uid": "0970c8e5ce9b46ba866f7d3c2623b3e6",
+            "name": "Xã Phước Thể"
+        },
+        {
+            "uid": "fdd479d6c37348a499e4577d2063b453",
+            "name": "Xã Hòa Minh"
+        },
+        {
+            "uid": "e600a7c6a5dc4c61a9c8ddf049460b15",
+            "name": "Xã Chí Công"
+        },
+        {
+            "uid": "b71bab037606408092f34aeeebb5ea94",
+            "name": "Xã Bình Thạnh"
+        }
+    ]
+}

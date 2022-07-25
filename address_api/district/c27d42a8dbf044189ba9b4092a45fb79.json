@@ -1,0 +1,50 @@
+{
+    "uid": "c27d42a8dbf044189ba9b4092a45fb79",
+    "name": "Thành phố Bà Rịa",
+    "wards": [
+        {
+            "uid": "7c5e632cd06242ca998c32fc71d35f22",
+            "name": "Phường Phước Hưng"
+        },
+        {
+            "uid": "839f1c091f714b63b8aad7b873029960",
+            "name": "Phường Phước Hiệp"
+        },
+        {
+            "uid": "831facfa74344d45907c939844988112",
+            "name": "Phường Phước Nguyên"
+        },
+        {
+            "uid": "6b0484016ceb4894ad1bdc1aa1d24e0b",
+            "name": "Phường Long Toàn"
+        },
+        {
+            "uid": "bb60cb4a2b82433396fde7e45b998bf8",
+            "name": "Phường Long Tâm"
+        },
+        {
+            "uid": "49c14110109a47e3b2b986a0d37fe1e0",
+            "name": "Phường Phước Trung"
+        },
+        {
+            "uid": "6d5e9bd22dd649518fa4586bac9d058b",
+            "name": "Phường Long Hương"
+        },
+        {
+            "uid": "29b03078fa4d41b28980f33255304a2e",
+            "name": "Phường Kim Dinh"
+        },
+        {
+            "uid": "c2faff79d8e94fea943e8a8b1dec8d2e",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "419ac99f5d6149159981f45bdfbe7392",
+            "name": "Xã Long Phước"
+        },
+        {
+            "uid": "4c7952896a6e4239b723f88ae7611986",
+            "name": "Xã Hoà Long"
+        }
+    ]
+}

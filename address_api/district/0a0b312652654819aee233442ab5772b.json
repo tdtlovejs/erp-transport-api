@@ -1,0 +1,34 @@
+{
+    "uid": "0a0b312652654819aee233442ab5772b",
+    "name": "Thành phố Dĩ An",
+    "wards": [
+        {
+            "uid": "5c0aab98bf4c43108de78d8bd1212aad",
+            "name": "Phường Dĩ An"
+        },
+        {
+            "uid": "76fe76f3ee20433a93c963a41d93551f",
+            "name": "Phường Tân Bình"
+        },
+        {
+            "uid": "348e90b5548d4ee38457ea9b65f53fd2",
+            "name": "Phường Tân Đông Hiệp"
+        },
+        {
+            "uid": "ec786b8a2be74500964440a85f96dd81",
+            "name": "Phường Bình An"
+        },
+        {
+            "uid": "a57e7692614245fea1fc35071569ba64",
+            "name": "Phường Bình Thắng"
+        },
+        {
+            "uid": "eac9f5cc14844edca3d6d4974c75167c",
+            "name": "Phường Đông Hòa"
+        },
+        {
+            "uid": "c58f3bf4c409464e8eceefad3f5ce330",
+            "name": "Phường An Bình"
+        }
+    ]
+}

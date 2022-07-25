@@ -1,0 +1,38 @@
+{
+    "uid": "23354ffa94384d0e9073ea9f7f8f4a99",
+    "name": "Huyện Cam Lộ",
+    "wards": [
+        {
+            "uid": "b6a64f501f70454c984c48308d304c55",
+            "name": "Thị trấn Cam Lộ"
+        },
+        {
+            "uid": "cc6628b123144e0b90ccea9c84530236",
+            "name": "Xã Cam Tuyền"
+        },
+        {
+            "uid": "9c777a49ef784c66a966d11e5343183a",
+            "name": "Xã Thanh An"
+        },
+        {
+            "uid": "01e6528df4154c52970a5c5734921c9d",
+            "name": "Xã Cam Thủy"
+        },
+        {
+            "uid": "5a52da2b76db44588cc38a6014d82b15",
+            "name": "Xã Cam Thành"
+        },
+        {
+            "uid": "6f55bb9228de4b3a8869f542aeefc68e",
+            "name": "Xã Cam Hiếu"
+        },
+        {
+            "uid": "eaee513233da41d8a44b5e89146fa83e",
+            "name": "Xã Cam Chính"
+        },
+        {
+            "uid": "8f209c4a5c07496fbc23da05ecdd52a2",
+            "name": "Xã Cam Nghĩa"
+        }
+    ]
+}

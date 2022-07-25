@@ -1,0 +1,94 @@
+{
+    "uid": "25d4194f408d462192e6a9eac49e4f22",
+    "name": "Huyện Mỹ Đức",
+    "wards": [
+        {
+            "uid": "2ce2df8d15d04b03a5ca69c3b6e978a0",
+            "name": "Thị trấn Đại Nghĩa"
+        },
+        {
+            "uid": "a218219669ca4052b11310a178caf6d0",
+            "name": "Xã Đồng Tâm"
+        },
+        {
+            "uid": "66c32a5f833f4058b62b6d1453b235ca",
+            "name": "Xã Thượng Lâm"
+        },
+        {
+            "uid": "3986384b40f24d45889f79b2de1dc936",
+            "name": "Xã Tuy Lai"
+        },
+        {
+            "uid": "e3875f44ca0a42fd87a9d18d70b8dd2b",
+            "name": "Xã Phúc Lâm"
+        },
+        {
+            "uid": "a67d51dd1695408e944653580e7f9ddd",
+            "name": "Xã Mỹ Thành"
+        },
+        {
+            "uid": "f553ac0054ae427ab7cb04d6b567aa43",
+            "name": "Xã Bột Xuyên"
+        },
+        {
+            "uid": "c2db7a52a30a4d87bc7060b97ad16546",
+            "name": "Xã An Mỹ"
+        },
+        {
+            "uid": "bdede02636a2478fb84dc2576e736852",
+            "name": "Xã Hồng Sơn"
+        },
+        {
+            "uid": "3517741c540b45e284e2f4816d499d73",
+            "name": "Xã Lê Thanh"
+        },
+        {
+            "uid": "cdda1bf50f7249c5b8e7af74585fe9e9",
+            "name": "Xã Xuy Xá"
+        },
+        {
+            "uid": "e645dc6a7dfd4edbae268f141166f771",
+            "name": "Xã Phùng Xá"
+        },
+        {
+            "uid": "ca4a97212f7042a2a9b8200582c83a23",
+            "name": "Xã Phù Lưu Tế"
+        },
+        {
+            "uid": "533d3033f7be42b188379b1b818d1485",
+            "name": "Xã Đại Hưng"
+        },
+        {
+            "uid": "187c1854f4ea46efba065e9c9bdc6aeb",
+            "name": "Xã Vạn Kim"
+        },
+        {
+            "uid": "00dfb627c46a44d0a5741868ab64c0ea",
+            "name": "Xã Đốc Tín"
+        },
+        {
+            "uid": "bb47fb9a2dbf43bbbe66253ba54575a4",
+            "name": "Xã Hương Sơn"
+        },
+        {
+            "uid": "667e357805674b9fa9b3ebbc6157afea",
+            "name": "Xã Hùng Tiến"
+        },
+        {
+            "uid": "03c54f26629943d08bf7e8ef96ed1d22",
+            "name": "Xã An Tiến"
+        },
+        {
+            "uid": "3e9fdf8867404ee4821f1ea2ddf26ecc",
+            "name": "Xã Hợp Tiến"
+        },
+        {
+            "uid": "e929ff769f4843b69eb84658d34b7082",
+            "name": "Xã Hợp Thanh"
+        },
+        {
+            "uid": "599d651b7f5a4fe2870d8eb7121cd225",
+            "name": "Xã An Phú"
+        }
+    ]
+}

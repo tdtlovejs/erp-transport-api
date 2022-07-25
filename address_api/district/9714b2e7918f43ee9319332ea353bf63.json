@@ -1,0 +1,74 @@
+{
+    "uid": "9714b2e7918f43ee9319332ea353bf63",
+    "name": "Huyện Thanh Miện",
+    "wards": [
+        {
+            "uid": "9273a6ef0e9949afa2529b7815e4bec9",
+            "name": "Thị trấn Thanh Miện"
+        },
+        {
+            "uid": "65ff6cd2371f4a0faf6a67b448fe8c43",
+            "name": "Xã Thanh Tùng"
+        },
+        {
+            "uid": "535c092b7afa4e7d80c744574d318b9e",
+            "name": "Xã Phạm Kha"
+        },
+        {
+            "uid": "59486af46f014a8880d2eb681514da28",
+            "name": "Xã Ngô Quyền"
+        },
+        {
+            "uid": "00152754eff748c982bd29ec69e0ab04",
+            "name": "Xã Đoàn Tùng"
+        },
+        {
+            "uid": "aeada08ca75b40b5b4c8189b8d8acd01",
+            "name": "Xã Hồng Quang"
+        },
+        {
+            "uid": "845c3c94f0e345cea33ed43528347310",
+            "name": "Xã Tân Trào"
+        },
+        {
+            "uid": "793073593e5847258e95e3ad0514dd52",
+            "name": "Xã Lam Sơn"
+        },
+        {
+            "uid": "dc79c270c8384d479dfd920cc554952a",
+            "name": "Xã Đoàn Kết"
+        },
+        {
+            "uid": "e46886fa370e47d6adf76261b8a39f44",
+            "name": "Xã Lê Hồng"
+        },
+        {
+            "uid": "eaec425d79344544b7e6e0cdd2245100",
+            "name": "Xã Tứ Cường"
+        },
+        {
+            "uid": "e049821be8c54594bd2b05ba249fec74",
+            "name": "Xã Ngũ Hùng"
+        },
+        {
+            "uid": "77734c8177c94d9dbefddc3151c958cf",
+            "name": "Xã Cao Thắng"
+        },
+        {
+            "uid": "86c695f49de34267adec6327063e86c1",
+            "name": "Xã Chi Lăng Bắc"
+        },
+        {
+            "uid": "0a18bc98a47a4d6cae0e37843c4a2666",
+            "name": "Xã Chi Lăng Nam"
+        },
+        {
+            "uid": "c58830ae7967451882baf42f10670547",
+            "name": "Xã Thanh Giang"
+        },
+        {
+            "uid": "b5efddc0445647248bcee9a6620cddc5",
+            "name": "Xã Hồng Phong"
+        }
+    ]
+}

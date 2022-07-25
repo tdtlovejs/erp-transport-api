@@ -1,0 +1,142 @@
+{
+    "uid": "6ee40ce9e4f94820b0b9cbfb28f84ce4",
+    "name": "Thành phố Thanh Hóa",
+    "wards": [
+        {
+            "uid": "ff5dd0aaef8747b589a68fa6e2353aac",
+            "name": "Phường Hàm Rồng"
+        },
+        {
+            "uid": "01c92958309949ea89cbf0d262da41b5",
+            "name": "Phường Đông Thọ"
+        },
+        {
+            "uid": "67d1f22b9c424240b8114bac4dae1ed6",
+            "name": "Phường Nam Ngạn"
+        },
+        {
+            "uid": "aece9ee196164a589876b86efceeb7cb",
+            "name": "Phường Trường Thi"
+        },
+        {
+            "uid": "73c5141138b7431381b8242250ba5a56",
+            "name": "Phường Điện Biên"
+        },
+        {
+            "uid": "b50c5639390a428bbc85d56a3ad10692",
+            "name": "Phường Phú Sơn"
+        },
+        {
+            "uid": "d1265e11bbbd472db00a62571c1e5ea3",
+            "name": "Phường Lam Sơn"
+        },
+        {
+            "uid": "22361516febb42ac99c2fdc657affa90",
+            "name": "Phường Ba Đình"
+        },
+        {
+            "uid": "c14c346d96f348d189aaef8f93844f6c",
+            "name": "Phường Ngọc Trạo"
+        },
+        {
+            "uid": "d43918faed4043c0b5d1442c0c382da3",
+            "name": "Phường Đông Vệ"
+        },
+        {
+            "uid": "ab11effb611144bb8e126670fe0dbe84",
+            "name": "Phường Đông Sơn"
+        },
+        {
+            "uid": "cb2b8128a46740b0ab32375421c07861",
+            "name": "Phường Tân Sơn"
+        },
+        {
+            "uid": "e02cfc1897fb41dc8433811952fef24a",
+            "name": "Phường Đông Cương"
+        },
+        {
+            "uid": "948cbfd54d66469aa9b1637a1e46fa2d",
+            "name": "Phường Đông Hương"
+        },
+        {
+            "uid": "f1fa5dfbaebf4402980a15219ed4133c",
+            "name": "Phường Đông Hải"
+        },
+        {
+            "uid": "f82740fc36c84937881cc40349c94fca",
+            "name": "Phường Quảng Hưng"
+        },
+        {
+            "uid": "720e30d30b8746cbaab510b458b0e195",
+            "name": "Phường Quảng Thắng"
+        },
+        {
+            "uid": "72aafea4df5349f6997e8309cc53f6f7",
+            "name": "Phường Quảng Thành"
+        },
+        {
+            "uid": "53a197a29eb745b0bea493826e86505e",
+            "name": "Xã Thiệu Vân"
+        },
+        {
+            "uid": "b6f06d1e3cc34b9689c1453df4f9d9fc",
+            "name": "Phường Thiệu Khánh"
+        },
+        {
+            "uid": "8ff0a8d5c2d5493e83fee3adb88863ff",
+            "name": "Phường Thiệu Dương"
+        },
+        {
+            "uid": "4024c0fb54c042e28a68c1af0872b408",
+            "name": "Phường Tào Xuyên"
+        },
+        {
+            "uid": "34ffa60fd3224e08b8c64089cb745513",
+            "name": "Phường Long Anh"
+        },
+        {
+            "uid": "6a8e6601ef4f4f5ab5e7321d4972b7c6",
+            "name": "Xã Hoằng Quang"
+        },
+        {
+            "uid": "c5fe896757f44808a3bf7eb13623ddbd",
+            "name": "Xã Hoằng Đại"
+        },
+        {
+            "uid": "21aa08fa918e4fb2b2805f78b083a2e5",
+            "name": "Phường Đông Lĩnh"
+        },
+        {
+            "uid": "ab63764199ea482dbfd9205744a7fa7d",
+            "name": "Xã Đông Vinh"
+        },
+        {
+            "uid": "e89e8141520749aa80948a8d92c1532d",
+            "name": "Phường Đông Tân"
+        },
+        {
+            "uid": "4b256d40f39348dfb6fd92bb6148e066",
+            "name": "Phường An Hưng"
+        },
+        {
+            "uid": "92d195f705974d9aa58ff49d628262fd",
+            "name": "Phường Quảng Thịnh"
+        },
+        {
+            "uid": "53f97d622b91443f817e8e5d04c2b8ce",
+            "name": "Phường Quảng Đông"
+        },
+        {
+            "uid": "6ed8807b7f374699b4549fb34043931c",
+            "name": "Phường Quảng Cát"
+        },
+        {
+            "uid": "4bd5890fd6704a45b69652248297a0f1",
+            "name": "Phường Quảng Phú"
+        },
+        {
+            "uid": "86e50f617da44ec383af9aad7c47599d",
+            "name": "Phường Quảng Tâm"
+        }
+    ]
+}

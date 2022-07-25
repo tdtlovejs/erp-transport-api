@@ -1,0 +1,18 @@
+{
+    "uid": "e08f2e9dc0c1453aadf629cc681495b4",
+    "name": "Huyện Trường Sa",
+    "wards": [
+        {
+            "uid": "a1ff253d9aed40a2a2f0edd40517885f",
+            "name": "Thị trấn Trường Sa"
+        },
+        {
+            "uid": "28e297379302497a8001e544ab641402",
+            "name": "Xã Song Tử Tây"
+        },
+        {
+            "uid": "7ba98b5043e245a981341b31000f056a",
+            "name": "Xã Sinh Tồn"
+        }
+    ]
+}

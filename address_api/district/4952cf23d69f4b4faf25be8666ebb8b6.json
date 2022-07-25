@@ -1,0 +1,66 @@
+{
+    "uid": "4952cf23d69f4b4faf25be8666ebb8b6",
+    "name": "Huyện Hoà An",
+    "wards": [
+        {
+            "uid": "e008a0c795e04f69b01a17c2b3893588",
+            "name": "Thị trấn Nước Hai"
+        },
+        {
+            "uid": "410466f085fe4f21a7ea963f6f2fbfe8",
+            "name": "Xã Dân Chủ"
+        },
+        {
+            "uid": "c9b9a2ff5c594a8a9ed8ef989f73290b",
+            "name": "Xã Nam Tuấn"
+        },
+        {
+            "uid": "37f4d49f84c54515b04e454416a58c89",
+            "name": "Xã Đại Tiến"
+        },
+        {
+            "uid": "481b57c281604cd9a71b6800ca14c741",
+            "name": "Xã Đức Long"
+        },
+        {
+            "uid": "1617c8aa5b254c9c81419fc6d0207c79",
+            "name": "Xã Ngũ Lão"
+        },
+        {
+            "uid": "9e8ce225c2744224a5ff3c374553feeb",
+            "name": "Xã Trương Lương"
+        },
+        {
+            "uid": "72bc1dad52e242f684862d8a9f347944",
+            "name": "Xã Hồng Việt"
+        },
+        {
+            "uid": "7d75b115b062458abd24c359f6c6ae1a",
+            "name": "Xã Hoàng Tung"
+        },
+        {
+            "uid": "b6167834863d40d9ae42210c5654653c",
+            "name": "Xã Nguyễn Huệ"
+        },
+        {
+            "uid": "0a4dda8496fc460f8385b524c9adefef",
+            "name": "Xã Quang Trung"
+        },
+        {
+            "uid": "8f1ee8f416444bf2a221f4d2620a5738",
+            "name": "Xã Bạch Đằng"
+        },
+        {
+            "uid": "b27d27b487e046e8a1a9e42bd721383f",
+            "name": "Xã Bình Dương"
+        },
+        {
+            "uid": "d448a0bb114d4f06a4d696cab5208b70",
+            "name": "Xã Lê Chung"
+        },
+        {
+            "uid": "ffc56c1e55b74b16a512a830f9518b84",
+            "name": "Xã Hồng Nam"
+        }
+    ]
+}

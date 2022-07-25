@@ -1,0 +1,94 @@
+{
+    "uid": "d0464b4538e943008ddb8dd8add7de58",
+    "name": "Huyện Cao Lộc",
+    "wards": [
+        {
+            "uid": "2d74be5ff04649b98a9f872917633a91",
+            "name": "Thị trấn Đồng Đăng"
+        },
+        {
+            "uid": "4d30c65224db4f398ab8f34e67b46c1e",
+            "name": "Thị trấn Cao Lộc"
+        },
+        {
+            "uid": "130b7823c1054d7992380d91375beb72",
+            "name": "Xã Bảo Lâm"
+        },
+        {
+            "uid": "4c74364ef08949ad90c9d57ccdbfa920",
+            "name": "Xã Thanh Lòa"
+        },
+        {
+            "uid": "c5629eaede2845dcacf0bab0231c7152",
+            "name": "Xã Cao Lâu"
+        },
+        {
+            "uid": "093e4ebc8e144a6eba4f31e0393cfb2f",
+            "name": "Xã Thạch Đạn"
+        },
+        {
+            "uid": "c8af773970324b378965516ffa652c60",
+            "name": "Xã Xuất Lễ"
+        },
+        {
+            "uid": "fe433f05eca24183af1c5c6cd27ef96d",
+            "name": "Xã Hồng Phong"
+        },
+        {
+            "uid": "ff9d8213b0b24079a499e90fd5b5f1f7",
+            "name": "Xã Thụy Hùng"
+        },
+        {
+            "uid": "3875d7869d11469680833ed711ff41f4",
+            "name": "Xã Lộc Yên"
+        },
+        {
+            "uid": "608d8ee375df42ccbfb0d9ab67ab42ca",
+            "name": "Xã Phú Xá"
+        },
+        {
+            "uid": "3a53f451687445cebb679cb990a71bc1",
+            "name": "Xã Bình Trung"
+        },
+        {
+            "uid": "e12704a482ca432795ea12d6da4a667e",
+            "name": "Xã Hải Yến"
+        },
+        {
+            "uid": "5a6f715fdca7445baedfdc80c96149e9",
+            "name": "Xã Hòa Cư"
+        },
+        {
+            "uid": "a9e560889a1041aa94c0fe54c5a5aa15",
+            "name": "Xã Hợp Thành"
+        },
+        {
+            "uid": "e7e17a50c7e14e929ff3e89888c1e5a9",
+            "name": "Xã Công Sơn"
+        },
+        {
+            "uid": "1f39fdad909145f9b5c006f1867e150c",
+            "name": "Xã Gia Cát"
+        },
+        {
+            "uid": "4c429bf19f6d4423b0625935badac9a5",
+            "name": "Xã Mẫu Sơn"
+        },
+        {
+            "uid": "12ad072c5e9d40d89c09a4364bc83520",
+            "name": "Xã Xuân Long"
+        },
+        {
+            "uid": "cb2e80354ae348799c9fcbf14778184b",
+            "name": "Xã Tân Liên"
+        },
+        {
+            "uid": "5c3cd8484d454de7aadb5c4601cb47b9",
+            "name": "Xã Yên Trạch"
+        },
+        {
+            "uid": "bf3bc443e99046c685c17d2bb53e9593",
+            "name": "Xã Tân Thành"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+require('dotenv').config();
+
+const GENDER_MALE = 'male';
+const GENDER_FEMALE = 'female';
+const GENDER_SECRET = 'secret';
+
+const ROLE_SUPERADMIN = 'superadmin';
+const ROLE_ADMIN = 'admin';
+const ROLE_EMPLOYEE = 'employee';
+
+const CLIENT_TYPE_PERSONAL = 'personal';
+const CLIENT_TYPE_ORGANIZATION = 'organization';
+
+const VEHICLE_TYPE_BICYCLE = 'bicycle';
+const VEHICLE_TYPE_ELECTRIC_BICYCLE = 'electric_bicycle'
+const VEHICLE_TYPE_MOTORCYCLE = 'motorcycle';
+const VEHICLE_TYPE_ELECTRIC_MOTORCYCLE = 'electric_motorcycle';
+const VEHICLE_TYPE_CAR = 'car';
+const VEHICLE_TYPE_ELECTRIC_CAR = 'electric_car';
+const VEHICLE_TYPE_TRUCK = 'truck';
+const VEHICLE_TYPE_OTHER = 'other';
+
+const TRANSPORT_STATUS_WAITING = 'waiting';
+const TRANSPORT_STATUS_COMPLETED = 'completed';
+const TRANSPORT_STATUS_CANCELED = 'cancelled';
+
+const INVOICE_STATUS_DRAFT = 'draft';
+const INVOICE_STATUS_ACCEPTED = 'accepted';
+
+const GPS_ROUTE_STATUS_COMPLETED = 'completed';
+const GPS_ROUTE_STATUS_MOVING = 'moving';
+
+const VEHICLE_STATUS_AVAILABLE = 'available';
+const VEHICLE_STATUS_MOVING = 'moving';
+
+
+const STATUS_UPLOAD_FILE_SUCCESS = 'success';
+const STATUS_UPLOAD_FILE_ERROR = 'error';
+
+const DOCUMENT_TYPE_LOGO = 'logo';
+const DOCUMENT_TYPE_INVOICE_PDF = 'invoice_pdf';
+
+const REAL_TIME_GPS_POINT = 'realtimeGpsPoint';
+
+const LANGUAGE_EN = 'en';
+const LANGUAGE_VI = 'vi';
+
+const STATUS_SEND_MAIL_SUCCESS= 'success';
+const STATUS_SEND_MAIL_ERROR = 'error';
+
+const FRONTEND_BASE_URL = 'https://tdt-app.herokuapp.com/'
+
+const JWT_SECRET = process.env.JWT_SECRET;
+const MONGO_URI = process.env.MONGO_URI;
+const PORT = process.env.PORT;
+module.exports = {
+    GENDER_MALE,
+    GENDER_FEMALE,
+    GENDER_SECRET,
+    ROLE_SUPERADMIN,
+    ROLE_ADMIN,
+    ROLE_EMPLOYEE,
+    STATUS_UPLOAD_FILE_SUCCESS,
+    STATUS_UPLOAD_FILE_ERROR,
+    DOCUMENT_TYPE_LOGO,
+    CLIENT_TYPE_PERSONAL,
+    CLIENT_TYPE_ORGANIZATION,
+    JWT_SECRET,
+    MONGO_URI,
+    PORT,
+    VEHICLE_TYPE_BICYCLE,
+    VEHICLE_TYPE_ELECTRIC_BICYCLE,
+    VEHICLE_TYPE_MOTORCYCLE,
+    VEHICLE_TYPE_ELECTRIC_MOTORCYCLE,
+    VEHICLE_TYPE_CAR,
+    VEHICLE_TYPE_ELECTRIC_CAR,
+    VEHICLE_TYPE_TRUCK,
+    VEHICLE_TYPE_OTHER,
+    TRANSPORT_STATUS_WAITING,
+    TRANSPORT_STATUS_COMPLETED,
+    TRANSPORT_STATUS_CANCELED,
+    INVOICE_STATUS_DRAFT,
+    INVOICE_STATUS_ACCEPTED,
+    GPS_ROUTE_STATUS_COMPLETED,
+    GPS_ROUTE_STATUS_MOVING,
+    VEHICLE_STATUS_AVAILABLE,
+    VEHICLE_STATUS_MOVING,
+    DOCUMENT_TYPE_INVOICE_PDF,
+    REAL_TIME_GPS_POINT,
+    LANGUAGE_EN,
+    LANGUAGE_VI,
+    STATUS_SEND_MAIL_SUCCESS,
+    STATUS_SEND_MAIL_ERROR,
+    FRONTEND_BASE_URL
+}
+

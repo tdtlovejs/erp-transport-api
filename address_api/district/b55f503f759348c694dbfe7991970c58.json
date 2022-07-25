@@ -1,0 +1,30 @@
+{
+    "uid": "b55f503f759348c694dbfe7991970c58",
+    "name": "Quận Đồ Sơn",
+    "wards": [
+        {
+            "uid": "3536ab4073144d11b5a87293595314ff",
+            "name": "Phường Ngọc Xuyên"
+        },
+        {
+            "uid": "5bd3708abaed46b5b552fba7af5d84b9",
+            "name": "Phường Hải Sơn"
+        },
+        {
+            "uid": "70fb8f26333b4a4b81aac2259086a2d7",
+            "name": "Phường Vạn Hương"
+        },
+        {
+            "uid": "dde06ed2187c43388c157ca6863fc47b",
+            "name": "Phường Minh Đức"
+        },
+        {
+            "uid": "f3f5554e8efc474ca8d251277eec1f61",
+            "name": "Phường Bàng La"
+        },
+        {
+            "uid": "e1b9bdecfc9e40ff8ba6e87fbc406ca1",
+            "name": "Phường Hợp Đức"
+        }
+    ]
+}

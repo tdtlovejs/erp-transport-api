@@ -1,0 +1,50 @@
+{
+    "uid": "885c92278964440991703fc7cf7533ec",
+    "name": "Huyện Thạnh Hóa",
+    "wards": [
+        {
+            "uid": "ba1824711c624730858b967c0f92ca62",
+            "name": "Thị trấn Thạnh Hóa"
+        },
+        {
+            "uid": "735edd11c1334fc89bca29c85c468f2f",
+            "name": "Xã Tân Hiệp"
+        },
+        {
+            "uid": "2db81d861d814623894491c37d8327eb",
+            "name": "Xã Thuận Bình"
+        },
+        {
+            "uid": "d9325d1227254cfe8d6ec9a9e24e0e50",
+            "name": "Xã Thạnh Phước"
+        },
+        {
+            "uid": "ebb70796f5964fe2b53ddd4cec64d6c3",
+            "name": "Xã Thạnh Phú"
+        },
+        {
+            "uid": "1a28282cfdfd4677b804b2386cee20a5",
+            "name": "Xã Thuận Nghĩa Hòa"
+        },
+        {
+            "uid": "89c9678415984029a8e9a8deff7e3b18",
+            "name": "Xã Thủy Đông"
+        },
+        {
+            "uid": "053e776aca264f528b6f3ed6a0da5826",
+            "name": "Xã Thủy Tây"
+        },
+        {
+            "uid": "abff737f1c644176b96f713ad343092d",
+            "name": "Xã Tân Tây"
+        },
+        {
+            "uid": "d5db94ee277d4ad4b017089e2f29b743",
+            "name": "Xã Tân Đông"
+        },
+        {
+            "uid": "1da996723434434e985c57dfd134aed5",
+            "name": "Xã Thạnh An"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "33a68f59fe1e4cddb97f67391a31e845",
+    "name": "Huyện Đắk Tô",
+    "wards": [
+        {
+            "uid": "182e6ff8e8da46bca619e7e7111c2ab9",
+            "name": "Thị trấn Đắk Tô"
+        },
+        {
+            "uid": "54dbd03ad4db4e709a48a27e1eebbb06",
+            "name": "Xã Đắk Rơ Nga"
+        },
+        {
+            "uid": "4295aee82d08456eae73cd732a65446d",
+            "name": "Xã Ngọk Tụ"
+        },
+        {
+            "uid": "8bb3a73ad0fa4a43846e0a194f9e24da",
+            "name": "Xã Đắk Trăm"
+        },
+        {
+            "uid": "3ddbd9a925df40698f4830bc38ff719e",
+            "name": "Xã Văn Lem"
+        },
+        {
+            "uid": "b39c8cfe5e8b45abbeb45ba274bbb405",
+            "name": "Xã Kon Đào"
+        },
+        {
+            "uid": "bd8459cd1e1c43ef9961b5e6aecca2c5",
+            "name": "Xã Tân Cảnh"
+        },
+        {
+            "uid": "4e93a0bc53a848b9b4feb02dcf16793e",
+            "name": "Xã Diên Bình"
+        },
+        {
+            "uid": "ae881d82798548f1a6de43d0680e9c5e",
+            "name": "Xã Pô Kô"
+        }
+    ]
+}

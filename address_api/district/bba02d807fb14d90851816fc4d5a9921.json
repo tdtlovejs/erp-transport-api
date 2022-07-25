@@ -1,0 +1,42 @@
+{
+    "uid": "bba02d807fb14d90851816fc4d5a9921",
+    "name": "Quận Hồng Bàng",
+    "wards": [
+        {
+            "uid": "e71ec69f806045ff8bdc9dc249091e94",
+            "name": "Phường Quán Toan"
+        },
+        {
+            "uid": "b9f4e7988fdb4f74bea0d2325214ac57",
+            "name": "Phường Hùng Vương"
+        },
+        {
+            "uid": "9a7a9f86e821437aaf9be5e90286c06d",
+            "name": "Phường Sở Dầu"
+        },
+        {
+            "uid": "1605201c0a22409babe6b1ccbdb6f139",
+            "name": "Phường Thượng Lý"
+        },
+        {
+            "uid": "296934e0164b4978ab72f581893aef8e",
+            "name": "Phường Hạ Lý"
+        },
+        {
+            "uid": "2e5f9d00bfbf4ee293f4c049d52fe5da",
+            "name": "Phường Minh Khai"
+        },
+        {
+            "uid": "3e08e187d53b4041af67537332d1e150",
+            "name": "Phường Trại Chuối"
+        },
+        {
+            "uid": "361529d7a7e2459e9659634fea0374a7",
+            "name": "Phường Hoàng Văn Thụ"
+        },
+        {
+            "uid": "373509d3c7634568941883544dbf5eab",
+            "name": "Phường Phan Bội Châu"
+        }
+    ]
+}

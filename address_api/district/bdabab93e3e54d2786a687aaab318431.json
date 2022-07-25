@@ -1,0 +1,58 @@
+{
+    "uid": "bdabab93e3e54d2786a687aaab318431",
+    "name": "Huyện Đa Krông",
+    "wards": [
+        {
+            "uid": "188cab909076406799afa9ff81b4ad7a",
+            "name": "Thị trấn Krông Klang"
+        },
+        {
+            "uid": "b5a868e40e40412b962a55c3b2c0ea87",
+            "name": "Xã Mò Ó"
+        },
+        {
+            "uid": "ed0933d560f6446b91aea3febf2b43f0",
+            "name": "Xã Hướng Hiệp"
+        },
+        {
+            "uid": "7c112644442148e08b9e0418ca619814",
+            "name": "Xã Đa Krông"
+        },
+        {
+            "uid": "4077631718d940da8a862ffc18579f66",
+            "name": "Xã Triệu Nguyên"
+        },
+        {
+            "uid": "ecda4d9a5fb543fea9b0a19ae8da5160",
+            "name": "Xã Ba Lòng"
+        },
+        {
+            "uid": "77abfcf766214744997360f7bf9de0df",
+            "name": "Xã Ba Nang"
+        },
+        {
+            "uid": "136a9e70dc0a4b12b78a38b86aaa4999",
+            "name": "Xã Tà Long"
+        },
+        {
+            "uid": "53b3c84c6c334e75aaf0891a3f652026",
+            "name": "Xã Húc Nghì"
+        },
+        {
+            "uid": "2fe0deb8d9634a54baf5a3b22a479e05",
+            "name": "Xã A Vao"
+        },
+        {
+            "uid": "95fe3ac9c6e74b6c85ab3311f5ce5ace",
+            "name": "Xã Tà Rụt"
+        },
+        {
+            "uid": "44c7d045ad6f444b92ddd90e8ffb6cc6",
+            "name": "Xã A Bung"
+        },
+        {
+            "uid": "1948c36db57d45748e844189393900a6",
+            "name": "Xã A Ngo"
+        }
+    ]
+}

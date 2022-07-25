@@ -1,0 +1,74 @@
+{
+    "uid": "841a1ec516c542d19746f5dbd43d18ed",
+    "name": "Huyện Yên Lạc",
+    "wards": [
+        {
+            "uid": "e41463145082475c9bad1f159fcbdeaa",
+            "name": "Thị trấn Yên Lạc"
+        },
+        {
+            "uid": "e951a2b27e09471cbaec82945bbc31e1",
+            "name": "Xã Đồng Cương"
+        },
+        {
+            "uid": "90df300de11140ad9828dedb919fe3ff",
+            "name": "Xã Đồng Văn"
+        },
+        {
+            "uid": "2fb3ae6d62b042d4a2e255bd74ed1322",
+            "name": "Xã Bình Định"
+        },
+        {
+            "uid": "1fed338e692c45fe97a9311cd63b36ba",
+            "name": "Xã Trung Nguyên"
+        },
+        {
+            "uid": "12a48cc47c274b90bc32522e7b6a4c37",
+            "name": "Xã Tề Lỗ"
+        },
+        {
+            "uid": "d2698cebae094fada4f64493926dc7f2",
+            "name": "Xã Tam Hồng"
+        },
+        {
+            "uid": "fef940b7b8d04df78b4acf426fef2fd2",
+            "name": "Xã Yên Đồng"
+        },
+        {
+            "uid": "35f1f6d1d5f24086a6cabd9d6b18d95b",
+            "name": "Xã Văn Tiến"
+        },
+        {
+            "uid": "6ee3cd4ede2b40dd9ab5ffe1a3901e8b",
+            "name": "Xã Nguyệt Đức"
+        },
+        {
+            "uid": "af1ec899116d4ae6943b0afeee31245a",
+            "name": "Xã Yên Phương"
+        },
+        {
+            "uid": "3d826d07d2574b37827b006c5ea3c443",
+            "name": "Xã Hồng Phương"
+        },
+        {
+            "uid": "b545317d49ed4942b8a2a66f83544c78",
+            "name": "Xã Trung Kiên"
+        },
+        {
+            "uid": "a14c45b85ab0439db50287574e9d4be6",
+            "name": "Xã Liên Châu"
+        },
+        {
+            "uid": "7f76941a2444429184bba65982b88fa1",
+            "name": "Xã Đại Tự"
+        },
+        {
+            "uid": "7afe3141cdef45c0883a4d8d384d7051",
+            "name": "Xã Hồng Châu"
+        },
+        {
+            "uid": "afafb83930cf4b1bbdfa4cc1f54b1788",
+            "name": "Xã Trung Hà"
+        }
+    ]
+}

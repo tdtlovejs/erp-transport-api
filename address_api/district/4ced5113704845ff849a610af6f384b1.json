@@ -1,0 +1,50 @@
+{
+    "uid": "4ced5113704845ff849a610af6f384b1",
+    "name": "Huyện Mỹ Xuyên",
+    "wards": [
+        {
+            "uid": "db84493d21514655a9b249806b91e012",
+            "name": "Thị trấn Mỹ Xuyên"
+        },
+        {
+            "uid": "8a35354b5b5d44d7b873ac715616bf3e",
+            "name": "Xã Đại Tâm"
+        },
+        {
+            "uid": "4abc7061fb9f4b199b3fddd464a1bb39",
+            "name": "Xã Tham Đôn"
+        },
+        {
+            "uid": "0358d56e879c4a129ed877fc568cae41",
+            "name": "Xã Thạnh Phú"
+        },
+        {
+            "uid": "89b3af7b65b04ec6bf2e3629bb8fccd7",
+            "name": "Xã Ngọc Đông"
+        },
+        {
+            "uid": "246856da312e418a9a874d2b92f8ff8f",
+            "name": "Xã Thạnh Quới"
+        },
+        {
+            "uid": "a5d0b17b913346fbb5ec2fd7d9657efa",
+            "name": "Xã Hòa Tú 1"
+        },
+        {
+            "uid": "72b98343827f4e41b51eec5f65ae3736",
+            "name": "Xã Gia Hòa 1"
+        },
+        {
+            "uid": "f4f214fc89ad48508d58c220fdeaaf1c",
+            "name": "Xã Ngọc Tố"
+        },
+        {
+            "uid": "72e7f02e96f9410e90d525f79dd8cb45",
+            "name": "Xã Gia Hòa 2"
+        },
+        {
+            "uid": "cb5523436c00431d88a4b0be61f82a71",
+            "name": "Xã Hòa Tú II"
+        }
+    ]
+}

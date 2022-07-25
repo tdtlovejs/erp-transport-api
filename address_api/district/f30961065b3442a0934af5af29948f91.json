@@ -1,0 +1,46 @@
+{
+    "uid": "f30961065b3442a0934af5af29948f91",
+    "name": "Quận Thanh Khê",
+    "wards": [
+        {
+            "uid": "4695cdf7a72b4a50b904a0baaab6b781",
+            "name": "Phường Tam Thuận"
+        },
+        {
+            "uid": "c7b3c6602a0c4055833312979be49856",
+            "name": "Phường Thanh Khê Tây"
+        },
+        {
+            "uid": "27eb5fb146e24b3badbdecd18fb34f1f",
+            "name": "Phường Thanh Khê Đông"
+        },
+        {
+            "uid": "e1eca50bcea74115818ca22f1f7058f7",
+            "name": "Phường Xuân Hà"
+        },
+        {
+            "uid": "ed02378a0d1741fbb180df97b9b61e70",
+            "name": "Phường Tân Chính"
+        },
+        {
+            "uid": "88e52db6c9eb4679a1f8b34b322fda29",
+            "name": "Phường Chính Gián"
+        },
+        {
+            "uid": "e588816f83d745378c3411ac31c01a70",
+            "name": "Phường Vĩnh Trung"
+        },
+        {
+            "uid": "eedb970445af4a3ead72818dff0e99eb",
+            "name": "Phường Thạc Gián"
+        },
+        {
+            "uid": "a6321d8d6ceb435d8ccb16743b7877d7",
+            "name": "Phường An Khê"
+        },
+        {
+            "uid": "7728f07aad7145efa57380a7d9d77534",
+            "name": "Phường Hòa Khê"
+        }
+    ]
+}

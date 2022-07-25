@@ -1,0 +1,66 @@
+{
+    "uid": "cb3d31fa35e44bbf95767b04a4691699",
+    "name": "Huyện Tiên Phước",
+    "wards": [
+        {
+            "uid": "cd3186615d534c1286f0b0a099bc8467",
+            "name": "Thị trấn Tiên Kỳ"
+        },
+        {
+            "uid": "86b77ff4581b4d11add91f9d3a4a2400",
+            "name": "Xã Tiên Sơn"
+        },
+        {
+            "uid": "5a3546beb0084126a9a47c6a81022507",
+            "name": "Xã Tiên Hà"
+        },
+        {
+            "uid": "662162cbf3fd4d2a9d158a66f90f0928",
+            "name": "Xã Tiên Cẩm"
+        },
+        {
+            "uid": "d5c53ca239a14832bc1dc73441fc45b2",
+            "name": "Xã Tiên Châu"
+        },
+        {
+            "uid": "b6f9cb3def1b463dad8ab2f4b73ff77d",
+            "name": "Xã Tiên Lãnh"
+        },
+        {
+            "uid": "fc8b45124ee04dd18bf8ef2acd1637d1",
+            "name": "Xã Tiên Ngọc"
+        },
+        {
+            "uid": "5fdda19b060445f7b3dcc05c394338d5",
+            "name": "Xã Tiên Hiệp"
+        },
+        {
+            "uid": "dda16b50d5db4ae8994c7fd2f97d5ef9",
+            "name": "Xã Tiên Cảnh"
+        },
+        {
+            "uid": "c876e0893e2347fb8b205df741da4dbf",
+            "name": "Xã Tiên Mỹ"
+        },
+        {
+            "uid": "22f6f65e929c492aad69c569057538f1",
+            "name": "Xã Tiên Phong"
+        },
+        {
+            "uid": "aca9bbf43fc34f08a0c8a1e8b71aafa7",
+            "name": "Xã Tiên Thọ"
+        },
+        {
+            "uid": "cff55f4da49d4a778630cd059df620f9",
+            "name": "Xã Tiên An"
+        },
+        {
+            "uid": "b515a478390a469796762b2dd3ec5038",
+            "name": "Xã Tiên Lộc"
+        },
+        {
+            "uid": "9a9096e835794bb2b3d49a4134fcf7bd",
+            "name": "Xã Tiên Lập"
+        }
+    ]
+}

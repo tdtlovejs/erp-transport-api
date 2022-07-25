@@ -1,0 +1,50 @@
+{
+    "uid": "6f97b80a390d4ca9b0a8ef61644af6fa",
+    "name": "Huyện Tiểu Cần",
+    "wards": [
+        {
+            "uid": "73032eba990e4cafb2317d9d40b99b1e",
+            "name": "Thị trấn Tiểu Cần"
+        },
+        {
+            "uid": "ea2bf96209024be38b8e82ad35318b24",
+            "name": "Thị trấn Cầu Quan"
+        },
+        {
+            "uid": "92fd96aa5f6f405799ab1ce31370ef46",
+            "name": "Xã Phú Cần"
+        },
+        {
+            "uid": "5727f1c2a5364d2693d7c3ed6f741d13",
+            "name": "Xã Hiếu Tử"
+        },
+        {
+            "uid": "e7544058769c4d2ba02d003a0789bd03",
+            "name": "Xã Hiếu Trung"
+        },
+        {
+            "uid": "13304887e71d46568299fbf1b309951e",
+            "name": "Xã Long Thới"
+        },
+        {
+            "uid": "54e5660dd3a748f7bc017b92c947c790",
+            "name": "Xã Hùng Hòa"
+        },
+        {
+            "uid": "12b3a409fcdf48588eeedd43c6331339",
+            "name": "Xã Tân Hùng"
+        },
+        {
+            "uid": "4982c0f2a9c84ab49780c586f57fe6c2",
+            "name": "Xã Tập Ngãi"
+        },
+        {
+            "uid": "e8d5dec6e749421aac65ea04f26298cf",
+            "name": "Xã Ngãi Hùng"
+        },
+        {
+            "uid": "ec82381ba87b4ca0abc67c368560f446",
+            "name": "Xã Tân Hòa"
+        }
+    ]
+}

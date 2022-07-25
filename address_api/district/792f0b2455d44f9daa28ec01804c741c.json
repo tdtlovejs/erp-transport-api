@@ -1,0 +1,50 @@
+{
+    "uid": "792f0b2455d44f9daa28ec01804c741c",
+    "name": "Thành phố Sầm Sơn",
+    "wards": [
+        {
+            "uid": "a09fc978e4cb49db8c2e436d29effe47",
+            "name": "Phường Trung Sơn"
+        },
+        {
+            "uid": "8e40b7f02b4a4d1099814a7fae711230",
+            "name": "Phường Bắc Sơn"
+        },
+        {
+            "uid": "94205fefb41c470b9f0e92ae4085cd36",
+            "name": "Phường Trường Sơn"
+        },
+        {
+            "uid": "794f93c47ac746a4b318a06fb9e687c7",
+            "name": "Phường Quảng Cư"
+        },
+        {
+            "uid": "955aeb37951c411b8177540add204967",
+            "name": "Phường Quảng Tiến"
+        },
+        {
+            "uid": "3b18bea107044c60b0784c76ae171d9f",
+            "name": "Xã Quảng Minh"
+        },
+        {
+            "uid": "d21546538ee845db9cd665608741eb66",
+            "name": "Xã Quảng Hùng"
+        },
+        {
+            "uid": "dd91d59252424a7caee81f48704f477b",
+            "name": "Phường Quảng Thọ"
+        },
+        {
+            "uid": "ab4ecf2d34ef4b13b89dc554df6f0f45",
+            "name": "Phường Quảng Châu"
+        },
+        {
+            "uid": "a9bbef44d6c84a849474499075a60452",
+            "name": "Phường Quảng Vinh"
+        },
+        {
+            "uid": "d11f1b83e1f046a7bb1e22939316dc49",
+            "name": "Xã Quảng Đại"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "9de05f6a29784edd9a053f0b48454b88",
+    "name": "Quận Tân Phú",
+    "wards": [
+        {
+            "uid": "3f30381b83784256a8da861671a940fa",
+            "name": "Phường Tân Sơn Nhì"
+        },
+        {
+            "uid": "02ca733ae1f440c0b50fac0d0121187a",
+            "name": "Phường Tây Thạnh"
+        },
+        {
+            "uid": "f9cdbeb2e1874fd88fc3cca4be04b224",
+            "name": "Phường Sơn Kỳ"
+        },
+        {
+            "uid": "fdc1777662d148678c1175f8098a3df8",
+            "name": "Phường Tân Quý"
+        },
+        {
+            "uid": "5e5c77b293b141debd6aa811d7320f9f",
+            "name": "Phường Tân Thành"
+        },
+        {
+            "uid": "2cbcf24f9ddd4ca9a878c512a5419f7a",
+            "name": "Phường Phú Thọ Hòa"
+        },
+        {
+            "uid": "20365a848be240e98449d7cac280b5f9",
+            "name": "Phường Phú Thạnh"
+        },
+        {
+            "uid": "457436e176454d9baa367690fb0f2d7c",
+            "name": "Phường Phú Trung"
+        },
+        {
+            "uid": "37414278a3f94f309a836ab4e844ee68",
+            "name": "Phường Hòa Thạnh"
+        },
+        {
+            "uid": "cb63f04b8932478ea934e0795710ebba",
+            "name": "Phường Hiệp Tân"
+        },
+        {
+            "uid": "14f4cf702f5d49c091444eb6e45d78a3",
+            "name": "Phường Tân Thới Hòa"
+        }
+    ]
+}

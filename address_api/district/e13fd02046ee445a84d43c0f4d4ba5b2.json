@@ -1,0 +1,150 @@
+{
+    "uid": "e13fd02046ee445a84d43c0f4d4ba5b2",
+    "name": "Huyện Thái Thụy",
+    "wards": [
+        {
+            "uid": "74422c1eea564b578ca3021fec4b26d1",
+            "name": "Thị trấn Diêm Điền"
+        },
+        {
+            "uid": "1a07ba20476e4d0db3e7c7eb22e2c07e",
+            "name": "Xã Thụy Trường"
+        },
+        {
+            "uid": "5c7dfb0689e14ac1bfaa08688ca5f765",
+            "name": "Xã Hồng Dũng"
+        },
+        {
+            "uid": "308dd0e516ef4c019d4e01f90990bdf5",
+            "name": "Xã Thụy Quỳnh"
+        },
+        {
+            "uid": "c1e33306fea0417c96077d0435c99bde",
+            "name": "Xã An Tân"
+        },
+        {
+            "uid": "01e156c09ad045da8d01cf415d382eab",
+            "name": "Xã Thụy Ninh"
+        },
+        {
+            "uid": "d439a3bf41b24b50b0a101af39b15ffe",
+            "name": "Xã Thụy Hưng"
+        },
+        {
+            "uid": "794e2237fa3044a5b6327b746a7e5c5d",
+            "name": "Xã Thụy Việt"
+        },
+        {
+            "uid": "6f0187caf3c54676b15e0d825bf5141a",
+            "name": "Xã Thụy Văn"
+        },
+        {
+            "uid": "18f47caaac5f4c1f971dc1b2deb784d8",
+            "name": "Xã Thụy Xuân"
+        },
+        {
+            "uid": "8808e946f8cd4417b16cbda5aa4a9727",
+            "name": "Xã Dương Phúc"
+        },
+        {
+            "uid": "a9ebd97ec60c493890a2102842bd3c7d",
+            "name": "Xã Thụy Trình"
+        },
+        {
+            "uid": "14fe27f0a73f47d8af8ec85e79cbbc5d",
+            "name": "Xã Thụy Bình"
+        },
+        {
+            "uid": "a4481f22d222454880691e09fb0eafe7",
+            "name": "Xã Thụy Chính"
+        },
+        {
+            "uid": "13faa61d8e4544a1a3bd49ae3a71d164",
+            "name": "Xã Thụy Dân"
+        },
+        {
+            "uid": "3d32eb033dc24e7ca1a53c43ff2992e5",
+            "name": "Xã Thụy Hải"
+        },
+        {
+            "uid": "617e980ee42e4666abe955c6046ffb32",
+            "name": "Xã Thụy Liên"
+        },
+        {
+            "uid": "551fe2ab24ce4eb8b9ff1428c9264269",
+            "name": "Xã Thụy Duyên"
+        },
+        {
+            "uid": "56da04d9c2834eaaaf59cb4532c4d491",
+            "name": "Xã Thụy Thanh"
+        },
+        {
+            "uid": "0092f0cbe2184b448a131573185a4159",
+            "name": "Xã Thụy Sơn"
+        },
+        {
+            "uid": "dd7817122f1949d8814f62707a4af6b3",
+            "name": "Xã Thụy Phong"
+        },
+        {
+            "uid": "ba3a318823184dbcbd4050eacb74c3ac",
+            "name": "Xã Thái Thượng"
+        },
+        {
+            "uid": "10b73ecd8bc34720a2a2cc2f2b584eea",
+            "name": "Xã Thái Nguyên"
+        },
+        {
+            "uid": "a39cf7a38d9b410ab7f77eb0df57ea2e",
+            "name": "Xã Dương Hồng Thủy"
+        },
+        {
+            "uid": "c72082c9c8da44a68d55cc08dd073a99",
+            "name": "Xã Thái Giang"
+        },
+        {
+            "uid": "e1d0d3187f1e49458fc7495fb9f4f211",
+            "name": "Xã Hòa An"
+        },
+        {
+            "uid": "baff359789dd4d9dbbef7fef3e455858",
+            "name": "Xã Sơn Hà"
+        },
+        {
+            "uid": "f0e283cb3e054908b502fb42030434e5",
+            "name": "Xã Thái Phúc"
+        },
+        {
+            "uid": "c6d48739445d47318498efa7a309bf6b",
+            "name": "Xã Thái Hưng"
+        },
+        {
+            "uid": "0d647c5543c341bebc2f9744127a01ab",
+            "name": "Xã Thái Đô"
+        },
+        {
+            "uid": "0eee0cf683a248a2b6046861b38f0934",
+            "name": "Xã Thái Xuyên"
+        },
+        {
+            "uid": "18c2ce4cd8ec45a3bc5edef69795ffc7",
+            "name": "Xã Mỹ Lộc"
+        },
+        {
+            "uid": "a16f2a9382cb44389efaed6738230960",
+            "name": "Xã Tân Học"
+        },
+        {
+            "uid": "3b04336fd90140cf89774c247aa9bbf4",
+            "name": "Xã Thái Thịnh"
+        },
+        {
+            "uid": "d2c0f7b4e5994128b24735c16ee748f6",
+            "name": "Xã Thuần Thành"
+        },
+        {
+            "uid": "cfa58e901aeb402485bb64af5c899efb",
+            "name": "Xã Thái Thọ"
+        }
+    ]
+}

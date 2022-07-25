@@ -1,0 +1,66 @@
+{
+    "uid": "2535d256d34348f7a06ea20a57256e7e",
+    "name": "Huyện Ba Bể",
+    "wards": [
+        {
+            "uid": "8541406a4cb64ea39342b1de3360e074",
+            "name": "Thị trấn Chợ Rã"
+        },
+        {
+            "uid": "0dccbca7193c48ea83f18ba5d5ca2f7d",
+            "name": "Xã Bành Trạch"
+        },
+        {
+            "uid": "0ac40fdd692f41a5afde95467bc6cc26",
+            "name": "Xã Phúc Lộc"
+        },
+        {
+            "uid": "536cada41e994a9d90985cef3e83ecfa",
+            "name": "Xã Hà Hiệu"
+        },
+        {
+            "uid": "d5964882733f4c6ca21f8d608aa24c2e",
+            "name": "Xã Cao Thượng"
+        },
+        {
+            "uid": "daffd68ea7fb40d5957e57b436d58e5b",
+            "name": "Xã Khang Ninh"
+        },
+        {
+            "uid": "54df122ba81f461294965d32a29f57b3",
+            "name": "Xã Nam Mẫu"
+        },
+        {
+            "uid": "0ea50a1b2e8348cdb6e49fc1344cdd06",
+            "name": "Xã Thượng Giáo"
+        },
+        {
+            "uid": "ed518879296c4a3dbf724eacf28b81b6",
+            "name": "Xã Địa Linh"
+        },
+        {
+            "uid": "a720ecdf6d594439b76f36d50c4ef343",
+            "name": "Xã Yến Dương"
+        },
+        {
+            "uid": "41618cc0b4934dd0896688fd931c2c09",
+            "name": "Xã Chu Hương"
+        },
+        {
+            "uid": "b0b19880cc614162a767bce59b455979",
+            "name": "Xã Quảng Khê"
+        },
+        {
+            "uid": "f724ca1b7a574d35a201737e8671ffc7",
+            "name": "Xã Mỹ Phương"
+        },
+        {
+            "uid": "d65df85160ac47faa0f7267e3a76f490",
+            "name": "Xã Hoàng Trĩ"
+        },
+        {
+            "uid": "39a247bbe99044d7b08011671e288a09",
+            "name": "Xã Đồng Phúc"
+        }
+    ]
+}

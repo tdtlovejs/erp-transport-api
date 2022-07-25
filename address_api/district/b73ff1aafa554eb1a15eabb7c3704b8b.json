@@ -1,0 +1,62 @@
+{
+    "uid": "b73ff1aafa554eb1a15eabb7c3704b8b",
+    "name": "Huyện Cam Lâm",
+    "wards": [
+        {
+            "uid": "2fbb9c0bc9bc4da398e9b0c5c08b156e",
+            "name": "Xã Cam Tân"
+        },
+        {
+            "uid": "031007710f9e49c3a42a022c8223e71f",
+            "name": "Xã Cam Hòa"
+        },
+        {
+            "uid": "f9df4fd0ec1e407ab380db9274c47199",
+            "name": "Xã Cam Hải Đông"
+        },
+        {
+            "uid": "eee25abffcdd45acac1d6bcaa5eec964",
+            "name": "Xã Cam Hải Tây"
+        },
+        {
+            "uid": "ec564fcb062a4f969778dbb2bfc5f391",
+            "name": "Xã Sơn Tân"
+        },
+        {
+            "uid": "78f08fccc3bd478eb58a7844842195c2",
+            "name": "Xã Cam Hiệp Bắc"
+        },
+        {
+            "uid": "0906e47fcb3449aa8b364c4fa6cf4372",
+            "name": "Thị trấn Cam Đức"
+        },
+        {
+            "uid": "eada990194354e65941a51128ae9fbf7",
+            "name": "Xã Cam Hiệp Nam"
+        },
+        {
+            "uid": "8c01371537074a7c904e779196b69bab",
+            "name": "Xã Cam Phước Tây"
+        },
+        {
+            "uid": "a578992e221b407b9efeedd1df8506ac",
+            "name": "Xã Cam Thành Bắc"
+        },
+        {
+            "uid": "c44f88d260984999a012d1ac15392014",
+            "name": "Xã Cam An Bắc"
+        },
+        {
+            "uid": "50a464e621a44c0082f16ad3e7883c91",
+            "name": "Xã Cam An Nam"
+        },
+        {
+            "uid": "68400c7ff1084def8ee1753eb5a710ef",
+            "name": "Xã Suối Cát"
+        },
+        {
+            "uid": "3a8b2059359442dfb06b5889a8871971",
+            "name": "Xã Suối Tân"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "6bcb83e7cd88426cab6d9ce6cc8f2194",
+    "name": "Thành phố Đồng Xoài",
+    "wards": [
+        {
+            "uid": "bd4f4b77cc1245549a1a58c8cd49cb55",
+            "name": "Phường Tân Phú"
+        },
+        {
+            "uid": "f1b6a8e469e24bf89e96f78795cbf8bb",
+            "name": "Phường Tân Đồng"
+        },
+        {
+            "uid": "8281f3372a594596ae95f8d2a3ed6928",
+            "name": "Phường Tân Bình"
+        },
+        {
+            "uid": "bf72647eba76451bb4b5a7c61c059242",
+            "name": "Phường Tân Xuân"
+        },
+        {
+            "uid": "43a54b4ad21740728e0c61c232800575",
+            "name": "Phường Tân Thiện"
+        },
+        {
+            "uid": "b9c35cb89d4e43c1b413418f25ec497e",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "9b5336db000e4ab083ac4f125ff68f52",
+            "name": "Phường Tiến Thành"
+        },
+        {
+            "uid": "3b8eb5ee65e6475d8b434345b439047d",
+            "name": "Xã Tiến Hưng"
+        }
+    ]
+}

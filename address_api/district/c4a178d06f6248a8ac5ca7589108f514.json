@@ -1,0 +1,38 @@
+{
+    "uid": "c4a178d06f6248a8ac5ca7589108f514",
+    "name": "Huyện Vĩnh Thuận",
+    "wards": [
+        {
+            "uid": "0c813d4f5694499bab228621b50ae6d6",
+            "name": "Thị trấn Vĩnh Thuận"
+        },
+        {
+            "uid": "18ebce25f6cf4d72970b7ffd116416fa",
+            "name": "Xã Vĩnh Bình Bắc"
+        },
+        {
+            "uid": "fc34ffcda2604f199c0d36113c6cd562",
+            "name": "Xã Vĩnh Bình Nam"
+        },
+        {
+            "uid": "6f0e5f97e89c4a4881f5577e88d4083b",
+            "name": "Xã Bình Minh"
+        },
+        {
+            "uid": "2a97ad039e9f4f15afe666c38790b5b1",
+            "name": "Xã Vĩnh Thuận"
+        },
+        {
+            "uid": "edaebd2f0bd64315805d21c9b14f7ee2",
+            "name": "Xã Tân Thuận"
+        },
+        {
+            "uid": "a67e11cea6274b9d9043fc6bf6e25265",
+            "name": "Xã Phong Đông"
+        },
+        {
+            "uid": "7879cd2f507f48628b3581a860ea0968",
+            "name": "Xã Vĩnh Phong"
+        }
+    ]
+}

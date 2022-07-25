@@ -1,0 +1,62 @@
+{
+    "uid": "243cce21385041b884e7f27e10d29273",
+    "name": "Huyện Mù Căng Chải",
+    "wards": [
+        {
+            "uid": "abf7ac66ec124edd8aea16e56595d020",
+            "name": "Thị trấn Mù Căng Chải"
+        },
+        {
+            "uid": "f92195156a814804bc67df714da2c098",
+            "name": "Xã Hồ Bốn"
+        },
+        {
+            "uid": "d3cbff5bbe9749f59e7db726ac0f7ca6",
+            "name": "Xã Nậm Có"
+        },
+        {
+            "uid": "fbf1941232384b56b5c0a4947036ed34",
+            "name": "Xã Khao Mang"
+        },
+        {
+            "uid": "48c649a5dc5c49fda006bf6916157c84",
+            "name": "Xã Mồ Dề"
+        },
+        {
+            "uid": "4a7fb70683094eb1823a0722903dcfbd",
+            "name": "Xã Chế Cu Nha"
+        },
+        {
+            "uid": "38be092c956e40908a0325bafd4a472e",
+            "name": "Xã Lao Chải"
+        },
+        {
+            "uid": "4285dd9a5a904617ba4a14277eb55982",
+            "name": "Xã Kim Nọi"
+        },
+        {
+            "uid": "f8215dc2bcb34947a545d105511c39d8",
+            "name": "Xã Cao Phạ"
+        },
+        {
+            "uid": "ab5da5ba80f744ca944a5fbd7d0823c7",
+            "name": "Xã La Pán Tẩn"
+        },
+        {
+            "uid": "982a302728ac4ee9a8185b895a158b40",
+            "name": "Xã Dế Su Phình"
+        },
+        {
+            "uid": "6ff78eccd9f6421da9e71a152acd9533",
+            "name": "Xã Chế Tạo"
+        },
+        {
+            "uid": "dbb0b303555f409da38e49031ee13d82",
+            "name": "Xã Púng Luông"
+        },
+        {
+            "uid": "a44ceba5c9604861811ede7a853a63ed",
+            "name": "Xã Nậm Khắt"
+        }
+    ]
+}

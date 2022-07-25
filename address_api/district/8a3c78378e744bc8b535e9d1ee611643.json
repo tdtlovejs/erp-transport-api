@@ -1,0 +1,58 @@
+{
+    "uid": "8a3c78378e744bc8b535e9d1ee611643",
+    "name": "Huyện Gò Công Đông",
+    "wards": [
+        {
+            "uid": "3ff61b47405e4e89ab05890b47309e36",
+            "name": "Thị trấn Tân Hòa"
+        },
+        {
+            "uid": "08c748ee0d7b4427bc54e6a0b58d212c",
+            "name": "Xã Tăng Hoà"
+        },
+        {
+            "uid": "436551ab6e2e4b8d98141be63658b945",
+            "name": "Xã Tân Phước"
+        },
+        {
+            "uid": "ec390bb83f9447119056af65b60f68d7",
+            "name": "Xã Gia Thuận"
+        },
+        {
+            "uid": "7ecd56f987ca4bd5a83a4c81a914e8ba",
+            "name": "Thị trấn Vàm Láng"
+        },
+        {
+            "uid": "c1dcdfd4864d4a3e80221451bc6ed339",
+            "name": "Xã Tân Tây"
+        },
+        {
+            "uid": "b972b9bf7fe94582ae43fefa45ef2e87",
+            "name": "Xã Kiểng Phước"
+        },
+        {
+            "uid": "f9055bb43323408594a35b58272e62bf",
+            "name": "Xã Tân Đông"
+        },
+        {
+            "uid": "986abd4b1a604889840adaa44d4b821b",
+            "name": "Xã Bình Ân"
+        },
+        {
+            "uid": "eb9a6690a8474acf976ddf0f6f8919f1",
+            "name": "Xã Tân Điền"
+        },
+        {
+            "uid": "b493f9de46494d3f98487c396cba70de",
+            "name": "Xã Bình Nghị"
+        },
+        {
+            "uid": "0a839ecd2fa74c779f7992e9c51ea0fc",
+            "name": "Xã Phước Trung"
+        },
+        {
+            "uid": "1d35fb09d1cf41a6a16306a815041332",
+            "name": "Xã Tân Thành"
+        }
+    ]
+}

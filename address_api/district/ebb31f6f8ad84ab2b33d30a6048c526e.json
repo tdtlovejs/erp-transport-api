@@ -1,0 +1,26 @@
+{
+    "uid": "ebb31f6f8ad84ab2b33d30a6048c526e",
+    "name": "Thị xã Quảng Trị",
+    "wards": [
+        {
+            "uid": "cb7d23db2aa2424aa48185f42f2f554f",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "8de9fc39099b481386162bed9685b6c1",
+            "name": "Phường An Đôn"
+        },
+        {
+            "uid": "db11e58d308d4369bc71e6c96abfc320",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "d673f91906f6441f934bd858ba6adc25",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "7b146cef298e401ea3a8b7b362736228",
+            "name": "Xã Hải Lệ"
+        }
+    ]
+}

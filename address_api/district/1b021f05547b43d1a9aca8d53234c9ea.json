@@ -1,0 +1,62 @@
+{
+    "uid": "1b021f05547b43d1a9aca8d53234c9ea",
+    "name": "Huyện Điện Biên Đông",
+    "wards": [
+        {
+            "uid": "cc4660b599b341cf92c5d082c6e1fd90",
+            "name": "Thị trấn Điện Biên Đông"
+        },
+        {
+            "uid": "b3681752637e4510bb8e6809b483169d",
+            "name": "Xã Na Son"
+        },
+        {
+            "uid": "1cac59df7e4249ab8782b05be5330ea1",
+            "name": "Xã Phì Nhừ"
+        },
+        {
+            "uid": "337b908bb4634493abb0381c67980cb5",
+            "name": "Xã Chiềng Sơ"
+        },
+        {
+            "uid": "4f8230a5b93c45f18041d97e35958dcc",
+            "name": "Xã Mường Luân"
+        },
+        {
+            "uid": "70cf259ab8dd4e4687123634a484f496",
+            "name": "Xã Pú Nhi"
+        },
+        {
+            "uid": "ff8e868e83e64246a6ca8dbd8aa25e5d",
+            "name": "Xã Nong U"
+        },
+        {
+            "uid": "20dba47ea7d24442bd6229da51de00a3",
+            "name": "Xã Xa Dung"
+        },
+        {
+            "uid": "b56ab19407f9468bb1c2d8061c112534",
+            "name": "Xã Keo Lôm"
+        },
+        {
+            "uid": "19a94d36e6744015a54f2e0c85f4f219",
+            "name": "Xã Luân Giới"
+        },
+        {
+            "uid": "bcfd4e7693f24c17bb4f982f5e03f35d",
+            "name": "Xã Phình Giàng"
+        },
+        {
+            "uid": "32cac2a3c0ea46669ce22d4ddb1bc669",
+            "name": "Xã Pú Hồng"
+        },
+        {
+            "uid": "b4209289f0de43f1b2bd0aedbb36b90f",
+            "name": "Xã Tìa Dình"
+        },
+        {
+            "uid": "1a266aaf4b47408da57deb75cfa1da80",
+            "name": "Xã Háng Lìa"
+        }
+    ]
+}

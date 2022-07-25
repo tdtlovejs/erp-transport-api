@@ -1,0 +1,74 @@
+{
+    "uid": "65b836fedc5745c5b3b2fd809a676af2",
+    "name": "Huyện Bình Lục",
+    "wards": [
+        {
+            "uid": "68f9026109ee4746a3bd30393ba88d73",
+            "name": "Thị trấn Bình Mỹ"
+        },
+        {
+            "uid": "2f9e97d5ed524c6b901ab190723ff4e6",
+            "name": "Xã Bình Nghĩa"
+        },
+        {
+            "uid": "a9f3ff8a2f574730b3a536e87eba657a",
+            "name": "Xã Tràng An"
+        },
+        {
+            "uid": "f103ae4f11ea41a1bd5ab16246d56950",
+            "name": "Xã Đồng Du"
+        },
+        {
+            "uid": "c6e9e18fd71642d59ffd3cd8c31d2429",
+            "name": "Xã Ngọc Lũ"
+        },
+        {
+            "uid": "7b6e8742b2b6428ca9e9597e49aa3cef",
+            "name": "Xã Hưng Công"
+        },
+        {
+            "uid": "b175cda3b1b84dceb982ee52133dbfd2",
+            "name": "Xã Đồn Xá"
+        },
+        {
+            "uid": "595b6c40cfd048bd9ff0550a461d1a5d",
+            "name": "Xã An Ninh"
+        },
+        {
+            "uid": "47346efe25ed457cbf7dd1cf53306f28",
+            "name": "Xã Bồ Đề"
+        },
+        {
+            "uid": "ab97e420dc404de79be16c6013e32ef7",
+            "name": "Xã Bối Cầu"
+        },
+        {
+            "uid": "a0ddfd98a284406686c4b5b0e1ef63a7",
+            "name": "Xã An Nội"
+        },
+        {
+            "uid": "b34e0ae0f39f40a4bf8c36731146a529",
+            "name": "Xã Vũ Bản"
+        },
+        {
+            "uid": "759fe6550e304dce9fd628263ff0e991",
+            "name": "Xã Trung Lương"
+        },
+        {
+            "uid": "08862717cc6f48cab14f8377915ee023",
+            "name": "Xã An Đổ"
+        },
+        {
+            "uid": "90549d0c2940461faeb4f50baa4306cd",
+            "name": "Xã La Sơn"
+        },
+        {
+            "uid": "5ea35e7173224bfc9f9030c3e967ad74",
+            "name": "Xã Tiêu Động"
+        },
+        {
+            "uid": "1543e947fcd04c8fbfc9902ae63fb91a",
+            "name": "Xã An Lão"
+        }
+    ]
+}

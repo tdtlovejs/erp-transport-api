@@ -1,0 +1,78 @@
+{
+    "uid": "3e6870db96514b9eae24673f17ab5127",
+    "name": "Huyện Tân Phú",
+    "wards": [
+        {
+            "uid": "a502f29d997143d69ec2dbc8eec648fb",
+            "name": "Thị trấn Tân Phú"
+        },
+        {
+            "uid": "fc4eb7dee7704c0ba73c6041646b3e8c",
+            "name": "Xã Dak Lua"
+        },
+        {
+            "uid": "3bb884ee97974b3481d2ac07d641e4e0",
+            "name": "Xã Nam Cát Tiên"
+        },
+        {
+            "uid": "5f0ee7ae5e744ee696ff0f16dad75cea",
+            "name": "Xã Phú An"
+        },
+        {
+            "uid": "081439df05704a56b75f5d6a7719b9fc",
+            "name": "Xã Núi Tượng"
+        },
+        {
+            "uid": "b49ec0b793f14245b5e284f2b1aab815",
+            "name": "Xã Tà Lài"
+        },
+        {
+            "uid": "45b9a418ee284e988e8ab647fa564dc3",
+            "name": "Xã Phú Lập"
+        },
+        {
+            "uid": "a7b33304d33443988e884759b3b00a47",
+            "name": "Xã Phú Sơn"
+        },
+        {
+            "uid": "2cc583b18ce1435abb8a82aacdfadf1a",
+            "name": "Xã Phú Thịnh"
+        },
+        {
+            "uid": "a9c3015a3fe742adb1c6ee977847406f",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "ff12e01b92c741caaa41f3d674ba482c",
+            "name": "Xã Phú Trung"
+        },
+        {
+            "uid": "cb1697e90b0d463998f2d6f92ac7f13f",
+            "name": "Xã Phú Xuân"
+        },
+        {
+            "uid": "b3b60252f009476482dbd1275821407f",
+            "name": "Xã Phú Lộc"
+        },
+        {
+            "uid": "51056ad206514f0a812f813deafe4bef",
+            "name": "Xã Phú Lâm"
+        },
+        {
+            "uid": "9087e482ce9d4b5fa9c346fffc9cb69f",
+            "name": "Xã Phú Bình"
+        },
+        {
+            "uid": "acb09194ee1049fca8284fc00115d164",
+            "name": "Xã Phú Thanh"
+        },
+        {
+            "uid": "02a9001c9b284fc4801c472792a3e924",
+            "name": "Xã Trà Cổ"
+        },
+        {
+            "uid": "3457616b700240e9b210386ede0d922d",
+            "name": "Xã Phú Điền"
+        }
+    ]
+}

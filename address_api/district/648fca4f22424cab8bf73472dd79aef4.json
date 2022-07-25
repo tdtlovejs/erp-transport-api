@@ -1,0 +1,82 @@
+{
+    "uid": "648fca4f22424cab8bf73472dd79aef4",
+    "name": "Thành phố Thái Bình",
+    "wards": [
+        {
+            "uid": "7dcd112aa43d463f914a80a3569fa0e9",
+            "name": "Phường Lê Hồng Phong"
+        },
+        {
+            "uid": "9973c23996ff4faab6e66863d4b1ef92",
+            "name": "Phường Bồ Xuyên"
+        },
+        {
+            "uid": "9f9a076374f7472eb322ee294188d05e",
+            "name": "Phường Đề Thám"
+        },
+        {
+            "uid": "b07c211ec642442e8d46ab28c4169aa1",
+            "name": "Phường Kỳ Bá"
+        },
+        {
+            "uid": "9a3e52636a994d43939310b202ed371d",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "048c7f1d816e460696be1195f4fc82e8",
+            "name": "Phường Phú Khánh"
+        },
+        {
+            "uid": "2f7799b6fa82467196231a42ce281af6",
+            "name": "Phường Tiền Phong"
+        },
+        {
+            "uid": "79d9f252b7434bacb2271f85f8f9f843",
+            "name": "Phường Trần Hưng Đạo"
+        },
+        {
+            "uid": "2310eab0be224ab18cc2718b2560752a",
+            "name": "Phường Trần Lãm"
+        },
+        {
+            "uid": "95d76b37b0a34baf9b613989ca71d07c",
+            "name": "Xã Đông Hòa"
+        },
+        {
+            "uid": "4f953efc225440feadca0c1c92e9bb64",
+            "name": "Phường Hoàng Diệu"
+        },
+        {
+            "uid": "9a1c898759a1496e9b416720dc8ddac3",
+            "name": "Xã Phú Xuân"
+        },
+        {
+            "uid": "c874d5e788ac41eaa4d7836ab861024a",
+            "name": "Xã Vũ Phúc"
+        },
+        {
+            "uid": "1a1f58f649394865b50a5dbe93340279",
+            "name": "Xã Vũ Chính"
+        },
+        {
+            "uid": "c22145752f47479c8c7b0b5cb7fc4843",
+            "name": "Xã Đông Mỹ"
+        },
+        {
+            "uid": "60947bd2d07b4d0696d30107584ebaab",
+            "name": "Xã Đông Thọ"
+        },
+        {
+            "uid": "ef592801320f47da93d7b7eb412bd8ef",
+            "name": "Xã Vũ Đông"
+        },
+        {
+            "uid": "4daf7ba8aacf434995da9f7b89350790",
+            "name": "Xã Vũ Lạc"
+        },
+        {
+            "uid": "85a20f49f84c43a6ab02c8d80b19db3b",
+            "name": "Xã Tân Bình"
+        }
+    ]
+}

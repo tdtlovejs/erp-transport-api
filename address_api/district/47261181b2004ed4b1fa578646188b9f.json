@@ -1,0 +1,90 @@
+{
+    "uid": "47261181b2004ed4b1fa578646188b9f",
+    "name": "Huyện Anh Sơn",
+    "wards": [
+        {
+            "uid": "8fd22059c3374715972c2eaf18bba29b",
+            "name": "Thị trấn Anh Sơn"
+        },
+        {
+            "uid": "3ef866c7c5dd404a8f94cb745adddc1b",
+            "name": "Xã Thọ Sơn"
+        },
+        {
+            "uid": "2d84d9c04eb0466c8ba2f57bd715d1c1",
+            "name": "Xã Thành Sơn"
+        },
+        {
+            "uid": "bbfe0070bad14e3d8da0838812146e16",
+            "name": "Xã Bình Sơn"
+        },
+        {
+            "uid": "518b153285c84557b05f9fdfe7c731ae",
+            "name": "Xã Tam Sơn"
+        },
+        {
+            "uid": "27fe7c906d5e419599598f73d99f386f",
+            "name": "Xã Đỉnh Sơn"
+        },
+        {
+            "uid": "9d5640b50ceb4ef19bfaac9152047a46",
+            "name": "Xã Hùng Sơn"
+        },
+        {
+            "uid": "ed14db6dcc464eed95c58862ebd15111",
+            "name": "Xã Cẩm Sơn"
+        },
+        {
+            "uid": "6c5c9f64dd1844768dc4e7c2de0fe365",
+            "name": "Xã Đức Sơn"
+        },
+        {
+            "uid": "a05970384473455d92e858d8bdfb94c3",
+            "name": "Xã Tường Sơn"
+        },
+        {
+            "uid": "c0a1d015fb3b448f98177b7939594ddd",
+            "name": "Xã Hoa Sơn"
+        },
+        {
+            "uid": "df04d78e1c6b4ddfa6922ee89115cc7c",
+            "name": "Xã Tào Sơn"
+        },
+        {
+            "uid": "8c9553515c2043e1a69982f9fc9eebbd",
+            "name": "Xã Vĩnh Sơn"
+        },
+        {
+            "uid": "9aec18ec99404c6191990d3785f33149",
+            "name": "Xã Lạng Sơn"
+        },
+        {
+            "uid": "fa091ea974444b23995a58a92db7d851",
+            "name": "Xã Hội Sơn"
+        },
+        {
+            "uid": "f6b8fa86566f48b99719cda11e041560",
+            "name": "Xã Thạch Sơn"
+        },
+        {
+            "uid": "d7e7c6e41b4841e0904db0c7c0e124ed",
+            "name": "Xã Phúc Sơn"
+        },
+        {
+            "uid": "4e90edc919824bdcbadff04fb008d2bf",
+            "name": "Xã Long Sơn"
+        },
+        {
+            "uid": "4aaa14c31efd47708cfb13d640097d9b",
+            "name": "Xã Khai Sơn"
+        },
+        {
+            "uid": "ce8ed8a163d847c5af8b921648f74400",
+            "name": "Xã Lĩnh Sơn"
+        },
+        {
+            "uid": "93a9a87861c74a7395f51926c4543ee2",
+            "name": "Xã Cao Sơn"
+        }
+    ]
+}

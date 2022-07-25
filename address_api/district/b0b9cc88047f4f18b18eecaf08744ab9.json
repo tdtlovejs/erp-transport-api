@@ -1,0 +1,70 @@
+{
+    "uid": "b0b9cc88047f4f18b18eecaf08744ab9",
+    "name": "Huyện Lâm Hà",
+    "wards": [
+        {
+            "uid": "ae69c273b90e428e9ae24f8253321a5a",
+            "name": "Thị trấn Nam Ban"
+        },
+        {
+            "uid": "482bd01ad42a42f298c950394b6006b8",
+            "name": "Thị trấn Đinh Văn"
+        },
+        {
+            "uid": "415c64dac4c04f988736a99d63104ae8",
+            "name": "Xã Phú Sơn"
+        },
+        {
+            "uid": "4e68a4bbbd06402292fb43cef39f9b5b",
+            "name": "Xã Phi Tô"
+        },
+        {
+            "uid": "733072da1da643619940dd3cf20c670a",
+            "name": "Xã Mê Linh"
+        },
+        {
+            "uid": "3966d31b4ef04ed488f11b8beccb254f",
+            "name": "Xã Đạ Đờn"
+        },
+        {
+            "uid": "fae1cd7d036e4d2bb347d982d95210d1",
+            "name": "Xã Phúc Thọ"
+        },
+        {
+            "uid": "2d2ad9e1f49e4d61bec1cbc1627ffbf5",
+            "name": "Xã Đông Thanh"
+        },
+        {
+            "uid": "81a0fad9cad841d798ad9661e1d8b20d",
+            "name": "Xã Gia Lâm"
+        },
+        {
+            "uid": "21f781ea12384b34a9891e75f78b508a",
+            "name": "Xã Tân Thanh"
+        },
+        {
+            "uid": "1454979e35c2404390b2b0c7f6541124",
+            "name": "Xã Tân Văn"
+        },
+        {
+            "uid": "75bafd0d75434bfd849bd8107490c254",
+            "name": "Xã Hoài Đức"
+        },
+        {
+            "uid": "bf08d1d3cfaa4cfebbfc0f680e71d3c8",
+            "name": "Xã Tân Hà"
+        },
+        {
+            "uid": "7994669ad0bd4c09b138f205eaced3ba",
+            "name": "Xã Liên Hà"
+        },
+        {
+            "uid": "0d7335c24ec244df85c24b3dace64eff",
+            "name": "Xã Đan Phượng"
+        },
+        {
+            "uid": "274c98cca61540e19d1f00bf93ba9fda",
+            "name": "Xã Nam Hà"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "uid": "624c92e79c7e477b87297c9fdfdc5110",
+    "name": "Huyện Krông Pa",
+    "wards": [
+        {
+            "uid": "6d517ac4994142278de82b5b600dcdc0",
+            "name": "Thị trấn Phú Túc"
+        },
+        {
+            "uid": "c5072255a537430398ddf25dfb57c1b7",
+            "name": "Xã Ia RSai"
+        },
+        {
+            "uid": "500fa76dacb04888b9e0f4954f46549a",
+            "name": "Xã Ia RSươm"
+        },
+        {
+            "uid": "a4784faa701245999122504c713a00ba",
+            "name": "Xã Chư Gu"
+        },
+        {
+            "uid": "047f003066ca4efc8a5e84173dc3de00",
+            "name": "Xã Đất Bằng"
+        },
+        {
+            "uid": "d94a35c20d8243329b9ce0940f6028a2",
+            "name": "Xã Ia Mláh"
+        },
+        {
+            "uid": "6bf1f0f3eb6a43c2af1bdae70f97ad6a",
+            "name": "Xã Chư Drăng"
+        },
+        {
+            "uid": "7fe441f7f0b046858d4d0b026e2672f3",
+            "name": "Xã Phú Cần"
+        },
+        {
+            "uid": "e4877e50eacf443eb5a1c81596eee0bc",
+            "name": "Xã Ia HDreh"
+        },
+        {
+            "uid": "f3fc7b3f9cb64e0187af30656ff3fe7e",
+            "name": "Xã Ia RMok"
+        },
+        {
+            "uid": "278f331fc26b4e5bb83fb9c718e34813",
+            "name": "Xã Chư Ngọc"
+        },
+        {
+            "uid": "84c0f78899654ba78a05e0f1a924ba69",
+            "name": "Xã Uar"
+        },
+        {
+            "uid": "0a103615a6c84bb3a2bb894d2c06b6bf",
+            "name": "Xã Chư Rcăm"
+        },
+        {
+            "uid": "54cf0cb645f04a0f801d2635309b8e02",
+            "name": "Xã Krông Năng"
+        }
+    ]
+}

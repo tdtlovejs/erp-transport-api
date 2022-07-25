@@ -1,0 +1,38 @@
+{
+    "uid": "34561518c483441fb08003a06a208b6e",
+    "name": "Thành Phố Bắc Kạn",
+    "wards": [
+        {
+            "uid": "cd72bd16792e4fa288b48da43400eeee",
+            "name": "Phường Nguyễn Thị Minh Khai"
+        },
+        {
+            "uid": "d3608ff1188d4f92a922a4d7331fd75e",
+            "name": "Phường Sông Cầu"
+        },
+        {
+            "uid": "c7871950d9624109854b68f512b79203",
+            "name": "Phường Đức Xuân"
+        },
+        {
+            "uid": "7d35478846d3408f9f147229f66f271d",
+            "name": "Phường Phùng Chí Kiên"
+        },
+        {
+            "uid": "b10033755abd424bac85cf643e4e0fc6",
+            "name": "Phường Huyền Tụng"
+        },
+        {
+            "uid": "79227948470e417592a8e75c8159ca41",
+            "name": "Xã Dương Quang"
+        },
+        {
+            "uid": "dd87082f776e49c7a06110e712222cc5",
+            "name": "Xã Nông Thượng"
+        },
+        {
+            "uid": "d125f6241024429294ac54ede2232c6a",
+            "name": "Phường Xuất Hóa"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "uid": "8b1c40e40caf41eb82a3163618271040",
+    "name": "Huyện Ba Vì",
+    "wards": [
+        {
+            "uid": "687c103b33414e668e8ad480a910b44c",
+            "name": "Thị trấn Tây Đằng"
+        },
+        {
+            "uid": "50d2c580c4314c649c5d81a393676a96",
+            "name": "Xã Phú Cường"
+        },
+        {
+            "uid": "f91c501b8258433f8df2acde482b149b",
+            "name": "Xã Cổ Đô"
+        },
+        {
+            "uid": "a49978b07bc24393931730f5b8b4cc01",
+            "name": "Xã Tản Hồng"
+        },
+        {
+            "uid": "a2af4d85e7564b4ea00bdccfacdd68df",
+            "name": "Xã Vạn Thắng"
+        },
+        {
+            "uid": "3af8fed2b5b74fdaa897f04c7092083c",
+            "name": "Xã Châu Sơn"
+        },
+        {
+            "uid": "7c8918166b6844c9b713012b45400a62",
+            "name": "Xã Phong Vân"
+        },
+        {
+            "uid": "6eb2b8de4bc34ed2bd6f1d9816df9a82",
+            "name": "Xã Phú Đông"
+        },
+        {
+            "uid": "e2af785dbc304f2f825711fd806c1ce7",
+            "name": "Xã Phú Phương"
+        },
+        {
+            "uid": "c67ab5eedcb04c39a2cfb1d92a8f4767",
+            "name": "Xã Phú Châu"
+        },
+        {
+            "uid": "8ce9d98a87594d8cb5a01e5e534516b2",
+            "name": "Xã Thái Hòa"
+        },
+        {
+            "uid": "e3651d5c2a9a476fbc82f80dcdf2c1d8",
+            "name": "Xã Đồng Thái"
+        },
+        {
+            "uid": "fcff98edf2374440b52f8dc9fcd6c984",
+            "name": "Xã Phú Sơn"
+        },
+        {
+            "uid": "094c29c678364c018f28749c9ca782af",
+            "name": "Xã Minh Châu"
+        },
+        {
+            "uid": "923129d9a0934ac6a7dbead0b32e6b62",
+            "name": "Xã Vật Lại"
+        },
+        {
+            "uid": "bda695e2ef984f91b8967c8978ecec56",
+            "name": "Xã Chu Minh"
+        },
+        {
+            "uid": "35401eb4d76945e0ac1560ff07217b7d",
+            "name": "Xã Tòng Bạt"
+        },
+        {
+            "uid": "4093c764a81c4da3a7972c3352c9946f",
+            "name": "Xã Cẩm Lĩnh"
+        },
+        {
+            "uid": "6fedf5804e1f439894ebbad2aa05707e",
+            "name": "Xã Sơn Đà"
+        },
+        {
+            "uid": "8c3e00570dd04260b6962f0089347955",
+            "name": "Xã Đông Quang"
+        },
+        {
+            "uid": "013bc0f721e8484a8ab3f345c3cda833",
+            "name": "Xã Tiên Phong"
+        },
+        {
+            "uid": "7f5477c8ec2943b3ac6cdee104cc9827",
+            "name": "Xã Thụy An"
+        },
+        {
+            "uid": "1f1e7fa2b4b646eb8d07d2d0b33d1390",
+            "name": "Xã Cam Thượng"
+        },
+        {
+            "uid": "73f1b3c3c16047bc8122d78b6ed644c6",
+            "name": "Xã Thuần Mỹ"
+        },
+        {
+            "uid": "0447f241097745238f08fb22ae0713ca",
+            "name": "Xã Tản Lĩnh"
+        },
+        {
+            "uid": "f6a1d5ae06504b36b89fc13a46783681",
+            "name": "Xã Ba Trại"
+        },
+        {
+            "uid": "b2f0bd28286243259875103d346b68a5",
+            "name": "Xã Minh Quang"
+        },
+        {
+            "uid": "3a64ed011a13484cbe3a4d18fe86a64b",
+            "name": "Xã Ba Vì"
+        },
+        {
+            "uid": "1e1570b7e7094e3384f0befac603f1c8",
+            "name": "Xã Vân Hòa"
+        },
+        {
+            "uid": "a81d129cbf4f4f379b6158736ab9239b",
+            "name": "Xã Yên Bài"
+        },
+        {
+            "uid": "77e9841fed57438a9aab1fca0761e38c",
+            "name": "Xã Khánh Thượng"
+        }
+    ]
+}

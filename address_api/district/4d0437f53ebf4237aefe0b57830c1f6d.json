@@ -1,0 +1,62 @@
+{
+    "uid": "4d0437f53ebf4237aefe0b57830c1f6d",
+    "name": "Huyện Khánh Vĩnh",
+    "wards": [
+        {
+            "uid": "61dfd502af9b4347bffa94ee930831e6",
+            "name": "Thị trấn Khánh Vĩnh"
+        },
+        {
+            "uid": "4f1f46f9cdf54cc298f238738507af7f",
+            "name": "Xã Khánh Hiệp"
+        },
+        {
+            "uid": "31ad2df5a59e4d54b4d53fe7088899b9",
+            "name": "Xã Khánh Bình"
+        },
+        {
+            "uid": "dfbbad783231472bb4c630b264637ab5",
+            "name": "Xã Khánh Trung"
+        },
+        {
+            "uid": "2463ec767c9d4b19a9f3f6a494077eed",
+            "name": "Xã Khánh Đông"
+        },
+        {
+            "uid": "430e3ffdebf1459084ca77753fc532f6",
+            "name": "Xã Khánh Thượng"
+        },
+        {
+            "uid": "636aef72e2d242f89f3c47b822ed48c1",
+            "name": "Xã Khánh Nam"
+        },
+        {
+            "uid": "efb52997e53f465dafe1d1568e73d343",
+            "name": "Xã Sông Cầu"
+        },
+        {
+            "uid": "f97c9932a9574fdc85fbaa9907dc3583",
+            "name": "Xã Giang Ly"
+        },
+        {
+            "uid": "c67bf1ab90a842ff94d83786ce882463",
+            "name": "Xã Cầu Bà"
+        },
+        {
+            "uid": "fc8887a123534728acdbc4f951e57f9e",
+            "name": "Xã Liên Sang"
+        },
+        {
+            "uid": "2aa9f717334e4f4294a30ce14cd2548f",
+            "name": "Xã Khánh Thành"
+        },
+        {
+            "uid": "e7706492556e45728e5818cd44102c80",
+            "name": "Xã Khánh Phú"
+        },
+        {
+            "uid": "e0d200d19c614a4ea53d0885001989bf",
+            "name": "Xã Sơn Thái"
+        }
+    ]
+}

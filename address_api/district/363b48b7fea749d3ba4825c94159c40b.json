@@ -1,0 +1,38 @@
+{
+    "uid": "363b48b7fea749d3ba4825c94159c40b",
+    "name": "Thị xã Ngã Năm",
+    "wards": [
+        {
+            "uid": "d682d8b2e6c04a9bb0c6d0240c678930",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "f0fd2a9200f2435096a34bb1d81d8bed",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "653abad89f664866b352aa58e3e7968a",
+            "name": "Xã Vĩnh Quới"
+        },
+        {
+            "uid": "57840580898f4554b31c394fe02a010b",
+            "name": "Xã Tân Long"
+        },
+        {
+            "uid": "930e42fc52c84bbf9c76d238596f831d",
+            "name": "Xã Long Bình"
+        },
+        {
+            "uid": "6215d0a5e9fd4a4d809932b7dbe3cc80",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "ba05a90b612f43cf8d1ccb3412509b27",
+            "name": "Xã Mỹ Bình"
+        },
+        {
+            "uid": "aa8b90e28a41401da8c017cd8964bd6e",
+            "name": "Xã Mỹ Quới"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "uid": "9f91a4d9e1f749a1bbf9873c2faf3121",
+    "name": "Thị xã Hương Trà",
+    "wards": [
+        {
+            "uid": "185d6ea86bad4ba7bfce7cb0299cd55a",
+            "name": "Phường Tứ Hạ"
+        },
+        {
+            "uid": "8adf2b25b663403aaa27a2263c031eb2",
+            "name": "Xã Hải Dương"
+        },
+        {
+            "uid": "66a252be7dbf4b82bb9373571014a78c",
+            "name": "Xã Hương Phong"
+        },
+        {
+            "uid": "7fe6ac843d644d31a354ca05b929288f",
+            "name": "Xã Hương Toàn"
+        },
+        {
+            "uid": "de70ee5a90b6447bb7f427ab878ce32a",
+            "name": "Phường Hương Vân"
+        },
+        {
+            "uid": "dbbd59edcbc9410797a745a932a255f5",
+            "name": "Phường Hương Văn"
+        },
+        {
+            "uid": "603f87496f624bf8b15af9e4f37216f7",
+            "name": "Xã Hương Vinh"
+        },
+        {
+            "uid": "4f5e619a6aa242e49ef903d5ba95bb3d",
+            "name": "Phường Hương Xuân"
+        },
+        {
+            "uid": "4784a88da10b4882934d8b267ea611c0",
+            "name": "Phường Hương Chữ"
+        },
+        {
+            "uid": "4cb6b893f3c8431f8d3bc602dbc61a62",
+            "name": "Phường Hương An"
+        },
+        {
+            "uid": "ce194bcb5d79492eb1132f3e0a580802",
+            "name": "Xã Hương Bình"
+        },
+        {
+            "uid": "361570a57b3f42a1b367af3bced8a95e",
+            "name": "Phường Hương Hồ"
+        },
+        {
+            "uid": "5de44d1456ff478eb2bf90213b720051",
+            "name": "Xã Hương Thọ"
+        },
+        {
+            "uid": "62db3d5a86be4230abc454259e05ff42",
+            "name": "Xã Bình Tiến"
+        },
+        {
+            "uid": "ce1a190ef96a4a61b3a0652565bf9baf",
+            "name": "Xã Bình Thành"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "uid": "01121470f43747ccb1f3719585d0f259",
+    "name": "Thị xã Tân Châu",
+    "wards": [
+        {
+            "uid": "2113aec646024e488c0a9954485978dd",
+            "name": "Phường Long Thạnh"
+        },
+        {
+            "uid": "d960d67efc9f48caaab37c1d04a38c01",
+            "name": "Phường Long Hưng"
+        },
+        {
+            "uid": "bf3d6c6233da4d60bddaae7c21e27891",
+            "name": "Phường Long Châu"
+        },
+        {
+            "uid": "3b4d47adf49c42b583c66e04936439c6",
+            "name": "Xã Phú Lộc"
+        },
+        {
+            "uid": "4ed17509f4834d0888843105c1430ffc",
+            "name": "Xã Vĩnh Xương"
+        },
+        {
+            "uid": "5db58a61f19e445a863c6ba6e2415ebe",
+            "name": "Xã Vĩnh Hòa"
+        },
+        {
+            "uid": "91b479f2ef7b4e4c87248d68438c9402",
+            "name": "Xã Tân Thạnh"
+        },
+        {
+            "uid": "271a40df3f7e43a4a865532121484c67",
+            "name": "Xã Tân An"
+        },
+        {
+            "uid": "b5b522d5d5fd493ab70f77fe559538b7",
+            "name": "Xã Long An"
+        },
+        {
+            "uid": "e8978c83d25042919e10f45facfecf38",
+            "name": "Phường Long Phú"
+        },
+        {
+            "uid": "221eb6808f49478e90c23d6326289ed3",
+            "name": "Xã Châu Phong"
+        },
+        {
+            "uid": "94b0c07446194760b1e19dc854d6dd29",
+            "name": "Xã Phú Vĩnh"
+        },
+        {
+            "uid": "d068f8e47dd243328c48499e79e1b9be",
+            "name": "Xã Lê Chánh"
+        },
+        {
+            "uid": "ec2e17b032f44652bd2d3fea7e65b73c",
+            "name": "Phường Long Sơn"
+        }
+    ]
+}

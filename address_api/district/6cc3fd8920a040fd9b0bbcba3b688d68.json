@@ -1,0 +1,54 @@
+{
+    "uid": "6cc3fd8920a040fd9b0bbcba3b688d68",
+    "name": "Huyện Đắk Glei",
+    "wards": [
+        {
+            "uid": "d9addab177f8428faccc018270235cac",
+            "name": "Thị trấn Đắk Glei"
+        },
+        {
+            "uid": "1f0db9d47df047a294653af18d7b80cb",
+            "name": "Xã Đắk Blô"
+        },
+        {
+            "uid": "31054ba81c694f9faf4d9d820defff40",
+            "name": "Xã Đắk Man"
+        },
+        {
+            "uid": "52fbb5a96c6445a5b5b1624870c646e2",
+            "name": "Xã Đắk Nhoong"
+        },
+        {
+            "uid": "b5d846efac55453581255fed74b6c3f3",
+            "name": "Xã Đắk Pék"
+        },
+        {
+            "uid": "64cef4d2fe5e448e952e77158113796f",
+            "name": "Xã Đắk Choong"
+        },
+        {
+            "uid": "2f6cd9b07401409794d3522f7dd6a475",
+            "name": "Xã Xốp"
+        },
+        {
+            "uid": "c4c024a0d01148038126164d5fa080a9",
+            "name": "Xã Mường Hoong"
+        },
+        {
+            "uid": "2c17022bc59c4b7fba25dd69cfa325ac",
+            "name": "Xã Ngọc Linh"
+        },
+        {
+            "uid": "b5b8741580484ac4b59cd249c0c7d00a",
+            "name": "Xã Đắk Long"
+        },
+        {
+            "uid": "5cc0626f6d354989b378e6d7c36f9dd0",
+            "name": "Xã Đắk KRoong"
+        },
+        {
+            "uid": "a1949c94d50841bdb7868769ec348662",
+            "name": "Xã Đắk Môn"
+        }
+    ]
+}

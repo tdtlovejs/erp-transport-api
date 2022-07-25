@@ -1,0 +1,34 @@
+{
+    "uid": "dd2db0d89c294595978f34527b85291a",
+    "name": "Huyện Bù Đốp",
+    "wards": [
+        {
+            "uid": "8fb7adcd4a0c4d17ac803d6de3e19f5c",
+            "name": "Thị trấn Thanh Bình"
+        },
+        {
+            "uid": "fde85a1008254d87b72e837907aefbd1",
+            "name": "Xã Hưng Phước"
+        },
+        {
+            "uid": "20e32cfdf7b74e7da12e855f5831ec1d",
+            "name": "Xã Phước Thiện"
+        },
+        {
+            "uid": "95a1b98541d54276ac4131ec953b6713",
+            "name": "Xã Thiện Hưng"
+        },
+        {
+            "uid": "9f9d9b6824ec4d0ebba405cf8ca19bf4",
+            "name": "Xã Thanh Hòa"
+        },
+        {
+            "uid": "f22a0c47ccad4d73bb1f743fb1ba8b0d",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "167294c04dbd4348b5604c8b92707f47",
+            "name": "Xã Tân Tiến"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "uid": "271966868c9a46d1abad0b45356690af",
+    "name": "Thành phố Biên Hòa",
+    "wards": [
+        {
+            "uid": "96f206581a864f6c8c04c29a6a35e601",
+            "name": "Phường Trảng Dài"
+        },
+        {
+            "uid": "6ae633d063c84a23973f8ee31ff980b4",
+            "name": "Phường Tân Phong"
+        },
+        {
+            "uid": "c49251d919824c0dadce057c0448da0c",
+            "name": "Phường Tân Biên"
+        },
+        {
+            "uid": "36202fe8fab94f51a0d283e4aed028bd",
+            "name": "Phường Hố Nai"
+        },
+        {
+            "uid": "7dbcd8ce38334f789aac43405e5a0eb6",
+            "name": "Phường Tân Hòa"
+        },
+        {
+            "uid": "40197040b2e54048ae09218981b15986",
+            "name": "Phường Tân Hiệp"
+        },
+        {
+            "uid": "27db4cf8e60f486ebc771a71ee138527",
+            "name": "Phường Bửu Long"
+        },
+        {
+            "uid": "d000ddd290924b39900af7db3d6c5126",
+            "name": "Phường Tân Tiến"
+        },
+        {
+            "uid": "97079b8fb463462da39054c6be08d264",
+            "name": "Phường Tam Hiệp"
+        },
+        {
+            "uid": "1d8e77bb98c046c19fa81591aca7ceb1",
+            "name": "Phường Long Bình"
+        },
+        {
+            "uid": "1a89ce5ea46e4cd6bc09ecd4b1d3605e",
+            "name": "Phường Quang Vinh"
+        },
+        {
+            "uid": "3c6fd58dcbfa48789c205888c09b00e9",
+            "name": "Phường Tân Mai"
+        },
+        {
+            "uid": "2a9b73f36db440b084ba45e3d8eeb190",
+            "name": "Phường Thống Nhất"
+        },
+        {
+            "uid": "24338ef61c3e4bbc9804679420ff3dde",
+            "name": "Phường Trung Dũng"
+        },
+        {
+            "uid": "46eedad71c9540a482bcbe75695faa2a",
+            "name": "Phường Tam Hòa"
+        },
+        {
+            "uid": "30a4150fac3f4379afba3ad5ddb16a63",
+            "name": "Phường Hòa Bình"
+        },
+        {
+            "uid": "aa8d0c2253ee4467aaf0c71b044079e0",
+            "name": "Phường Quyết Thắng"
+        },
+        {
+            "uid": "b057ab87056b4e479dbb634a2be206ff",
+            "name": "Phường Thanh Bình"
+        },
+        {
+            "uid": "9d41676c800f4af3a2579d474913985b",
+            "name": "Phường Bình Đa"
+        },
+        {
+            "uid": "2e05a74c4d504b69b7203041079ea9c6",
+            "name": "Phường An Bình"
+        },
+        {
+            "uid": "d7e3d25d5a9049e9be7fdc977b480104",
+            "name": "Phường Bửu Hòa"
+        },
+        {
+            "uid": "b0670107f7b84946b35a3add4133d1f3",
+            "name": "Phường Long Bình Tân"
+        },
+        {
+            "uid": "0f894723110e4bb2bafbb1927ec65b76",
+            "name": "Phường Tân Vạn"
+        },
+        {
+            "uid": "a4c6d4237dd741848b241d8cc3455e8c",
+            "name": "Phường Tân Hạnh"
+        },
+        {
+            "uid": "0207e900b3764678a03e68ccceaaf5e2",
+            "name": "Phường Hiệp Hòa"
+        },
+        {
+            "uid": "0fbf4fc0d0ec48f081b24006aa067865",
+            "name": "Phường Hóa An"
+        },
+        {
+            "uid": "9c1a5f151f20472980281e1710d5b42f",
+            "name": "Phường An Hòa"
+        },
+        {
+            "uid": "324f962a986d4c5b8de59f2bb4ce629b",
+            "name": "Phường Tam Phước"
+        },
+        {
+            "uid": "85b02cf5d4a8402c8242a8ca8aa69e61",
+            "name": "Phường Phước Tân"
+        },
+        {
+            "uid": "6ed92fc646844106a66eb0971b43d99f",
+            "name": "Xã Long Hưng"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "uid": "175b76e05e9a496899648cb8e20865ef",
+    "name": "Huyện Lạc Thủy",
+    "wards": [
+        {
+            "uid": "42c5622152f141cd82b3e233ecb9d2ad",
+            "name": "Thị trấn Ba Hàng Đồi"
+        },
+        {
+            "uid": "4535afe4693a4159a34f6d058c17316a",
+            "name": "Thị trấn Chi Nê"
+        },
+        {
+            "uid": "73cdc5d16218455fafa0ef0aa4f71caf",
+            "name": "Xã Phú Nghĩa"
+        },
+        {
+            "uid": "d5d5c869cb4543528cce36c3664d9553",
+            "name": "Xã Phú Thành"
+        },
+        {
+            "uid": "427740d1b4aa499aaab3db60bd1aa3ae",
+            "name": "Xã Hưng Thi"
+        },
+        {
+            "uid": "032107f3e4e84606a459bd18ac52f0f9",
+            "name": "Xã Khoan Dụ"
+        },
+        {
+            "uid": "ba16c0131b354d3faf5ed3f22fe4be7d",
+            "name": "Xã Đồng Tâm"
+        },
+        {
+            "uid": "4bbbcecbd17e4f9db36b657aae107013",
+            "name": "Xã Yên Bồng"
+        },
+        {
+            "uid": "237ef1d402e740afafcfa8a94987363a",
+            "name": "Xã Thống Nhất"
+        },
+        {
+            "uid": "5200be17baa14469a505dc2249f52001",
+            "name": "Xã An Bình"
+        }
+    ]
+}

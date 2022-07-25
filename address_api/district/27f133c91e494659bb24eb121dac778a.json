@@ -1,0 +1,90 @@
+{
+    "uid": "27f133c91e494659bb24eb121dac778a",
+    "name": "Huyện Gia Viễn",
+    "wards": [
+        {
+            "uid": "76bf0f19b91445b6ad2d4598ff6e47e9",
+            "name": "Thị trấn Me"
+        },
+        {
+            "uid": "06114d2217d84d5cad841ea822738ce8",
+            "name": "Xã Gia Hòa"
+        },
+        {
+            "uid": "5a946f90e30842179349e70e4088009d",
+            "name": "Xã Gia Hưng"
+        },
+        {
+            "uid": "1df6e3e774424fbfb0c5bced0e342f3f",
+            "name": "Xã Liên Sơn"
+        },
+        {
+            "uid": "d27bd3d259394d8e8163b6ad24a96e36",
+            "name": "Xã Gia Thanh"
+        },
+        {
+            "uid": "505c714352474ebcac1cb267c786974b",
+            "name": "Xã Gia Vân"
+        },
+        {
+            "uid": "2d61268fe18d4962898cc90721799171",
+            "name": "Xã Gia Phú"
+        },
+        {
+            "uid": "8869fcff679447da9d2220524a3e1dc3",
+            "name": "Xã Gia Xuân"
+        },
+        {
+            "uid": "0aeff96d95f94a6b921f55d68c8318c2",
+            "name": "Xã Gia Lập"
+        },
+        {
+            "uid": "1231e6c1a2c644428d50fb5c01433326",
+            "name": "Xã Gia Vượng"
+        },
+        {
+            "uid": "9a7b6a95943a426e8bb3741b6c4eae1a",
+            "name": "Xã Gia Trấn"
+        },
+        {
+            "uid": "6884d106824840cc91751f4edc2a00d1",
+            "name": "Xã Gia Thịnh"
+        },
+        {
+            "uid": "88c6601438cf45238252764e2968fb50",
+            "name": "Xã Gia Phương"
+        },
+        {
+            "uid": "74abac2bbb1944bba365a7baad830fc1",
+            "name": "Xã Gia Tân"
+        },
+        {
+            "uid": "9ffca4912cc142939c90a13d35c320e5",
+            "name": "Xã Gia Thắng"
+        },
+        {
+            "uid": "aea495852c3f438e9543c13d040e4a4a",
+            "name": "Xã Gia Trung"
+        },
+        {
+            "uid": "90d95d167508417387e8f81bb35616b1",
+            "name": "Xã Gia Minh"
+        },
+        {
+            "uid": "6d76a9c261df4a4ba9ed1f4c31c091c2",
+            "name": "Xã Gia Lạc"
+        },
+        {
+            "uid": "2aec2f89278b47d59d66498a8c105daa",
+            "name": "Xã Gia Tiến"
+        },
+        {
+            "uid": "18d20472bebf4f36926bd87c3c63d866",
+            "name": "Xã Gia Sinh"
+        },
+        {
+            "uid": "2e2f32c88e5a434da6ccd4d2c3924d35",
+            "name": "Xã Gia Phong"
+        }
+    ]
+}

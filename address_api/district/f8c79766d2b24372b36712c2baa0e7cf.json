@@ -1,0 +1,34 @@
+{
+    "uid": "f8c79766d2b24372b36712c2baa0e7cf",
+    "name": "Thành phố Hà Tiên",
+    "wards": [
+        {
+            "uid": "97524f0bca2b4ab9aca5e74a4eb84741",
+            "name": "Phường Tô Châu"
+        },
+        {
+            "uid": "bf194b048fbc4908879ccedaa955566b",
+            "name": "Phường Đông Hồ"
+        },
+        {
+            "uid": "863ac99fd1ee4a8d9888165c4a86ceae",
+            "name": "Phường Bình San"
+        },
+        {
+            "uid": "8dd6fd28e85a4390a11acf4e32b6eed1",
+            "name": "Phường Pháo Đài"
+        },
+        {
+            "uid": "c785382cb74d4edab816f9a00b30d13b",
+            "name": "Phường Mỹ Đức"
+        },
+        {
+            "uid": "ebfa0a9babfc4e4b80365bb505dbc91f",
+            "name": "Xã Tiên Hải"
+        },
+        {
+            "uid": "1ae630e4c4b24f8b9125864d957fe40b",
+            "name": "Xã Thuận Yên"
+        }
+    ]
+}

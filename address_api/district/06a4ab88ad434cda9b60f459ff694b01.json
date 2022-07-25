@@ -1,0 +1,70 @@
+{
+    "uid": "06a4ab88ad434cda9b60f459ff694b01",
+    "name": "Thị xã Duy Tiên",
+    "wards": [
+        {
+            "uid": "365d2f15cbf941cb87e8c70221a09e99",
+            "name": "Phường Đồng Văn"
+        },
+        {
+            "uid": "8a87b2d518d04fcbae6c4231f3bd73de",
+            "name": "Phường Hòa Mạc"
+        },
+        {
+            "uid": "a0c262074a564e2180068826f59ae3ce",
+            "name": "Xã Mộc Bắc"
+        },
+        {
+            "uid": "a2fc987f7922422ab92f926e945bd9a9",
+            "name": "Phường Châu Giang"
+        },
+        {
+            "uid": "2c4e4d6a4cfb4648998edb2aaa5ac33e",
+            "name": "Phường Bạch Thượng"
+        },
+        {
+            "uid": "b16e3a147c9d4a9b918891a17b772826",
+            "name": "Phường Duy Minh"
+        },
+        {
+            "uid": "ab3e44d4d09e49e4b125840da114eb6a",
+            "name": "Xã Mộc Nam"
+        },
+        {
+            "uid": "0b7b80de84774dde80678e28e89f876e",
+            "name": "Phường Duy Hải"
+        },
+        {
+            "uid": "c21bf2c39103438690a61e1a8ac1caa2",
+            "name": "Xã Chuyên Ngoại"
+        },
+        {
+            "uid": "1960dc70ec7443109e25f5b680d86b35",
+            "name": "Phường Yên Bắc"
+        },
+        {
+            "uid": "c5dc51ce4dbc4bb6b3bbc6ef500d7773",
+            "name": "Xã Trác Văn"
+        },
+        {
+            "uid": "bbe156d464e44c9fa26d9c15b233a5e3",
+            "name": "Phường Tiên Nội"
+        },
+        {
+            "uid": "57bfe86bdf1940f4b8057154d21c84cf",
+            "name": "Phường Hoàng Đông"
+        },
+        {
+            "uid": "be54806bd66b4ea7a99404c6aaefb1f7",
+            "name": "Xã Yên Nam"
+        },
+        {
+            "uid": "f44d7d16eb734f1cafddaa7feba7df2e",
+            "name": "Xã Tiên Ngoại"
+        },
+        {
+            "uid": "15b9a5ce3d744bf8b690acbf90f8081d",
+            "name": "Xã Tiên Sơn"
+        }
+    ]
+}

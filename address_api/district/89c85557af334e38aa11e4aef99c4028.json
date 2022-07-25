@@ -1,0 +1,66 @@
+{
+    "uid": "89c85557af334e38aa11e4aef99c4028",
+    "name": "Huyện Đức Trọng",
+    "wards": [
+        {
+            "uid": "a919435ad74b495db54b31d240bb6cbb",
+            "name": "Thị trấn Liên Nghĩa"
+        },
+        {
+            "uid": "73230f74af4a404d83a5eea3a8fcdeb5",
+            "name": "Xã Hiệp An"
+        },
+        {
+            "uid": "8abc1b5bfe7741d191711dbf484aafe9",
+            "name": "Xã Liên Hiệp"
+        },
+        {
+            "uid": "e22aa3f3a25f4487b031c1a523b9d668",
+            "name": "Xã Hiệp Thạnh"
+        },
+        {
+            "uid": "c769499b440a45589d68e14024a726d3",
+            "name": "Xã Bình Thạnh"
+        },
+        {
+            "uid": "3d995dacab3a41ac8ca99238ffa0725a",
+            "name": "Xã N'Thol Hạ"
+        },
+        {
+            "uid": "e3b3305d19a94ab8963100892c842172",
+            "name": "Xã Tân Hội"
+        },
+        {
+            "uid": "142fe828a15a4f27822b2cd2735052d6",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "1329823264a4442abf89bd1328193cb8",
+            "name": "Xã Phú Hội"
+        },
+        {
+            "uid": "f7b2917330f8461cbff4f6cb68914406",
+            "name": "Xã Ninh Gia"
+        },
+        {
+            "uid": "accca732262c4fd3b3bab42ed2501834",
+            "name": "Xã Tà Năng"
+        },
+        {
+            "uid": "813eb309b9ec4011aa8bf7387b2f9a49",
+            "name": "Xã Đa Quyn"
+        },
+        {
+            "uid": "d196ee44ab1d4ce688082802d23f65ec",
+            "name": "Xã Tà Hine"
+        },
+        {
+            "uid": "dbc9b45dafdf42448c6a3cb1ff4542e2",
+            "name": "Xã Đà Loan"
+        },
+        {
+            "uid": "d2f5bd3fb9784470a7c64e7b48ac63f2",
+            "name": "Xã Ninh Loan"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "uid": "c53a68172e5841ca8fcb248897658ec3",
+    "name": "Huyện Yên Mô",
+    "wards": [
+        {
+            "uid": "cf82d879d436495390f619284267f41c",
+            "name": "Thị trấn Yên Thịnh"
+        },
+        {
+            "uid": "e7365a03bbce4461afc6d2fd125e26c4",
+            "name": "Xã Khánh Thượng"
+        },
+        {
+            "uid": "707f4bdfcc194ba6801e807a941fbf85",
+            "name": "Xã Khánh Dương"
+        },
+        {
+            "uid": "82942d3f08494aa7a0ceb4f532e6621e",
+            "name": "Xã Mai Sơn"
+        },
+        {
+            "uid": "99e3d727add74d56a0f6683725e436f4",
+            "name": "Xã Khánh Thịnh"
+        },
+        {
+            "uid": "d268b8e1a3f249e085f7557717d87c6b",
+            "name": "Xã Yên Phong"
+        },
+        {
+            "uid": "e14e27355d894bda93acc4d2be80c4be",
+            "name": "Xã Yên Hòa"
+        },
+        {
+            "uid": "6968a401bddd4ad4a9db7df7a46a1f7f",
+            "name": "Xã Yên Thắng"
+        },
+        {
+            "uid": "fda4c70b302e4fa8b27013e20bb38dff",
+            "name": "Xã Yên Từ"
+        },
+        {
+            "uid": "5b2f019b141145758df399a4c637efd5",
+            "name": "Xã Yên Hưng"
+        },
+        {
+            "uid": "87742cee0cd5400fb3a71eb4393ea913",
+            "name": "Xã Yên Thành"
+        },
+        {
+            "uid": "af6bff20c2ed474a81fce3b5b93d54f8",
+            "name": "Xã Yên Nhân"
+        },
+        {
+            "uid": "48440300f5034253a91191421e2306b3",
+            "name": "Xã Yên Mỹ"
+        },
+        {
+            "uid": "2d371bac894542de910f01dce9c2e2cd",
+            "name": "Xã Yên Mạc"
+        },
+        {
+            "uid": "f29e94d37688408f8e9a3dd3ef603ab0",
+            "name": "Xã Yên Đồng"
+        },
+        {
+            "uid": "1066e07d309e43cc91fca21eb5d0f90c",
+            "name": "Xã Yên Thái"
+        },
+        {
+            "uid": "13395924d5da4e2daa2ba9c4016cce39",
+            "name": "Xã Yên Lâm"
+        }
+    ]
+}

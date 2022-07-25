@@ -1,0 +1,110 @@
+{
+    "uid": "224ed9796b2243418c838872754cb4bf",
+    "name": "Huyện Lệ Thủy",
+    "wards": [
+        {
+            "uid": "d0d31ba8f56b4ae59a61ab443f565a92",
+            "name": "Thị trấn NT Lệ Ninh"
+        },
+        {
+            "uid": "c4b333d48aa94d7c8700c73da05188a5",
+            "name": "Thị trấn Kiến Giang"
+        },
+        {
+            "uid": "d50a99d605614c559cdf1e5bf2ea2fd3",
+            "name": "Xã Hồng Thủy"
+        },
+        {
+            "uid": "494b40be16f147d19d027e8e334a7923",
+            "name": "Xã Ngư Thủy Bắc"
+        },
+        {
+            "uid": "ae529dcc9fdb46f19607c747ec05b4ed",
+            "name": "Xã Hoa Thủy"
+        },
+        {
+            "uid": "dd379de9955e4507a95aca8810a73560",
+            "name": "Xã Thanh Thủy"
+        },
+        {
+            "uid": "b09de0302cfb454c855e06703ad92025",
+            "name": "Xã An Thủy"
+        },
+        {
+            "uid": "24785ff96fbc4985a7370981e9111ab8",
+            "name": "Xã Phong Thủy"
+        },
+        {
+            "uid": "a6dafd9147fc4ae18d5663447319c799",
+            "name": "Xã Cam Thủy"
+        },
+        {
+            "uid": "1aad1fc9828442d286082407eaded8df",
+            "name": "Xã Ngân Thủy"
+        },
+        {
+            "uid": "a063ff8782c74a62b2516fb3c3ba736d",
+            "name": "Xã Sơn Thủy"
+        },
+        {
+            "uid": "cfa7fe1cfa2348ffb2763cfa9d3f8255",
+            "name": "Xã Lộc Thủy"
+        },
+        {
+            "uid": "196edc29ab454a70aa7760c5241a0bb3",
+            "name": "Xã Liên Thủy"
+        },
+        {
+            "uid": "673f922a3e4148548714e6197bc6ba3b",
+            "name": "Xã Hưng Thủy"
+        },
+        {
+            "uid": "eadb1f83c5414e55973f07a4cb6bf098",
+            "name": "Xã Dương Thủy"
+        },
+        {
+            "uid": "40889746290744a19ed7ce0c96fdef1f",
+            "name": "Xã Tân Thủy"
+        },
+        {
+            "uid": "49683653c5cf425ca91f4ab5290b65b2",
+            "name": "Xã Phú Thủy"
+        },
+        {
+            "uid": "7268393ea9554857bd6cef8f287bf694",
+            "name": "Xã Xuân Thủy"
+        },
+        {
+            "uid": "59f0de58a7f9462db1f6a1b01c5af5ef",
+            "name": "Xã Mỹ Thủy"
+        },
+        {
+            "uid": "547801b7d7c84811a0f99c2bb9968550",
+            "name": "Xã Ngư Thủy"
+        },
+        {
+            "uid": "fa6825bd878a47eea38797c177e504fd",
+            "name": "Xã Mai Thủy"
+        },
+        {
+            "uid": "e429722b6e7c4eddb21fb63c77fa2c2b",
+            "name": "Xã Sen Thủy"
+        },
+        {
+            "uid": "49ab045ec92c46ec928014f8dfac2f38",
+            "name": "Xã Thái Thủy"
+        },
+        {
+            "uid": "42d46db285174895a1cc635e77e3fa43",
+            "name": "Xã Kim Thủy"
+        },
+        {
+            "uid": "b9e334b6105a469988d58d03f2e789a3",
+            "name": "Xã Trường Thủy"
+        },
+        {
+            "uid": "39cedb94f48a49a2b46975b4ef2c21a5",
+            "name": "Xã Lâm Thủy"
+        }
+    ]
+}

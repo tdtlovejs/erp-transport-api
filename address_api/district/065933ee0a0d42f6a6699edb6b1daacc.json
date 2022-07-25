@@ -1,0 +1,66 @@
+{
+    "uid": "065933ee0a0d42f6a6699edb6b1daacc",
+    "name": "Huyện Võ Nhai",
+    "wards": [
+        {
+            "uid": "cb07786fa2e748848ec91c6369a79497",
+            "name": "Thị trấn Đình Cả"
+        },
+        {
+            "uid": "2ee0c49809de452685ce2ccf4d62a24a",
+            "name": "Xã Sảng Mộc"
+        },
+        {
+            "uid": "2f4c564d544a48d2b744b8b1be63f8ca",
+            "name": "Xã Nghinh Tường"
+        },
+        {
+            "uid": "acae792c4dbb4b43a8712430fb27d8ee",
+            "name": "Xã Thần Xa"
+        },
+        {
+            "uid": "b5a93c985857455dbe630de5a557b95b",
+            "name": "Xã Vũ Chấn"
+        },
+        {
+            "uid": "2fa743a76b31420a89a95832099a2e01",
+            "name": "Xã Thượng Nung"
+        },
+        {
+            "uid": "d2c8a02d129c42699077a0607d03ce35",
+            "name": "Xã Phú Thượng"
+        },
+        {
+            "uid": "65a1f9654e7b4adca4fa63c88fefbba2",
+            "name": "Xã Cúc Đường"
+        },
+        {
+            "uid": "78262b847ddf4c88911ee6952509c9ab",
+            "name": "Xã La Hiên"
+        },
+        {
+            "uid": "20160e86db964e5d8ce11d471c06a4d4",
+            "name": "Xã Lâu Thượng"
+        },
+        {
+            "uid": "0ea522b5481a404da213b62fc9a1a9f0",
+            "name": "Xã Tràng Xá"
+        },
+        {
+            "uid": "57272b0b6ae14e9298bff393cfdb122d",
+            "name": "Xã Phương Giao"
+        },
+        {
+            "uid": "14c18cb75c3b40b28813a2638667cfa2",
+            "name": "Xã Liên Minh"
+        },
+        {
+            "uid": "b82a459717b7413883ccbdc7f29cc517",
+            "name": "Xã Dân Tiến"
+        },
+        {
+            "uid": "2506a03e04df4943bb5552905d9e8e7c",
+            "name": "Xã Bình Long"
+        }
+    ]
+}

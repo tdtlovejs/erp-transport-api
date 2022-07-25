@@ -1,0 +1,34 @@
+{
+    "uid": "930cb0ff8e7b4d53b2152f7d29ff68b3",
+    "name": "Huyện Duyên Hải",
+    "wards": [
+        {
+            "uid": "049f5de6408b4351a5c9017b7c308674",
+            "name": "Xã Đôn Xuân"
+        },
+        {
+            "uid": "bbc030dc5af34fc585443987a595e74e",
+            "name": "Xã Đôn Châu"
+        },
+        {
+            "uid": "7489297df72e43ab8b476c4d87468b33",
+            "name": "Thị trấn Long Thành"
+        },
+        {
+            "uid": "7740499c7e884e4ab5fa56b16223fb84",
+            "name": "Xã Long Khánh"
+        },
+        {
+            "uid": "8d02f3293611430b92d616ead0950aa9",
+            "name": "Xã Ngũ Lạc"
+        },
+        {
+            "uid": "4daa79ceeb3a4ae1b4bb280cf97fb898",
+            "name": "Xã Long Vĩnh"
+        },
+        {
+            "uid": "82fbe4aba34844849064bcac87eb5805",
+            "name": "Xã Đông Hải"
+        }
+    ]
+}

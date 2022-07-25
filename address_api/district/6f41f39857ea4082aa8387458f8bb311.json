@@ -1,0 +1,34 @@
+{
+    "uid": "6f41f39857ea4082aa8387458f8bb311",
+    "name": "Huyện Krông Búk",
+    "wards": [
+        {
+            "uid": "0d5817a65acd40518ec9441cd8465a9f",
+            "name": "Xã Cư Né"
+        },
+        {
+            "uid": "856f1a44691d452da9d945e33113b2f8",
+            "name": "Xã Chư KBô"
+        },
+        {
+            "uid": "16b40dcb397e4c7dad1a09e498b2e9cf",
+            "name": "Xã Cư Pơng"
+        },
+        {
+            "uid": "b7b64113ff2c4c519491d4e19353a2ce",
+            "name": "Xã Ea Sin"
+        },
+        {
+            "uid": "3e68e3fa5f0b42aea03dc67821156a29",
+            "name": "Xã Pơng Drang"
+        },
+        {
+            "uid": "89b04b318d54411cbfe582000f7dbcdd",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "633c1d3704ce40ff809e3db00f2a2c66",
+            "name": "Xã Ea Ngai"
+        }
+    ]
+}

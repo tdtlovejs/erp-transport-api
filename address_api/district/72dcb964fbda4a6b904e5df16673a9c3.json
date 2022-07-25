@@ -1,0 +1,122 @@
+{
+    "uid": "72dcb964fbda4a6b904e5df16673a9c3",
+    "name": "Huyện Thuận Châu",
+    "wards": [
+        {
+            "uid": "cf3cc457ce8e44b89c2b63961ec90a58",
+            "name": "Thị trấn Thuận Châu"
+        },
+        {
+            "uid": "34e2b6a17f62424d87c1d6422b25f9a8",
+            "name": "Xã Phổng Lái"
+        },
+        {
+            "uid": "21c1466115c0418fbd3c1db7c48a24fe",
+            "name": "Xã Mường é"
+        },
+        {
+            "uid": "ce3caff4bc854c7db5533423522dedf8",
+            "name": "Xã Chiềng Pha"
+        },
+        {
+            "uid": "84b116ba89af4d4aaf23906104040340",
+            "name": "Xã Chiềng La"
+        },
+        {
+            "uid": "ec027e93ec414f8faec0ad62ceba1ab0",
+            "name": "Xã Chiềng Ngàm"
+        },
+        {
+            "uid": "9feff950e60f4ee08e3d13aba64e7d8b",
+            "name": "Xã Liệp Tè"
+        },
+        {
+            "uid": "adbeb99cf83642739d72a14dbf912195",
+            "name": "Xã é Tòng"
+        },
+        {
+            "uid": "c9440ddc0edd4310a14314a86dae21d1",
+            "name": "Xã Phổng Lập"
+        },
+        {
+            "uid": "b013a0ab38124645bd20f429fe12647e",
+            "name": "Xã Phổng Lăng"
+        },
+        {
+            "uid": "e10c777403434a57b32389723570e8a5",
+            "name": "Xã Chiềng Ly"
+        },
+        {
+            "uid": "78ac6992562847c59c14aae82c243b76",
+            "name": "Xã Noong Lay"
+        },
+        {
+            "uid": "80df7fa3f30f4976ba4d820244d56840",
+            "name": "Xã Mường Khiêng"
+        },
+        {
+            "uid": "6945b9d9874d49efbbef7bdcbf4c0fb7",
+            "name": "Xã Mường Bám"
+        },
+        {
+            "uid": "5a6d6de286ef481a8a9a85fb5d346434",
+            "name": "Xã Long Hẹ"
+        },
+        {
+            "uid": "1668f664ee934d38b25425099d53fbd4",
+            "name": "Xã Chiềng Bôm"
+        },
+        {
+            "uid": "2b09ae6a265642d0a6ed3ace7ea9ee67",
+            "name": "Xã Thôm Mòn"
+        },
+        {
+            "uid": "222a572d717d4d23b9bff62520c15a01",
+            "name": "Xã Tông Lạnh"
+        },
+        {
+            "uid": "becd70207327431c9a5eb5c083bfcb44",
+            "name": "Xã Tông Cọ"
+        },
+        {
+            "uid": "7920c2f8052a4616bcc3455d0190f1aa",
+            "name": "Xã Bó Mười"
+        },
+        {
+            "uid": "304f440cd5464b48acb4f88761e4bb1f",
+            "name": "Xã Co Mạ"
+        },
+        {
+            "uid": "91b0a0342c054d078a2d7b224e525f94",
+            "name": "Xã Púng Tra"
+        },
+        {
+            "uid": "7de6a7022bd94624934e8a9dc7a7fc4a",
+            "name": "Xã Chiềng Pấc"
+        },
+        {
+            "uid": "67319ed81b764e7facf5bbffc0d7ffdd",
+            "name": "Xã Nậm Lầu"
+        },
+        {
+            "uid": "f41ae75c10344fce8beb78ea0b3c7a0b",
+            "name": "Xã Bon Phặng"
+        },
+        {
+            "uid": "784107d8774a4171943e1c6ffa9c0964",
+            "name": "Xã Co Tòng"
+        },
+        {
+            "uid": "bf3fa82a6a85469682ff980dd568e2ad",
+            "name": "Xã Muổi Nọi"
+        },
+        {
+            "uid": "7ced2e133ff84a39b55b0b10dfd4aa06",
+            "name": "Xã Pá Lông"
+        },
+        {
+            "uid": "cda21eeccd1342219ff842f6a7da4aa1",
+            "name": "Xã Bản Lầm"
+        }
+    ]
+}

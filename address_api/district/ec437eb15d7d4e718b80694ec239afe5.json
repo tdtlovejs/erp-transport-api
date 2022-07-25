@@ -1,0 +1,90 @@
+{
+    "uid": "ec437eb15d7d4e718b80694ec239afe5",
+    "name": "Huyện Ngọc Lặc",
+    "wards": [
+        {
+            "uid": "ecacf5569eff46238f45e218bd45cc01",
+            "name": "Thị Trấn Ngọc Lặc"
+        },
+        {
+            "uid": "69dbaaae3ec3415db20407e438e29c15",
+            "name": "Xã Lam Sơn"
+        },
+        {
+            "uid": "d8906e49414e4d4f8fb0cae4521d8726",
+            "name": "Xã Mỹ Tân"
+        },
+        {
+            "uid": "060bf72ba1024e6080b7dbc06bed7a13",
+            "name": "Xã Thúy Sơn"
+        },
+        {
+            "uid": "05184b012c984993b461e4902497eb25",
+            "name": "Xã Thạch Lập"
+        },
+        {
+            "uid": "72d61bf3c4244ae398b342513926f9b7",
+            "name": "Xã Vân Âm"
+        },
+        {
+            "uid": "80bf4bc7779947229d7df44b2232af0b",
+            "name": "Xã Cao Ngọc"
+        },
+        {
+            "uid": "cfd52e813d6047d4b8f3b29badaf437e",
+            "name": "Xã Quang Trung"
+        },
+        {
+            "uid": "a01e85a5638941be84130d4e4156bd00",
+            "name": "Xã Đồng Thịnh"
+        },
+        {
+            "uid": "c1fc9202ca44416585e90dfeb328fd0a",
+            "name": "Xã Ngọc Liên"
+        },
+        {
+            "uid": "b8c8ce942ab14821b0aec84ee4b12f26",
+            "name": "Xã Ngọc Sơn"
+        },
+        {
+            "uid": "ea5e2441bc864affb3d16fc15a3c060b",
+            "name": "Xã Lộc Thịnh"
+        },
+        {
+            "uid": "931bd3225d984a18b187f3fef5d18916",
+            "name": "Xã Cao Thịnh"
+        },
+        {
+            "uid": "29439bf8b8ad49458c5a264fa28ddd5c",
+            "name": "Xã Ngọc Trung"
+        },
+        {
+            "uid": "9dba0dd066504d9dacf07b8604c40d04",
+            "name": "Xã Phùng Giáo"
+        },
+        {
+            "uid": "8f3aad2e669e4fb889e5009578da74e8",
+            "name": "Xã Phùng Minh"
+        },
+        {
+            "uid": "3e56e1b7532b4c2488f098870d11fb6d",
+            "name": "Xã Phúc Thịnh"
+        },
+        {
+            "uid": "638bdef114934bdc94043888a0d38ac3",
+            "name": "Xã Nguyệt Ấn"
+        },
+        {
+            "uid": "fb753d85448a4dc983e3849b7f252a8e",
+            "name": "Xã Kiên Thọ"
+        },
+        {
+            "uid": "e447d33d77c84a968baa44640b053e96",
+            "name": "Xã Minh Tiến"
+        },
+        {
+            "uid": "6cf81bdeabb84735bfefcd6967467269",
+            "name": "Xã Minh Sơn"
+        }
+    ]
+}

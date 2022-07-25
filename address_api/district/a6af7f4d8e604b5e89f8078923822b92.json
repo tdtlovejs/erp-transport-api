@@ -1,0 +1,34 @@
+{
+    "uid": "a6af7f4d8e604b5e89f8078923822b92",
+    "name": "Quận Cái Răng",
+    "wards": [
+        {
+            "uid": "dcf935a3f00b470bad854681e83bf69d",
+            "name": "Phường Lê Bình"
+        },
+        {
+            "uid": "b325e83097ba4258af6c9fe72bc89e9d",
+            "name": "Phường Hưng Phú"
+        },
+        {
+            "uid": "867e4fbdcabd49729bf3d311c2d7aaf7",
+            "name": "Phường Hưng Thạnh"
+        },
+        {
+            "uid": "35462f3d48f24d0dbfe642d9be000dfb",
+            "name": "Phường Ba Láng"
+        },
+        {
+            "uid": "32a685d28ef340dd8165804d38c67fd4",
+            "name": "Phường Thường Thạnh"
+        },
+        {
+            "uid": "d079a9fc561646f49dd430a75444d45f",
+            "name": "Phường Phú Thứ"
+        },
+        {
+            "uid": "cd39f1e7cf0443b89af93c41613537c9",
+            "name": "Phường Tân Phú"
+        }
+    ]
+}

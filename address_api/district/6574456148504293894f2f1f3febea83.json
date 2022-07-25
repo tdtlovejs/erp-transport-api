@@ -1,0 +1,90 @@
+{
+    "uid": "6574456148504293894f2f1f3febea83",
+    "name": "Huyện Ân Thi",
+    "wards": [
+        {
+            "uid": "450f7e86c13642b79d9398b778c9bb2d",
+            "name": "Thị trấn Ân Thi"
+        },
+        {
+            "uid": "d5c6899154f7455c9977fcbbd716481f",
+            "name": "Xã Phù Ủng"
+        },
+        {
+            "uid": "5305a93c7ebe45e7bd854d8f0c7eb351",
+            "name": "Xã Bắc Sơn"
+        },
+        {
+            "uid": "6d5931f93a754b43b7d937cc7daa606f",
+            "name": "Xã Bãi Sậy"
+        },
+        {
+            "uid": "09f6e1aab6cd422ba250d6f2cf76ecc1",
+            "name": "Xã Đào Dương"
+        },
+        {
+            "uid": "482a61a866d0462fa9e56dff4d39bc37",
+            "name": "Xã Tân Phúc"
+        },
+        {
+            "uid": "c3a3532affcc4616a6f492263fde45d5",
+            "name": "Xã Vân Du"
+        },
+        {
+            "uid": "1260db365253424e821bd79d5582ed2f",
+            "name": "Xã Quang Vinh"
+        },
+        {
+            "uid": "0929cdad95674f40b8dc5723c32d048b",
+            "name": "Xã Xuân Trúc"
+        },
+        {
+            "uid": "11a3c62893c84a8196573a9ab9c61cb4",
+            "name": "Xã Hoàng Hoa Thám"
+        },
+        {
+            "uid": "e56f9aec07204934bdcbb609d5ab733e",
+            "name": "Xã Quảng Lãng"
+        },
+        {
+            "uid": "0f241f14366541dc8f8dc0a3918f7fa1",
+            "name": "Xã Văn Nhuệ"
+        },
+        {
+            "uid": "6d9c13aab55d457cb74b5530420173cb",
+            "name": "Xã Đặng Lễ"
+        },
+        {
+            "uid": "34ff8254290f423fb1be3dc4d4d599a6",
+            "name": "Xã Cẩm Ninh"
+        },
+        {
+            "uid": "7d499b5a4f8749e4ad6162188a70438e",
+            "name": "Xã Nguyễn Trãi"
+        },
+        {
+            "uid": "87f1e9ee596a46c19f5b0c87ec520a1b",
+            "name": "Xã Đa Lộc"
+        },
+        {
+            "uid": "8964f7c3ecde46ac850ba52436635749",
+            "name": "Xã Hồ Tùng Mậu"
+        },
+        {
+            "uid": "929a76cb785344e2990de272636d09c5",
+            "name": "Xã Tiền Phong"
+        },
+        {
+            "uid": "21a39fd8e41545cc8b28a6583c0717d9",
+            "name": "Xã Hồng Vân"
+        },
+        {
+            "uid": "a4b9f15caaea4b85862de80f1a9e5356",
+            "name": "Xã Hồng Quang"
+        },
+        {
+            "uid": "e0d8b98b763146ac95fafd4d8ca27281",
+            "name": "Xã Hạ Lễ"
+        }
+    ]
+}

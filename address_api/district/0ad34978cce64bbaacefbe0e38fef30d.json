@@ -1,0 +1,54 @@
+{
+    "uid": "0ad34978cce64bbaacefbe0e38fef30d",
+    "name": "Huyện Trạm Tấu",
+    "wards": [
+        {
+            "uid": "02ff29e0651e45fc9a5935ccde59b3ea",
+            "name": "Thị trấn Trạm Tấu"
+        },
+        {
+            "uid": "058e6fae842a4996baf281df14a580d8",
+            "name": "Xã Túc Đán"
+        },
+        {
+            "uid": "76a188fc6ed3472783fff885507b999e",
+            "name": "Xã Pá Lau"
+        },
+        {
+            "uid": "7d14058124d64ba286f7bd7e1903853d",
+            "name": "Xã Xà Hồ"
+        },
+        {
+            "uid": "a9c3955569414bd6bc734412320c5c69",
+            "name": "Xã Phình Hồ"
+        },
+        {
+            "uid": "694afa04fb3748b3ad60d05ab4df004a",
+            "name": "Xã Trạm Tấu"
+        },
+        {
+            "uid": "de611023d1234098b8da64b11ffe35d1",
+            "name": "Xã Tà Si Láng"
+        },
+        {
+            "uid": "0e1781078ce345869abe5aa7d057ad7b",
+            "name": "Xã Pá Hu"
+        },
+        {
+            "uid": "056e831097254ddca771e77f572450c2",
+            "name": "Xã Làng Nhì"
+        },
+        {
+            "uid": "6cb2daeabf834d95b6d053befad14f29",
+            "name": "Xã Bản Công"
+        },
+        {
+            "uid": "3cb47362f04f43bfa519d9f592c54f45",
+            "name": "Xã Bản Mù"
+        },
+        {
+            "uid": "3609e26cc46147ef9b91b78f468b277b",
+            "name": "Xã Hát Lìu"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "uid": "a1c3863b1cbe4c709c2a9927199c8239",
+    "name": "Huyện Châu Thành",
+    "wards": [
+        {
+            "uid": "1639219210d04b938c1c80602d96d325",
+            "name": "Thị trấn Châu Thành"
+        },
+        {
+            "uid": "281f2f37132c4f32a7a35fca511b42b2",
+            "name": "Xã Đa Lộc"
+        },
+        {
+            "uid": "393a39cee242442fa2831195d471b5e1",
+            "name": "Xã Mỹ Chánh"
+        },
+        {
+            "uid": "19410bc4c9bf4bf9a309fd15e7334019",
+            "name": "Xã Thanh Mỹ"
+        },
+        {
+            "uid": "866020de32ad415aa5140ab5e6f38c44",
+            "name": "Xã Lương Hoà A"
+        },
+        {
+            "uid": "3f8ca46ee73a4e60b969c364ef184c40",
+            "name": "Xã Lương Hòa"
+        },
+        {
+            "uid": "1192baa4d1ec4e1d9b3effd07f1312e2",
+            "name": "Xã Song Lộc"
+        },
+        {
+            "uid": "a0a533ed521c46cfaf97c787a5a6160a",
+            "name": "Xã Nguyệt Hóa"
+        },
+        {
+            "uid": "878c3ca2cc5d4894949a8e4871aae260",
+            "name": "Xã Hòa Thuận"
+        },
+        {
+            "uid": "e290c059b5694530a6b23c9e3cdf1687",
+            "name": "Xã Hòa Lợi"
+        },
+        {
+            "uid": "0b9d766c83bd4a53b87021fdd357122a",
+            "name": "Xã Phước Hảo"
+        },
+        {
+            "uid": "e019b4a38285467dbb4de2f525eb4884",
+            "name": "Xã Hưng Mỹ"
+        },
+        {
+            "uid": "51fe2193880e41fbb6677ec2d4aeaa55",
+            "name": "Xã Hòa Minh"
+        },
+        {
+            "uid": "0a35a8e898384e6c87a5d51eab7793c5",
+            "name": "Xã Long Hòa"
+        }
+    ]
+}

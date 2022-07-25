@@ -1,0 +1,22 @@
+{
+    "uid": "7264afe12b004d7cb42709f45cf91a5c",
+    "name": "Huyện Kiên Hải",
+    "wards": [
+        {
+            "uid": "b3269a24066c404a849e4f798064ee3c",
+            "name": "Xã Hòn Tre"
+        },
+        {
+            "uid": "e9c01e20b60c4e0799476ac3fef25367",
+            "name": "Xã Lại Sơn"
+        },
+        {
+            "uid": "dc1e2be9c4034ae283866c69395ffd3b",
+            "name": "Xã An Sơn"
+        },
+        {
+            "uid": "8aaddce031984968a5998b726512b8ca",
+            "name": "Xã Nam Du"
+        }
+    ]
+}

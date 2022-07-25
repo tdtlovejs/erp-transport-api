@@ -1,0 +1,94 @@
+{
+    "uid": "249d256f90354e32b492dedf7d4d8f97",
+    "name": "Huyện Mai Sơn",
+    "wards": [
+        {
+            "uid": "902f94124b364e04a2e18d700ea9d0d8",
+            "name": "Thị trấn Hát Lót"
+        },
+        {
+            "uid": "ed6b3beeb90647b1943b6dfc4f891715",
+            "name": "Xã Chiềng Sung"
+        },
+        {
+            "uid": "b998d6fe74b547f3aaa3fe5c2d63eb0c",
+            "name": "Xã Mường Bằng"
+        },
+        {
+            "uid": "4b4400d5dc6e4160b7f7a13865e6c40f",
+            "name": "Xã Chiềng Chăn"
+        },
+        {
+            "uid": "81e758bc5d784c2d88882d14fd2d42b2",
+            "name": "Xã Mương Chanh"
+        },
+        {
+            "uid": "d5d97f9b9c2644c8a94af7bf386c3dd8",
+            "name": "Xã Chiềng Ban"
+        },
+        {
+            "uid": "75fc7d24cc6a49fc9f9165b4cc6026c1",
+            "name": "Xã Chiềng Mung"
+        },
+        {
+            "uid": "2242330cf19942a89171569594c3bb09",
+            "name": "Xã Mường Bon"
+        },
+        {
+            "uid": "9619f2d608ce4198836bdf56d2e5a877",
+            "name": "Xã Chiềng Chung"
+        },
+        {
+            "uid": "c70c035da2da49bd8fc13eec7d66f573",
+            "name": "Xã Chiềng Mai"
+        },
+        {
+            "uid": "722e690df8c64045996e329b85c96e98",
+            "name": "Xã Hát Lót"
+        },
+        {
+            "uid": "de1dff8132194b09b757e7e1057d4cfc",
+            "name": "Xã Nà Pó"
+        },
+        {
+            "uid": "6549332ad8f14da7816bc7d7c818f344",
+            "name": "Xã Cò Nòi"
+        },
+        {
+            "uid": "2d80a28bb7a74eecbd6c8fb9ac0aca1a",
+            "name": "Xã Chiềng Nơi"
+        },
+        {
+            "uid": "59bb1eb43ae44df58a896c6f71022de2",
+            "name": "Xã Phiêng Cằm"
+        },
+        {
+            "uid": "63943a32dcc64cae9dd7a1d430e4fcea",
+            "name": "Xã Chiềng Dong"
+        },
+        {
+            "uid": "713a65bde2bb45e28f4093d0008009fb",
+            "name": "Xã Chiềng Kheo"
+        },
+        {
+            "uid": "622872e9066a4430989570e49d8c8c77",
+            "name": "Xã Chiềng Ve"
+        },
+        {
+            "uid": "716acdd8225f453f92f0c159d91f6e88",
+            "name": "Xã Chiềng Lương"
+        },
+        {
+            "uid": "bff1c176385f4657981845993eb66ed0",
+            "name": "Xã Phiêng Pằn"
+        },
+        {
+            "uid": "fbcf74cc65d845a59a035549997fa037",
+            "name": "Xã Nà Ơt"
+        },
+        {
+            "uid": "dc7358e6e42c488a8704044e5d5cb64f",
+            "name": "Xã Tà Hộc"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "uid": "82358ee8e3d44e3cbd896ae8c39c73c9",
+    "name": "Huyện Tân Phước",
+    "wards": [
+        {
+            "uid": "06e59ad775754ddcb5ce09ccaa15ed95",
+            "name": "Thị trấn Mỹ Phước"
+        },
+        {
+            "uid": "d0c20918d0ca4e81b7d687dc9176092c",
+            "name": "Xã Tân Hòa Đông"
+        },
+        {
+            "uid": "2424cb5908f14491a713463bc7c8df33",
+            "name": "Xã Thạnh Tân"
+        },
+        {
+            "uid": "fbd479d3fcb54f51a30bd2c0b711b2c6",
+            "name": "Xã Thạnh Mỹ"
+        },
+        {
+            "uid": "c35c39303d5f4146a8e929865ee1420a",
+            "name": "Xã Thạnh Hoà"
+        },
+        {
+            "uid": "9524638b0b7c4072ad02d09f356f99aa",
+            "name": "Xã Phú Mỹ"
+        },
+        {
+            "uid": "255a745a4f1848b9b0989f75163a6e22",
+            "name": "Xã Tân Hòa Thành"
+        },
+        {
+            "uid": "b9a75e83e1254c3691ac61658628264f",
+            "name": "Xã Hưng Thạnh"
+        },
+        {
+            "uid": "6684e3283efb4c299f5c4ffc0b857877",
+            "name": "Xã Tân Lập 1"
+        },
+        {
+            "uid": "4c482bd6d7e84cb2893bcc694704c496",
+            "name": "Xã Tân Hòa Tây"
+        },
+        {
+            "uid": "7ef37fb6748c40b58ff300fb2539a6b0",
+            "name": "Xã Tân Lập 2"
+        },
+        {
+            "uid": "2f6a11113a78431a8294938beef1c9f7",
+            "name": "Xã Phước Lập"
+        }
+    ]
+}

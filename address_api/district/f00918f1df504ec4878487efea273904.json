@@ -1,0 +1,78 @@
+{
+    "uid": "f00918f1df504ec4878487efea273904",
+    "name": "Huyện Vĩnh Linh",
+    "wards": [
+        {
+            "uid": "b799bec2bca04590b0d2e4da074737c7",
+            "name": "Thị trấn Hồ Xá"
+        },
+        {
+            "uid": "99148e04c92b4eb4bff3f23869157c11",
+            "name": "Thị trấn Bến Quan"
+        },
+        {
+            "uid": "7884e24dd21a48a38f8ce5aa483aea19",
+            "name": "Xã Vĩnh Thái"
+        },
+        {
+            "uid": "71d1f95f4def4adf898ad6c90631fda3",
+            "name": "Xã Vĩnh Tú"
+        },
+        {
+            "uid": "345ebd919ba74d739c4309e0d4f756a7",
+            "name": "Xã Vĩnh Chấp"
+        },
+        {
+            "uid": "21b1890660524da4997303294965815e",
+            "name": "Xã Trung Nam"
+        },
+        {
+            "uid": "ccf2829558b84e968d9842ce45ee744e",
+            "name": "Xã Kim Thạch"
+        },
+        {
+            "uid": "aab5507749944a2da35d35660d098aaf",
+            "name": "Xã Vĩnh Long"
+        },
+        {
+            "uid": "13030e1723ae454981e869571ae1b2b5",
+            "name": "Xã Vĩnh Khê"
+        },
+        {
+            "uid": "dc92e189b6c84966a2ccfd83a342b947",
+            "name": "Xã Vĩnh Hòa"
+        },
+        {
+            "uid": "3e129ad41c9c47009b5aac66c2b06b59",
+            "name": "Xã Vĩnh Thủy"
+        },
+        {
+            "uid": "179764ee903747739845d006ce813ace",
+            "name": "Xã Vĩnh Lâm"
+        },
+        {
+            "uid": "75e845391ec34133b05ef4faba8e16da",
+            "name": "Xã Hiền Thành"
+        },
+        {
+            "uid": "86c9c3b3ae054ad29ed03332ad8ca67a",
+            "name": "Thị trấn Cửa Tùng"
+        },
+        {
+            "uid": "c40ff6f2b1df4466a9295e6db439ad73",
+            "name": "Xã Vĩnh Hà"
+        },
+        {
+            "uid": "ac912efa44c44eae8e04ed96ca53e68e",
+            "name": "Xã Vĩnh Sơn"
+        },
+        {
+            "uid": "0ff7ca700d34472cbadd9b6c2c3198a3",
+            "name": "Xã Vĩnh Giang"
+        },
+        {
+            "uid": "1a4e4b372dda4d9d8bac878f07ad7099",
+            "name": "Xã Vĩnh Ô"
+        }
+    ]
+}

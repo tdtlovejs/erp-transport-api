@@ -1,0 +1,54 @@
+{
+    "uid": "b5ac703ea7c441ed9c06a08841ac525e",
+    "name": "Thị Xã Buôn Hồ",
+    "wards": [
+        {
+            "uid": "ec2df6749ec5475a9c5e7348cbb5b425",
+            "name": "Phường An Lạc"
+        },
+        {
+            "uid": "6a1ce96df1d9493ba9502421651cdd73",
+            "name": "Phường An Bình"
+        },
+        {
+            "uid": "89d6f0f637ba48918b90331e87183551",
+            "name": "Phường Thiện An"
+        },
+        {
+            "uid": "4082982408de4c7ba59381ccf0b94a6c",
+            "name": "Phường Đạt Hiếu"
+        },
+        {
+            "uid": "70f2f3ceca0f49a49f1a05f94042e729",
+            "name": "Phường Đoàn Kết"
+        },
+        {
+            "uid": "aaaf81e990154a258c25667d4b9be55b",
+            "name": "Xã Ea Blang"
+        },
+        {
+            "uid": "fe019bf3593b41a39b2198ca186ebbb7",
+            "name": "Xã Ea Drông"
+        },
+        {
+            "uid": "c549410c01c945568fc01a4fccf3513e",
+            "name": "Phường Thống Nhất"
+        },
+        {
+            "uid": "2eaf37e2bd8f482187459dc720384e3e",
+            "name": "Phường Bình Tân"
+        },
+        {
+            "uid": "81fbb7221fee43dbb09582ff34c00c97",
+            "name": "Xã Ea Siên"
+        },
+        {
+            "uid": "a9155c61432a461991ae904b8ccf7b55",
+            "name": "Xã Bình Thuận"
+        },
+        {
+            "uid": "4c0a988ab32048cb9bd042a40738bf9c",
+            "name": "Xã Cư Bao"
+        }
+    ]
+}

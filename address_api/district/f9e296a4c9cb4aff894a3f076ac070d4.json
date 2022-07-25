@@ -1,0 +1,130 @@
+{
+    "uid": "f9e296a4c9cb4aff894a3f076ac070d4",
+    "name": "Huyện Ý Yên",
+    "wards": [
+        {
+            "uid": "a8fcc509d8c145d78d066bfb487ab2b8",
+            "name": "Thị trấn Lâm"
+        },
+        {
+            "uid": "8799d3b81c7e42deb48a257e884bd211",
+            "name": "Xã Yên Trung"
+        },
+        {
+            "uid": "955dd7398fb34e97bcef3a42ad27e7d7",
+            "name": "Xã Yên Thành"
+        },
+        {
+            "uid": "bbd30317d3e448d09cc41196b0c80156",
+            "name": "Xã Yên Tân"
+        },
+        {
+            "uid": "322fb3caf14444b7a4122832fb1a241a",
+            "name": "Xã Yên Lợi"
+        },
+        {
+            "uid": "1c51e18b6a074da9bbed29c475af745e",
+            "name": "Xã Yên Thọ"
+        },
+        {
+            "uid": "ff88a16bcc164d5eade4b8702684f48f",
+            "name": "Xã Yên Nghĩa"
+        },
+        {
+            "uid": "9bf7f43eb5534a8ca38f56c49cb1811b",
+            "name": "Xã Yên Minh"
+        },
+        {
+            "uid": "3dd4f53a353141358343054103992ad9",
+            "name": "Xã Yên Phương"
+        },
+        {
+            "uid": "8ee662851c7549818269ce09f2a36642",
+            "name": "Xã Yên Chính"
+        },
+        {
+            "uid": "d654e37abbea472eae27d40bd0b4d608",
+            "name": "Xã Yên Bình"
+        },
+        {
+            "uid": "467a58c3c592439f8f42de6b5ec2054b",
+            "name": "Xã Yên Phú"
+        },
+        {
+            "uid": "e688dd29dc394b7180c5933adc3b7799",
+            "name": "Xã Yên Mỹ"
+        },
+        {
+            "uid": "98f416628b8f42f29cca77d0599126dc",
+            "name": "Xã Yên Dương"
+        },
+        {
+            "uid": "f336deb61d6246bc815cd81a81d33738",
+            "name": "Xã Yên Hưng"
+        },
+        {
+            "uid": "60e7f100e9da445682edd3eb79978e21",
+            "name": "Xã Yên Khánh"
+        },
+        {
+            "uid": "97fadd14c74f409a907d03f21e5398b4",
+            "name": "Xã Yên Phong"
+        },
+        {
+            "uid": "aa95a18d6a9e4436b2f7f2a29a9ba782",
+            "name": "Xã Yên Ninh"
+        },
+        {
+            "uid": "1285abbe476841ec91b2da77ebafabf0",
+            "name": "Xã Yên Lương"
+        },
+        {
+            "uid": "ed07a6a94ab9441fa95c54343c23c9e0",
+            "name": "Xã Yên Hồng"
+        },
+        {
+            "uid": "1adbbdc4871f4998b831b1c2dd941b9a",
+            "name": "Xã Yên Quang"
+        },
+        {
+            "uid": "b3e4292b5c4a45cf9982ad5f86823cc4",
+            "name": "Xã Yên Tiến"
+        },
+        {
+            "uid": "3abe71b0222147e59017b1bbbb35f726",
+            "name": "Xã Yên Thắng"
+        },
+        {
+            "uid": "bead4aea2ed9493198b4b24d44d2b812",
+            "name": "Xã Yên Phúc"
+        },
+        {
+            "uid": "ee347579a6b643328aa84318f44dd88e",
+            "name": "Xã Yên Cường"
+        },
+        {
+            "uid": "15a0fa8e06fe441c8a855abdd7129858",
+            "name": "Xã Yên Lộc"
+        },
+        {
+            "uid": "8f9d35dbd066489fa394c0d70c9ba56d",
+            "name": "Xã Yên Bằng"
+        },
+        {
+            "uid": "e2e8648ee2a8444385a88f5ae35a419b",
+            "name": "Xã Yên Đồng"
+        },
+        {
+            "uid": "c3e6bd8111f9465b870ccd85f800cdde",
+            "name": "Xã Yên Khang"
+        },
+        {
+            "uid": "95d4df047bc949feb25d9eaf64157114",
+            "name": "Xã Yên Nhân"
+        },
+        {
+            "uid": "464dae57a8654e8893fd80aa3b7073ea",
+            "name": "Xã Yên Trị"
+        }
+    ]
+}

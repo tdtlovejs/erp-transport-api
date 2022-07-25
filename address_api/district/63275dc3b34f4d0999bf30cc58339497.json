@@ -1,0 +1,66 @@
+{
+    "uid": "63275dc3b34f4d0999bf30cc58339497",
+    "name": "Huyện Tiên Lữ",
+    "wards": [
+        {
+            "uid": "cbb6807ed3a24a9ab08dafd948673415",
+            "name": "Thị trấn Vương"
+        },
+        {
+            "uid": "5241866c657f43e3848d6bd151094fb5",
+            "name": "Xã Hưng Đạo"
+        },
+        {
+            "uid": "daba8d2f64534efba97024572ce6307b",
+            "name": "Xã Ngô Quyền"
+        },
+        {
+            "uid": "2db0cf12c8eb4d0e99cf2d856987c106",
+            "name": "Xã Nhật Tân"
+        },
+        {
+            "uid": "9bd21a8054214d32af3f20fc52a91ea2",
+            "name": "Xã Dị Chế"
+        },
+        {
+            "uid": "d26c2fe3e813487fa97fc24aff64e9dd",
+            "name": "Xã Lệ Xá"
+        },
+        {
+            "uid": "faab3fd09e7a451eba682e6ec0a8c637",
+            "name": "Xã An Viên"
+        },
+        {
+            "uid": "e8e56ca6eda4423e8ad4ac57ae7e5b03",
+            "name": "Xã Đức Thắng"
+        },
+        {
+            "uid": "0eb911f370344292b8257411a614b3b1",
+            "name": "Xã Trung Dũng"
+        },
+        {
+            "uid": "30d21be23b964a1b9db1bee7cdaee77b",
+            "name": "Xã Hải Triều"
+        },
+        {
+            "uid": "2b650d94f7b8432085dfc3d9d88df7ad",
+            "name": "Xã Thủ Sỹ"
+        },
+        {
+            "uid": "61db5c3bbcf6467ea33fc4372f16c47e",
+            "name": "Xã Thiện Phiến"
+        },
+        {
+            "uid": "e671e9236dbb44539041ad37841c615c",
+            "name": "Xã Thụy Lôi"
+        },
+        {
+            "uid": "502a60ad296746d89378c2396629b2ab",
+            "name": "Xã Cương Chính"
+        },
+        {
+            "uid": "9fd048fa3e0a4c24be1b6562d8b9afdf",
+            "name": "Xã Minh Phượng"
+        }
+    ]
+}

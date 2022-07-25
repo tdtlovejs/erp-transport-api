@@ -1,0 +1,42 @@
+{
+    "uid": "e9bad0572a1d441e9bde294edab5b7c3",
+    "name": "Thị xã La Gi",
+    "wards": [
+        {
+            "uid": "ab4012ba0f5942be9b0178b4d7c7603c",
+            "name": "Phường Phước Hội"
+        },
+        {
+            "uid": "5b01157a49eb4e35985d244ebe89b2bd",
+            "name": "Phường Phước Lộc"
+        },
+        {
+            "uid": "a1c6b78c3ad840b6a036589f88140a7a",
+            "name": "Phường Tân Thiện"
+        },
+        {
+            "uid": "a46e6b7162fa4ea1866273ec34aedb73",
+            "name": "Phường Tân An"
+        },
+        {
+            "uid": "ca0b9f3067934490b828affb7ce8ed9f",
+            "name": "Phường Bình Tân"
+        },
+        {
+            "uid": "930342309b2248b990f080595c5afa81",
+            "name": "Xã Tân Hải"
+        },
+        {
+            "uid": "b8539ce576fb4ae49b1aaac91873bd5a",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "05891efa24a04d10ae180ca6e8fe051c",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "3d978782082d46e0b3c696c45d045478",
+            "name": "Xã Tân Phước"
+        }
+    ]
+}

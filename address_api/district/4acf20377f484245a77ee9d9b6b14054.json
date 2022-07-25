@@ -1,0 +1,86 @@
+{
+    "uid": "4acf20377f484245a77ee9d9b6b14054",
+    "name": "Huyện Bình Đại",
+    "wards": [
+        {
+            "uid": "b2257ca6292a46e0a91aaf8162ea06d5",
+            "name": "Thị trấn Bình Đại"
+        },
+        {
+            "uid": "aeecb2ddddda45e4985702dee4d226b9",
+            "name": "Xã Tam Hiệp"
+        },
+        {
+            "uid": "a7af6f97971b4d4a8d43f91159522069",
+            "name": "Xã Long Định"
+        },
+        {
+            "uid": "a97747b95fe04013ad51e986245f4fd4",
+            "name": "Xã Long Hòa"
+        },
+        {
+            "uid": "a2f38f78cc244242a49df49b382deb31",
+            "name": "Xã Phú Thuận"
+        },
+        {
+            "uid": "2d2e135d06c640ccb910d2885340b52d",
+            "name": "Xã Vang Quới Tây"
+        },
+        {
+            "uid": "9f11884e58d140f8b9b81ab287e37694",
+            "name": "Xã Vang Quới Đông"
+        },
+        {
+            "uid": "bc28435bf4d746e38ea7f6b196e02741",
+            "name": "Xã Châu Hưng"
+        },
+        {
+            "uid": "9ecd5e9d4bc040398621ab26285f7368",
+            "name": "Xã Phú Vang"
+        },
+        {
+            "uid": "9a4b7b57346e47d9989294d4330919ec",
+            "name": "Xã Lộc Thuận"
+        },
+        {
+            "uid": "39865d82e1214413a2f27bd36a179e10",
+            "name": "Xã Định Trung"
+        },
+        {
+            "uid": "d2ba3328c052403b916eb87eed772502",
+            "name": "Xã Thới Lai"
+        },
+        {
+            "uid": "f49f6dae58de425c9becd95262bbbc7f",
+            "name": "Xã Bình Thới"
+        },
+        {
+            "uid": "e81e2ee7495b40639354648dd217018a",
+            "name": "Xã Phú Long"
+        },
+        {
+            "uid": "a56e8938d34f495b9a5dbdfec936c2aa",
+            "name": "Xã Bình Thắng"
+        },
+        {
+            "uid": "2df668209bc74ed188e2c859a2a7fc1f",
+            "name": "Xã Thạnh Trị"
+        },
+        {
+            "uid": "eae0aa1613f446208e099abc12da8713",
+            "name": "Xã Đại Hòa Lộc"
+        },
+        {
+            "uid": "133d1035d2de42f7b0d116d4b6a1bf58",
+            "name": "Xã Thừa Đức"
+        },
+        {
+            "uid": "2c25c5d9994540dca53bf08106f6ee73",
+            "name": "Xã Thạnh Phước"
+        },
+        {
+            "uid": "6c10f3f53db4433fbb2648064be4b40a",
+            "name": "Xã Thới Thuận"
+        }
+    ]
+}

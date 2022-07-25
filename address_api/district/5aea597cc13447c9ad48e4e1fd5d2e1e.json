@@ -1,0 +1,62 @@
+{
+    "uid": "5aea597cc13447c9ad48e4e1fd5d2e1e",
+    "name": "Huyện Kông Chro",
+    "wards": [
+        {
+            "uid": "908fc47f3468430fa40123ec01c33881",
+            "name": "Thị trấn Kông Chro"
+        },
+        {
+            "uid": "6e820a290ea7440dbd436142896efc23",
+            "name": "Xã Chư Krêy"
+        },
+        {
+            "uid": "c0e1ab095c0842b7a96c84548b20df28",
+            "name": "Xã An Trung"
+        },
+        {
+            "uid": "7bd4cfb88c37452c971873fa757240c7",
+            "name": "Xã Kông Yang"
+        },
+        {
+            "uid": "f98104f80cdd495c89700930ba43d1e0",
+            "name": "Xã Đăk Tơ Pang"
+        },
+        {
+            "uid": "939fa439b3f24eb983f8cb250dc167c9",
+            "name": "Xã SRó"
+        },
+        {
+            "uid": "a56ab561e3a24354b8ee70a17c36e19e",
+            "name": "Xã Đắk Kơ Ning"
+        },
+        {
+            "uid": "853d66d450b94a2f86740fbb9929e1a9",
+            "name": "Xã Đăk Song"
+        },
+        {
+            "uid": "f6c8e30a58a146d8a94e86b76dd0339e",
+            "name": "Xã Đăk Pling"
+        },
+        {
+            "uid": "ec335e01dfd34d72b1b2456f2254404c",
+            "name": "Xã Yang Trung"
+        },
+        {
+            "uid": "01283d7f7b2148d087af17864e3f4561",
+            "name": "Xã Đăk Pơ Pho"
+        },
+        {
+            "uid": "3f6348ae213a43129f864ddd9fdf19fb",
+            "name": "Xã Ya Ma"
+        },
+        {
+            "uid": "8057b65126c54741bb561957b34581e5",
+            "name": "Xã Chơ Long"
+        },
+        {
+            "uid": "376f29133fab4deaa8bf84075c9ed741",
+            "name": "Xã Yang Nam"
+        }
+    ]
+}

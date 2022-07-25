@@ -1,0 +1,82 @@
+{
+    "uid": "1ba3f49961c44931b7aa475a7901eeb4",
+    "name": "Huyện Nam Đàn",
+    "wards": [
+        {
+            "uid": "c38c535ca96b48a38d496f2e3145d11a",
+            "name": "Xã Nam Hưng"
+        },
+        {
+            "uid": "67772c434619423f84dd50c306cc6982",
+            "name": "Xã Nam Nghĩa"
+        },
+        {
+            "uid": "9d00b625ffa54f11956911af516d1197",
+            "name": "Xã Nam Thanh"
+        },
+        {
+            "uid": "6f6a08ccb244426fafa4aab91722afe4",
+            "name": "Xã Nam Anh"
+        },
+        {
+            "uid": "f204caca3b884957b892b3f68833de2c",
+            "name": "Xã Nam Xuân"
+        },
+        {
+            "uid": "480e9f387079415d85a6091a87b6a45e",
+            "name": "Xã Nam Thái"
+        },
+        {
+            "uid": "f962311323664be9b79281f50d620aca",
+            "name": "Thị trấn Nam Đàn"
+        },
+        {
+            "uid": "ad110c739b2f4c118affd630bc037e61",
+            "name": "Xã Nam Lĩnh"
+        },
+        {
+            "uid": "d3328021cc12488a94240110feab8577",
+            "name": "Xã Nam Giang"
+        },
+        {
+            "uid": "d46bc164c2ad4473981335fade42768d",
+            "name": "Xã Xuân Hòa"
+        },
+        {
+            "uid": "576faaffc19d41edaf11d430ca4c5146",
+            "name": "Xã Hùng Tiến"
+        },
+        {
+            "uid": "856e8aae66d64573b36360039cf56f39",
+            "name": "Xã Thượng Tân Lộc"
+        },
+        {
+            "uid": "de89aa55c66f466e8acdd7ec2ff0c756",
+            "name": "Xã Kim Liên"
+        },
+        {
+            "uid": "868bca2d66564a87a415696d59c20bd4",
+            "name": "Xã Hồng Long"
+        },
+        {
+            "uid": "26b7f54216c04e1b8a1071c99aca913f",
+            "name": "Xã Xuân Lâm"
+        },
+        {
+            "uid": "8a10e8e180f24900b0747f4fc51ae4be",
+            "name": "Xã Nam Cát"
+        },
+        {
+            "uid": "c2e03e0da0d94b5bb7b4c43586b7a1f9",
+            "name": "Xã Khánh Sơn"
+        },
+        {
+            "uid": "4db6cd2cb8e94a61957bc71f22d22612",
+            "name": "Xã Trung Phúc Cường"
+        },
+        {
+            "uid": "75343201f94c410893ce37bba8a3312b",
+            "name": "Xã Nam Kim"
+        }
+    ]
+}

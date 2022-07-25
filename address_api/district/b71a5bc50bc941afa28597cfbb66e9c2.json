@@ -1,0 +1,54 @@
+{
+    "uid": "b71a5bc50bc941afa28597cfbb66e9c2",
+    "name": "Huyện Quỳ Châu",
+    "wards": [
+        {
+            "uid": "238b6717474244c6b0bd7b9c991365e7",
+            "name": "Thị trấn Tân Lạc"
+        },
+        {
+            "uid": "8a1e06e3ddac46489a211db7cd7128ed",
+            "name": "Xã Châu Bính"
+        },
+        {
+            "uid": "36687c856b4f469295f8c2a9b998e63f",
+            "name": "Xã Châu Thuận"
+        },
+        {
+            "uid": "d460afa8abd24b65a6ade7c2be147230",
+            "name": "Xã Châu Hội"
+        },
+        {
+            "uid": "eef39b00fab445a68aff9be71eecdadd",
+            "name": "Xã Châu Nga"
+        },
+        {
+            "uid": "4163c20d35cc453eae57c4d798dc7ec3",
+            "name": "Xã Châu Tiến"
+        },
+        {
+            "uid": "b5fb843f7ea44a588230680e827e3654",
+            "name": "Xã Châu Hạnh"
+        },
+        {
+            "uid": "228bd794030e4fffaf6c3b75764ea32b",
+            "name": "Xã Châu Thắng"
+        },
+        {
+            "uid": "0b0b7536e10f4222947cec74c1e0f1ae",
+            "name": "Xã Châu Phong"
+        },
+        {
+            "uid": "5fb50e755d364dd0b816f853fbc43b8c",
+            "name": "Xã Châu Bình"
+        },
+        {
+            "uid": "bfea4a491dc144eab2a4104669519bfd",
+            "name": "Xã Châu Hoàn"
+        },
+        {
+            "uid": "973beabe86134b5b89f1d358787990d9",
+            "name": "Xã Diên Lãm"
+        }
+    ]
+}

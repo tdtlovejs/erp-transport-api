@@ -1,0 +1,78 @@
+{
+    "uid": "70b95983592e4e268f7fe4afec2be57d",
+    "name": "Quận Hoàn Kiếm",
+    "wards": [
+        {
+            "uid": "2f4a64fd83d34e9780c4826bf6244dfe",
+            "name": "Phường Phúc Tân"
+        },
+        {
+            "uid": "73a98be4d8534105a58c94604c527d31",
+            "name": "Phường Đồng Xuân"
+        },
+        {
+            "uid": "c3c48d6bb6a142278bdae48f62703e96",
+            "name": "Phường Hàng Mã"
+        },
+        {
+            "uid": "d7b30a2df20a491bbe13cbfb55e3545d",
+            "name": "Phường Hàng Buồm"
+        },
+        {
+            "uid": "9ab531721cd248819d21a42a07b26341",
+            "name": "Phường Hàng Đào"
+        },
+        {
+            "uid": "dcdbe279d66e43a4b1e6b180fead91b6",
+            "name": "Phường Hàng Bồ"
+        },
+        {
+            "uid": "5fc9e69dd384481584962d39e457ebb9",
+            "name": "Phường Cửa Đông"
+        },
+        {
+            "uid": "2ff810c664a547139a6be978b08f7a92",
+            "name": "Phường Lý Thái Tổ"
+        },
+        {
+            "uid": "0c0e76e1b79b4d46bba10927ef7e65fa",
+            "name": "Phường Hàng Bạc"
+        },
+        {
+            "uid": "6c689b1918c1457fb17cf54094bc382d",
+            "name": "Phường Hàng Gai"
+        },
+        {
+            "uid": "761807ddf32e4202a86c1f198470d4f8",
+            "name": "Phường Chương Dương"
+        },
+        {
+            "uid": "b90f1d5327174d1793749679a8146a69",
+            "name": "Phường Hàng Trống"
+        },
+        {
+            "uid": "6a93938094f245ba8aafa5991fc95110",
+            "name": "Phường Cửa Nam"
+        },
+        {
+            "uid": "6df69d56835f403987536ca8909c5c3c",
+            "name": "Phường Hàng Bông"
+        },
+        {
+            "uid": "79058422ac7b4aa69213d381dcc58b55",
+            "name": "Phường Tràng Tiền"
+        },
+        {
+            "uid": "c76b32b48bad47a9be7893fe9cccfea4",
+            "name": "Phường Trần Hưng Đạo"
+        },
+        {
+            "uid": "37bbefecf74d403e966b0f9268b037c1",
+            "name": "Phường Phan Chu Trinh"
+        },
+        {
+            "uid": "55bd1daaece2425d8891178075f02d8c",
+            "name": "Phường Hàng Bài"
+        }
+    ]
+}

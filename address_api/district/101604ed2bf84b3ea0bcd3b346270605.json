@@ -1,0 +1,50 @@
+{
+    "uid": "101604ed2bf84b3ea0bcd3b346270605",
+    "name": "Huyện Phú Giáo",
+    "wards": [
+        {
+            "uid": "6cd5c69ea9b045f0831c4be7054e9e55",
+            "name": "Thị trấn Phước Vĩnh"
+        },
+        {
+            "uid": "ffd8cc1fac074b9ab151de14f8511f50",
+            "name": "Xã An Linh"
+        },
+        {
+            "uid": "bfc78f49ce674c79bdd96c4ab7d4fb37",
+            "name": "Xã Phước Sang"
+        },
+        {
+            "uid": "3b1555a996bc4f5d9193458fe0c58e4b",
+            "name": "Xã An Thái"
+        },
+        {
+            "uid": "388e87ff7b10470e812d1b783742d857",
+            "name": "Xã An Long"
+        },
+        {
+            "uid": "9edab4aef6de4f31a69f16c15014dc96",
+            "name": "Xã An Bình"
+        },
+        {
+            "uid": "e6b8b96dd3c840dea1031c7db6ed7875",
+            "name": "Xã Tân Hiệp"
+        },
+        {
+            "uid": "e0baa41903704a659ac7a6fd625566d8",
+            "name": "Xã Tam Lập"
+        },
+        {
+            "uid": "c627ba7f9dcf4c68a816896a42e7984f",
+            "name": "Xã Tân Long"
+        },
+        {
+            "uid": "ccc67e506ca8435b907e9ccc2d09ad61",
+            "name": "Xã Vĩnh Hoà"
+        },
+        {
+            "uid": "f0ca7ecab62b4678bcdf7add43f0cb53",
+            "name": "Xã Phước Hoà"
+        }
+    ]
+}

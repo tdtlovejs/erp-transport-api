@@ -1,0 +1,34 @@
+{
+    "uid": "621e8c706f9b439e8987b20fab69b0f9",
+    "name": "Huyện Bình Liêu",
+    "wards": [
+        {
+            "uid": "e7a44d05aeda431da68708761c712cef",
+            "name": "Thị trấn Bình Liêu"
+        },
+        {
+            "uid": "46cd49246af24086b01940e5359cf7e7",
+            "name": "Xã Hoành Mô"
+        },
+        {
+            "uid": "5c2645c66ffd487489ea9d6120fc6823",
+            "name": "Xã Đồng Tâm"
+        },
+        {
+            "uid": "bdb8a7621880476bbd572965eb1e1254",
+            "name": "Xã Đồng Văn"
+        },
+        {
+            "uid": "be4de44ac11f4669bc6a2c4cc1e60ae0",
+            "name": "Xã Vô Ngại"
+        },
+        {
+            "uid": "c6d30259e3a44efd9cc3989f6df7a81b",
+            "name": "Xã Lục Hồn"
+        },
+        {
+            "uid": "b4636f1c66cd4cc89d6e921648611421",
+            "name": "Xã Húc Động"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "uid": "7a8ffd4f09584c57bcb3ff5501a0a964",
+    "name": "Huyện Minh Hóa",
+    "wards": [
+        {
+            "uid": "47990dc603d64057948996e6cb6c8fa2",
+            "name": "Thị trấn Quy Đạt"
+        },
+        {
+            "uid": "cb82b42800544c1b8dbae52a06be4f1f",
+            "name": "Xã Dân Hóa"
+        },
+        {
+            "uid": "fea434c874ce4a09b86cd01320d3236e",
+            "name": "Xã Trọng Hóa"
+        },
+        {
+            "uid": "440b7ea923e942e891e15803bec751ec",
+            "name": "Xã Hóa Phúc"
+        },
+        {
+            "uid": "0a17e129a94e4d75a150b6f34cde53a8",
+            "name": "Xã Hồng Hóa"
+        },
+        {
+            "uid": "54d3fe77bdb4447180af2e76c8e052e4",
+            "name": "Xã Hóa Thanh"
+        },
+        {
+            "uid": "151201b985fd4ed3b84cab958a76fe4a",
+            "name": "Xã Hóa Tiến"
+        },
+        {
+            "uid": "af4c8c241d5847f3a7a4444fce27f528",
+            "name": "Xã Hóa Hợp"
+        },
+        {
+            "uid": "d53802e51ec74024b90dbcd3e89f02c0",
+            "name": "Xã Xuân Hóa"
+        },
+        {
+            "uid": "5f395683f6fb4937834f7a54b7a6344c",
+            "name": "Xã Yên Hóa"
+        },
+        {
+            "uid": "aca2e2381ecc48a2b27325ec24109587",
+            "name": "Xã Minh Hóa"
+        },
+        {
+            "uid": "8b74bd4c8bd04d139dd8c032557e0190",
+            "name": "Xã Tân Hóa"
+        },
+        {
+            "uid": "2d786bf7c7ec437db84ba3f3bbc4a577",
+            "name": "Xã Hóa Sơn"
+        },
+        {
+            "uid": "19daa08b4b8141958493859f24435ddc",
+            "name": "Xã Trung Hóa"
+        },
+        {
+            "uid": "37dcee45ef4546e5aec3e1da8f4e8827",
+            "name": "Xã Thượng Hóa"
+        }
+    ]
+}

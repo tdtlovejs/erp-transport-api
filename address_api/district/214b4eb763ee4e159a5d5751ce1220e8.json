@@ -1,0 +1,158 @@
+{
+    "uid": "214b4eb763ee4e159a5d5751ce1220e8",
+    "name": "Huyện Thanh Chương",
+    "wards": [
+        {
+            "uid": "2cb88720ea274350a6bdd3792a6befaf",
+            "name": "Thị trấn Thanh Chương"
+        },
+        {
+            "uid": "72804a82085046ad92f570b2d6adb8a4",
+            "name": "Xã Cát Văn"
+        },
+        {
+            "uid": "d836f1d053d149b18d13cc0945f487b6",
+            "name": "Xã Thanh Nho"
+        },
+        {
+            "uid": "b2c6d6be17e9488ab6efeab62dba6e76",
+            "name": "Xã Hạnh Lâm"
+        },
+        {
+            "uid": "da29eaf732604a11a0a12dfb066b3184",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "48c524aa409143909d6979384d386874",
+            "name": "Xã Thanh Hòa"
+        },
+        {
+            "uid": "b1875cc85d9340fcbf3b210bab27e285",
+            "name": "Xã Phong Thịnh"
+        },
+        {
+            "uid": "794fd5f36c9b482384caa1c5656f2703",
+            "name": "Xã Thanh Phong"
+        },
+        {
+            "uid": "9703456ab7234f33a012006321778bbd",
+            "name": "Xã Thanh Mỹ"
+        },
+        {
+            "uid": "3a4d0d64e6144f33a2eef53788d3438a",
+            "name": "Xã Thanh Tiên"
+        },
+        {
+            "uid": "fabef2d94f3445ddb2225bca6e089b99",
+            "name": "Xã Thanh Liên"
+        },
+        {
+            "uid": "6212fecb1d9645c1bc736839023e667c",
+            "name": "Xã Đại Đồng"
+        },
+        {
+            "uid": "e292ecb47e95455fb2b4aef95c516aeb",
+            "name": "Xã Thanh Đồng"
+        },
+        {
+            "uid": "4a12acd74e84410cacae46850dc69f90",
+            "name": "Xã Thanh Ngọc"
+        },
+        {
+            "uid": "84a7027d61194b4ba60238d3c0fe13a5",
+            "name": "Xã Thanh Hương"
+        },
+        {
+            "uid": "3f58d026ad2c425682c52316e2913b72",
+            "name": "Xã Ngọc Lâm"
+        },
+        {
+            "uid": "886e648fdeb3446ca363f48ef7f8fa6e",
+            "name": "Xã Thanh Lĩnh"
+        },
+        {
+            "uid": "100af2e692c24a86bea389bff22cd70f",
+            "name": "Xã Đồng Văn"
+        },
+        {
+            "uid": "575a8411096d4398a3a27f7bd30d1b45",
+            "name": "Xã Ngọc Sơn"
+        },
+        {
+            "uid": "ffe8e4a603f44b17afaf04aa341762c7",
+            "name": "Xã Thanh Thịnh"
+        },
+        {
+            "uid": "92198f13692644ed8c68007381513bc9",
+            "name": "Xã Thanh An"
+        },
+        {
+            "uid": "e90774a4e4e3496ebe3b6176583b429e",
+            "name": "Xã Thanh Chi"
+        },
+        {
+            "uid": "b5523b64f0b14c649fb059ed7bc154b6",
+            "name": "Xã Xuân Tường"
+        },
+        {
+            "uid": "65d6f0e8f5b24be290fa7fa46061894c",
+            "name": "Xã Thanh Dương"
+        },
+        {
+            "uid": "9e235cbb37df4a3896f2f8739ac140be",
+            "name": "Xã Thanh Lương"
+        },
+        {
+            "uid": "722837db751747b1ace32c6cd97e87ac",
+            "name": "Xã Thanh Khê"
+        },
+        {
+            "uid": "08bc89322a3043c4be27377d6f0e00f6",
+            "name": "Xã Võ Liệt"
+        },
+        {
+            "uid": "77653cf056204e3e87f5fc9846f5cb53",
+            "name": "Xã Thanh Long"
+        },
+        {
+            "uid": "45057e07e55542ae91b04b7b5e46a9cd",
+            "name": "Xã Thanh Thủy"
+        },
+        {
+            "uid": "e3535d36df1647e880c552cff34b0f28",
+            "name": "Xã Thanh Khai"
+        },
+        {
+            "uid": "9698aaab0cbf45e99125da8241bdfc3d",
+            "name": "Xã Thanh Yên"
+        },
+        {
+            "uid": "b07115afce9947a2a303083dcd5175c2",
+            "name": "Xã Thanh Hà"
+        },
+        {
+            "uid": "3ecd87ef556f4602b0ec2225941e948c",
+            "name": "Xã Thanh Giang"
+        },
+        {
+            "uid": "214a35e3678441c5b23ba17a3a57b9d4",
+            "name": "Xã Thanh Tùng"
+        },
+        {
+            "uid": "f4db2915ad664991a847298ff69ad5ca",
+            "name": "Xã Thanh Lâm"
+        },
+        {
+            "uid": "b0adea95e18d4202b5d5a8b797dffd5f",
+            "name": "Xã Thanh Mai"
+        },
+        {
+            "uid": "2701a0b5dc5b40eb852297b1eed21b46",
+            "name": "Xã Thanh Xuân"
+        },
+        {
+            "uid": "4cef826c27984acfb9f1d8d1956ac013",
+            "name": "Xã Thanh Đức"
+        }
+    ]
+}

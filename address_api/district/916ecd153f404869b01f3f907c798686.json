@@ -1,0 +1,50 @@
+{
+    "uid": "916ecd153f404869b01f3f907c798686",
+    "name": "Huyện Đắk Hà",
+    "wards": [
+        {
+            "uid": "8035eb96e85b4896a3246591d167b341",
+            "name": "Thị trấn Đắk Hà"
+        },
+        {
+            "uid": "4ceefa36044648698d6fe0db5e621a6a",
+            "name": "Xã Đắk PXi"
+        },
+        {
+            "uid": "b39cfc1df2cc467387eb6f235070a9d1",
+            "name": "Xã Đăk Long"
+        },
+        {
+            "uid": "5d7c1f1240b043d8b7b5195ce2889583",
+            "name": "Xã Đắk HRing"
+        },
+        {
+            "uid": "a8549d4071394c30aa1994461bf8343a",
+            "name": "Xã Đắk Ui"
+        },
+        {
+            "uid": "305332e145614d119266e6d280093c23",
+            "name": "Xã Đăk Ngọk"
+        },
+        {
+            "uid": "f7923a79a78441d18f53b194cfd931f3",
+            "name": "Xã Đắk Mar"
+        },
+        {
+            "uid": "6e4bec37fa2e4c63b2df65c1c1c74c35",
+            "name": "Xã Ngok Wang"
+        },
+        {
+            "uid": "0c04e47502124ecb9a6ae5a3868b0805",
+            "name": "Xã Ngok Réo"
+        },
+        {
+            "uid": "71aee63f4fb64071acbfd5ecde614f4d",
+            "name": "Xã Hà Mòn"
+        },
+        {
+            "uid": "47d9fea661404497984a76db7f3824b8",
+            "name": "Xã Đắk La"
+        }
+    ]
+}

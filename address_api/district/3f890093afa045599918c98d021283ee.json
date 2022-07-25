@@ -1,0 +1,106 @@
+{
+    "uid": "3f890093afa045599918c98d021283ee",
+    "name": "Thành phố Nam Định",
+    "wards": [
+        {
+            "uid": "4e8cb48c4a014bdca9ae5dc998516e61",
+            "name": "Phường Hạ Long"
+        },
+        {
+            "uid": "f165c6190bed404e941095ed17651a03",
+            "name": "Phường Trần Tế Xương"
+        },
+        {
+            "uid": "7ee3c06af04344dfa80737b741812e34",
+            "name": "Phường Vị Hoàng"
+        },
+        {
+            "uid": "0647a923932542eeb3899791f62e0eea",
+            "name": "Phường Vị Xuyên"
+        },
+        {
+            "uid": "93f5280ea0994327901f26516a23c816",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "0e6d3bcf08e84d54bdaf97b6d7fb28f5",
+            "name": "Phường Cửa Bắc"
+        },
+        {
+            "uid": "550a60b35d954ba9a33b71fb61fc046e",
+            "name": "Phường Nguyễn Du"
+        },
+        {
+            "uid": "326d512de70b4c7a94bbe6246628dd90",
+            "name": "Phường Bà Triệu"
+        },
+        {
+            "uid": "18cf4a584d294bb8b7104e50385cd220",
+            "name": "Phường Trường Thi"
+        },
+        {
+            "uid": "46b58ec31f5743b496eae579a2110217",
+            "name": "Phường Phan Đình Phùng"
+        },
+        {
+            "uid": "a3716a44d48f436ba7bb72f4483640ee",
+            "name": "Phường Ngô Quyền"
+        },
+        {
+            "uid": "a0a497b2b26c47c583df2f0e9ac9ecda",
+            "name": "Phường Trần Hưng Đạo"
+        },
+        {
+            "uid": "a562908b05af4714aed1daf9cc614518",
+            "name": "Phường Trần Đăng Ninh"
+        },
+        {
+            "uid": "c7a132abc17e44038ae1b2c4d713e992",
+            "name": "Phường Năng Tĩnh"
+        },
+        {
+            "uid": "b9b00da6058f484fa52296f3292a9ee0",
+            "name": "Phường Văn Miếu"
+        },
+        {
+            "uid": "f64ecfb593c54bedaa81f0a48a0eb098",
+            "name": "Phường Trần Quang Khải"
+        },
+        {
+            "uid": "10a12e693cb34ce1b4874fac02884730",
+            "name": "Phường Thống Nhất"
+        },
+        {
+            "uid": "feee78ef6fe74e5cb8b9b588f8488ce4",
+            "name": "Phường Lộc Hạ"
+        },
+        {
+            "uid": "024d3c470fc94a9c8fa1781369fad3cd",
+            "name": "Phường Lộc Vượng"
+        },
+        {
+            "uid": "9be5d554b6984b3ea5df2da6e54b8b8e",
+            "name": "Phường Cửa Nam"
+        },
+        {
+            "uid": "540b655f719348a69bfd315f9be63c11",
+            "name": "Phường Lộc Hòa"
+        },
+        {
+            "uid": "254d761766414c1c8449debbcdcd0b90",
+            "name": "Xã Nam Phong"
+        },
+        {
+            "uid": "f5354d8ff03e427b80d95abe376abff3",
+            "name": "Phường Mỹ Xá"
+        },
+        {
+            "uid": "ae69772ebdbe4175b0954b2e0dc74aa3",
+            "name": "Xã Lộc An"
+        },
+        {
+            "uid": "96e45a23516d4ee2a264fc45754bb376",
+            "name": "Xã Nam Vân"
+        }
+    ]
+}

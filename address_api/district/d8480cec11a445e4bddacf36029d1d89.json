@@ -1,0 +1,30 @@
+{
+    "uid": "d8480cec11a445e4bddacf36029d1d89",
+    "name": "Huyện Lạc Dương",
+    "wards": [
+        {
+            "uid": "9b57d27517a145ac926b6d2ddbc40618",
+            "name": "Thị trấn Lạc Dương"
+        },
+        {
+            "uid": "48b10bfd35764b1ca3ac7c8ecd8b922f",
+            "name": "Xã Đạ Chais"
+        },
+        {
+            "uid": "a661e4957dd149259fc294bd02402442",
+            "name": "Xã Đạ Nhim"
+        },
+        {
+            "uid": "188a6838a1c041ccac73be5ec73644d9",
+            "name": "Xã Đưng KNớ"
+        },
+        {
+            "uid": "351ce86b65ce4691a46881c29ee7fa7d",
+            "name": "Xã Lát"
+        },
+        {
+            "uid": "9eccf7a36b494636844da3d86d427904",
+            "name": "Xã Đạ Sar"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "uid": "2f37eaa49c124beeae1745ad41b12f91",
+    "name": "Thành phố Cà Mau",
+    "wards": [
+        {
+            "uid": "a16ea6e3bfbc45aebc9d890adab9d051",
+            "name": "Phường 9"
+        },
+        {
+            "uid": "26248eb4263e43b6a2b543ab64df0fbc",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "0dcd4cc26a37402c82fd83395fae507d",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "5d68f47e93f4479badc38d45f62f902b",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "f514712596104fccb0086ccdf561ddce",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "dfcf5a172cd5472a976c033481059778",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "297b49530b8841c595461340264a931a",
+            "name": "Phường 6"
+        },
+        {
+            "uid": "34a4b1f985a349238aaf5799d3fd91f6",
+            "name": "Phường 7"
+        },
+        {
+            "uid": "f1c64c1ae0d54273b6333bd6526230b1",
+            "name": "Phường Tân Xuyên"
+        },
+        {
+            "uid": "5c1fefc778c44d108573ef202039d6e7",
+            "name": "Xã An Xuyên"
+        },
+        {
+            "uid": "cd053ed15c0b4670b2e7f9935b8bf372",
+            "name": "Phường Tân Thành"
+        },
+        {
+            "uid": "3bed6efa94a6471689e43b1716f843e0",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "988af89328fe4199a94c27e5a2d6d593",
+            "name": "Xã Tắc Vân"
+        },
+        {
+            "uid": "7b9a5e6483c74adc833ccc50f7789738",
+            "name": "Xã Lý Văn Lâm"
+        },
+        {
+            "uid": "e70117e26dc1404dbfb1fbf76d35f905",
+            "name": "Xã Định Bình"
+        },
+        {
+            "uid": "6ff5a8722f254278ad66a6632d86dc98",
+            "name": "Xã Hòa Thành"
+        },
+        {
+            "uid": "817e6db3d19447b69409563fe7a89c26",
+            "name": "Xã Hòa Tân"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "uid": "bb05918b9e204cb9abda1d744cc56e98",
+    "name": "Huyện Ngọc Hiển",
+    "wards": [
+        {
+            "uid": "70da299282c2471db8bc21e26b2e0849",
+            "name": "Xã Tam Giang Tây"
+        },
+        {
+            "uid": "c636510548be47a59144c1ea11ec7bfe",
+            "name": "Xã Tân Ân Tây"
+        },
+        {
+            "uid": "c981ae4d92bd46afba3dffa90ccff43d",
+            "name": "Xã Viên An Đông"
+        },
+        {
+            "uid": "0f5888f686fd435085c46001ea3656d2",
+            "name": "Xã Viên An"
+        },
+        {
+            "uid": "9dfa9a8c0307476388c3ad8041d43158",
+            "name": "Thị trấn Rạch Gốc"
+        },
+        {
+            "uid": "d9fe14273b3246228a8aa87dc87e7c92",
+            "name": "Xã Tân Ân"
+        },
+        {
+            "uid": "a0f22305baa74eeb8cc076faed8cd34d",
+            "name": "Xã Đất Mũi"
+        }
+    ]
+}

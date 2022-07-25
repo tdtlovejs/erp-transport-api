@@ -1,0 +1,42 @@
+{
+    "uid": "812a112af5ba44809c0f0d8cb55596c9",
+    "name": "Thành phố Vị Thanh",
+    "wards": [
+        {
+            "uid": "751115a018444273a2f280bd5f04b903",
+            "name": "Phường I"
+        },
+        {
+            "uid": "8f02154c8c644beaa373a476492a50a7",
+            "name": "Phường III"
+        },
+        {
+            "uid": "88a725d12e214cceb353128eec382938",
+            "name": "Phường IV"
+        },
+        {
+            "uid": "62751bd5a1ec4f6ea35612ebdf549838",
+            "name": "Phường V"
+        },
+        {
+            "uid": "b08291de5b034e5da308768594b920a1",
+            "name": "Phường VII"
+        },
+        {
+            "uid": "391e5c0dfee44a168ecda3c761a01ec3",
+            "name": "Xã Vị Tân"
+        },
+        {
+            "uid": "7350c55258204073aa4fccf4b0039d60",
+            "name": "Xã Hoả Lựu"
+        },
+        {
+            "uid": "a075b98d9afb467fb6a8a6bd57437b7f",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "ac75c17cb92a427db5ea844309146367",
+            "name": "Xã Hoả Tiến"
+        }
+    ]
+}

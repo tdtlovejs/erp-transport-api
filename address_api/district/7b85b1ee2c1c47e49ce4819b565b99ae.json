@@ -1,0 +1,38 @@
+{
+    "uid": "7b85b1ee2c1c47e49ce4819b565b99ae",
+    "name": "Thị xã Ayun Pa",
+    "wards": [
+        {
+            "uid": "4249d7594ae64ad19343c71e09f4ef5a",
+            "name": "Phường Cheo Reo"
+        },
+        {
+            "uid": "4073289a0233419a8e11f98406886974",
+            "name": "Phường Hòa Bình"
+        },
+        {
+            "uid": "2784724e6ea04b6994bac14ff127f0d1",
+            "name": "Phường Đoàn Kết"
+        },
+        {
+            "uid": "6ba365b7f39f4c5e9b4f2b25e546e01c",
+            "name": "Phường Sông Bờ"
+        },
+        {
+            "uid": "9a8b58f2ed944106a516a140f058d844",
+            "name": "Xã Ia RBol"
+        },
+        {
+            "uid": "495b95c805c44c069fdad110a099c931",
+            "name": "Xã Chư Băh"
+        },
+        {
+            "uid": "44e4a941cd9042ec86eca07004391d03",
+            "name": "Xã Ia RTô"
+        },
+        {
+            "uid": "70539b4345594789b69492b9ed4b46bd",
+            "name": "Xã Ia Sao"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uid": "5575ef2b20fe4193a64b27be90dba809",
+    "name": "Huyện Hưng Nguyên",
+    "wards": [
+        {
+            "uid": "ad7790d1341749719297b9e0057bb40a",
+            "name": "Thị trấn Hưng Nguyên"
+        },
+        {
+            "uid": "3ac375ec0f7d42c9b72a669b86aae9e9",
+            "name": "Xã Hưng Trung"
+        },
+        {
+            "uid": "3d0658ab7ab04487b44c55d5029acd02",
+            "name": "Xã Hưng Yên"
+        },
+        {
+            "uid": "87e4caaaa6d548268092f06c5f146769",
+            "name": "Xã Hưng Yên Bắc"
+        },
+        {
+            "uid": "715f40d2209c45aeb7dd2b9366460be1",
+            "name": "Xã Hưng Tây"
+        },
+        {
+            "uid": "45841adc07e44ccdb8522701d47e6246",
+            "name": "Xã Hưng Đạo"
+        },
+        {
+            "uid": "7c33d6dc91394cf9b36b42dae3f1d347",
+            "name": "Xã Hưng Mỹ"
+        },
+        {
+            "uid": "90f9a1f8ecf145088dac8a79e3d5b804",
+            "name": "Xã Hưng Thịnh"
+        },
+        {
+            "uid": "76038608949c428b85f8b4b480df1c7f",
+            "name": "Xã Hưng Lĩnh"
+        },
+        {
+            "uid": "3a6f69e7178f448fa17805de46bff5a2",
+            "name": "Xã Hưng Thông"
+        },
+        {
+            "uid": "65598413d05d4a9186fff43d4d0d4da7",
+            "name": "Xã Hưng Tân"
+        },
+        {
+            "uid": "fbbbc61750374d6a99d4fbef3e30d672",
+            "name": "Xã Hưng Lợi"
+        },
+        {
+            "uid": "9deacb46ac364e11b2917eaefd283a71",
+            "name": "Xã Hưng Nghĩa"
+        },
+        {
+            "uid": "6a9ee3deede0422084be84573b1fd0a2",
+            "name": "Xã Hưng Phúc"
+        },
+        {
+            "uid": "793f01ed20f9488a94e1dc5fc1c76cf5",
+            "name": "Xã Long Xá"
+        },
+        {
+            "uid": "389bbf9930224ba582f0f80768a6d0bb",
+            "name": "Xã Châu Nhân"
+        },
+        {
+            "uid": "95050e017fc94cf2bb56db16e5c4b8a2",
+            "name": "Xã Xuân Lam"
+        },
+        {
+            "uid": "e248dabd96a940488c36c73e1587f539",
+            "name": "Xã Hưng Thành"
+        }
+    ]
+}

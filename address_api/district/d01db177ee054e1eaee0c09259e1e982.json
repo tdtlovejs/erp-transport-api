@@ -1,0 +1,46 @@
+{
+    "uid": "d01db177ee054e1eaee0c09259e1e982",
+    "name": "Huyện Tân Biên",
+    "wards": [
+        {
+            "uid": "5b636dd3dfb24a9f966e60e10cfa32b5",
+            "name": "Thị trấn Tân Biên"
+        },
+        {
+            "uid": "3e90c4dcfe644c678987223702a2e28b",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "040c6591b10f48a7b05edb7d3c6b8799",
+            "name": "Xã Thạnh Bắc"
+        },
+        {
+            "uid": "541baaf420a74e18a3481ad8d9608999",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "97169e940a0e493eb207e808ed9af4f1",
+            "name": "Xã Thạnh Bình"
+        },
+        {
+            "uid": "35cdb526f50542fb8a84a025dfda9680",
+            "name": "Xã Thạnh Tây"
+        },
+        {
+            "uid": "28404e377b8b43ad8c66d963b8d89028",
+            "name": "Xã Hòa Hiệp"
+        },
+        {
+            "uid": "41571940cb944f2da1375e7f8f7ddafe",
+            "name": "Xã Tân Phong"
+        },
+        {
+            "uid": "6edc78fef11c46b5a2e5604aa6ac745d",
+            "name": "Xã Mỏ Công"
+        },
+        {
+            "uid": "898e63a55a034957823f8b41af7d57f4",
+            "name": "Xã Trà Vong"
+        }
+    ]
+}

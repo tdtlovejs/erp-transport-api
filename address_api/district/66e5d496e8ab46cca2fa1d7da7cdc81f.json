@@ -1,0 +1,34 @@
+{
+    "uid": "66e5d496e8ab46cca2fa1d7da7cdc81f",
+    "name": "Quận Ô Môn",
+    "wards": [
+        {
+            "uid": "269f19847b9c45fd9c590ede4bdeccb7",
+            "name": "Phường Châu Văn Liêm"
+        },
+        {
+            "uid": "b5c0521c5e8247a7be8b6175b0cbcdf4",
+            "name": "Phường Thới Hòa"
+        },
+        {
+            "uid": "828ae2c4c79944bba9964f0137eddf77",
+            "name": "Phường Thới Long"
+        },
+        {
+            "uid": "ef74ee7e1ce04901a742c90589897487",
+            "name": "Phường Long Hưng"
+        },
+        {
+            "uid": "e132e3575ccc4c2ea8aa137b4a237369",
+            "name": "Phường Thới An"
+        },
+        {
+            "uid": "2442f889c38444bb9de9591e9dd931f3",
+            "name": "Phường Phước Thới"
+        },
+        {
+            "uid": "aeab2df9204644f88c4011f4a8ef18b0",
+            "name": "Phường Trường Lạc"
+        }
+    ]
+}

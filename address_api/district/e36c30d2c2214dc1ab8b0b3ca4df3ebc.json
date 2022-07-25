@@ -1,0 +1,62 @@
+{
+    "uid": "e36c30d2c2214dc1ab8b0b3ca4df3ebc",
+    "name": "Huyện Thạch An",
+    "wards": [
+        {
+            "uid": "e4a181bbedd54d81b9a5a15b7bd88c46",
+            "name": "Thị trấn Đông Khê"
+        },
+        {
+            "uid": "f4c9dc664f334aaba8ba87624ad454db",
+            "name": "Xã Canh Tân"
+        },
+        {
+            "uid": "52175f69c9b84a1d866b705b981cdca6",
+            "name": "Xã Kim Đồng"
+        },
+        {
+            "uid": "ca26fde387164aac9410d9b9c78cc717",
+            "name": "Xã Minh Khai"
+        },
+        {
+            "uid": "b75b06b92c694b94a48299c1157032a6",
+            "name": "Xã Đức Thông"
+        },
+        {
+            "uid": "09ad54a2afbd40c5895c52a9464831c4",
+            "name": "Xã Thái Cường"
+        },
+        {
+            "uid": "038a9c3ef4e04e6bbdea3e5cb0b776e7",
+            "name": "Xã Vân Trình"
+        },
+        {
+            "uid": "ac843d722ade448ea47bdd9a24dcad08",
+            "name": "Xã Thụy Hùng"
+        },
+        {
+            "uid": "2d3af442781941cb9b8622cec39b3729",
+            "name": "Xã Quang Trọng"
+        },
+        {
+            "uid": "c5ed42d8771f47bf97fc2af3bd36c18e",
+            "name": "Xã Trọng Con"
+        },
+        {
+            "uid": "cd377a8a6faa4553a29671bbaac5335f",
+            "name": "Xã Lê Lai"
+        },
+        {
+            "uid": "493953a6147c4179b10c0599730df445",
+            "name": "Xã Đức Long"
+        },
+        {
+            "uid": "320c973b084e4428b4a074ba3860cc84",
+            "name": "Xã Lê Lợi"
+        },
+        {
+            "uid": "2686cb11cb3f4956832f74bf7c10b264",
+            "name": "Xã Đức Xuân"
+        }
+    ]
+}

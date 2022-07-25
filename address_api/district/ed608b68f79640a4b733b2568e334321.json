@@ -1,0 +1,42 @@
+{
+    "uid": "ed608b68f79640a4b733b2568e334321",
+    "name": "Huyện Đắk Song",
+    "wards": [
+        {
+            "uid": "a07c77a880e04f6d912dbd94da5555dc",
+            "name": "Thị trấn Đức An"
+        },
+        {
+            "uid": "ff1de29f27b94f82b32623cc66a9c72a",
+            "name": "Xã Đắk Môl"
+        },
+        {
+            "uid": "87049de8080744a0bb2bbc0b389aea15",
+            "name": "Xã Đắk Hòa"
+        },
+        {
+            "uid": "cec752ae8a2341e5b6d7e3c41197edbe",
+            "name": "Xã Nam Bình"
+        },
+        {
+            "uid": "25efc9624ee7491ea1affd9f1a842606",
+            "name": "Xã Thuận Hà"
+        },
+        {
+            "uid": "93f2f5c1d79543208e2e4cd156cf12bd",
+            "name": "Xã Thuận Hạnh"
+        },
+        {
+            "uid": "919d9a16a7cc4732bf196b6bd71dbd05",
+            "name": "Xã Đắk N'Dung"
+        },
+        {
+            "uid": "753965d6801d4e15b7c4d9f541f8a074",
+            "name": "Xã Nâm N'Jang"
+        },
+        {
+            "uid": "b0cc1481fafe4ca38969e3093398c2d2",
+            "name": "Xã Trường Xuân"
+        }
+    ]
+}

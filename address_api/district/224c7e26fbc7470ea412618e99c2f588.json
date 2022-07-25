@@ -1,0 +1,74 @@
+{
+    "uid": "224c7e26fbc7470ea412618e99c2f588",
+    "name": "Huyện Nguyên Bình",
+    "wards": [
+        {
+            "uid": "dfe0896ee75b4f95925be55f917bbcb1",
+            "name": "Thị trấn Nguyên Bình"
+        },
+        {
+            "uid": "63ecd8588325454da388994f0f4ee0ae",
+            "name": "Thị trấn Tĩnh Túc"
+        },
+        {
+            "uid": "5ad1dcf70e2f4a78b3ab0edc996cf5c0",
+            "name": "Xã Yên Lạc"
+        },
+        {
+            "uid": "597c52bf29b74d2d8b4688c4ce5b432a",
+            "name": "Xã Triệu Nguyên"
+        },
+        {
+            "uid": "4b8c9d32c04b4e41a6777f0c0eabb60f",
+            "name": "Xã Ca Thành"
+        },
+        {
+            "uid": "7ddf349a7d08407ba1c9c85a2d9a79da",
+            "name": "Xã Vũ Nông"
+        },
+        {
+            "uid": "afe49c3a552b4393b86e8b47b9ddcca8",
+            "name": "Xã Minh Tâm"
+        },
+        {
+            "uid": "3fc0d360eedd4fb683ad7ca8d2fd9307",
+            "name": "Xã Thể Dục"
+        },
+        {
+            "uid": "fb39e4c4d9174a7f9bb5ba11f7428616",
+            "name": "Xã Mai Long"
+        },
+        {
+            "uid": "57bab5248cbc4b8f83d36a21091e13e1",
+            "name": "Xã Vũ Minh"
+        },
+        {
+            "uid": "59667337794742f0a73f2dff1e568992",
+            "name": "Xã Hoa Thám"
+        },
+        {
+            "uid": "1de15d7b23194c5c92d7a5934f8edfbd",
+            "name": "Xã Phan Thanh"
+        },
+        {
+            "uid": "ec301c301ba5478ca81ec288f0b88ad6",
+            "name": "Xã Quang Thành"
+        },
+        {
+            "uid": "777f64c41b744d56b84d272084880645",
+            "name": "Xã Tam Kim"
+        },
+        {
+            "uid": "da6ad1137776474e822f1933932b2d49",
+            "name": "Xã Thành Công"
+        },
+        {
+            "uid": "ad21541033654e0f871dacddf4e32fe1",
+            "name": "Xã Thịnh Vượng"
+        },
+        {
+            "uid": "c1e8ca8f8767485a8f24082089aae045",
+            "name": "Xã Hưng Đạo"
+        }
+    ]
+}

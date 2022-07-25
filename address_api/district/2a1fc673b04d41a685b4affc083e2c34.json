@@ -1,0 +1,66 @@
+{
+    "uid": "2a1fc673b04d41a685b4affc083e2c34",
+    "name": "Huyện Bến Lức",
+    "wards": [
+        {
+            "uid": "8cbc8965b8f34272812b13f0e1a97f61",
+            "name": "Thị trấn Bến Lức"
+        },
+        {
+            "uid": "75e7988efd864c2597d01b150c3e4323",
+            "name": "Xã Thạnh Lợi"
+        },
+        {
+            "uid": "d0fda0f432c7413e99dc991d4b1bf224",
+            "name": "Xã Lương Bình"
+        },
+        {
+            "uid": "50c7360f7ec94d90a496cf54d7111e3c",
+            "name": "Xã Thạnh Hòa"
+        },
+        {
+            "uid": "5035cd4e506b4f9f81e9f3dd0d80bbbf",
+            "name": "Xã Lương Hòa"
+        },
+        {
+            "uid": "54b290ca10aa4f4bb995a67c86b79f9c",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "4726088df2a14320832c779fa21e7b97",
+            "name": "Xã Tân Bửu"
+        },
+        {
+            "uid": "a1d6689150594d0faf3fe9ae85529a46",
+            "name": "Xã An Thạnh"
+        },
+        {
+            "uid": "0b7cd5aabbcc474fb72f539a6ab48f07",
+            "name": "Xã Bình Đức"
+        },
+        {
+            "uid": "b59d01eb6afb40bd8e0d15d98ad12048",
+            "name": "Xã Mỹ Yên"
+        },
+        {
+            "uid": "15b4b352d5d044d98a2f68f160ad692a",
+            "name": "Xã Thanh Phú"
+        },
+        {
+            "uid": "3d980a9f79ec46ce81d4635f9e1c28cd",
+            "name": "Xã Long Hiệp"
+        },
+        {
+            "uid": "c807aba09433473fb2ea7aeb28ecda25",
+            "name": "Xã Thạnh Đức"
+        },
+        {
+            "uid": "620c4beb04074dc58d5c9c1c8c933bc2",
+            "name": "Xã Phước Lợi"
+        },
+        {
+            "uid": "8e107b0bbe404eddb0e3167ad424f34e",
+            "name": "Xã Nhựt Chánh"
+        }
+    ]
+}

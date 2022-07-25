@@ -1,0 +1,106 @@
+{
+    "uid": "d077cb4293434761b5c9277952f19e58",
+    "name": "Huyện Văn Yên",
+    "wards": [
+        {
+            "uid": "695860b5efca4861ac893b9712068663",
+            "name": "Thị trấn Mậu A"
+        },
+        {
+            "uid": "c722dc5b3f7c4abd8de21c33df3b39b3",
+            "name": "Xã Lang Thíp"
+        },
+        {
+            "uid": "da33b39ddaa748d3ae0620e05d02cbd1",
+            "name": "Xã Lâm Giang"
+        },
+        {
+            "uid": "763692c771064c92bfe64d306e168711",
+            "name": "Xã Châu Quế Thượng"
+        },
+        {
+            "uid": "f5eda64704ec4bc3943279a6faf0b34b",
+            "name": "Xã Châu Quế Hạ"
+        },
+        {
+            "uid": "ec3078c4c2f742438edd5dd4e699acb6",
+            "name": "Xã An Bình"
+        },
+        {
+            "uid": "461ed685b12f42be81a1e0496d606310",
+            "name": "Xã Quang Minh"
+        },
+        {
+            "uid": "099d841ad72e40d99a031721c85f4dbe",
+            "name": "Xã Đông An"
+        },
+        {
+            "uid": "8fd32dcb3f5545d8bd47e388065cbcc5",
+            "name": "Xã Đông Cuông"
+        },
+        {
+            "uid": "2909276f3ae140d3ad5c3c3eaf89a61d",
+            "name": "Xã Phong Dụ Hạ"
+        },
+        {
+            "uid": "984e8d861ea6451eb61ce31c9a7a354f",
+            "name": "Xã Mậu Đông"
+        },
+        {
+            "uid": "14e0230a1fb14f9ebbf0b9be2ed810c5",
+            "name": "Xã Ngòi A"
+        },
+        {
+            "uid": "5baa9b1022c743baa89de0c110081468",
+            "name": "Xã Xuân Tầm"
+        },
+        {
+            "uid": "9115375f88314834b867683ee404ef2c",
+            "name": "Xã Tân Hợp"
+        },
+        {
+            "uid": "a5d4b04b85014107ae1c6c4cedd89406",
+            "name": "Xã An Thịnh"
+        },
+        {
+            "uid": "9291dbd51cee40768ef8f83ade9f8376",
+            "name": "Xã Yên Thái"
+        },
+        {
+            "uid": "bbf542f938ac4d7893fff37f5f2d7160",
+            "name": "Xã Phong Dụ Thượng"
+        },
+        {
+            "uid": "bfac943edc7d4cc3aa2fc27e8b0cbc4b",
+            "name": "Xã Yên Hợp"
+        },
+        {
+            "uid": "7d71583fd98147d69b18fe4cacbc0d4d",
+            "name": "Xã Đại Sơn"
+        },
+        {
+            "uid": "21a158e5b5f5425aa666ec306d8a8d33",
+            "name": "Xã Đại Phác"
+        },
+        {
+            "uid": "bf56d1c01eab4ffb80d68854a05445ff",
+            "name": "Xã Yên Phú"
+        },
+        {
+            "uid": "180e196451c241fdabb4d587dd60cfb4",
+            "name": "Xã Xuân Ái"
+        },
+        {
+            "uid": "1f575bfbb9cf4d22beb4fd3d049972f1",
+            "name": "Xã Viễn Sơn"
+        },
+        {
+            "uid": "046da08edbe84c43b4d858b23caf6ad8",
+            "name": "Xã Mỏ Vàng"
+        },
+        {
+            "uid": "6ed288ea61a04dbbaa293f3c019a11ea",
+            "name": "Xã Nà Hẩu"
+        }
+    ]
+}

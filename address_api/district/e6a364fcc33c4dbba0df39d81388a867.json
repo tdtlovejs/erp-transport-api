@@ -1,0 +1,106 @@
+{
+    "uid": "e6a364fcc33c4dbba0df39d81388a867",
+    "name": "Huyện Thạch Thành",
+    "wards": [
+        {
+            "uid": "77952c4790634dda83d47ffb619bcb5f",
+            "name": "Thị trấn Kim Tân"
+        },
+        {
+            "uid": "348075f262d54d7caa873637b7331b49",
+            "name": "Thị trấn Vân Du"
+        },
+        {
+            "uid": "2a193fbaad9c43e7adbf4588ca19aafe",
+            "name": "Xã Thạch Lâm"
+        },
+        {
+            "uid": "cd7bc5b6450341c89cdb35d0233a3cb8",
+            "name": "Xã Thạch Quảng"
+        },
+        {
+            "uid": "540fcbb09ce447e1825df09998e88a34",
+            "name": "Xã Thạch Tượng"
+        },
+        {
+            "uid": "e540ec23b8c348d98feb7cb0953a7ad8",
+            "name": "Xã Thạch Cẩm"
+        },
+        {
+            "uid": "8292d99e58f740939ebe8d4a762d43b0",
+            "name": "Xã Thạch Sơn"
+        },
+        {
+            "uid": "9e49e98a5fd3477b9650fc912e5b77fd",
+            "name": "Xã Thạch Bình"
+        },
+        {
+            "uid": "c7a7176a6c7040aebde11c9a04a525f8",
+            "name": "Xã Thạch Định"
+        },
+        {
+            "uid": "f5e32996d6a346cc976c8cd7a8aa935e",
+            "name": "Xã Thạch Đồng"
+        },
+        {
+            "uid": "5d0a40c5051d4ac1a371cd8810989b18",
+            "name": "Xã Thạch Long"
+        },
+        {
+            "uid": "507e646f3fc640fcbfa0019dcc5a8e9f",
+            "name": "Xã Thành Mỹ"
+        },
+        {
+            "uid": "89e3651f51d44a2f84dfe9d29bd8f914",
+            "name": "Xã Thành Yên"
+        },
+        {
+            "uid": "0c54bbf3aeff4bb0a66572d29862c6ec",
+            "name": "Xã Thành Vinh"
+        },
+        {
+            "uid": "25709c3239a447968cf9d8317fdf365d",
+            "name": "Xã Thành Minh"
+        },
+        {
+            "uid": "9e7632859d7746848a9dfc9552d1acdc",
+            "name": "Xã Thành Công"
+        },
+        {
+            "uid": "21d2e21a7026455a89a989190ed9957e",
+            "name": "Xã Thành Tân"
+        },
+        {
+            "uid": "8a519ca1d4ef477e971422c2c7ea0e2c",
+            "name": "Xã Thành Trực"
+        },
+        {
+            "uid": "f308f4bee58d4580ae377395da645730",
+            "name": "Xã Thành Tâm"
+        },
+        {
+            "uid": "5a4fa76138364c089155a1a39aa4d4f1",
+            "name": "Xã Thành An"
+        },
+        {
+            "uid": "6722b02f1ce34e55bb6693b5ea3469f6",
+            "name": "Xã Thành Thọ"
+        },
+        {
+            "uid": "f695f428286f4ec1afae7f3fc2258d0e",
+            "name": "Xã Thành Tiến"
+        },
+        {
+            "uid": "f9c70d2efbc14cfaa7af891016908110",
+            "name": "Xã Thành Long"
+        },
+        {
+            "uid": "63ccf28701094433a0c88f6040c7a8b0",
+            "name": "Xã Thành Hưng"
+        },
+        {
+            "uid": "1b8a8886845443fc9c10856ed3377084",
+            "name": "Xã Ngọc Trạo"
+        }
+    ]
+}

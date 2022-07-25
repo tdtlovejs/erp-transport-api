@@ -1,0 +1,74 @@
+{
+    "uid": "49d2c57d69fc4ec2a958d3bcec01692d",
+    "name": "Huyện Cần Đước",
+    "wards": [
+        {
+            "uid": "796f3375768d436a96c8cc0db6d2fbd5",
+            "name": "Thị trấn Cần Đước"
+        },
+        {
+            "uid": "9dc7923ddc1d423e846dfb4edb6783f0",
+            "name": "Xã Long Trạch"
+        },
+        {
+            "uid": "b5723fe5fc8c4141906e3d53595b2f8b",
+            "name": "Xã Long Khê"
+        },
+        {
+            "uid": "1068ccc2a42e4f84aa32bfc9d6ab9bc2",
+            "name": "Xã Long Định"
+        },
+        {
+            "uid": "51422ac1e38a4c88a84a90bd003dff72",
+            "name": "Xã Phước Vân"
+        },
+        {
+            "uid": "16920a4bb972478e91da639c6524f6c1",
+            "name": "Xã Long Hòa"
+        },
+        {
+            "uid": "81c5a80f80e146f0889b2f66b1213289",
+            "name": "Xã Long Cang"
+        },
+        {
+            "uid": "94539efc1b3d4ede97fa114712710b5d",
+            "name": "Xã Long Sơn"
+        },
+        {
+            "uid": "addabb64402a42cfbc815d7a22b35f05",
+            "name": "Xã Tân Trạch"
+        },
+        {
+            "uid": "90251e6cc8534b7887416e75e1ac2b2e",
+            "name": "Xã Mỹ Lệ"
+        },
+        {
+            "uid": "f2cc8079d14d4b43a97593c7bf545998",
+            "name": "Xã Tân Lân"
+        },
+        {
+            "uid": "7a12947673944480bc3dc70ec348595a",
+            "name": "Xã Phước Tuy"
+        },
+        {
+            "uid": "eff0018f9fea440db0ed566ce955ef08",
+            "name": "Xã Long Hựu Đông"
+        },
+        {
+            "uid": "b138b510fa8d46bf9fe29d3b7efdaf5e",
+            "name": "Xã Tân Ân"
+        },
+        {
+            "uid": "f823250ee7a54b97b3e087079e3869ed",
+            "name": "Xã Phước Đông"
+        },
+        {
+            "uid": "879eec05b26548939df0ce7a77e95290",
+            "name": "Xã Long Hựu Tây"
+        },
+        {
+            "uid": "5f7a0c64c26a4c44b1b150f98c6d8b2e",
+            "name": "Xã Tân Chánh"
+        }
+    ]
+}

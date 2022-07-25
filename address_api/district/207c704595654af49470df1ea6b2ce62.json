@@ -1,0 +1,30 @@
+{
+    "uid": "207c704595654af49470df1ea6b2ce62",
+    "name": "Quận Cẩm Lệ",
+    "wards": [
+        {
+            "uid": "1fe0e39499724d72b45e19ebe8f26e12",
+            "name": "Phường Khuê Trung"
+        },
+        {
+            "uid": "23ca062af40745828384a9df58fb077f",
+            "name": "Phường Hòa Phát"
+        },
+        {
+            "uid": "6de2a3f63000473cb60dc2883af5253f",
+            "name": "Phường Hòa An"
+        },
+        {
+            "uid": "c33dccb5ca0f4752853c32dc8f4c7b6e",
+            "name": "Phường Hòa Thọ Tây"
+        },
+        {
+            "uid": "f221e855885a4eb1be540040f83f4b92",
+            "name": "Phường Hòa Thọ Đông"
+        },
+        {
+            "uid": "ae802a81077b46c68738e3fe85553fc3",
+            "name": "Phường Hòa Xuân"
+        }
+    ]
+}

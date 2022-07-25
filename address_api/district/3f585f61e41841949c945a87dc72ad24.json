@@ -1,0 +1,66 @@
+{
+    "uid": "3f585f61e41841949c945a87dc72ad24",
+    "name": "Huyện Cần Giuộc",
+    "wards": [
+        {
+            "uid": "356e1ff0e5de42b4843d20a25d8e6939",
+            "name": "Thị trấn Cần Giuộc"
+        },
+        {
+            "uid": "5017ae8fdc2c417d9b4103f2f2deb6ce",
+            "name": "Xã Phước Lý"
+        },
+        {
+            "uid": "10e3d7f2c4634e5992ce5eacdf4274e8",
+            "name": "Xã Long Thượng"
+        },
+        {
+            "uid": "c58f8d68ff0b4a43ad8ccc0dca3036d5",
+            "name": "Xã Long Hậu"
+        },
+        {
+            "uid": "43b42dc5b7bb40b584859c1fd5a03133",
+            "name": "Xã Phước Hậu"
+        },
+        {
+            "uid": "eff00c6532ec4c6bbe55f4097c7277b2",
+            "name": "Xã Mỹ Lộc"
+        },
+        {
+            "uid": "b22896ff99f94eb092f2e1a82cd0b3a4",
+            "name": "Xã Phước Lại"
+        },
+        {
+            "uid": "0440fe1952b54e109b8c89dd1e600a65",
+            "name": "Xã Phước Lâm"
+        },
+        {
+            "uid": "a2aec239094c457dbb73734305231b57",
+            "name": "Xã Thuận Thành"
+        },
+        {
+            "uid": "a37b261b1e9443ee953075995b505509",
+            "name": "Xã Phước Vĩnh Tây"
+        },
+        {
+            "uid": "b009ff723fe447149cc4eeff3015c5c7",
+            "name": "Xã Phước Vĩnh Đông"
+        },
+        {
+            "uid": "0d78e32f687e4aab9f09dfb23f7d76cd",
+            "name": "Xã Long An"
+        },
+        {
+            "uid": "6902111ee5054eeaa6b760faa44ef1b8",
+            "name": "Xã Long Phụng"
+        },
+        {
+            "uid": "0218b4833c844a5a920f174d940a7676",
+            "name": "Xã Đông Thạnh"
+        },
+        {
+            "uid": "125d0f73a55140f59deab4fab010130a",
+            "name": "Xã Tân Tập"
+        }
+    ]
+}

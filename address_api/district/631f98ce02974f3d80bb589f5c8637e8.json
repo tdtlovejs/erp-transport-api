@@ -1,0 +1,42 @@
+{
+    "uid": "631f98ce02974f3d80bb589f5c8637e8",
+    "name": "Thị xã Phú Thọ",
+    "wards": [
+        {
+            "uid": "d3ade4e1e5cc44bdb36cd7f1e3077a2f",
+            "name": "Phường Hùng Vương"
+        },
+        {
+            "uid": "70914c029f4742fe9f2ac53b4ebeeb5c",
+            "name": "Phường Phong Châu"
+        },
+        {
+            "uid": "524de4543e4643f086d9aede001a5d22",
+            "name": "Phường Âu Cơ"
+        },
+        {
+            "uid": "422af24215964812ae2be00654bc9a2d",
+            "name": "Xã Hà Lộc"
+        },
+        {
+            "uid": "0b9cd487ef90464a82b1b6cc48c4e1a0",
+            "name": "Xã Phú Hộ"
+        },
+        {
+            "uid": "9411ff298905444788fcd7d95ee4eb21",
+            "name": "Xã Văn Lung"
+        },
+        {
+            "uid": "f305120e9dcd488cb09f34b182173dbe",
+            "name": "Xã Thanh Minh"
+        },
+        {
+            "uid": "32134c43685b4d02bfdb3c99597189c6",
+            "name": "Xã Hà Thạch"
+        },
+        {
+            "uid": "c8571cc5a618430e8350e7b6e03d33d4",
+            "name": "Phường Thanh Vinh"
+        }
+    ]
+}

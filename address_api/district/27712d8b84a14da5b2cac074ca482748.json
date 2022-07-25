@@ -1,0 +1,74 @@
+{
+    "uid": "27712d8b84a14da5b2cac074ca482748",
+    "name": "Thành phố Hưng Yên",
+    "wards": [
+        {
+            "uid": "8663648ca16f456cafeee5e2a14f9839",
+            "name": "Phường Lam Sơn"
+        },
+        {
+            "uid": "acd866e8a6d54025adca8c8c22e226df",
+            "name": "Phường Hiến Nam"
+        },
+        {
+            "uid": "0f0f91b94d044a1e8f579d39a63c1881",
+            "name": "Phường An Tảo"
+        },
+        {
+            "uid": "7696e9a2823a4e4aaa54d00b8ccd52b3",
+            "name": "Phường Lê Lợi"
+        },
+        {
+            "uid": "0d2713860a8e45558899442d8b81cefe",
+            "name": "Phường Minh Khai"
+        },
+        {
+            "uid": "2556818edc114cc2a26361f56d4efd39",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "784c5cab124347ca90d7898c33d03419",
+            "name": "Phường Hồng Châu"
+        },
+        {
+            "uid": "66a6315afe694722add62d9dcc434ba8",
+            "name": "Xã Trung Nghĩa"
+        },
+        {
+            "uid": "5f9d912ecad94332b19a30d9f82b44e5",
+            "name": "Xã Liên Phương"
+        },
+        {
+            "uid": "f58582d09a8644b694ed0ff7028c52be",
+            "name": "Xã Hồng Nam"
+        },
+        {
+            "uid": "e692de77efc4436cbc3ca0193511625c",
+            "name": "Xã Quảng Châu"
+        },
+        {
+            "uid": "774719885ddc48a1b266ec5f5d5af37d",
+            "name": "Xã Bảo Khê"
+        },
+        {
+            "uid": "e073e07cbbdb4866bf46094afecc57d7",
+            "name": "Xã Phú Cường"
+        },
+        {
+            "uid": "0b107ee363e240ee9f9cff9d4d57278d",
+            "name": "Xã Hùng Cường"
+        },
+        {
+            "uid": "d3bb05e242034f15b182d705d693f04e",
+            "name": "Xã Phương Chiểu"
+        },
+        {
+            "uid": "dbe747bb8abe44c6bb253e0170a1a652",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "2b8cc5107a1241b8be310af3b699b7b3",
+            "name": "Xã Hoàng Hanh"
+        }
+    ]
+}

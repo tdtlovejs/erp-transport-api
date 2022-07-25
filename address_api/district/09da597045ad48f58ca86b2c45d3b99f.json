@@ -1,0 +1,38 @@
+{
+    "uid": "09da597045ad48f58ca86b2c45d3b99f",
+    "name": "Quận Bình Thuỷ",
+    "wards": [
+        {
+            "uid": "69204798a08b43d693edc86f151a19b3",
+            "name": "Phường Bình Thủy"
+        },
+        {
+            "uid": "4a316421da31419baebdd9ceaaaa5c2c",
+            "name": "Phường Trà An"
+        },
+        {
+            "uid": "0da5e1d681a14636a8dd302ab64f0ca0",
+            "name": "Phường Trà Nóc"
+        },
+        {
+            "uid": "4ecdadca6b384602ad132bcb63862ffd",
+            "name": "Phường Thới An Đông"
+        },
+        {
+            "uid": "dfed1a9387ff4866b237cd13918a34ba",
+            "name": "Phường An Thới"
+        },
+        {
+            "uid": "024f455fb338462cb989f526a78a5d33",
+            "name": "Phường Bùi Hữu Nghĩa"
+        },
+        {
+            "uid": "599940f554a44eaaaa9671658cd642b2",
+            "name": "Phường Long Hòa"
+        },
+        {
+            "uid": "9c33f7e5f03d4d9895e50725f7100b7c",
+            "name": "Phường Long Tuyền"
+        }
+    ]
+}

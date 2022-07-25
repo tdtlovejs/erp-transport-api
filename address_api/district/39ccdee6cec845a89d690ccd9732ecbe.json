@@ -1,0 +1,18 @@
+{
+    "uid": "39ccdee6cec845a89d690ccd9732ecbe",
+    "name": "Thị Xã Mường Lay",
+    "wards": [
+        {
+            "uid": "a7e18b7649e644f6bdef9f69c220fbe2",
+            "name": "Phường Sông Đà"
+        },
+        {
+            "uid": "1bb33175bf574426a8942817676b04dd",
+            "name": "Phường Na Lay"
+        },
+        {
+            "uid": "b008b9d88ca64b2ea371119ef1894c81",
+            "name": "Xã Lay Nưa"
+        }
+    ]
+}

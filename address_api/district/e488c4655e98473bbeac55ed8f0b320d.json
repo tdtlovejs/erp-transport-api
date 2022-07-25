@@ -1,0 +1,138 @@
+{
+    "uid": "e488c4655e98473bbeac55ed8f0b320d",
+    "name": "Thành phố Hạ Long",
+    "wards": [
+        {
+            "uid": "db0f58bce7fe495296dd82136547f3e0",
+            "name": "Phường Hà Khánh"
+        },
+        {
+            "uid": "2eb4945ece584ad0becd74fd299711e7",
+            "name": "Phường Hà Phong"
+        },
+        {
+            "uid": "2e9c779edb3b457f97dcaa890576b71b",
+            "name": "Phường Hà Khẩu"
+        },
+        {
+            "uid": "a08ba6abbcd64b63b9715fce60a105ec",
+            "name": "Phường Cao Xanh"
+        },
+        {
+            "uid": "a70701e14b664e10aaedcd15c85f1efa",
+            "name": "Phường Giếng Đáy"
+        },
+        {
+            "uid": "bb9598f170484b2698918208af361ddb",
+            "name": "Phường Hà Tu"
+        },
+        {
+            "uid": "626325a2fa8d4f02b42d7561f813a37f",
+            "name": "Phường Hà Trung"
+        },
+        {
+            "uid": "9f319d70f50b494abaffe9a2a1467021",
+            "name": "Phường Hà Lầm"
+        },
+        {
+            "uid": "c9290793d3bc497296686a967e315960",
+            "name": "Phường Bãi Cháy"
+        },
+        {
+            "uid": "4bdab2d5b81343428c2202caba2e9fa8",
+            "name": "Phường Cao Thắng"
+        },
+        {
+            "uid": "ef1c9a7a5dd24ba3b2c0d2beaebd69bc",
+            "name": "Phường Hùng Thắng"
+        },
+        {
+            "uid": "be57f31193e948ad9372c40191d8b412",
+            "name": "Phường Yết Kiêu"
+        },
+        {
+            "uid": "89ce0e9f19134f3a9b34096656c9d278",
+            "name": "Phường Trần Hưng Đạo"
+        },
+        {
+            "uid": "3b19fb5ba4404fa59474eb1702fe0e2d",
+            "name": "Phường Hồng Hải"
+        },
+        {
+            "uid": "94c0b157b2d04093b7eda8f3c49d63a8",
+            "name": "Phường Hồng Gai"
+        },
+        {
+            "uid": "decb786d6ee544c9ae2f7ae7c3626bdd",
+            "name": "Phường Bạch Đằng"
+        },
+        {
+            "uid": "a1c23ad1ba3840abaadb6ea122af69c3",
+            "name": "Phường Hồng Hà"
+        },
+        {
+            "uid": "ab20908726f84acc877d540e5e91ca29",
+            "name": "Phường Tuần Châu"
+        },
+        {
+            "uid": "097df2cf5898402ebbd15cfc9c33d85d",
+            "name": "Phường Việt Hưng"
+        },
+        {
+            "uid": "66d4e493be544720a2e46019cda8139e",
+            "name": "Phường Đại Yên"
+        },
+        {
+            "uid": "a09cace504044feea27114e4e70701d6",
+            "name": "Phường Hoành Bồ"
+        },
+        {
+            "uid": "2604030118f84ad4b50f472ae8601db6",
+            "name": "Xã Kỳ Thượng"
+        },
+        {
+            "uid": "26c0d35732124470bbc06a3dbcb1b44a",
+            "name": "Xã Đồng Sơn"
+        },
+        {
+            "uid": "440fb0543f4e4cef96b41628dc6a78ea",
+            "name": "Xã Tân Dân"
+        },
+        {
+            "uid": "26e8846dd41b47d6854a99d3856e6199",
+            "name": "Xã Đồng Lâm"
+        },
+        {
+            "uid": "6a95fa79aa0342a393cdb48450b0cf79",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "8017eaf156cd4d7c85ac4641479fb561",
+            "name": "Xã Vũ Oai"
+        },
+        {
+            "uid": "695e90a4960b4a248761ad2fb8938d5b",
+            "name": "Xã Dân Chủ"
+        },
+        {
+            "uid": "81d260e5cd684776866b5676123e0afa",
+            "name": "Xã Quảng La"
+        },
+        {
+            "uid": "d23ce2d2dd824733b4a663f0b396f75b",
+            "name": "Xã Bằng Cả"
+        },
+        {
+            "uid": "a91a854fa7384fc2a1073106c57461c3",
+            "name": "Xã Thống Nhất"
+        },
+        {
+            "uid": "fe86566ca2f846ec99034c608f239d57",
+            "name": "Xã Sơn Dương"
+        },
+        {
+            "uid": "6840579f9c9e419b9a1975d331710c74",
+            "name": "Xã Lê Lợi"
+        }
+    ]
+}

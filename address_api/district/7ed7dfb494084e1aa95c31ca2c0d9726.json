@@ -1,0 +1,74 @@
+{
+    "uid": "7ed7dfb494084e1aa95c31ca2c0d9726",
+    "name": "Huyện Núi Thành",
+    "wards": [
+        {
+            "uid": "e5c7d841208f49cea4a45984116fa944",
+            "name": "Thị trấn Núi Thành"
+        },
+        {
+            "uid": "377a999e66b043fa84a49e493546ed76",
+            "name": "Xã Tam Xuân I"
+        },
+        {
+            "uid": "5f87ec6d0f62440d8ed83472a23910e5",
+            "name": "Xã Tam Xuân II"
+        },
+        {
+            "uid": "7d82baf526af41be87ea32cbe3e17c52",
+            "name": "Xã Tam Tiến"
+        },
+        {
+            "uid": "f7c3c2efac6b43e9bbee20bda73d324a",
+            "name": "Xã Tam Sơn"
+        },
+        {
+            "uid": "0d0bb2504a244db49bedcba2fddd46da",
+            "name": "Xã Tam Thạnh"
+        },
+        {
+            "uid": "37ce9a26663f4d23bcd5b501124767d7",
+            "name": "Xã Tam Anh Bắc"
+        },
+        {
+            "uid": "ef3d7224416e44fe8d8b91b28dac3e96",
+            "name": "Xã Tam Anh Nam"
+        },
+        {
+            "uid": "3d6d5dd56c8c46f1827af3162fd06f20",
+            "name": "Xã Tam Hòa"
+        },
+        {
+            "uid": "81d8d46adfda4e9daace52704724714f",
+            "name": "Xã Tam Hiệp"
+        },
+        {
+            "uid": "40b5f1e7d5be47e1a1d4775ba87474d7",
+            "name": "Xã Tam Hải"
+        },
+        {
+            "uid": "872ca524464c421a88d5bfcd540afe6d",
+            "name": "Xã Tam Giang"
+        },
+        {
+            "uid": "4ecaadad69984b958950ba4ab28b2913",
+            "name": "Xã Tam Quang"
+        },
+        {
+            "uid": "78be803ae45f4dcf8320d42d929dd3d0",
+            "name": "Xã Tam Nghĩa"
+        },
+        {
+            "uid": "e83e129a2c094f019f8a62146edfb00a",
+            "name": "Xã Tam Mỹ Tây"
+        },
+        {
+            "uid": "001ebb11d45b4558814a78896507e293",
+            "name": "Xã Tam Mỹ Đông"
+        },
+        {
+            "uid": "e03ea3334f9c4c7895494ca14a6ed12f",
+            "name": "Xã Tam Trà"
+        }
+    ]
+}

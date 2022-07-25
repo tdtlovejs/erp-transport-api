@@ -1,0 +1,78 @@
+{
+    "uid": "1c1b4d8ad8ca455cae4f30b089c9dc23",
+    "name": "Huyện Thuận Thành",
+    "wards": [
+        {
+            "uid": "e80220b691f94aa6a928685695d21911",
+            "name": "Thị trấn Hồ"
+        },
+        {
+            "uid": "d2f3b6aeca584f1980f31845d2c16742",
+            "name": "Xã Hoài Thượng"
+        },
+        {
+            "uid": "4df8b92f80ba4698bcfcc4f16d32b020",
+            "name": "Xã Đại Đồng Thành"
+        },
+        {
+            "uid": "4543b3d833f5475189e9a484e8e2f2d0",
+            "name": "Xã Mão Điền"
+        },
+        {
+            "uid": "1c5b5946637248c28de60e2c20aa85ca",
+            "name": "Xã Song Hồ"
+        },
+        {
+            "uid": "d19ed7d4c0b04fafbcf51a836528560c",
+            "name": "Xã Đình Tổ"
+        },
+        {
+            "uid": "f122f3fe8d5241ea80eb63db6df1c4c5",
+            "name": "Xã An Bình"
+        },
+        {
+            "uid": "54fd92550e7d4a07ae1983eb78ce6d0a",
+            "name": "Xã Trí Quả"
+        },
+        {
+            "uid": "0d14c26679494f5fb43de98c71de5311",
+            "name": "Xã Gia Đông"
+        },
+        {
+            "uid": "e652c8b1f2f24969bef63acc14c175cb",
+            "name": "Xã Thanh Khương"
+        },
+        {
+            "uid": "e0d3269fa6f045f28189710d4c9e2489",
+            "name": "Xã Trạm Lộ"
+        },
+        {
+            "uid": "de84436ee507484b9a071489a2b3c42f",
+            "name": "Xã Xuân Lâm"
+        },
+        {
+            "uid": "550da0ebf74e459e91da21bad57623f2",
+            "name": "Xã Hà Mãn"
+        },
+        {
+            "uid": "2391fef3825f43c584a7131dfd45b042",
+            "name": "Xã Ngũ Thái"
+        },
+        {
+            "uid": "fc9a0aa658a64fc0868418c99ed85464",
+            "name": "Xã Nguyệt Đức"
+        },
+        {
+            "uid": "c2064a420e6b4b77a81c3f156fc3ed59",
+            "name": "Xã Ninh Xá"
+        },
+        {
+            "uid": "613b09db74274f87a6e4eed7ff3b2697",
+            "name": "Xã Nghĩa Đạo"
+        },
+        {
+            "uid": "4f237f5e74284f98acd25ce6aa6a9318",
+            "name": "Xã Song Liễu"
+        }
+    ]
+}

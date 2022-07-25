@@ -1,0 +1,54 @@
+{
+    "uid": "306cb2887cac425e948de7686cf4c1f4",
+    "name": "Huyện Mường Chà",
+    "wards": [
+        {
+            "uid": "1ab876ba5b58433ea344e6b1b27b3f6b",
+            "name": "Thị Trấn Mường Chà"
+        },
+        {
+            "uid": "fd36c27f51c94c6b8247c0e07f60024a",
+            "name": "Xã Xá Tổng"
+        },
+        {
+            "uid": "7682649a429f451cbc2ca20bcf669a16",
+            "name": "Xã Mường Tùng"
+        },
+        {
+            "uid": "319a65677a9742189b9c426377101473",
+            "name": "Xã Hừa Ngài"
+        },
+        {
+            "uid": "4b16f23b73d944158d8852af0ddd5611",
+            "name": "Xã Huổi Mí"
+        },
+        {
+            "uid": "51d51af7c2e0493cb91a808948163163",
+            "name": "Xã Pa Ham"
+        },
+        {
+            "uid": "39c3da5a15664ce9bc115af8f20c46f6",
+            "name": "Xã Nậm Nèn"
+        },
+        {
+            "uid": "8c4cb7c982024d1db9ab115b992e47f5",
+            "name": "Xã Huổi Lèng"
+        },
+        {
+            "uid": "05024f0e31fa4032af77afd563d8bb8d",
+            "name": "Xã Sa Lông"
+        },
+        {
+            "uid": "db42891c91334e028713b31bb99c7669",
+            "name": "Xã Ma Thì Hồ"
+        },
+        {
+            "uid": "7bad38ce95dd4854837fcf966001e07e",
+            "name": "Xã Na Sang"
+        },
+        {
+            "uid": "b9912de399ba42bb99b5b91820d111cf",
+            "name": "Xã Mường Mươn"
+        }
+    ]
+}

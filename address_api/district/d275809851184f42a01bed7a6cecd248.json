@@ -1,0 +1,58 @@
+{
+    "uid": "d275809851184f42a01bed7a6cecd248",
+    "name": "Thị xã Sông Cầu",
+    "wards": [
+        {
+            "uid": "7b7738d139504c3699ef371b3bfed808",
+            "name": "Phường Xuân Phú"
+        },
+        {
+            "uid": "eb4d1bbcd78e45cc8ce71a35ad470d13",
+            "name": "Xã Xuân Lâm"
+        },
+        {
+            "uid": "3813cb871106453883abc41a264f3e7c",
+            "name": "Phường Xuân Thành"
+        },
+        {
+            "uid": "d788ae386c7b4940b5df355214cce490",
+            "name": "Xã Xuân Hải"
+        },
+        {
+            "uid": "788a1d278fdf470fad580164f672b408",
+            "name": "Xã Xuân Lộc"
+        },
+        {
+            "uid": "5a8a0fe4734546988de4ad1365134bcd",
+            "name": "Xã Xuân Bình"
+        },
+        {
+            "uid": "1804ed9907004ed4aa4b103c6f6e244a",
+            "name": "Xã Xuân Cảnh"
+        },
+        {
+            "uid": "87728b2a6e3a4d3799ad966ee58f5c73",
+            "name": "Xã Xuân Thịnh"
+        },
+        {
+            "uid": "939f880afbc84f3b8bb4336f70d74423",
+            "name": "Xã Xuân Phương"
+        },
+        {
+            "uid": "bf2eb4a19ea44bd6ae8a1c4574ed8b6f",
+            "name": "Phường Xuân Yên"
+        },
+        {
+            "uid": "e08fa86c152a491d9725bb6cb76cd303",
+            "name": "Xã Xuân Thọ 1"
+        },
+        {
+            "uid": "5791406061224cc88c05c8ede4f235a1",
+            "name": "Phường Xuân Đài"
+        },
+        {
+            "uid": "546302250441479faf4510b83edf8661",
+            "name": "Xã Xuân Thọ 2"
+        }
+    ]
+}

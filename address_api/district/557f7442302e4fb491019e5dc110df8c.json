@@ -1,0 +1,42 @@
+{
+    "uid": "557f7442302e4fb491019e5dc110df8c",
+    "name": "Thị xã Thái Hoà",
+    "wards": [
+        {
+            "uid": "57bd8d597ee64901b86d0ab6bfd3570c",
+            "name": "Phường Hoà Hiếu"
+        },
+        {
+            "uid": "947736a60b534297b1b91a09788b8ad6",
+            "name": "Phường Quang Phong"
+        },
+        {
+            "uid": "8f939dd8adbc48e69faa7fa2abba8556",
+            "name": "Phường Quang Tiến"
+        },
+        {
+            "uid": "9b374c3402ee49e9b21a8c10ae99e8fd",
+            "name": "Phường Long Sơn"
+        },
+        {
+            "uid": "b3939a9cabc54589aa65c859abd61c33",
+            "name": "Xã Nghĩa Tiến"
+        },
+        {
+            "uid": "a5624cbe7d4f43b09bed172f9afe9caa",
+            "name": "Xã Nghĩa Mỹ"
+        },
+        {
+            "uid": "4b04b58714734b0fa64cbc8f8019ad45",
+            "name": "Xã Tây Hiếu"
+        },
+        {
+            "uid": "9a5b9f987f064ec7bd124f3b91528a41",
+            "name": "Xã Nghĩa Thuận"
+        },
+        {
+            "uid": "8f399b7be3514b6a83ba21b01d0a4503",
+            "name": "Xã Đông Hiếu"
+        }
+    ]
+}

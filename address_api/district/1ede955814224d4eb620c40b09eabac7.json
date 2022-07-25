@@ -1,0 +1,34 @@
+{
+    "uid": "1ede955814224d4eb620c40b09eabac7",
+    "name": "Thành phố Châu Đốc",
+    "wards": [
+        {
+            "uid": "14a74f2ae211427087ab7d85d06ae877",
+            "name": "Phường Châu Phú B"
+        },
+        {
+            "uid": "7a3ef182d7764a629310b54738467a6e",
+            "name": "Phường Châu Phú A"
+        },
+        {
+            "uid": "2b6a05aa52484fde936b857e17af70d4",
+            "name": "Phường Vĩnh Mỹ"
+        },
+        {
+            "uid": "d488a4d54d2a4726a9d19cffcc393ffc",
+            "name": "Phường Núi Sam"
+        },
+        {
+            "uid": "e928287e93c848e786f070bd3c66f228",
+            "name": "Phường Vĩnh Ngươn"
+        },
+        {
+            "uid": "e6bd392dd9a94ca783a42928a8f7ec9d",
+            "name": "Xã Vĩnh Tế"
+        },
+        {
+            "uid": "f514654986d6437c9026172777211216",
+            "name": "Xã Vĩnh Châu"
+        }
+    ]
+}

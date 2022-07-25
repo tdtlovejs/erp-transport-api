@@ -1,0 +1,66 @@
+{
+    "uid": "84c3116f5d3d471484d61e4f39f12392",
+    "name": "Huyện Tri Tôn",
+    "wards": [
+        {
+            "uid": "53ddadbefaa2494d895ecdcb190cf85f",
+            "name": "Thị trấn Tri Tôn"
+        },
+        {
+            "uid": "a7e74ffe57ac40a9bec27117129e9b15",
+            "name": "Thị trấn Ba Chúc"
+        },
+        {
+            "uid": "1cc261ce9bd2473db63a8e133004f1f1",
+            "name": "Xã Lạc Quới"
+        },
+        {
+            "uid": "dcf63bbbb52840aab5c3a788299fbe26",
+            "name": "Xã Lê Trì"
+        },
+        {
+            "uid": "c442cafa11a740c59dde125a5e91130b",
+            "name": "Xã Vĩnh Gia"
+        },
+        {
+            "uid": "4ea291bb493c4bf1b7421076ce2d9bbc",
+            "name": "Xã Vĩnh Phước"
+        },
+        {
+            "uid": "e33417040e8248f69a3ed24a191170ba",
+            "name": "Xã Châu Lăng"
+        },
+        {
+            "uid": "efb5ddd6ee1543c087c62e03c67e6221",
+            "name": "Xã Lương Phi"
+        },
+        {
+            "uid": "bc873106d7a2433bb3ca6181b8289f2a",
+            "name": "Xã Lương An Trà"
+        },
+        {
+            "uid": "8dfeb26d5df441aea7dd887b642ffada",
+            "name": "Xã Tà Đảnh"
+        },
+        {
+            "uid": "5b8fb9ffc50440abb8311f7ab0b6269c",
+            "name": "Xã Núi Tô"
+        },
+        {
+            "uid": "5fa3b32409ff422689148dfc97d0dcfb",
+            "name": "Xã An Tức"
+        },
+        {
+            "uid": "48bd790a415a4fcaba292687edcb1290",
+            "name": "Thị trấn Cô Tô"
+        },
+        {
+            "uid": "747d582b8552449aaa32719e70a797cb",
+            "name": "Xã Tân Tuyến"
+        },
+        {
+            "uid": "7b9ff0fe87d7422b93aa5438271e0e86",
+            "name": "Xã Ô Lâm"
+        }
+    ]
+}

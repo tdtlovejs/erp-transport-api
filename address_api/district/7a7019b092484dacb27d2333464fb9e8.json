@@ -1,0 +1,78 @@
+{
+    "uid": "7a7019b092484dacb27d2333464fb9e8",
+    "name": "Huyện Hàm Yên",
+    "wards": [
+        {
+            "uid": "696a38dd740348cea1b922e8616a1c40",
+            "name": "Thị trấn Tân Yên"
+        },
+        {
+            "uid": "0b3576a258e64e4f8b205a42105c3374",
+            "name": "Xã Yên Thuận"
+        },
+        {
+            "uid": "46aadcc7ef30447192cb4983493039ee",
+            "name": "Xã Bạch Xa"
+        },
+        {
+            "uid": "cb194d131a87445e9a6fd7e4c07e489c",
+            "name": "Xã Minh Khương"
+        },
+        {
+            "uid": "28b70e9ebabb4cc19e759eef518a06e6",
+            "name": "Xã Yên Lâm"
+        },
+        {
+            "uid": "a149576379af4e35b53b86c66552fa22",
+            "name": "Xã Minh Dân"
+        },
+        {
+            "uid": "a2bf7ce4968b4b68820c0448332fd5eb",
+            "name": "Xã Phù Lưu"
+        },
+        {
+            "uid": "15e84554741b49b790d777446fd0eeda",
+            "name": "Xã Minh Hương"
+        },
+        {
+            "uid": "c237db351ea14ed6993b5b22093a288d",
+            "name": "Xã Yên Phú"
+        },
+        {
+            "uid": "259e24805e2a45e19a36c6f42a548253",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "7b36ae4a911a4513a7e581a826964bb3",
+            "name": "Xã Bình Xa"
+        },
+        {
+            "uid": "52d8084fa34f4b98b6ac0aa5bb37c4c2",
+            "name": "Xã Thái Sơn"
+        },
+        {
+            "uid": "10634e4f06f542e882f79321b320c07c",
+            "name": "Xã Nhân Mục"
+        },
+        {
+            "uid": "72625a883a384fc7a90a451dce03d191",
+            "name": "Xã Thành Long"
+        },
+        {
+            "uid": "2524a5b2d6c749fd949676339d934c64",
+            "name": "Xã Bằng Cốc"
+        },
+        {
+            "uid": "2df8097ea6624aac8437aacf5e7e4267",
+            "name": "Xã Thái Hòa"
+        },
+        {
+            "uid": "6242bd38bcbe408f9ffab208d7821761",
+            "name": "Xã Đức Ninh"
+        },
+        {
+            "uid": "d77f5138f6bb42e59948f29998b64ee5",
+            "name": "Xã Hùng Đức"
+        }
+    ]
+}

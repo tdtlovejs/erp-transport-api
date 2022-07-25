@@ -1,0 +1,66 @@
+{
+    "uid": "92958295d4f44990988c1a5440a60a6d",
+    "name": "Huyện Chư Sê",
+    "wards": [
+        {
+            "uid": "2ffa5ceba52342488bfdcb038ac4a1cf",
+            "name": "Thị trấn Chư Sê"
+        },
+        {
+            "uid": "8072ca14d5f943f4bdc4754e6541a653",
+            "name": "Xã Ia Tiêm"
+        },
+        {
+            "uid": "9d2cdb7912f445c5af9e738313e5c1cc",
+            "name": "Xã Chư Pơng"
+        },
+        {
+            "uid": "c9e5f2084eed43cc8abfe684b2e8017d",
+            "name": "Xã Bar Măih"
+        },
+        {
+            "uid": "849048917aba49df89d69aa637f85bf7",
+            "name": "Xã Bờ Ngoong"
+        },
+        {
+            "uid": "e3231432fe1147559b6be8b9b2d89f2a",
+            "name": "Xã Ia Glai"
+        },
+        {
+            "uid": "f1fa214248674f87b09036ef680cb198",
+            "name": "Xã AL Bá"
+        },
+        {
+            "uid": "91cde1a60cf645b584e46a1fec97d9c8",
+            "name": "Xã Kông HTok"
+        },
+        {
+            "uid": "00c34b144bc347f19d19dd84248a4c4a",
+            "name": "Xã AYun"
+        },
+        {
+            "uid": "9da72adba3674414aee7626892427d32",
+            "name": "Xã Ia HLốp"
+        },
+        {
+            "uid": "348457b58bb24b559d340c9d7f392580",
+            "name": "Xã Ia Blang"
+        },
+        {
+            "uid": "21e8a334db894fdba13da13ecb39c0c9",
+            "name": "Xã Dun"
+        },
+        {
+            "uid": "674639347ed04e19b59604387c4f0498",
+            "name": "Xã Ia Pal"
+        },
+        {
+            "uid": "c72b0b9d827948bc833d5936fe6c17f8",
+            "name": "Xã H Bông"
+        },
+        {
+            "uid": "333b17fa00e442d79b3631f75a697228",
+            "name": "Xã Ia Ko"
+        }
+    ]
+}

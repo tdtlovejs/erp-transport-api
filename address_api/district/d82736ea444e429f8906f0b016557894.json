@@ -1,0 +1,42 @@
+{
+    "uid": "d82736ea444e429f8906f0b016557894",
+    "name": "Huyện Đạ Huoai",
+    "wards": [
+        {
+            "uid": "5a6f9a39b7d44f08abb9e835133f12f9",
+            "name": "Thị trấn Đạ M'ri"
+        },
+        {
+            "uid": "68796b3d57304e589f601c460dccf40e",
+            "name": "Thị trấn Ma Đa Guôi"
+        },
+        {
+            "uid": "160b856ac34b487893ae304b6dde7e97",
+            "name": "Xã Hà Lâm"
+        },
+        {
+            "uid": "c5348001d219495aa0684e64e5ce746b",
+            "name": "Xã Đạ Tồn"
+        },
+        {
+            "uid": "0683c7c4a7474a688fc1abc28a7feced",
+            "name": "Xã Đạ Oai"
+        },
+        {
+            "uid": "0df4694820734a7aa1c99cace0fb3e0e",
+            "name": "Xã Đạ Ploa"
+        },
+        {
+            "uid": "3fe823a6bb464a769f726f7ab21a07da",
+            "name": "Xã Ma Đa Guôi"
+        },
+        {
+            "uid": "267da5dc50784bb4a4827bd692d65375",
+            "name": "Xã Đoàn Kết"
+        },
+        {
+            "uid": "85971d9ad8f441d9922ec4ec9b4e05d5",
+            "name": "Xã Phước Lộc"
+        }
+    ]
+}

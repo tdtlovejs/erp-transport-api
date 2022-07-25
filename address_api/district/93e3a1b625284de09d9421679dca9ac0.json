@@ -1,0 +1,50 @@
+{
+    "uid": "93e3a1b625284de09d9421679dca9ac0",
+    "name": "Thị xã An Khê",
+    "wards": [
+        {
+            "uid": "b984e661934040178acd88625686b372",
+            "name": "Phường An Bình"
+        },
+        {
+            "uid": "135a813f024f4e1ebb5d4bf908a372ac",
+            "name": "Phường Tây Sơn"
+        },
+        {
+            "uid": "67466c41eb2940bb96c759dfb362d80f",
+            "name": "Phường An Phú"
+        },
+        {
+            "uid": "d6e8b653d18e4df5b736fd1b6dd16a05",
+            "name": "Phường An Tân"
+        },
+        {
+            "uid": "c1543300be664c64bdefa3e4f2088d76",
+            "name": "Xã Tú An"
+        },
+        {
+            "uid": "25f28af205f243b7adb642d2342155c6",
+            "name": "Xã Xuân An"
+        },
+        {
+            "uid": "314f911ea58d40edad6d387e1dbc2200",
+            "name": "Xã Cửu An"
+        },
+        {
+            "uid": "f627b233751e406d98fb73ca78bbaead",
+            "name": "Phường An Phước"
+        },
+        {
+            "uid": "f9c46b5429bf4f31be569466d85a66fc",
+            "name": "Xã Song An"
+        },
+        {
+            "uid": "dd999cf205cb4107b516ce024bd36925",
+            "name": "Phường Ngô Mây"
+        },
+        {
+            "uid": "600ecabd4e5046d4b39ed6ad3acbe738",
+            "name": "Xã Thành An"
+        }
+    ]
+}

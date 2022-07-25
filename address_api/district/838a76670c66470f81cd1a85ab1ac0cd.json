@@ -1,0 +1,42 @@
+{
+    "uid": "838a76670c66470f81cd1a85ab1ac0cd",
+    "name": "Huyện An Biên",
+    "wards": [
+        {
+            "uid": "ca8b96807f424de39a8d68f3ec36adf9",
+            "name": "Thị trấn Thứ Ba"
+        },
+        {
+            "uid": "5fa5315cf8704cef994cc0820376b720",
+            "name": "Xã Tây Yên"
+        },
+        {
+            "uid": "42675945e36048d2a04d274480d0acb9",
+            "name": "Xã Tây Yên A"
+        },
+        {
+            "uid": "a160fa7896b0475b94634cd140e775e7",
+            "name": "Xã Nam Yên"
+        },
+        {
+            "uid": "2a3659848fde4093bbb8354eee77c5dc",
+            "name": "Xã Hưng Yên"
+        },
+        {
+            "uid": "9a700fcd228a4005affd119eca52dbfb",
+            "name": "Xã Nam Thái"
+        },
+        {
+            "uid": "966ea7d2f07a488d9f82e98288e14575",
+            "name": "Xã Nam Thái A"
+        },
+        {
+            "uid": "910f223aa7ea4a488c10f3313a393fd5",
+            "name": "Xã Đông Thái"
+        },
+        {
+            "uid": "04e01345b47245a69670b7b5839681b4",
+            "name": "Xã Đông Yên"
+        }
+    ]
+}

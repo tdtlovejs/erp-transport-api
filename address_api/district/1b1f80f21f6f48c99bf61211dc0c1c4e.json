@@ -1,0 +1,94 @@
+{
+    "uid": "1b1f80f21f6f48c99bf61211dc0c1c4e",
+    "name": "Huyện Thạch Hà",
+    "wards": [
+        {
+            "uid": "db09c781c1e8478b979cf17dda683db3",
+            "name": "Thị trấn Thạch Hà"
+        },
+        {
+            "uid": "eb9d197194b34b56a851a01e77715c7b",
+            "name": "Xã Ngọc Sơn"
+        },
+        {
+            "uid": "a15086aecf83431e9e7490defff55d81",
+            "name": "Xã Thạch Hải"
+        },
+        {
+            "uid": "666745a3f9304f6bb24fca630b5f9522",
+            "name": "Xã Thạch Kênh"
+        },
+        {
+            "uid": "038957eba2684c4d903b6155d67b564c",
+            "name": "Xã Thạch Sơn"
+        },
+        {
+            "uid": "54f23a5d693c4095b22e2dfb910875e4",
+            "name": "Xã Thạch Liên"
+        },
+        {
+            "uid": "fdfaf382fbdb4b09a5711e820dd7601f",
+            "name": "Xã Đỉnh Bàn"
+        },
+        {
+            "uid": "8d8aa304ed084a54ab88c81221777feb",
+            "name": "Xã Việt Tiến"
+        },
+        {
+            "uid": "987c3901627f415b80774c98cfdc3f3e",
+            "name": "Xã Thạch Khê"
+        },
+        {
+            "uid": "099e0e60a709486ab4686f392a692754",
+            "name": "Xã Thạch Long"
+        },
+        {
+            "uid": "a2ade1c75bf64d61abb8539d10585f2d",
+            "name": "Xã Thạch Trị"
+        },
+        {
+            "uid": "240158274dfa474fa100fb06528cfd23",
+            "name": "Xã Thạch Lạc"
+        },
+        {
+            "uid": "77252c4b9bef4813afa73946573b504b",
+            "name": "Xã Thạch Ngọc"
+        },
+        {
+            "uid": "b84e1e92f58a4b519dfeaf00f69259e9",
+            "name": "Xã Tượng Sơn"
+        },
+        {
+            "uid": "1b9e2ecb380d447894a17ecfed286fb4",
+            "name": "Xã Thạch Văn"
+        },
+        {
+            "uid": "762920bd16614e948edb127abb399545",
+            "name": "Xã Lưu Vĩnh Sơn"
+        },
+        {
+            "uid": "d081acf2c64648f1bb9708037e328045",
+            "name": "Xã Thạch Thắng"
+        },
+        {
+            "uid": "c1ec82b17462482f8b9022045f096f90",
+            "name": "Xã Thạch Đài"
+        },
+        {
+            "uid": "ed852014fe384e749b899b691ee7c7e4",
+            "name": "Xã Thạch Hội"
+        },
+        {
+            "uid": "96b4fad0e7ef4a2381d225af114c47c2",
+            "name": "Xã Tân Lâm Hương"
+        },
+        {
+            "uid": "9d986b3fc54548f09280d27872f38906",
+            "name": "Xã Thạch Xuân"
+        },
+        {
+            "uid": "65fff6fc4d804f6b94b737d3dde32f4e",
+            "name": "Xã Nam Điền"
+        }
+    ]
+}

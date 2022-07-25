@@ -1,0 +1,66 @@
+{
+    "uid": "240959fd802649ceb02d8855ee0a5d35",
+    "name": "Huyện Phụng Hiệp",
+    "wards": [
+        {
+            "uid": "ec50e3fe9dde47b8a685026dc769262e",
+            "name": "Thị trấn Kinh Cùng"
+        },
+        {
+            "uid": "ca3627ef945d4bb680f4055bf3c791bc",
+            "name": "Thị trấn Cây Dương"
+        },
+        {
+            "uid": "77f5b96f2432423db97c48ceae1dfd31",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "a644b6f4a8e647ec87f60349e89c35a5",
+            "name": "Xã Bình Thành"
+        },
+        {
+            "uid": "233bd69771f94450ba5b2536251ff7e8",
+            "name": "Xã Thạnh Hòa"
+        },
+        {
+            "uid": "a7193b36ee3b4b388775eb0762fb3b3c",
+            "name": "Xã Long Thạnh"
+        },
+        {
+            "uid": "3e7d17dfff7f4c499b6f464572f280d1",
+            "name": "Xã Phụng Hiệp"
+        },
+        {
+            "uid": "ea805fa15c194fbca3024fd48f66162c",
+            "name": "Xã Hòa Mỹ"
+        },
+        {
+            "uid": "6e2939b621da47af8ae9a565d270a69d",
+            "name": "Xã Hòa An"
+        },
+        {
+            "uid": "88f4662021bb4cf38a6e1e52321fea27",
+            "name": "Xã Phương Bình"
+        },
+        {
+            "uid": "4a641dc043a24a8b8c74a696a562ae52",
+            "name": "Xã Hiệp Hưng"
+        },
+        {
+            "uid": "9da5756aafa84631aff45a9d9e14cba1",
+            "name": "Xã Tân Phước Hưng"
+        },
+        {
+            "uid": "3b28bfd8a44e443babaf7778111bdd69",
+            "name": "Thị trấn Búng Tàu"
+        },
+        {
+            "uid": "8ba386379ac144e6a44de59d45a9a38c",
+            "name": "Xã Phương Phú"
+        },
+        {
+            "uid": "92088a5022c54a1fabae21725d977dd6",
+            "name": "Xã Tân Long"
+        }
+    ]
+}

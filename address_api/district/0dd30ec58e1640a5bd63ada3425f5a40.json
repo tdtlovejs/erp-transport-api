@@ -1,0 +1,58 @@
+{
+    "uid": "0dd30ec58e1640a5bd63ada3425f5a40",
+    "name": "Huyện Tân Thạnh",
+    "wards": [
+        {
+            "uid": "3de8147c90514c37a50dd3d1af8dc422",
+            "name": "Thị trấn Tân Thạnh"
+        },
+        {
+            "uid": "f4bf489810f24cdb8a093ea0736ec144",
+            "name": "Xã Bắc Hòa"
+        },
+        {
+            "uid": "b4f63f76d381421dbe4eb27665c656be",
+            "name": "Xã Hậu Thạnh Tây"
+        },
+        {
+            "uid": "eaf8c970507c4ad3b4a0b19f6efdb65b",
+            "name": "Xã Nhơn Hòa Lập"
+        },
+        {
+            "uid": "48340c49db114cc2916c7bc420ecebec",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "20ca2b9f89fe4c7a8a45071bca29e267",
+            "name": "Xã Hậu Thạnh Đông"
+        },
+        {
+            "uid": "1ed7e973e3e74c3c86a03d49484acc97",
+            "name": "Xã Nhơn Hoà"
+        },
+        {
+            "uid": "a5fade6a67714a82afe0f65f1e51be78",
+            "name": "Xã Kiến Bình"
+        },
+        {
+            "uid": "f73d92cf621347fcb715c13eb1c96f4f",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "68a47164dd184680a25e06226686e825",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "6b0f0253e3c94650b7dc6668639c34cd",
+            "name": "Xã Tân Ninh"
+        },
+        {
+            "uid": "3ec0fe9feab94121976ca4e75c09c61a",
+            "name": "Xã Nhơn Ninh"
+        },
+        {
+            "uid": "07b7c65216ef412e933f7950d2178211",
+            "name": "Xã Tân Hòa"
+        }
+    ]
+}

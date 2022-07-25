@@ -1,0 +1,74 @@
+{
+    "uid": "bd496660e266418b9fea879eb0523d7f",
+    "name": "Huyện Tương Dương",
+    "wards": [
+        {
+            "uid": "fcb0776f339b4a7ab92f3e0539963590",
+            "name": "Thị trấn Thạch Giám"
+        },
+        {
+            "uid": "bb89198ae0f14b3697c73002b7a875d7",
+            "name": "Xã Mai Sơn"
+        },
+        {
+            "uid": "e31a984e4ab846a88c688fc8b7476cfc",
+            "name": "Xã Nhôn Mai"
+        },
+        {
+            "uid": "3dee0ca4d2fb4d0394dd8d5460d2e657",
+            "name": "Xã Hữu Khuông"
+        },
+        {
+            "uid": "ecb2ed41d8534f4b9e25b7a7ec7a2243",
+            "name": "Xã Yên Tĩnh"
+        },
+        {
+            "uid": "e920a63ff374464f8efa3773de3e535a",
+            "name": "Xã Nga My"
+        },
+        {
+            "uid": "da3035a668364bbc8cbc95d630ca657a",
+            "name": "Xã Xiêng My"
+        },
+        {
+            "uid": "23ed32c53bee44f7a95eb24623a1cd21",
+            "name": "Xã Lưỡng Minh"
+        },
+        {
+            "uid": "f81232195f8245769e5d07b3c9dca4f6",
+            "name": "Xã Yên Hòa"
+        },
+        {
+            "uid": "df1d2734a2284f088265ccf1bdfc62db",
+            "name": "Xã Yên Na"
+        },
+        {
+            "uid": "b531a74eb6244cfe887936deb959059a",
+            "name": "Xã Lưu Kiền"
+        },
+        {
+            "uid": "3e7b8359a8fa44c3b61dc4f595319d72",
+            "name": "Xã Xá Lượng"
+        },
+        {
+            "uid": "23a1da836e4546af85cfde7d87864fb1",
+            "name": "Xã Tam Thái"
+        },
+        {
+            "uid": "3e50ff11c00848f7b2b3b98d2b9ef0bd",
+            "name": "Xã Tam Đình"
+        },
+        {
+            "uid": "8c2b034d071245ecb4d87c713c5187ba",
+            "name": "Xã Yên Thắng"
+        },
+        {
+            "uid": "b277a70179194b44abad8425e3df6fca",
+            "name": "Xã Tam Quang"
+        },
+        {
+            "uid": "88c5e716560e4cc1a6da32619652bd37",
+            "name": "Xã Tam Hợp"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "uid": "ab73cab5396540f99cde8bb1b4b205b8",
+    "name": "Huyện Hàm Thuận Nam",
+    "wards": [
+        {
+            "uid": "5d625a87ea054e8db6e024a60612cc01",
+            "name": "Thị trấn Thuận Nam"
+        },
+        {
+            "uid": "585b2febf0f74373ad33fb8df11254f2",
+            "name": "Xã Mỹ Thạnh"
+        },
+        {
+            "uid": "b69a4704a954404e807758a6e2951e51",
+            "name": "Xã Hàm Cần"
+        },
+        {
+            "uid": "23601c5e003e4d64a9181b28c5b93b77",
+            "name": "Xã Mương Mán"
+        },
+        {
+            "uid": "3bd3cb8957114b4eb3d2815c75674589",
+            "name": "Xã Hàm Thạnh"
+        },
+        {
+            "uid": "48b98a1575f74179bf046f9a88721983",
+            "name": "Xã Hàm Kiệm"
+        },
+        {
+            "uid": "5e9ba3dcddbf4b1d9939eddf839b2744",
+            "name": "Xã Hàm Cường"
+        },
+        {
+            "uid": "d8e9b906bb7542878fb34a21d4d38b23",
+            "name": "Xã Hàm Mỹ"
+        },
+        {
+            "uid": "7af8e7ff7bfe4ae7803995c12208c4df",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "7a9f4b6b5a6f4243905fae435a04eecf",
+            "name": "Xã Hàm Minh"
+        },
+        {
+            "uid": "9e8df5235eda4a719c1b7f9af0a53d4d",
+            "name": "Xã Thuận Quí"
+        },
+        {
+            "uid": "caabfc13deac42558a39ba9f3c508396",
+            "name": "Xã Tân Thuận"
+        },
+        {
+            "uid": "a693515a5a6248ad850cd356e9259c9a",
+            "name": "Xã Tân Thành"
+        }
+    ]
+}

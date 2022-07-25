@@ -1,0 +1,34 @@
+{
+    "uid": "61de96f719144a88a222c598396f2ffc",
+    "name": "Huyện Cần Giờ",
+    "wards": [
+        {
+            "uid": "27e937745d3d42fc808dd01b080acb86",
+            "name": "Thị trấn Cần Thạnh"
+        },
+        {
+            "uid": "4901e560b9a24c5aadd2df9a912148dc",
+            "name": "Xã Bình Khánh"
+        },
+        {
+            "uid": "d244bbb4a3004fd09444e8e651946d94",
+            "name": "Xã Tam Thôn Hiệp"
+        },
+        {
+            "uid": "17618315d66641a2b2bb5a9c776c0076",
+            "name": "Xã An Thới Đông"
+        },
+        {
+            "uid": "586b9713ebe242c1be954180067e8619",
+            "name": "Xã Thạnh An"
+        },
+        {
+            "uid": "26eca51bde5444cd9dcfa5c76e3e2834",
+            "name": "Xã Long Hòa"
+        },
+        {
+            "uid": "3558e1c0cf934e07ab19382735f11b60",
+            "name": "Xã Lý Nhơn"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "2e576986670d44619048474edcbc319d",
+    "name": "Huyện Lắk",
+    "wards": [
+        {
+            "uid": "d23f5eb898434e9fa90f6fb4f5a5ed8f",
+            "name": "Thị trấn Liên Sơn"
+        },
+        {
+            "uid": "353c5e9d44674cf1b01b5cb3505a5c9e",
+            "name": "Xã Yang Tao"
+        },
+        {
+            "uid": "f9f1faa97ffa480ebef5908289021e59",
+            "name": "Xã Bông Krang"
+        },
+        {
+            "uid": "5e9c2db3034f4005bdadb46dc9c7ec63",
+            "name": "Xã Đắk Liêng"
+        },
+        {
+            "uid": "2dab461f8385483a9dde9a00ff2f9258",
+            "name": "Xã Buôn Triết"
+        },
+        {
+            "uid": "8ba62b8575a441568ac738d82f472749",
+            "name": "Xã Buôn Tría"
+        },
+        {
+            "uid": "7e7af4865ce4463eba410e2467a87be1",
+            "name": "Xã Đắk Phơi"
+        },
+        {
+            "uid": "461901999bcf499d9535c31593a41d5b",
+            "name": "Xã Đắk Nuê"
+        },
+        {
+            "uid": "b0ddf29010f4434181285871d391128c",
+            "name": "Xã Krông Nô"
+        },
+        {
+            "uid": "9a3ec8acfd864576b519c41c731c32b2",
+            "name": "Xã Nam Ka"
+        },
+        {
+            "uid": "b53c5260bbfd40abafb0f223b0dbaf02",
+            "name": "Xã Ea R'Bin"
+        }
+    ]
+}

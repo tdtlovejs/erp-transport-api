@@ -1,0 +1,46 @@
+{
+    "uid": "9270e886729443718e7aa6c84838e6a9",
+    "name": "Thành phố Trà Vinh",
+    "wards": [
+        {
+            "uid": "63f3b48a40d24a04b8b7b9201e3e7742",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "030cc10a850a44228a9c5935568b7ef3",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "1d1861b5e9f54a29a14ee016a74892e5",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "1981d499a94e456bbac11c30ea66a85a",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "dc0b70bf1396437296cdfa00f2a6d809",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "7f798d8b633c4f47afc1fe943a5eb0c2",
+            "name": "Phường 6"
+        },
+        {
+            "uid": "ffada2d4107c49ae99cadb73b0043175",
+            "name": "Phường 7"
+        },
+        {
+            "uid": "c47c0278d2564b33bd8106d953a1579d",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "d9f40717ac2f4f41ab4835bbe4a0b8d5",
+            "name": "Phường 9"
+        },
+        {
+            "uid": "a2285b56fda748f7918e5f3382bac7a1",
+            "name": "Xã Long Đức"
+        }
+    ]
+}

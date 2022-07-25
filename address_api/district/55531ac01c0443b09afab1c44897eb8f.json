@@ -1,0 +1,54 @@
+{
+    "uid": "55531ac01c0443b09afab1c44897eb8f",
+    "name": "Thị xã Hương Thủy",
+    "wards": [
+        {
+            "uid": "813efdcd077a41ce97fec942efdbb813",
+            "name": "Phường Phú Bài"
+        },
+        {
+            "uid": "a06f4573e3a643a4ad6e3f2f1d452912",
+            "name": "Xã Thủy Vân"
+        },
+        {
+            "uid": "ba62e75e28054f949cc1a0b3e0a62b3a",
+            "name": "Xã Thủy Thanh"
+        },
+        {
+            "uid": "44646bfed88143319f5859b71f3af990",
+            "name": "Phường Thủy Dương"
+        },
+        {
+            "uid": "854dc9f674f2475abb21fb481e9b9e0b",
+            "name": "Phường Thủy Phương"
+        },
+        {
+            "uid": "b7d233e534dd47d097662c393fd71a9d",
+            "name": "Phường Thủy Châu"
+        },
+        {
+            "uid": "7ebe93999b9f48c28c84af265e398b2b",
+            "name": "Phường Thủy Lương"
+        },
+        {
+            "uid": "941e540a517e458ba9db838040fa598e",
+            "name": "Xã Thủy Bằng"
+        },
+        {
+            "uid": "1426e0ea8046406eb4298b2a640227cd",
+            "name": "Xã Thủy Tân"
+        },
+        {
+            "uid": "c03ed97f89c64641a0e9d08854870a6b",
+            "name": "Xã Thủy Phù"
+        },
+        {
+            "uid": "7e3283aff19144a8a0aa56213dd2a97d",
+            "name": "Xã Phú Sơn"
+        },
+        {
+            "uid": "4af80cfbb8034f928a83577bb64eed66",
+            "name": "Xã Dương Hòa"
+        }
+    ]
+}

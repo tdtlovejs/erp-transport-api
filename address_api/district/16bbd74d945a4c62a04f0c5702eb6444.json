@@ -1,0 +1,34 @@
+{
+    "uid": "16bbd74d945a4c62a04f0c5702eb6444",
+    "name": "Thành phố Lai Châu",
+    "wards": [
+        {
+            "uid": "d5b4fc36fa0f42f8a41a9109c5347aff",
+            "name": "Phường Quyết Thắng"
+        },
+        {
+            "uid": "bb1765cfdf0a4416ab1520c205df5fe5",
+            "name": "Phường Tân Phong"
+        },
+        {
+            "uid": "e7478c6b0ff64150acee3ff06c31636c",
+            "name": "Phường Quyết Tiến"
+        },
+        {
+            "uid": "b25655e74dd84a5bbe24645aeb170caa",
+            "name": "Phường Đoàn Kết"
+        },
+        {
+            "uid": "ae274945bf5a4ed4b7952070916f7d34",
+            "name": "Xã Sùng Phài"
+        },
+        {
+            "uid": "2bb25a1d212d4d2bac22522dc1ae7098",
+            "name": "Phường Đông Phong"
+        },
+        {
+            "uid": "00020d280a924682a0887399968a0fce",
+            "name": "Xã San Thàng"
+        }
+    ]
+}

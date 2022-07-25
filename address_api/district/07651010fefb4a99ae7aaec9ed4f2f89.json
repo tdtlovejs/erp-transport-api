@@ -1,0 +1,50 @@
+{
+    "uid": "07651010fefb4a99ae7aaec9ed4f2f89",
+    "name": "Huyện Cầu Kè",
+    "wards": [
+        {
+            "uid": "05490b108bb546768e277492e880ccf6",
+            "name": "Thị trấn Cầu Kè"
+        },
+        {
+            "uid": "98b123f24d8944e5a697cd25e994f16c",
+            "name": "Xã Hòa Ân"
+        },
+        {
+            "uid": "b00c7309cb364ff984a0d0f89111ec1f",
+            "name": "Xã Châu Điền"
+        },
+        {
+            "uid": "e91a18a53546433aa04dfc8945badcc6",
+            "name": "Xã An Phú Tân"
+        },
+        {
+            "uid": "5b09833081fa4ef1b3cd4d3368902514",
+            "name": "Xã Hoà Tân"
+        },
+        {
+            "uid": "35d4e5fa830c488b93dea21ddd887f81",
+            "name": "Xã Ninh Thới"
+        },
+        {
+            "uid": "173c0b51f0614c8eb49cf54cffd7500e",
+            "name": "Xã Phong Phú"
+        },
+        {
+            "uid": "a9e8b03455c14eea9925538fdb15568d",
+            "name": "Xã Phong Thạnh"
+        },
+        {
+            "uid": "3d09d20d678a4dfba69ead970eeb1abb",
+            "name": "Xã Tam Ngãi"
+        },
+        {
+            "uid": "6bf99ab909bc4f098c4d18a55cea90a0",
+            "name": "Xã Thông Hòa"
+        },
+        {
+            "uid": "824bf9d8d0444f44b8151bb3105e8805",
+            "name": "Xã Thạnh Phú"
+        }
+    ]
+}

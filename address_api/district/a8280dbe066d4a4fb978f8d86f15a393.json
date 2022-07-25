@@ -1,0 +1,98 @@
+{
+    "uid": "a8280dbe066d4a4fb978f8d86f15a393",
+    "name": "Huyện Bắc Quang",
+    "wards": [
+        {
+            "uid": "6ab6c4a46c3546d5bf003736656d3352",
+            "name": "Thị trấn Việt Quang"
+        },
+        {
+            "uid": "0e875deaea2942ac909b9623b897217c",
+            "name": "Thị trấn Vĩnh Tuy"
+        },
+        {
+            "uid": "29b8bb01faaf49c1805e9718973ac2d8",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "f3b5b62f29954a5b94b4b0a7e99b1780",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "7a2e5df2634845e2b9510905463bb40b",
+            "name": "Xã Đồng Tiến"
+        },
+        {
+            "uid": "f93816ed77384e4fb12ac43b82ea7e8b",
+            "name": "Xã Đồng Tâm"
+        },
+        {
+            "uid": "b6e0da279eb24bec948d385702e22cf9",
+            "name": "Xã Tân Quang"
+        },
+        {
+            "uid": "3e3de90e2617429fa3597bc59deab298",
+            "name": "Xã Thượng Bình"
+        },
+        {
+            "uid": "ba3d0ed4abaf43df8be8fc7c55eff3ce",
+            "name": "Xã Hữu Sản"
+        },
+        {
+            "uid": "048ce315b20043f3b2986a920ea12269",
+            "name": "Xã Kim Ngọc"
+        },
+        {
+            "uid": "6ea58950cb104eafb3c80f135ded1d16",
+            "name": "Xã Việt Vinh"
+        },
+        {
+            "uid": "d76a66c8e776406f9b3bc50181499912",
+            "name": "Xã Bằng Hành"
+        },
+        {
+            "uid": "6371236ff7584aed903d302ad88fa407",
+            "name": "Xã Quang Minh"
+        },
+        {
+            "uid": "3b0fe87b511346969dc05b40069ad479",
+            "name": "Xã Liên Hiệp"
+        },
+        {
+            "uid": "eb74f0b04e2a4a759d507ec4ae484155",
+            "name": "Xã Vô Điếm"
+        },
+        {
+            "uid": "a30cedb7e0944bf6a487f589e9895eac",
+            "name": "Xã Việt Hồng"
+        },
+        {
+            "uid": "c5167db8e57b430782ec614be9f316cd",
+            "name": "Xã Hùng An"
+        },
+        {
+            "uid": "6ddf39c00e8c451a86fbea10d9529ff7",
+            "name": "Xã Đức Xuân"
+        },
+        {
+            "uid": "231162ae399f4f9d9691d292e409ac6c",
+            "name": "Xã Tiên Kiều"
+        },
+        {
+            "uid": "695f67ac9c014008ae4767313a30a0ba",
+            "name": "Xã Vĩnh Hảo"
+        },
+        {
+            "uid": "3c7442a6f5d14dcaaea92c00a3ad1810",
+            "name": "Xã Vĩnh Phúc"
+        },
+        {
+            "uid": "81b7b553d9f143958878d510c37de4e7",
+            "name": "Xã Đồng Yên"
+        },
+        {
+            "uid": "12ff17b42017418baf45470b71d154b6",
+            "name": "Xã Đông Thành"
+        }
+    ]
+}

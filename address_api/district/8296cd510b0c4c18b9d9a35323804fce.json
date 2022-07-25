@@ -1,0 +1,42 @@
+{
+    "uid": "8296cd510b0c4c18b9d9a35323804fce",
+    "name": "Thành phố Phú Quốc",
+    "wards": [
+        {
+            "uid": "8cac239c45aa48cfa3a7f05754b463ac",
+            "name": "Phường Dương Đông"
+        },
+        {
+            "uid": "3e5184e29618400e96b46fc2b127f23c",
+            "name": "Phường An Thới"
+        },
+        {
+            "uid": "c89a6f98df134fc2bbc58d3e44b93a15",
+            "name": "Xã Cửa Cạn"
+        },
+        {
+            "uid": "2decfbdc4c4346b6b584f24772ea1ee6",
+            "name": "Xã Gành Dầu"
+        },
+        {
+            "uid": "7e24f0cc9ef54b88a50cd3af068fcab8",
+            "name": "Xã Cửa Dương"
+        },
+        {
+            "uid": "d75df785be024feb8e28bc1f83e2f0d8",
+            "name": "Xã Hàm Ninh"
+        },
+        {
+            "uid": "6cb74e75299547bfb91eb40e4e13cd9c",
+            "name": "Xã Dương Tơ"
+        },
+        {
+            "uid": "fe34e727fa9740b8be011bf4a2c1d568",
+            "name": "Xã Bãi Thơm"
+        },
+        {
+            "uid": "4fe7804ca4f54073a9d7fe054bc14958",
+            "name": "Xã Thổ Châu"
+        }
+    ]
+}

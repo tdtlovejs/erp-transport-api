@@ -1,0 +1,30 @@
+{
+    "uid": "8849622bfb7e48e1a94e731e6e2564a2",
+    "name": "Thị xã Hồng Lĩnh",
+    "wards": [
+        {
+            "uid": "23dac765a8994edea5d784ecba3ab62b",
+            "name": "Phường Bắc Hồng"
+        },
+        {
+            "uid": "7d9a7e2eaaa941ddb9d91ef44b3427cc",
+            "name": "Phường Nam Hồng"
+        },
+        {
+            "uid": "65738e03f27b42ac80d43f2b6a6c4086",
+            "name": "Phường Trung Lương"
+        },
+        {
+            "uid": "a766cad3e4c74b669b7b51067cbd4a74",
+            "name": "Phường Đức Thuận"
+        },
+        {
+            "uid": "32f361a24caa4ffcb30fd31ca1259053",
+            "name": "Phường Đậu Liêu"
+        },
+        {
+            "uid": "98096c3265fe440ca7a0dd6487ef7171",
+            "name": "Xã Thuận Lộc"
+        }
+    ]
+}

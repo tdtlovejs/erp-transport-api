@@ -1,0 +1,42 @@
+{
+    "uid": "04b76998fd5547aea7f494dfe9ad72a6",
+    "name": "Huyện Phú Tân",
+    "wards": [
+        {
+            "uid": "44370df428214959b5c5f4330b47c5c8",
+            "name": "Thị trấn Cái Đôi Vàm"
+        },
+        {
+            "uid": "d9db32eed4024c8ebdc170448d0212b9",
+            "name": "Xã Phú Thuận"
+        },
+        {
+            "uid": "1971bf3a29264afd9b2576d854baa6d4",
+            "name": "Xã Phú Mỹ"
+        },
+        {
+            "uid": "a890fa25b5464585b04688c3abdc943f",
+            "name": "Xã Phú Tân"
+        },
+        {
+            "uid": "0361078fe40c49a3b9b3cb75429c4265",
+            "name": "Xã Tân Hải"
+        },
+        {
+            "uid": "d5313c9da4fd4a5099686505b0e0a50d",
+            "name": "Xã Việt Thắng"
+        },
+        {
+            "uid": "7be8bb64bc0647b89106d610845f0976",
+            "name": "Xã Tân Hưng Tây"
+        },
+        {
+            "uid": "9565df3f883d40ba8191ae5d05585733",
+            "name": "Xã Rạch Chèo"
+        },
+        {
+            "uid": "526ce069c19e465896d5d11ccab26554",
+            "name": "Xã Nguyễn Việt Khái"
+        }
+    ]
+}

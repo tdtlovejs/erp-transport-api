@@ -1,0 +1,158 @@
+{
+    "uid": "24e28b1b1e5340dfb3534aa3cf4f1c31",
+    "name": "Huyện Đông Hưng",
+    "wards": [
+        {
+            "uid": "0004c3251f74454da24f889cab54ebb9",
+            "name": "Thị trấn Đông Hưng"
+        },
+        {
+            "uid": "e8a8531f15b64f1cb02c73adf4281e7a",
+            "name": "Xã Đô Lương"
+        },
+        {
+            "uid": "ac9974fd88bd47a88e11331646994b78",
+            "name": "Xã Đông Phương"
+        },
+        {
+            "uid": "694eb89e3c5f4597aa44ea7eb94997bc",
+            "name": "Xã Liên Giang"
+        },
+        {
+            "uid": "6dc7931173a945c5b86af379a5ee5d06",
+            "name": "Xã An Châu"
+        },
+        {
+            "uid": "f94e2835f7fe4c768f50223aac254eba",
+            "name": "Xã Đông Sơn"
+        },
+        {
+            "uid": "c0f82612d1d84be1b89dcb0b1ec2a67d",
+            "name": "Xã Đông Cường"
+        },
+        {
+            "uid": "acfe15aa7ebb45279689168bc96f80a3",
+            "name": "Xã Phú Lương"
+        },
+        {
+            "uid": "62331c46a22545ea94a607c5059a4157",
+            "name": "Xã Mê Linh"
+        },
+        {
+            "uid": "0f79730c1e7d4154a4de2aef50fc591c",
+            "name": "Xã Lô Giang"
+        },
+        {
+            "uid": "ae8436fdeb524a9ba6329c92336396c4",
+            "name": "Xã Đông La"
+        },
+        {
+            "uid": "86e8761bd69946cca1be8de24bd6b685",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "e462508600db42f4a46c2906006266e3",
+            "name": "Xã Đông Xá"
+        },
+        {
+            "uid": "e496d8b230c14888886bd2a25e36b380",
+            "name": "Xã Chương Dương"
+        },
+        {
+            "uid": "34820a4d6a2c4057bac8ba2e32e53500",
+            "name": "Xã Nguyên Xá"
+        },
+        {
+            "uid": "b7effb8b284242b3b2bc22d22ad0fcaf",
+            "name": "Xã Phong Châu"
+        },
+        {
+            "uid": "6348dc92f0284b3fa4ce6a4104df5d1a",
+            "name": "Xã Hợp Tiến"
+        },
+        {
+            "uid": "c716a7ee2a694bdcb7e7dfbb4e94bb23",
+            "name": "Xã Hồng Việt"
+        },
+        {
+            "uid": "58761041568646a0a4666f852538967c",
+            "name": "Xã Hà Giang"
+        },
+        {
+            "uid": "77db5b21b85f40298e67e09a344ecfb5",
+            "name": "Xã Đông Kinh"
+        },
+        {
+            "uid": "7e38d75ef77d49fea14c5a985b42f2ba",
+            "name": "Xã Đông Hợp"
+        },
+        {
+            "uid": "5f9485b1251842cd81caf6ee6c133444",
+            "name": "Xã Thăng Long"
+        },
+        {
+            "uid": "52df145326ff449d830084e5f9cd4c33",
+            "name": "Xã Đông Các"
+        },
+        {
+            "uid": "64bef939cdc6466f859f0a6fec1f3609",
+            "name": "Xã Phú Châu"
+        },
+        {
+            "uid": "51830e96de1d40b1921b6d92a4876fea",
+            "name": "Xã Liên Hoa"
+        },
+        {
+            "uid": "2db67163d9a743b1be19dbd7ec13f7b8",
+            "name": "Xã Đông Tân"
+        },
+        {
+            "uid": "6441062e739a472d85713c13e6bb106b",
+            "name": "Xã Đông Vinh"
+        },
+        {
+            "uid": "16060bfb862d41938849088c745aa0ee",
+            "name": "Xã Đông Động"
+        },
+        {
+            "uid": "664bc2be41f04905ae625ebb0c7e3b20",
+            "name": "Xã Hồng Bạch"
+        },
+        {
+            "uid": "db06863c3ae84f279d8f04daab302f5c",
+            "name": "Xã Trọng Quan"
+        },
+        {
+            "uid": "13ec5df63e8c47c2839414330e44d451",
+            "name": "Xã Hồng Giang"
+        },
+        {
+            "uid": "a111bbd153d4427d83bca56f6e644d44",
+            "name": "Xã Đông Quan"
+        },
+        {
+            "uid": "e995152dd57b4083907d48f20743b153",
+            "name": "Xã Đông Quang"
+        },
+        {
+            "uid": "52689cf252cf41fd957bdb089c71a635",
+            "name": "Xã Đông Xuân"
+        },
+        {
+            "uid": "be37296bc9484ae3b0cadb89045f83ab",
+            "name": "Xã Đông Á"
+        },
+        {
+            "uid": "d15921135cba4c01ba26e24aad7cac3d",
+            "name": "Xã Đông Hoàng"
+        },
+        {
+            "uid": "7acb7dd9c5a24302a61d19e4a1bcb3a0",
+            "name": "Xã Đông Dương"
+        },
+        {
+            "uid": "5255ae8ad61f448bb4d1f6f6ae4b7fbb",
+            "name": "Xã Minh Phú"
+        }
+    ]
+}

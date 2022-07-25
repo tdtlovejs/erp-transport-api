@@ -1,0 +1,142 @@
+{
+    "uid": "8eb51df23de345be937e0f386be05578",
+    "name": "Huyện Hải Hậu",
+    "wards": [
+        {
+            "uid": "0fb5866c59af4a31a3ad2c124162a8bd",
+            "name": "Thị trấn Yên Định"
+        },
+        {
+            "uid": "34656f9bd37a44aaa770ce7eee6cc5af",
+            "name": "Thị trấn Cồn"
+        },
+        {
+            "uid": "3859eb73d3774e6e8ab22dd5bd36c8d6",
+            "name": "Thị trấn Thịnh Long"
+        },
+        {
+            "uid": "9c38bb7179b542dda527a6418dcde682",
+            "name": "Xã Hải Nam"
+        },
+        {
+            "uid": "3c0b80d038e241089e05635322636178",
+            "name": "Xã Hải Trung"
+        },
+        {
+            "uid": "19bdcb224f4f472b87f9d79e9021bade",
+            "name": "Xã Hải Vân"
+        },
+        {
+            "uid": "fd933c239ec94d71b38ce249a1bd5f93",
+            "name": "Xã Hải Minh"
+        },
+        {
+            "uid": "c8fb751863924c00b46c39c4d399d58b",
+            "name": "Xã Hải Anh"
+        },
+        {
+            "uid": "99bc29b1ab57473685731cb4c50ec84b",
+            "name": "Xã Hải Hưng"
+        },
+        {
+            "uid": "2ba534e40d0b44c7ac3cc5a88a29031d",
+            "name": "Xã Hải Bắc"
+        },
+        {
+            "uid": "a095eff4cd79458bbb9af234d348d065",
+            "name": "Xã Hải Phúc"
+        },
+        {
+            "uid": "c4e9231424d94a87be3cfcdcf2a8d5ec",
+            "name": "Xã Hải Thanh"
+        },
+        {
+            "uid": "2e3c5c9134ac4de28742b1d3fd3d1530",
+            "name": "Xã Hải Hà"
+        },
+        {
+            "uid": "916f445ae0ab4250b7aa96c25b744e03",
+            "name": "Xã Hải Long"
+        },
+        {
+            "uid": "874b201bd6e4432e9ac55a73a4822f44",
+            "name": "Xã Hải Phương"
+        },
+        {
+            "uid": "f2958ecd824844da8e9473fce01ca5c0",
+            "name": "Xã Hải Đường"
+        },
+        {
+            "uid": "032099ae78cb4dedaf55e8b1e1b23768",
+            "name": "Xã Hải Lộc"
+        },
+        {
+            "uid": "d64769f847d140a592a81477b658c3f9",
+            "name": "Xã Hải Quang"
+        },
+        {
+            "uid": "d245d3a9c7b54f64ab2668721a8a688a",
+            "name": "Xã Hải Đông"
+        },
+        {
+            "uid": "6c32004ef8884b0dba07ced0e9bdb401",
+            "name": "Xã Hải Sơn"
+        },
+        {
+            "uid": "c1f550f0cc464568b61b77c7ab0eca85",
+            "name": "Xã Hải Tân"
+        },
+        {
+            "uid": "77f38e4e280643cfbaba89e7e5a9b9d7",
+            "name": "Xã Hải Phong"
+        },
+        {
+            "uid": "f48f98f4b726404dbbcc11b0cc9a592f",
+            "name": "Xã Hải An"
+        },
+        {
+            "uid": "cc6d09721f584c8984dd9a4c47b567c7",
+            "name": "Xã Hải Tây"
+        },
+        {
+            "uid": "9bd2cfaa36994525812b25cbb97ecbfe",
+            "name": "Xã Hải Lý"
+        },
+        {
+            "uid": "2017d55684b64078a1e1f8dca6b6fdd5",
+            "name": "Xã Hải Phú"
+        },
+        {
+            "uid": "8f465e42ef02482589143989b938d773",
+            "name": "Xã Hải Giang"
+        },
+        {
+            "uid": "a63d1c5673c144a9965462af61d3e9d9",
+            "name": "Xã Hải Cường"
+        },
+        {
+            "uid": "33b5acf7cb754226b0d81d45805452c0",
+            "name": "Xã Hải Ninh"
+        },
+        {
+            "uid": "bb8fb9c71564406b99eaad075f8a465d",
+            "name": "Xã Hải Chính"
+        },
+        {
+            "uid": "d4d05e9f5e8f4f5e92b2d12f1a006f8f",
+            "name": "Xã Hải Xuân"
+        },
+        {
+            "uid": "8d9dc9e4bd594fc48f07c3c44680cff7",
+            "name": "Xã Hải Châu"
+        },
+        {
+            "uid": "77e9791897824607bb9302c7014adf01",
+            "name": "Xã Hải Triều"
+        },
+        {
+            "uid": "7127434d67e043869411d39896c768e3",
+            "name": "Xã Hải Hòa"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "uid": "85d491ad197941289b68c59d0b1347e6",
+    "name": "Huyện Yên Lập",
+    "wards": [
+        {
+            "uid": "568b972485ac4c87b6e475c47109d921",
+            "name": "Thị trấn Yên Lập"
+        },
+        {
+            "uid": "1a8c58d64b1544608e5e9e7a9930cfbd",
+            "name": "Xã Mỹ Lung"
+        },
+        {
+            "uid": "aadda6a4ea7446459d1beb8df5041bfe",
+            "name": "Xã Mỹ Lương"
+        },
+        {
+            "uid": "95c6559ce9674e57bc58870094cca9b0",
+            "name": "Xã Lương Sơn"
+        },
+        {
+            "uid": "48fef5d2fb0548d5a95ddeacdb904da5",
+            "name": "Xã Xuân An"
+        },
+        {
+            "uid": "2dea4eb49ee546ab974d53a665b0ace3",
+            "name": "Xã Xuân Viên"
+        },
+        {
+            "uid": "2acb97f494f64d9e9f849058294cbd15",
+            "name": "Xã Xuân Thủy"
+        },
+        {
+            "uid": "4e5a350c4bee4fb5a38e68e1f05a2221",
+            "name": "Xã Trung Sơn"
+        },
+        {
+            "uid": "479e1dfd27a34507bc0bd5fa8f740eba",
+            "name": "Xã Hưng Long"
+        },
+        {
+            "uid": "b691563e72134305803613fe545cecf5",
+            "name": "Xã Nga Hoàng"
+        },
+        {
+            "uid": "18b027b75fc34a6c8125c58d23e21a41",
+            "name": "Xã Đồng Lạc"
+        },
+        {
+            "uid": "b1f2777cbbf0404289ba197b4cb6af71",
+            "name": "Xã Thượng Long"
+        },
+        {
+            "uid": "071caabb778e42c4bc7ac70b6f7d7938",
+            "name": "Xã Đồng Thịnh"
+        },
+        {
+            "uid": "1bb6f1b7faa44b2492d73aa32ca47e9d",
+            "name": "Xã Phúc Khánh"
+        },
+        {
+            "uid": "4c9ba3bd34904886ba827c4cb20da7b4",
+            "name": "Xã Minh Hòa"
+        },
+        {
+            "uid": "95f5aa5874e041f5a1129451afef427a",
+            "name": "Xã Ngọc Lập"
+        },
+        {
+            "uid": "edf9f3f1a07b4a9ebf72007ed5e5456b",
+            "name": "Xã Ngọc Đồng"
+        }
+    ]
+}

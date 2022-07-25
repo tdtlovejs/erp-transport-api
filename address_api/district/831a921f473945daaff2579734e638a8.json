@@ -1,0 +1,46 @@
+{
+    "uid": "831a921f473945daaff2579734e638a8",
+    "name": "Thị xã Phú Mỹ",
+    "wards": [
+        {
+            "uid": "cc10f69ab5b4458a82f3fcb28d785896",
+            "name": "Phường Phú Mỹ"
+        },
+        {
+            "uid": "09087dc308504d7185c8788075b07ed2",
+            "name": "Xã Tân Hoà"
+        },
+        {
+            "uid": "c534be55bc674360b2a7f1bba62e62c3",
+            "name": "Xã Tân Hải"
+        },
+        {
+            "uid": "a335a974c5ed47c8bdf61662ca219171",
+            "name": "Phường Phước Hoà"
+        },
+        {
+            "uid": "cbdf6fdf9b0d4a80bf784b7cbe6feeef",
+            "name": "Phường Tân Phước"
+        },
+        {
+            "uid": "37a54c563aa54bdc94779feda62ba2a0",
+            "name": "Phường Mỹ Xuân"
+        },
+        {
+            "uid": "df81319d60bc4f8291cb9847a9a057a5",
+            "name": "Xã Sông Xoài"
+        },
+        {
+            "uid": "e845735574ce4e3983f46239d139e547",
+            "name": "Phường Hắc Dịch"
+        },
+        {
+            "uid": "6cb242d1fe5f43a28451f714fef02bde",
+            "name": "Xã Châu Pha"
+        },
+        {
+            "uid": "91be169373fd46f7a997107a10b43b29",
+            "name": "Xã Tóc Tiên"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "uid": "692d5df0f2b64e559073ab3bb551e45b",
+    "name": "Huyện Mộ Đức",
+    "wards": [
+        {
+            "uid": "0eeb87a01c5741f79c7cf588e6482467",
+            "name": "Thị trấn Mộ Đức"
+        },
+        {
+            "uid": "018e7c2f02a84f4384a85daf6fe11f2f",
+            "name": "Xã Đức Lợi"
+        },
+        {
+            "uid": "b2f6e17c5a384f91b45572c3e8b144d0",
+            "name": "Xã Đức Thắng"
+        },
+        {
+            "uid": "a5fbed6421934283b6d76092c88f699b",
+            "name": "Xã Đức Nhuận"
+        },
+        {
+            "uid": "2361e20c96e340b9a8917036cfec0fd7",
+            "name": "Xã Đức Chánh"
+        },
+        {
+            "uid": "8fa155e36a4b4aa3bb856a8ad57fd8c7",
+            "name": "Xã Đức Hiệp"
+        },
+        {
+            "uid": "ceee77e8af6c4268a0073490a95e1bc2",
+            "name": "Xã Đức Minh"
+        },
+        {
+            "uid": "7ecd67431a3a444bbaa16779455ef758",
+            "name": "Xã Đức Thạnh"
+        },
+        {
+            "uid": "a5bb84e4ea274117bb210f058cf1f179",
+            "name": "Xã Đức Hòa"
+        },
+        {
+            "uid": "7b9980161f704e9dbc69538a2ac96b9d",
+            "name": "Xã Đức Tân"
+        },
+        {
+            "uid": "3cbd13b7f8854193b377c94074ded88d",
+            "name": "Xã Đức Phú"
+        },
+        {
+            "uid": "def28fd007e4467faf91f3b4d22e2585",
+            "name": "Xã Đức Phong"
+        },
+        {
+            "uid": "4c089d2ff69f4f44b0f2be405d187bb5",
+            "name": "Xã Đức Lân"
+        }
+    ]
+}

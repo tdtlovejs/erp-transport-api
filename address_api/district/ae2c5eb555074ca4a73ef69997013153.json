@@ -1,0 +1,122 @@
+{
+    "uid": "ae2c5eb555074ca4a73ef69997013153",
+    "name": "Huyện Nông Cống",
+    "wards": [
+        {
+            "uid": "cd7ac58a8c42407eb8085d802807d324",
+            "name": "Thị trấn Nông Cống"
+        },
+        {
+            "uid": "e549705342ac4af49b1b8a21d148f1eb",
+            "name": "Xã Tân Phúc"
+        },
+        {
+            "uid": "028979595ebb483d868d54545238f261",
+            "name": "Xã Tân Thọ"
+        },
+        {
+            "uid": "03e395fabd9a44b7881437c012802af1",
+            "name": "Xã Hoàng Sơn"
+        },
+        {
+            "uid": "604a0b8818ea435188354db7c6938046",
+            "name": "Xã Tân Khang"
+        },
+        {
+            "uid": "b95baf8c0ec44360aa7cf5abaf8e1029",
+            "name": "Xã Hoàng Giang"
+        },
+        {
+            "uid": "e33417a28d914a75ac732311df1a1205",
+            "name": "Xã Trung Chính"
+        },
+        {
+            "uid": "de55bea5b7a74e6aae75e62c01c8eacc",
+            "name": "Xã Trung Thành"
+        },
+        {
+            "uid": "c685cee7b6df439b961fb551fe81bbcf",
+            "name": "Xã Tế Thắng"
+        },
+        {
+            "uid": "37cbd5957c604f7c9e969254b7a68054",
+            "name": "Xã Tế Lợi"
+        },
+        {
+            "uid": "28564e2a12c84c5995e0cd08e1092102",
+            "name": "Xã Tế Nông"
+        },
+        {
+            "uid": "47011a3524c24c5d87e202dd9be67291",
+            "name": "Xã Minh Nghĩa"
+        },
+        {
+            "uid": "16e313ef18814807a75343673c4daf9a",
+            "name": "Xã Minh Khôi"
+        },
+        {
+            "uid": "26596120de444b9893167761bb5e7446",
+            "name": "Xã Vạn Hòa"
+        },
+        {
+            "uid": "dee489fabd8344679e7c55de8fa168ba",
+            "name": "Xã Trường Trung"
+        },
+        {
+            "uid": "be1d9c8d65b14ceda2bf10714173000c",
+            "name": "Xã Vạn Thắng"
+        },
+        {
+            "uid": "8733e42bd8514ce1beefd70d8b3003b9",
+            "name": "Xã Trường Giang"
+        },
+        {
+            "uid": "3d5dbd3bb591471d983165d096abb617",
+            "name": "Xã Vạn Thiện"
+        },
+        {
+            "uid": "505bfd3e3dde41529e0a05b238c7708e",
+            "name": "Xã Thăng Long"
+        },
+        {
+            "uid": "6bc7c7f9305f438a84bc813d6263515e",
+            "name": "Xã Trường Minh"
+        },
+        {
+            "uid": "fcf861c5bc124575ad48192174ebc241",
+            "name": "Xã Trường Sơn"
+        },
+        {
+            "uid": "cdf37828e9c0458181e510a5532226cf",
+            "name": "Xã Thăng Bình"
+        },
+        {
+            "uid": "5942c6a55f8241fdb7e019d048d1a277",
+            "name": "Xã Công Liêm"
+        },
+        {
+            "uid": "dda76b1499444491bd9c205d9648f841",
+            "name": "Xã Tượng Văn"
+        },
+        {
+            "uid": "81abbd5abc0b4917b594e7754166dd54",
+            "name": "Xã Thăng Thọ"
+        },
+        {
+            "uid": "c6e3cea44adf40339aff62b5b4c46063",
+            "name": "Xã Tượng Lĩnh"
+        },
+        {
+            "uid": "b99a8afa61ac4b3c9e35f64b0d16b810",
+            "name": "Xã Tượng Sơn"
+        },
+        {
+            "uid": "e636109df76540ef8c81f30cdeac6547",
+            "name": "Xã Công Chính"
+        },
+        {
+            "uid": "85aa2e9930df49a1b4607ba7087a6441",
+            "name": "Xã Yên Mỹ"
+        }
+    ]
+}

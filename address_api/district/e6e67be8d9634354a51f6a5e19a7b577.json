@@ -1,0 +1,98 @@
+{
+    "uid": "e6e67be8d9634354a51f6a5e19a7b577",
+    "name": "Huyện Thạch Thất",
+    "wards": [
+        {
+            "uid": "6115150d0dd2440798437eab819e5296",
+            "name": "Xã Yên Trung"
+        },
+        {
+            "uid": "06a7d6b23df44c3f83ef9892a47d372b",
+            "name": "Xã Yên Bình"
+        },
+        {
+            "uid": "975309a607a848318ff9d907f43e1213",
+            "name": "Xã Tiến Xuân"
+        },
+        {
+            "uid": "7eafa58ddbc54571b3401094a1b47449",
+            "name": "Thị trấn Liên Quan"
+        },
+        {
+            "uid": "724a00e8d4354cc29d5446d276be01e5",
+            "name": "Xã Đại Đồng"
+        },
+        {
+            "uid": "1d133fe1382e419f9b07c36913157425",
+            "name": "Xã Cẩm Yên"
+        },
+        {
+            "uid": "a1b4ce9840de4069af31842930581315",
+            "name": "Xã Lại Thượng"
+        },
+        {
+            "uid": "946568c04ebd4b8382263f3cb5ef5f93",
+            "name": "Xã Phú Kim"
+        },
+        {
+            "uid": "8756bf802cad490b8562f70233c88357",
+            "name": "Xã Hương Ngải"
+        },
+        {
+            "uid": "383bfdc81ddd4a86a9d9ee741bce5e9a",
+            "name": "Xã Canh Nậu"
+        },
+        {
+            "uid": "086f305b031f40588a0a1853de59bbae",
+            "name": "Xã Kim Quan"
+        },
+        {
+            "uid": "5db675ed70354f5ba8bd04da60f06a2f",
+            "name": "Xã Dị Nậu"
+        },
+        {
+            "uid": "7f22c54e9c0f413c9f4ea91d6551da80",
+            "name": "Xã Bình Yên"
+        },
+        {
+            "uid": "0555e2bd1df74362b4d8e19d626c0975",
+            "name": "Xã Chàng Sơn"
+        },
+        {
+            "uid": "68e3ea0e81f04cbf8f3907e54af109a8",
+            "name": "Xã Thạch Hoà"
+        },
+        {
+            "uid": "f6aed73e4a1c40478142091d952f20f6",
+            "name": "Xã Cần Kiệm"
+        },
+        {
+            "uid": "96d85cb8a29c4bbca15dd69c99c6b9ad",
+            "name": "Xã Hữu Bằng"
+        },
+        {
+            "uid": "4064c478ca024990b9d6f0ae445ef3f4",
+            "name": "Xã Phùng Xá"
+        },
+        {
+            "uid": "8d233e115e724b5aadb1f000117b9938",
+            "name": "Xã Tân Xã"
+        },
+        {
+            "uid": "c702349c6a474974b068efec65b38274",
+            "name": "Xã Thạch Xá"
+        },
+        {
+            "uid": "db58f1b1e15842e6ad54af6da7f6451b",
+            "name": "Xã Bình Phú"
+        },
+        {
+            "uid": "28a834f7c60548d582a3f9adaf647668",
+            "name": "Xã Hạ Bằng"
+        },
+        {
+            "uid": "6ddf1afa644e441b9d8fde9dcd2adce5",
+            "name": "Xã Đồng Trúc"
+        }
+    ]
+}

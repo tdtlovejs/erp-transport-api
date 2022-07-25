@@ -1,0 +1,42 @@
+{
+    "uid": "0431ee9987ab4e08abf0dc98e545de61",
+    "name": "Huyện Tân Hồng",
+    "wards": [
+        {
+            "uid": "b7f3cc2f219445db9623c77f8b1ddf44",
+            "name": "Thị trấn Sa Rài"
+        },
+        {
+            "uid": "7fd144b7426044d89b1a840191181252",
+            "name": "Xã Tân Hộ Cơ"
+        },
+        {
+            "uid": "27b3fb2cc5a54355ab00769caf0e92c3",
+            "name": "Xã Thông Bình"
+        },
+        {
+            "uid": "290793419d8143eb98f494374f21337a",
+            "name": "Xã Bình Phú"
+        },
+        {
+            "uid": "a1d57ebef15e409c8e043dabaae41bdf",
+            "name": "Xã Tân Thành A"
+        },
+        {
+            "uid": "e6ff844fb05f4745860ada9e5cccbc63",
+            "name": "Xã Tân Thành B"
+        },
+        {
+            "uid": "3302f9d822ff49cd8a6650728c4ce435",
+            "name": "Xã Tân Phước"
+        },
+        {
+            "uid": "f3076025e7a7401a9c68a6bc5bea8339",
+            "name": "Xã Tân Công Chí"
+        },
+        {
+            "uid": "57cd9ef66da84b49ac36edff26c051d4",
+            "name": "Xã An Phước"
+        }
+    ]
+}

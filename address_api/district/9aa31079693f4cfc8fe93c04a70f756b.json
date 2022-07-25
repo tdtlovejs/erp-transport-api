@@ -1,0 +1,34 @@
+{
+    "uid": "9aa31079693f4cfc8fe93c04a70f756b",
+    "name": "Huyện Bàu Bàng",
+    "wards": [
+        {
+            "uid": "c3654222b0854ea9a663dd743ca0e3d0",
+            "name": "Xã Trừ Văn Thố"
+        },
+        {
+            "uid": "aedea934d95e4769bf91bb75af254ef2",
+            "name": "Xã Cây Trường II"
+        },
+        {
+            "uid": "ab282286331c4c788263381ad8c0e860",
+            "name": "Thị trấn Lai Uyên"
+        },
+        {
+            "uid": "219458ea586a44549db99bb18036a1f2",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "a072fab7e4654ee08903446aa1d727a8",
+            "name": "Xã Long Nguyên"
+        },
+        {
+            "uid": "8005890fbe944a2f9ee9718101f6dbbc",
+            "name": "Xã Hưng Hòa"
+        },
+        {
+            "uid": "78701af9d16f40c69c29d53850ef7125",
+            "name": "Xã Lai Hưng"
+        }
+    ]
+}

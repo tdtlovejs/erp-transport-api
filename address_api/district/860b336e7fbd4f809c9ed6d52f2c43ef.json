@@ -1,0 +1,78 @@
+{
+    "uid": "860b336e7fbd4f809c9ed6d52f2c43ef",
+    "name": "Huyện Diên Khánh",
+    "wards": [
+        {
+            "uid": "2718420e2a9d492984f4fa080e08858a",
+            "name": "Thị trấn Diên Khánh"
+        },
+        {
+            "uid": "c2a18b142bd141178af48ed0fd4b3bed",
+            "name": "Xã Diên Lâm"
+        },
+        {
+            "uid": "dc93d879a3fb4d68a9d95fdc74cd7027",
+            "name": "Xã Diên Điền"
+        },
+        {
+            "uid": "f94e841d41004346bd0bddc966050d99",
+            "name": "Xã Diên Xuân"
+        },
+        {
+            "uid": "50df12c54ab54cab8fc464373fccdaae",
+            "name": "Xã Diên Sơn"
+        },
+        {
+            "uid": "486283ad53cc4629b73af74278ff3107",
+            "name": "Xã Diên Đồng"
+        },
+        {
+            "uid": "2087bf06bd0c446ca3d74b9fc131e9ec",
+            "name": "Xã Diên Phú"
+        },
+        {
+            "uid": "d2ee0c1a27e0442684b941839fd3cf62",
+            "name": "Xã Diên Thọ"
+        },
+        {
+            "uid": "beb1b3e482964d41b052c551de8d5611",
+            "name": "Xã Diên Phước"
+        },
+        {
+            "uid": "cd555c5772204b77b8f9939193eec901",
+            "name": "Xã Diên Lạc"
+        },
+        {
+            "uid": "bc1673c408124810a7dfb5cf90237d2a",
+            "name": "Xã Diên Tân"
+        },
+        {
+            "uid": "5e12286004504506849f1dd37675504f",
+            "name": "Xã Diên Hòa"
+        },
+        {
+            "uid": "92b4e9976c9943738a727fc7d9ce3bc7",
+            "name": "Xã Diên Thạnh"
+        },
+        {
+            "uid": "e92d3e67f17d4b27a86813b76b44f277",
+            "name": "Xã Diên Toàn"
+        },
+        {
+            "uid": "c1bf93e904974019a75e0cd2e27448ec",
+            "name": "Xã Diên An"
+        },
+        {
+            "uid": "0f3cfa8ad73546369fc768d4e4d0c91e",
+            "name": "Xã Bình Lộc"
+        },
+        {
+            "uid": "ef203274642440718006d2561f2a487c",
+            "name": "Xã Suối Hiệp"
+        },
+        {
+            "uid": "85a3ae6d2c2d41b087388d22cc2ff074",
+            "name": "Xã Suối Tiên"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "5ae5505144d5488fb0a335670888f3a0",
+    "name": "Huyện An Minh",
+    "wards": [
+        {
+            "uid": "bdc56dac66324bc2bbeeaf5b7dd54303",
+            "name": "Thị trấn Thứ Mười Một"
+        },
+        {
+            "uid": "50f8662027524c0fa4fb9e7d1495c5fc",
+            "name": "Xã Thuận Hoà"
+        },
+        {
+            "uid": "8403e57d2ba84ae68d9ada96ad932350",
+            "name": "Xã Đông Hòa"
+        },
+        {
+            "uid": "673c6f26e19a4ce5850a46a8762e9392",
+            "name": "Xã Đông Thạnh"
+        },
+        {
+            "uid": "f183c36335bf4d9b88778ea73cfeeb24",
+            "name": "Xã Tân Thạnh"
+        },
+        {
+            "uid": "a1180a49ebb04010b17cb3badfd2b5b3",
+            "name": "Xã Đông Hưng"
+        },
+        {
+            "uid": "af949cfcb3744ecf973b3c0025b9e86d",
+            "name": "Xã Đông Hưng A"
+        },
+        {
+            "uid": "db477270c342454fb29e083f80159cee",
+            "name": "Xã Đông Hưng B"
+        },
+        {
+            "uid": "74acf6d7ed0b49d9b4abfdf7f16671e2",
+            "name": "Xã Vân Khánh"
+        },
+        {
+            "uid": "45fe9d40de624f67b2799892004d1a8e",
+            "name": "Xã Vân Khánh Đông"
+        },
+        {
+            "uid": "2345774fd4db40f1b2beb467a72be7b4",
+            "name": "Xã Vân Khánh Tây"
+        }
+    ]
+}

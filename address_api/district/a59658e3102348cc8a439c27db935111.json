@@ -1,0 +1,54 @@
+{
+    "uid": "a59658e3102348cc8a439c27db935111",
+    "name": "Huyện Lộc Hà",
+    "wards": [
+        {
+            "uid": "66a4f9df65e140a09855e5cce3cdb60a",
+            "name": "Xã Tân Lộc"
+        },
+        {
+            "uid": "666cf7bc0be24ec29cf1f6196b010173",
+            "name": "Xã Hồng Lộc"
+        },
+        {
+            "uid": "81ca83a36ac3480b9722e088583f1821",
+            "name": "Xã Thịnh Lộc"
+        },
+        {
+            "uid": "f3ad0b13287349f39336c87d5cbab39c",
+            "name": "Xã Bình An"
+        },
+        {
+            "uid": "9635ea74b63243a3a23cf0a4c7d39592",
+            "name": "Xã Ích Hậu"
+        },
+        {
+            "uid": "a7e4672b01884a5f8da2d9e517d234f8",
+            "name": "Xã Phù Lưu"
+        },
+        {
+            "uid": "53655920f5f6415f8dc3a857ab4ac58a",
+            "name": "Thị trấn Lộc Hà"
+        },
+        {
+            "uid": "c1b80e2846f346d1a3e4cd492963f10b",
+            "name": "Xã Thạch Mỹ"
+        },
+        {
+            "uid": "45bbdf9f257f415fb7c9dabcf3b6b5be",
+            "name": "Xã Thạch Kim"
+        },
+        {
+            "uid": "718e0a0b3aee4b44baf5eaa4e95e9dc5",
+            "name": "Xã Thạch Châu"
+        },
+        {
+            "uid": "4db0993d2fd744e786636a44d039d59d",
+            "name": "Xã Hộ Độ"
+        },
+        {
+            "uid": "95cdfd49df854adf8b03389fc53a62e2",
+            "name": "Xã Mai Phụ"
+        }
+    ]
+}

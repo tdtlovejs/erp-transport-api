@@ -1,0 +1,38 @@
+{
+    "uid": "4c646d8704684445b34a4bfbfe5c63a8",
+    "name": "Huyện Ba Chẽ",
+    "wards": [
+        {
+            "uid": "465d3e49c1294a29b10d01fb2187e597",
+            "name": "Thị trấn Ba Chẽ"
+        },
+        {
+            "uid": "95c235e8855340938bd65f9007bac4b6",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "f17bcde8e76f40239e83d241c4caac34",
+            "name": "Xã Thanh Lâm"
+        },
+        {
+            "uid": "f5cfdc555861446d9c3c518d2a523831",
+            "name": "Xã Đạp Thanh"
+        },
+        {
+            "uid": "7b9d87b18cad4dae9dde6d1d4912efb3",
+            "name": "Xã Nam Sơn"
+        },
+        {
+            "uid": "d16f4d3f0d3a4b988e23ab114f2b9d6b",
+            "name": "Xã Lương Mông"
+        },
+        {
+            "uid": "63826835c38a4ee2b4088b205d3ef957",
+            "name": "Xã Đồn Đạc"
+        },
+        {
+            "uid": "d8383e33daa84adb9ad79d91270a6fc4",
+            "name": "Xã Minh Cầm"
+        }
+    ]
+}

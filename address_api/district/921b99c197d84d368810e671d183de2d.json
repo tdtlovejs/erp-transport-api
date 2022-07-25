@@ -1,0 +1,42 @@
+{
+    "uid": "921b99c197d84d368810e671d183de2d",
+    "name": "Huyện Chơn Thành",
+    "wards": [
+        {
+            "uid": "631fa373401e4325813ba7913a6a0373",
+            "name": "Thị trấn Chơn Thành"
+        },
+        {
+            "uid": "b56ab5c9eb1648f7a4b920d3c2565ae5",
+            "name": "Xã Thành Tâm"
+        },
+        {
+            "uid": "0f4613999bcf49a497a6ec0237ba3c24",
+            "name": "Xã Minh Lập"
+        },
+        {
+            "uid": "b012f19a06fa45eaa0a1b49c1bfc63af",
+            "name": "Xã Quang Minh"
+        },
+        {
+            "uid": "b6fcc06d7a54470f8bbb5692ff229e35",
+            "name": "Xã Minh Hưng"
+        },
+        {
+            "uid": "4e81a1d9f12f48379fb8dcb9bb90a286",
+            "name": "Xã Minh Long"
+        },
+        {
+            "uid": "b1677ce2c5984329963ae912600df9a5",
+            "name": "Xã Minh Thành"
+        },
+        {
+            "uid": "b5b9ca73127944c694b3d2a7b83728c6",
+            "name": "Xã Nha Bích"
+        },
+        {
+            "uid": "8f2c17f54cae430ca83ddc9ce3a3d15b",
+            "name": "Xã Minh Thắng"
+        }
+    ]
+}

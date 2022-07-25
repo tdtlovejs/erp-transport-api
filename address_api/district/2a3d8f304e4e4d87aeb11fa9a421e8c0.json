@@ -1,0 +1,46 @@
+{
+    "uid": "2a3d8f304e4e4d87aeb11fa9a421e8c0",
+    "name": "Huyện Tây Giang",
+    "wards": [
+        {
+            "uid": "4e4b0713721d4f7b98a8cae69643dd04",
+            "name": "Xã Ch'ơm"
+        },
+        {
+            "uid": "ae19dc947c2c492db028adbabb89adbd",
+            "name": "Xã Ga Ri"
+        },
+        {
+            "uid": "87ac4350c3b24a0fbc7a0b80be80db6f",
+            "name": "Xã A Xan"
+        },
+        {
+            "uid": "7c4f8236babb47aaa9ef25d38f492ad9",
+            "name": "Xã Tr'Hy"
+        },
+        {
+            "uid": "2d7d46fc9b1a45f39b85d32fa3c29143",
+            "name": "Xã Lăng"
+        },
+        {
+            "uid": "7c5c0079188043488f7ab8e8123c5acf",
+            "name": "Xã A Nông"
+        },
+        {
+            "uid": "095964e96a354458bc70bea7232817be",
+            "name": "Xã A Tiêng"
+        },
+        {
+            "uid": "271b5b1bf43a4bd09045b5e1c4bf6c05",
+            "name": "Xã Bha Lê"
+        },
+        {
+            "uid": "e89de31c65094bfb81f22c7085a9d8b7",
+            "name": "Xã A Vương"
+        },
+        {
+            "uid": "74ef7a942606470e9f46a2d292eb4404",
+            "name": "Xã Dang"
+        }
+    ]
+}

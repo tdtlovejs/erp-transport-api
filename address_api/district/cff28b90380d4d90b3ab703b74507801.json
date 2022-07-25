@@ -1,0 +1,110 @@
+{
+    "uid": "cff28b90380d4d90b3ab703b74507801",
+    "name": "Huyện Quảng Xương",
+    "wards": [
+        {
+            "uid": "aff94b47359e4f91bde600d0382cbec0",
+            "name": "Thị trấn Tân Phong"
+        },
+        {
+            "uid": "0ea15bd52c984add8b5942e069290cbf",
+            "name": "Xã Quảng Trạch"
+        },
+        {
+            "uid": "66254526ef7b4885afd9cff623d9815d",
+            "name": "Xã Quảng Đức"
+        },
+        {
+            "uid": "a96b9d5d932b4dd8a04b109cf84582a4",
+            "name": "Xã Quảng Định"
+        },
+        {
+            "uid": "bac37d9f461c49e69256048d5f2ee4e3",
+            "name": "Xã Quảng Nhân"
+        },
+        {
+            "uid": "65d3e8e85673414dbc16170f0c05e843",
+            "name": "Xã Quảng Ninh"
+        },
+        {
+            "uid": "dfc152e448184d058989cf7a98b4a9f4",
+            "name": "Xã Quảng Bình"
+        },
+        {
+            "uid": "ca48315beed04cec86795fdf647790f1",
+            "name": "Xã Quảng Hợp"
+        },
+        {
+            "uid": "b07f83ea7b564033939107b6b41349f3",
+            "name": "Xã Quảng Văn"
+        },
+        {
+            "uid": "f6075be6de68438c849e59103cbe822d",
+            "name": "Xã Quảng Long"
+        },
+        {
+            "uid": "437023342228438b8bbf175002548180",
+            "name": "Xã Quảng Yên"
+        },
+        {
+            "uid": "2c900fdbc184441ea3a60f787bd8a8fe",
+            "name": "Xã Quảng Hòa"
+        },
+        {
+            "uid": "af152ae2748647d2b462ef2291667105",
+            "name": "Xã Quảng Khê"
+        },
+        {
+            "uid": "8f6e60e4f1dd4fe499600d3bd49cebe9",
+            "name": "Xã Quảng Trung"
+        },
+        {
+            "uid": "815aca765ca3487fab22ea2b7b0ff21f",
+            "name": "Xã Quảng Chính"
+        },
+        {
+            "uid": "407244dd8bbe4540806150caa8572e88",
+            "name": "Xã Quảng Ngọc"
+        },
+        {
+            "uid": "4beaf3308ec74c49b1e9484c569e9696",
+            "name": "Xã Quảng Trường"
+        },
+        {
+            "uid": "9c07bbd6ec4d4ad699d2d8a647ad5810",
+            "name": "Xã Quảng Phúc"
+        },
+        {
+            "uid": "16b24c53d777465b8ad6ce5d657ecd10",
+            "name": "Xã Quảng Giao"
+        },
+        {
+            "uid": "31489fda27ad4e6ab0991dd7addfaa9b",
+            "name": "Xã Quảng Hải"
+        },
+        {
+            "uid": "8db0725f4ec643769ede40bdd7e46fba",
+            "name": "Xã Quảng Lưu"
+        },
+        {
+            "uid": "4c3e29619a974ba6bce760cd85ca7ede",
+            "name": "Xã Quảng Lộc"
+        },
+        {
+            "uid": "a2e668b728574506804bca94c94d25cb",
+            "name": "Xã Tiên Trang"
+        },
+        {
+            "uid": "c56a063440004abf871093446916c93a",
+            "name": "Xã Quảng Nham"
+        },
+        {
+            "uid": "c65a4fe6e81e4cf09df7c03ac581a47e",
+            "name": "Xã Quảng Thạch"
+        },
+        {
+            "uid": "44e8c84c4c8541ad8c0e29128341fe2b",
+            "name": "Xã Quảng Thái"
+        }
+    ]
+}

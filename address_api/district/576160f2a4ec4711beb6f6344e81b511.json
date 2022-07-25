@@ -1,0 +1,58 @@
+{
+    "uid": "576160f2a4ec4711beb6f6344e81b511",
+    "name": "Huyện Vạn Ninh",
+    "wards": [
+        {
+            "uid": "aed12f7fa2824e7baa83f69a24fde8ee",
+            "name": "Thị trấn Vạn Giã"
+        },
+        {
+            "uid": "66d7b666d883425ca0454fa7c32de35d",
+            "name": "Xã Đại Lãnh"
+        },
+        {
+            "uid": "f9d3c0efbb944ad39c05d0fe657a5990",
+            "name": "Xã Vạn Phước"
+        },
+        {
+            "uid": "03b84de9fd714a19bbb0523b4b788fa8",
+            "name": "Xã Vạn Long"
+        },
+        {
+            "uid": "56616e3bdb504fa6b0a4b928671ebb12",
+            "name": "Xã Vạn Bình"
+        },
+        {
+            "uid": "33085d662a4649e8a361ba56fd392703",
+            "name": "Xã Vạn Thọ"
+        },
+        {
+            "uid": "81b72555f6ed4bcd825aff37ba0b37fc",
+            "name": "Xã Vạn Khánh"
+        },
+        {
+            "uid": "18c0d1c3ba094c0b982ef25f7e838ca4",
+            "name": "Xã Vạn Phú"
+        },
+        {
+            "uid": "5f1a8719bacc482387415154dc5a1586",
+            "name": "Xã Vạn Lương"
+        },
+        {
+            "uid": "a8581cc357784910aedfc48fca421904",
+            "name": "Xã Vạn Thắng"
+        },
+        {
+            "uid": "b822c432145347409661826ce33d3709",
+            "name": "Xã Vạn Thạnh"
+        },
+        {
+            "uid": "5bbc068424a34074b7d4fe82255449d1",
+            "name": "Xã Xuân Sơn"
+        },
+        {
+            "uid": "39595716992d4566ad136c8057237ad0",
+            "name": "Xã Vạn Hưng"
+        }
+    ]
+}

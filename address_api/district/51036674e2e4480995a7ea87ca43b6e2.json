@@ -1,0 +1,146 @@
+{
+    "uid": "51036674e2e4480995a7ea87ca43b6e2",
+    "name": "Huyện Hưng Hà",
+    "wards": [
+        {
+            "uid": "350f87d0a8bd41f18943bd751756d931",
+            "name": "Thị trấn Hưng Hà"
+        },
+        {
+            "uid": "cc65fc4a24214332a825eb236e0b80cd",
+            "name": "Xã Điệp Nông"
+        },
+        {
+            "uid": "aaaa28c58baf489a9d039d8991c618db",
+            "name": "Xã Tân Lễ"
+        },
+        {
+            "uid": "150e50f78f7f465e8530d1da38d13e9e",
+            "name": "Xã Cộng Hòa"
+        },
+        {
+            "uid": "f6c8d1ec963f42eabdca86e87af5d82b",
+            "name": "Xã Dân Chủ"
+        },
+        {
+            "uid": "2dd1590624f84026a29cd5437fdea53e",
+            "name": "Xã Canh Tân"
+        },
+        {
+            "uid": "55f42432997a4465a1202c529932086d",
+            "name": "Xã Hòa Tiến"
+        },
+        {
+            "uid": "e95a205a429643de92d5765655d8b989",
+            "name": "Xã Hùng Dũng"
+        },
+        {
+            "uid": "92ea124850e24d509b7c7e0d14d5b9ea",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "2870ab0347b54f5582f7b1af4dc51046",
+            "name": "Thị trấn Hưng Nhân"
+        },
+        {
+            "uid": "53009a57bcfd479d84cebeb174bc358e",
+            "name": "Xã Đoan Hùng"
+        },
+        {
+            "uid": "2df92cb901e44802bea3dfbceab45686",
+            "name": "Xã Duyên Hải"
+        },
+        {
+            "uid": "a333248a9f244606898fba5baa60925b",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "b9672bb21e7144ba8f34a0d6a91c88eb",
+            "name": "Xã Văn Cẩm"
+        },
+        {
+            "uid": "5115d0fca2a9497f9610339234ecb8e1",
+            "name": "Xã Bắc Sơn"
+        },
+        {
+            "uid": "0988b32ce8c5403e966d3a9d6d0e055f",
+            "name": "Xã Đông Đô"
+        },
+        {
+            "uid": "74bef25f4ef34d1aa7ef555ae687be83",
+            "name": "Xã Phúc Khánh"
+        },
+        {
+            "uid": "c5eb581615ff4761a118ad11e42103be",
+            "name": "Xã Liên Hiệp"
+        },
+        {
+            "uid": "6a683b9a5d4e490fb8ffa94ea3799a84",
+            "name": "Xã Tây Đô"
+        },
+        {
+            "uid": "184bb1a86cd2465ca0b367c5ddf9aa28",
+            "name": "Xã Thống Nhất"
+        },
+        {
+            "uid": "731c1fca9e7a49e6b6f0a3b60518238a",
+            "name": "Xã Tiến Đức"
+        },
+        {
+            "uid": "3e3cf50f87494aca9d63d00974dc589d",
+            "name": "Xã Thái Hưng"
+        },
+        {
+            "uid": "8378b730e19d40a789e71a7e733285ea",
+            "name": "Xã Thái Phương"
+        },
+        {
+            "uid": "0601166c5592446585f9e7d9f95b8d5c",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "fe5296efda4b48159d76e228dd5f44f2",
+            "name": "Xã Chi Lăng"
+        },
+        {
+            "uid": "c0c9fda96a174abe80b303c864250a1f",
+            "name": "Xã Minh Khai"
+        },
+        {
+            "uid": "824b2754d83e4137b1075fd6b782110a",
+            "name": "Xã Hồng An"
+        },
+        {
+            "uid": "c2d68c1d4df444deb0c1b6ac31098569",
+            "name": "Xã Kim Chung"
+        },
+        {
+            "uid": "2216ae02aa6c49519245f8171e14b174",
+            "name": "Xã Hồng Lĩnh"
+        },
+        {
+            "uid": "0ce17bc852d74ab48418c7edf4e6554c",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "356486dee0914033811b0d8496f48daa",
+            "name": "Xã Văn Lang"
+        },
+        {
+            "uid": "be9e9eb927f84e7ea3909ad1f83fa9c2",
+            "name": "Xã Độc Lập"
+        },
+        {
+            "uid": "3239759bb95643d9aecb0e00e21232ed",
+            "name": "Xã Chí Hòa"
+        },
+        {
+            "uid": "7b935f9f4bd04c6b9877fb61a94a0166",
+            "name": "Xã Minh Hòa"
+        },
+        {
+            "uid": "a865705a47484c6fbef4a08bcc48476c",
+            "name": "Xã Hồng Minh"
+        }
+    ]
+}

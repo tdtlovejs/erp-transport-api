@@ -1,0 +1,42 @@
+{
+    "uid": "7cd09e5d7c6344919ea5a559546a2892",
+    "name": "Thành phố Sa Đéc",
+    "wards": [
+        {
+            "uid": "519ca3809b6d4a72ac81643dc8d9977d",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "10dadc39843e405eb6aa0927338a832a",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "c7eb47267a8e42799a8df2a2232b40fc",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "0950d5549d1540138404240d2ecbe476",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "3ad8d54128604ec885c1343ea1f8b355",
+            "name": "Xã Tân Khánh Đông"
+        },
+        {
+            "uid": "3c4bf05c7dfb47a59ed45a87f7739def",
+            "name": "Phường Tân Quy Đông"
+        },
+        {
+            "uid": "7fe45117685445d4bd3e7852c9ca4723",
+            "name": "Phường An Hoà"
+        },
+        {
+            "uid": "d3662e7baa3e410da7a6d55348d6e75b",
+            "name": "Xã Tân Quy Tây"
+        },
+        {
+            "uid": "df6f4ed397b44de181985d91d7f89f2e",
+            "name": "Xã Tân Phú Đông"
+        }
+    ]
+}

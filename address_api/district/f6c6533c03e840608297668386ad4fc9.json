@@ -1,0 +1,54 @@
+{
+    "uid": "f6c6533c03e840608297668386ad4fc9",
+    "name": "Thị xã Tân Uyên",
+    "wards": [
+        {
+            "uid": "0cab2fa1eef549f781fe4d1decd885f4",
+            "name": "Phường Uyên Hưng"
+        },
+        {
+            "uid": "05f1bae868114104b3f8eed9a154143f",
+            "name": "Phường Tân Phước Khánh"
+        },
+        {
+            "uid": "e9619f16e54e4d78a629a945c58082b6",
+            "name": "Phường Vĩnh Tân"
+        },
+        {
+            "uid": "a7b732e103a647d7bc65be76cdb9382d",
+            "name": "Phường Hội Nghĩa"
+        },
+        {
+            "uid": "dc78746e6c3a46fe9570bee9cd31b60d",
+            "name": "Phường Tân Hiệp"
+        },
+        {
+            "uid": "8274be7cda08457dbb656ae869718013",
+            "name": "Phường Khánh Bình"
+        },
+        {
+            "uid": "6925a170b19640b2af2fe64d7d6f7220",
+            "name": "Phường Phú Chánh"
+        },
+        {
+            "uid": "dba845d4a0d34bb5b61fa49147bd3829",
+            "name": "Xã Bạch Đằng"
+        },
+        {
+            "uid": "892e54221f1843c89996a5cad488d0dc",
+            "name": "Phường Tân Vĩnh Hiệp"
+        },
+        {
+            "uid": "03d8c4850b05475c8fba57d795b6d151",
+            "name": "Phường Thạnh Phước"
+        },
+        {
+            "uid": "51f7b4eaa2c241a495dce8bc0010d4d5",
+            "name": "Xã Thạnh Hội"
+        },
+        {
+            "uid": "0df95f35957b4861884db10cd1631123",
+            "name": "Phường Thái Hòa"
+        }
+    ]
+}

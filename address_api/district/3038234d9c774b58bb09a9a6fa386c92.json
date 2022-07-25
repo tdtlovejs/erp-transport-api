@@ -1,0 +1,38 @@
+{
+    "uid": "3038234d9c774b58bb09a9a6fa386c92",
+    "name": "Thị xã Bến Cát",
+    "wards": [
+        {
+            "uid": "5c4b1556ad84428c8580a8e8b47e9b13",
+            "name": "Phường Mỹ Phước"
+        },
+        {
+            "uid": "2e84fd730b5f4d9f93c07136c72aad19",
+            "name": "Phường Chánh Phú Hòa"
+        },
+        {
+            "uid": "e4dbf86bd5404a5da1e8d3876192829f",
+            "name": "Xã An Điền"
+        },
+        {
+            "uid": "58bea0843d844fd7904b24ddbbf40221",
+            "name": "Xã An Tây"
+        },
+        {
+            "uid": "bfc3660d44ad4a44a4532f9d7dd6163b",
+            "name": "Phường Thới Hòa"
+        },
+        {
+            "uid": "762dd959171e4d6bb197186367306f86",
+            "name": "Phường Hòa Lợi"
+        },
+        {
+            "uid": "a5b185a17de949c0bfbd45382bed2321",
+            "name": "Phường Tân Định"
+        },
+        {
+            "uid": "2763e078763a40e7b4d08882728b9c4f",
+            "name": "Xã Phú An"
+        }
+    ]
+}

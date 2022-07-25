@@ -1,0 +1,90 @@
+{
+    "uid": "9367cf7eb28749e3ad456ea76afdfcab",
+    "name": "Huyện Kỳ Sơn",
+    "wards": [
+        {
+            "uid": "0d9477021e51433faefdd917d9eb6c6f",
+            "name": "Thị trấn Mường Xén"
+        },
+        {
+            "uid": "40c32adcbcee4593a10a28b19c01c425",
+            "name": "Xã Mỹ Lý"
+        },
+        {
+            "uid": "75885228419c471f864b175061abcdbf",
+            "name": "Xã Bắc Lý"
+        },
+        {
+            "uid": "137f7c7488b94f72a222d63681d3fb31",
+            "name": "Xã Keng Đu"
+        },
+        {
+            "uid": "ec1d2f4f403848c59b5458f1d8037e31",
+            "name": "Xã Đoọc Mạy"
+        },
+        {
+            "uid": "400053bcd25943289cc60590934f3e98",
+            "name": "Xã Huồi Tụ"
+        },
+        {
+            "uid": "0eb20bec039441ada3e522209c92face",
+            "name": "Xã Mường Lống"
+        },
+        {
+            "uid": "7e0995793dba4239b622cd1293b31f3d",
+            "name": "Xã Na Loi"
+        },
+        {
+            "uid": "3e1d554f886045bba328855a2113eda3",
+            "name": "Xã Nậm Cắn"
+        },
+        {
+            "uid": "e0befb00c0a745d59c11d352ddc69187",
+            "name": "Xã Bảo Nam"
+        },
+        {
+            "uid": "d45e6f1f35cb4e00b51884b760e58bda",
+            "name": "Xã Phà Đánh"
+        },
+        {
+            "uid": "f69a07b7fc5f4cebafe4b0e4da2d37eb",
+            "name": "Xã Bảo Thắng"
+        },
+        {
+            "uid": "613f6b1dc3f84bb3bc28248bf5119ab4",
+            "name": "Xã Hữu Lập"
+        },
+        {
+            "uid": "76f06183631140c89d775148ad170c84",
+            "name": "Xã Tà Cạ"
+        },
+        {
+            "uid": "cb0d59ffa74b44c9be8b9fc805989b27",
+            "name": "Xã Chiêu Lưu"
+        },
+        {
+            "uid": "cfa0ea02c7784f41a0fbdea215d74991",
+            "name": "Xã Mường Típ"
+        },
+        {
+            "uid": "6f3ea29c172b4952899f5f96d3695e55",
+            "name": "Xã Hữu Kiệm"
+        },
+        {
+            "uid": "f9f0433dea684cdb8ba0356f64159134",
+            "name": "Xã Tây Sơn"
+        },
+        {
+            "uid": "6e66708b691a4ecab18c1615be144f17",
+            "name": "Xã Mường Ải"
+        },
+        {
+            "uid": "43a25bb4d61b4a7c851ddae60eaa23eb",
+            "name": "Xã Na Ngoi"
+        },
+        {
+            "uid": "74ea45fdbc154c408904a56173b94846",
+            "name": "Xã Nậm Càn"
+        }
+    ]
+}

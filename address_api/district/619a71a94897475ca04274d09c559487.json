@@ -1,0 +1,74 @@
+{
+    "uid": "619a71a94897475ca04274d09c559487",
+    "name": "Huyện Quảng Trạch",
+    "wards": [
+        {
+            "uid": "a222835da77e4733a01ae8ccea3ced4d",
+            "name": "Xã Quảng Hợp"
+        },
+        {
+            "uid": "a7abef95a706426882104fc943b4b761",
+            "name": "Xã Quảng Kim"
+        },
+        {
+            "uid": "1658fe1840a64308977a994ba062918b",
+            "name": "Xã Quảng Đông"
+        },
+        {
+            "uid": "1cf167cf8dd549208d23d5a949f242ac",
+            "name": "Xã Quảng Phú"
+        },
+        {
+            "uid": "8c01251a15844450a590b906ac568f89",
+            "name": "Xã Quảng Châu"
+        },
+        {
+            "uid": "592e4ff4732a4e39bb978db4180389a7",
+            "name": "Xã Quảng Thạch"
+        },
+        {
+            "uid": "14a0c22b42d546aea0fe55c9d96641c9",
+            "name": "Xã Quảng Lưu"
+        },
+        {
+            "uid": "81be6684d7354b81ac30c86318aa6da3",
+            "name": "Xã Quảng Tùng"
+        },
+        {
+            "uid": "bd4f4837c0d94de493a7b00faaa7b1c3",
+            "name": "Xã Cảnh Dương"
+        },
+        {
+            "uid": "16a7286bba3147a18bd7fc6331729b58",
+            "name": "Xã Quảng Tiến"
+        },
+        {
+            "uid": "24054e382d734e8f947565133c2ef222",
+            "name": "Xã Quảng Hưng"
+        },
+        {
+            "uid": "83260801593840bb86fa84d97ff521d2",
+            "name": "Xã Quảng Xuân"
+        },
+        {
+            "uid": "b0b700e266244170a3447e25e0630b2d",
+            "name": "Xã Cảnh Hóa"
+        },
+        {
+            "uid": "7943ab3f3cc941c4a61b8a257edd5cc7",
+            "name": "Xã Liên Trường"
+        },
+        {
+            "uid": "aa7dc053d1414a3f9cbc33bf8e613e7d",
+            "name": "Xã Quảng Phương"
+        },
+        {
+            "uid": "9a3fbe4c3d15481a831b10ceab609ee2",
+            "name": "Xã Phù Hóa"
+        },
+        {
+            "uid": "6cedfb1c08a244e88703b31cbde8d3d3",
+            "name": "Xã Quảng Thanh"
+        }
+    ]
+}

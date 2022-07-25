@@ -1,0 +1,90 @@
+{
+    "uid": "0f69272f63ea4362b86b303ac83d5cb5",
+    "name": "Huyện Bá Thước",
+    "wards": [
+        {
+            "uid": "6bdbca2bbc58481bad09504bd3355baf",
+            "name": "Thị trấn Cành Nàng"
+        },
+        {
+            "uid": "a640f3d6f7e84ea5bf8e5c249c6968fe",
+            "name": "Xã Điền Thượng"
+        },
+        {
+            "uid": "854d6438c033494d9c8cca89b0b2b0aa",
+            "name": "Xã Điền Hạ"
+        },
+        {
+            "uid": "870493bfef44494ca74d6934cc40aa0e",
+            "name": "Xã Điền Quang"
+        },
+        {
+            "uid": "6c79e7b2723b4a22a1ede0942bde34ff",
+            "name": "Xã Điền Trung"
+        },
+        {
+            "uid": "fbf6b31aaff14a67b5c0e219714653e8",
+            "name": "Xã Thành Sơn"
+        },
+        {
+            "uid": "1cc9b3f754fa4a13a7561f7d8e920081",
+            "name": "Xã Lương Ngoại"
+        },
+        {
+            "uid": "a35ecbd3f8654c318be5b32041206fc8",
+            "name": "Xã Ái Thượng"
+        },
+        {
+            "uid": "c703aece45804b628eebdba5e29a5eca",
+            "name": "Xã Lương Nội"
+        },
+        {
+            "uid": "6c321128ef8f4c70974d22b1d1ce2ca8",
+            "name": "Xã Điền Lư"
+        },
+        {
+            "uid": "11988684175c43d6aabffff016f8f1f9",
+            "name": "Xã Lương Trung"
+        },
+        {
+            "uid": "17f6d78d8ead48c8a182914c5f489af5",
+            "name": "Xã Lũng Niêm"
+        },
+        {
+            "uid": "2b1be721e2ca4e3a96cf6bf669ffcda0",
+            "name": "Xã Lũng Cao"
+        },
+        {
+            "uid": "51c1cc079ebd43b8b1928f424da3d437",
+            "name": "Xã Hạ Trung"
+        },
+        {
+            "uid": "ce74fe7c59e045d3a4c1ee16445eddc7",
+            "name": "Xã Cổ Lũng"
+        },
+        {
+            "uid": "827ae6218d144973b3e18fc10c3e05e4",
+            "name": "Xã Thành Lâm"
+        },
+        {
+            "uid": "2bdc43f150d1457fb5fc0ac89b067181",
+            "name": "Xã Ban Công"
+        },
+        {
+            "uid": "9d07250270e441b09918399b08b45dda",
+            "name": "Xã Kỳ Tân"
+        },
+        {
+            "uid": "694466536c1141e0b827948077adb3f2",
+            "name": "Xã Văn Nho"
+        },
+        {
+            "uid": "b2e1dfd115cd4d9e8fc579cb44644ace",
+            "name": "Xã Thiết Ống"
+        },
+        {
+            "uid": "be032a78fc084220997ba61b12913b24",
+            "name": "Xã Thiết Kế"
+        }
+    ]
+}

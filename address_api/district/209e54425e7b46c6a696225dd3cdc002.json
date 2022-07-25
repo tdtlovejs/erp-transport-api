@@ -1,0 +1,38 @@
+{
+    "uid": "209e54425e7b46c6a696225dd3cdc002",
+    "name": "Quận Tây Hồ",
+    "wards": [
+        {
+            "uid": "2ce6c837381d45b5b154d902dca742c0",
+            "name": "Phường Phú Thượng"
+        },
+        {
+            "uid": "c381922e0afe4606971c85c4156a2a5a",
+            "name": "Phường Nhật Tân"
+        },
+        {
+            "uid": "d04e4705f6814f6aa704fe91ed33cfaa",
+            "name": "Phường Tứ Liên"
+        },
+        {
+            "uid": "7c7812a463d84e15b3d1a9e56e8eb358",
+            "name": "Phường Quảng An"
+        },
+        {
+            "uid": "ed824068a1d240fdb1def785a33a2403",
+            "name": "Phường Xuân La"
+        },
+        {
+            "uid": "d077af2f777c48a18adf8f7638e224cc",
+            "name": "Phường Yên Phụ"
+        },
+        {
+            "uid": "641239ac9d4e4df386083796fcad1fcc",
+            "name": "Phường Bưởi"
+        },
+        {
+            "uid": "05f3a7efaf81408f921e7b0a24c837f3",
+            "name": "Phường Thụy Khuê"
+        }
+    ]
+}

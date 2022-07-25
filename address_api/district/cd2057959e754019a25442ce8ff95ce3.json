@@ -1,0 +1,74 @@
+{
+    "uid": "cd2057959e754019a25442ce8ff95ce3",
+    "name": "Huyện Yên Mỹ",
+    "wards": [
+        {
+            "uid": "3d1d4e6cc69341da8bf23af7ad16e2ce",
+            "name": "Thị trấn Yên Mỹ"
+        },
+        {
+            "uid": "e22c1a6b7494446a81e9b4e024a94113",
+            "name": "Xã Giai Phạm"
+        },
+        {
+            "uid": "92909516751f49499556d9cf64ba4596",
+            "name": "Xã Nghĩa Hiệp"
+        },
+        {
+            "uid": "526650125f234d878a9d963db2b8154b",
+            "name": "Xã Đồng Than"
+        },
+        {
+            "uid": "2cb95800dccd4eab9c7b5190d7563e96",
+            "name": "Xã Ngọc Long"
+        },
+        {
+            "uid": "3b9347c72a9c4a0a8997e9cef1e1b189",
+            "name": "Xã Liêu Xá"
+        },
+        {
+            "uid": "7eca0610bc2841b39697a1bab7d0fb7b",
+            "name": "Xã Hoàn Long"
+        },
+        {
+            "uid": "08814716d7fb463e9bf40c1b44c4e79d",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "04a429cb7d774ac78b6b94a69a44980d",
+            "name": "Xã Thanh Long"
+        },
+        {
+            "uid": "76d62eb738fd4261a0766bd891637af2",
+            "name": "Xã Yên Phú"
+        },
+        {
+            "uid": "a34bd99d4bd24aa48e55e6e2615f6427",
+            "name": "Xã Việt Cường"
+        },
+        {
+            "uid": "326fd383ea3f466ea2f3376f99e3a472",
+            "name": "Xã Trung Hòa"
+        },
+        {
+            "uid": "75149260c37d4b36913df2f002014367",
+            "name": "Xã Yên Hòa"
+        },
+        {
+            "uid": "081bdde617764220b7097c0b6d4f2c67",
+            "name": "Xã Minh Châu"
+        },
+        {
+            "uid": "6532d2a4803747fcb57f02bce1238a27",
+            "name": "Xã Trung Hưng"
+        },
+        {
+            "uid": "e9bdf1487ba34c6ab5c48b7fae755007",
+            "name": "Xã Lý Thường Kiệt"
+        },
+        {
+            "uid": "327110b05b9d4e5db3bfa5c32d6c06fd",
+            "name": "Xã Tân Việt"
+        }
+    ]
+}

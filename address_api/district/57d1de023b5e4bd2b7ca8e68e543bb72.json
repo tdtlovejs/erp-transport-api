@@ -1,0 +1,74 @@
+{
+    "uid": "57d1de023b5e4bd2b7ca8e68e543bb72",
+    "name": "Thành phố Vũng Tàu",
+    "wards": [
+        {
+            "uid": "4f2e947add35434998e0dd31d2aa567a",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "d8dbad97da324698be9dd8d1b92df1da",
+            "name": "Phường Thắng Tam"
+        },
+        {
+            "uid": "c3f682ac516648599084417c4a5339af",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "65ec469e145e425db6e3adc8179dbadb",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "336b18f888044373bc59302d7b3dc31c",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "278686bdbfda4fd68482fe8359a5118a",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "7d010e6f4438411b9226c621a092a6e7",
+            "name": "Phường Thắng Nhì"
+        },
+        {
+            "uid": "24abad3be5c6442aa8e066f9e03742b5",
+            "name": "Phường 7"
+        },
+        {
+            "uid": "c70f72b44c884b7a9fb4a738665027b6",
+            "name": "Phường Nguyễn An Ninh"
+        },
+        {
+            "uid": "4b0da6a0e0a6452cabd4fd5db3e23b62",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "7242f4a59c434fdeabebf197edd54979",
+            "name": "Phường 9"
+        },
+        {
+            "uid": "2ad0ea8ecfaa40d2b487dd1a056031fa",
+            "name": "Phường Thắng Nhất"
+        },
+        {
+            "uid": "442239f34c6643a0923df7acf945ca91",
+            "name": "Phường Rạch Dừa"
+        },
+        {
+            "uid": "de6dd829d8d44747bc722dbc3b2b3a07",
+            "name": "Phường 10"
+        },
+        {
+            "uid": "11cc4f33beee4e128d95d3da803e16fd",
+            "name": "Phường 11"
+        },
+        {
+            "uid": "45e4ef77fd594c37b841f743af0e9da6",
+            "name": "Phường 12"
+        },
+        {
+            "uid": "6521a45d32ff4046a6d755e271fcbb80",
+            "name": "Xã Long Sơn"
+        }
+    ]
+}

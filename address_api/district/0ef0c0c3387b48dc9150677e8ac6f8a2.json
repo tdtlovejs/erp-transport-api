@@ -1,0 +1,58 @@
+{
+    "uid": "0ef0c0c3387b48dc9150677e8ac6f8a2",
+    "name": "Huyện Hạ Lang",
+    "wards": [
+        {
+            "uid": "a9ce0dd912144f44ad69c00280a495db",
+            "name": "Xã Minh Long"
+        },
+        {
+            "uid": "b47aafca023d4404b29b0d8212892945",
+            "name": "Xã Lý Quốc"
+        },
+        {
+            "uid": "6a9c295b31354942a74898a3dde5518a",
+            "name": "Xã Thắng Lợi"
+        },
+        {
+            "uid": "dadaf8be0e7e4655a7584050f4823c2d",
+            "name": "Xã Đồng Loan"
+        },
+        {
+            "uid": "a7a1fc33124341bf9894411f7892a2f4",
+            "name": "Xã Đức Quang"
+        },
+        {
+            "uid": "890e115157a846c9ab3fd575fabfa235",
+            "name": "Xã Kim Loan"
+        },
+        {
+            "uid": "356a1ff46fb04d3292e3b0af34b3cb6f",
+            "name": "Xã Quang Long"
+        },
+        {
+            "uid": "d5c874e508504b7ea62003e0a2d53ad1",
+            "name": "Xã An Lạc"
+        },
+        {
+            "uid": "49a841f79c9647e28ae04b4cecdd265e",
+            "name": "Thị trấn Thanh Nhật"
+        },
+        {
+            "uid": "1013cdfe35e64c5daf3a7a7a85708dd2",
+            "name": "Xã Vinh Quý"
+        },
+        {
+            "uid": "52aa975e439045e780a27151a77525c3",
+            "name": "Xã Thống Nhất"
+        },
+        {
+            "uid": "a8245385213e4ce4b9cf3b1b5ed16561",
+            "name": "Xã Cô Ngân"
+        },
+        {
+            "uid": "a25241429cc74d97839967d31ff8e9d2",
+            "name": "Xã Thị Hoa"
+        }
+    ]
+}

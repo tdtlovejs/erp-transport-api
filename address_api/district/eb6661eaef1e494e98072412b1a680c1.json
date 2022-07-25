@@ -1,0 +1,78 @@
+{
+    "uid": "eb6661eaef1e494e98072412b1a680c1",
+    "name": "Huyện Kim Thành",
+    "wards": [
+        {
+            "uid": "66f270a03c9a4adc981cd7813192d8e7",
+            "name": "Thị trấn Phú Thái"
+        },
+        {
+            "uid": "875c1cc5e3364782a18a5907f07cc192",
+            "name": "Xã Lai Vu"
+        },
+        {
+            "uid": "9df721db07f24d569713769a90050430",
+            "name": "Xã Cộng Hòa"
+        },
+        {
+            "uid": "50ff20df3a074123a9e0dc8d911d3949",
+            "name": "Xã Thượng Vũ"
+        },
+        {
+            "uid": "4f4d8e1deecc49399b1a434bd4b14fe3",
+            "name": "Xã Cổ Dũng"
+        },
+        {
+            "uid": "a54670e6f9c341bbae25aadd8435021a",
+            "name": "Xã Tuấn Việt"
+        },
+        {
+            "uid": "f21537e778e34d9dbd55fb5d95d64f93",
+            "name": "Xã Kim Xuyên"
+        },
+        {
+            "uid": "12cd8d31039542418742ab4146663613",
+            "name": "Xã Phúc Thành A"
+        },
+        {
+            "uid": "1fc753d0044e45df93f112953be89517",
+            "name": "Xã Ngũ Phúc"
+        },
+        {
+            "uid": "07fa1d7f949c4ab9aa1df8389e263945",
+            "name": "Xã Kim Anh"
+        },
+        {
+            "uid": "724dcd705def448eafe953d34b8ddaba",
+            "name": "Xã Kim Liên"
+        },
+        {
+            "uid": "0c42652e3ca648019e34457d5f74f2ca",
+            "name": "Xã Kim Tân"
+        },
+        {
+            "uid": "a075d523554c4c0aba5a600e6a7fc922",
+            "name": "Xã Kim Đính"
+        },
+        {
+            "uid": "3b0a7e5fbc0747f1b16e4f6661c013fe",
+            "name": "Xã Bình Dân"
+        },
+        {
+            "uid": "d32380ae631341efbdbe572f1c31ac7d",
+            "name": "Xã Tam Kỳ"
+        },
+        {
+            "uid": "1d731a000f324a698e7d1485f4384084",
+            "name": "Xã Đồng Cẩm"
+        },
+        {
+            "uid": "dca323c622e4468abfeb6de9b4f262f5",
+            "name": "Xã Liên Hòa"
+        },
+        {
+            "uid": "9fc9062374d043b19c29942085efcbf8",
+            "name": "Xã Đại Đức"
+        }
+    ]
+}

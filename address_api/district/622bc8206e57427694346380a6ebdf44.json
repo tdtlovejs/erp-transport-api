@@ -1,0 +1,102 @@
+{
+    "uid": "622bc8206e57427694346380a6ebdf44",
+    "name": "Huyện Hữu Lũng",
+    "wards": [
+        {
+            "uid": "216124c5f08047e5b9fa55111c03e27f",
+            "name": "Thị trấn Hữu Lũng"
+        },
+        {
+            "uid": "da6ae8fe370e490b82af7f75e32e0d11",
+            "name": "Xã Hữu Liên"
+        },
+        {
+            "uid": "f68e2fd41da346d0971254190813ddb7",
+            "name": "Xã Yên Bình"
+        },
+        {
+            "uid": "c95d2b8fa3154cdba53da78ea7bef485",
+            "name": "Xã Quyết Thắng"
+        },
+        {
+            "uid": "a93b71e8a91149f5be35d316af9ffae6",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "afc986cd88224a5d8240661f8927e11c",
+            "name": "Xã Yên Thịnh"
+        },
+        {
+            "uid": "21a4173c182e44dc88347faaffd42e56",
+            "name": "Xã Yên Sơn"
+        },
+        {
+            "uid": "aaf4e0c5237246a0895edbd25d11e591",
+            "name": "Xã Thiện Tân"
+        },
+        {
+            "uid": "cc5f99bbcfd34c24b4f52701c7d13622",
+            "name": "Xã Yên Vượng"
+        },
+        {
+            "uid": "3627a94abf2d4d7a9561f6f46e43e046",
+            "name": "Xã Minh Tiến"
+        },
+        {
+            "uid": "91685290e3a340ea8927cf0e1f6a986d",
+            "name": "Xã Nhật Tiến"
+        },
+        {
+            "uid": "78c0e7440aba4b978128a76ae3506e70",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "85a54d1297234ff0abfff8218592d445",
+            "name": "Xã Đồng Tân"
+        },
+        {
+            "uid": "b49103961cdf4b5788440a295e14823b",
+            "name": "Xã Cai Kinh"
+        },
+        {
+            "uid": "9af391f3a13949819d2c114a249a5a75",
+            "name": "Xã Hòa Lạc"
+        },
+        {
+            "uid": "53124fc381a24b2bb5488e3a98041f29",
+            "name": "Xã Vân Nham"
+        },
+        {
+            "uid": "61958a5e600c49cbbbced3d39ae340ca",
+            "name": "Xã Đồng Tiến"
+        },
+        {
+            "uid": "a654ccaadb51460cba4c6a2d1a9320ac",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "9970685ea9554cdc8f407d97fe517d46",
+            "name": "Xã Hòa Sơn"
+        },
+        {
+            "uid": "998a0bae6d18466386408812bd54d7a2",
+            "name": "Xã Minh Sơn"
+        },
+        {
+            "uid": "647b894e69254708868add014a08ee23",
+            "name": "Xã Hồ Sơn"
+        },
+        {
+            "uid": "4e7019a7f83341b09cb1f9304736d241",
+            "name": "Xã Sơn Hà"
+        },
+        {
+            "uid": "8bc6c748ebf147d5b4f5eed1482babdb",
+            "name": "Xã Minh Hòa"
+        },
+        {
+            "uid": "088ef99a54fb4b4da14e9599f6b640d9",
+            "name": "Xã Hòa Thắng"
+        }
+    ]
+}

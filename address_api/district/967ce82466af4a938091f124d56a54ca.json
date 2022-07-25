@@ -1,0 +1,74 @@
+{
+    "uid": "967ce82466af4a938091f124d56a54ca",
+    "name": "Huyện Văn Lãng",
+    "wards": [
+        {
+            "uid": "14768d8cef074674b678e44d1011dd63",
+            "name": "Thị trấn Na Sầm"
+        },
+        {
+            "uid": "001c2afc482d49d2a5806631378aabac",
+            "name": "Xã Trùng Khánh"
+        },
+        {
+            "uid": "25e0027fa4414518ae9a956fbbdb5935",
+            "name": "Xã Bắc La"
+        },
+        {
+            "uid": "2ba26ae6879447c9b57530fa81350279",
+            "name": "Xã Thụy Hùng"
+        },
+        {
+            "uid": "d642bb21de7042ec9f4b7eff9059ba89",
+            "name": "Xã Bắc Hùng"
+        },
+        {
+            "uid": "947f3039111c43a784486fd63ee97f0c",
+            "name": "Xã Tân Tác"
+        },
+        {
+            "uid": "9895cb190f86416bbeca09797f5bc636",
+            "name": "Xã Thanh Long"
+        },
+        {
+            "uid": "3134196f16f445d38d1c87c8eb30edcb",
+            "name": "Xã Hội Hoan"
+        },
+        {
+            "uid": "7023fdc5be1e49d1a4ac348f95dca735",
+            "name": "Xã Bắc Việt"
+        },
+        {
+            "uid": "514de7e3e674425ab101f6612717a747",
+            "name": "Xã Hoàng Việt"
+        },
+        {
+            "uid": "a52befd53637438680230f759efb657a",
+            "name": "Xã Gia Miễn"
+        },
+        {
+            "uid": "c542cbacffbb4977b988d78e686751b8",
+            "name": "Xã Thành Hòa"
+        },
+        {
+            "uid": "f7f6484d0bba41e68125f083fef6f011",
+            "name": "Xã Tân Thanh"
+        },
+        {
+            "uid": "96657093b941412380437f84894e6c1b",
+            "name": "Xã Tân Mỹ"
+        },
+        {
+            "uid": "6cb0062d16f1422a80ef86dc9a509156",
+            "name": "Xã Hồng Thái"
+        },
+        {
+            "uid": "a1feda2c0f7741a29988c31f80ce1a56",
+            "name": "Xã Hoàng Văn Thụ"
+        },
+        {
+            "uid": "d75f1f41f20b46028a522d7467ef69d0",
+            "name": "Xã Nhạc Kỳ"
+        }
+    ]
+}

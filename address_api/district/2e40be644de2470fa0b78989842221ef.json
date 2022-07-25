@@ -1,0 +1,46 @@
+{
+    "uid": "2e40be644de2470fa0b78989842221ef",
+    "name": "Thành phố Thuận An",
+    "wards": [
+        {
+            "uid": "3f703a0ad8e24f2e836da074f359af99",
+            "name": "Phường An Thạnh"
+        },
+        {
+            "uid": "042cfa2633524883b4845552da6072fd",
+            "name": "Phường Lái Thiêu"
+        },
+        {
+            "uid": "8f80444a116c4b8d8a6e571fcc768d01",
+            "name": "Phường Bình Chuẩn"
+        },
+        {
+            "uid": "b429fc7f54cc437a819b5fd8bfc1879d",
+            "name": "Phường Thuận Giao"
+        },
+        {
+            "uid": "3a27b1adc783497b91e813f967e71ee6",
+            "name": "Phường An Phú"
+        },
+        {
+            "uid": "8158e672d5384fde900065c771cd0931",
+            "name": "Phường Hưng Định"
+        },
+        {
+            "uid": "e6080c3423b541208ff13fc8b7773b49",
+            "name": "Xã An Sơn"
+        },
+        {
+            "uid": "269df23d7296484b998e75d229b3d14e",
+            "name": "Phường Bình Nhâm"
+        },
+        {
+            "uid": "e3eb8ae37ed746898865bfb6c78503be",
+            "name": "Phường Bình Hòa"
+        },
+        {
+            "uid": "560845599970432fbb98efe5cdbb8093",
+            "name": "Phường Vĩnh Phú"
+        }
+    ]
+}

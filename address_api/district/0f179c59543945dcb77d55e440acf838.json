@@ -1,0 +1,82 @@
+{
+    "uid": "0f179c59543945dcb77d55e440acf838",
+    "name": "Huyện Nam Sách",
+    "wards": [
+        {
+            "uid": "166c63b0eac145959e8010c45686254a",
+            "name": "Thị trấn Nam Sách"
+        },
+        {
+            "uid": "26e80b93b2164bb892b52d9551f8a0ca",
+            "name": "Xã Nam Hưng"
+        },
+        {
+            "uid": "64b7e59df6974594af7ee4d5c28d2d11",
+            "name": "Xã Nam Tân"
+        },
+        {
+            "uid": "f34bbc4dc1104bd6bd91209cb5959312",
+            "name": "Xã Hợp Tiến"
+        },
+        {
+            "uid": "31aee656d69d47e883eca36abd78e49e",
+            "name": "Xã Hiệp Cát"
+        },
+        {
+            "uid": "22db678dee114af6ba707c294be06a95",
+            "name": "Xã Thanh Quang"
+        },
+        {
+            "uid": "e36686238c4d4915a9c9b48cd9829edd",
+            "name": "Xã Quốc Tuấn"
+        },
+        {
+            "uid": "7e92972241e440a7bc9fa296892b0df6",
+            "name": "Xã Nam Chính"
+        },
+        {
+            "uid": "102de3bb9df74ce2b040070ef322379b",
+            "name": "Xã An Bình"
+        },
+        {
+            "uid": "5db6a97759e74b969665d2868e46d01d",
+            "name": "Xã Nam Trung"
+        },
+        {
+            "uid": "b91a65066ed845aca4114a075c84d018",
+            "name": "Xã An Sơn"
+        },
+        {
+            "uid": "def82f76f6994133aa8b3fd154180faa",
+            "name": "Xã Cộng Hòa"
+        },
+        {
+            "uid": "5cc0b8159cb848a0a561142b83a3d9c4",
+            "name": "Xã Thái Tân"
+        },
+        {
+            "uid": "a301981a48a444a892115f2055aefe66",
+            "name": "Xã An Lâm"
+        },
+        {
+            "uid": "85a1ef5e1ef1461d89e2d1d23a6e7dfb",
+            "name": "Xã Phú Điền"
+        },
+        {
+            "uid": "27ba31a5786e467fbf56e166c1824b09",
+            "name": "Xã Nam Hồng"
+        },
+        {
+            "uid": "f3887dad293f435f83df5b038280727f",
+            "name": "Xã Hồng Phong"
+        },
+        {
+            "uid": "3bf3f83cf8f147219e239213383db5ab",
+            "name": "Xã Đồng Lạc"
+        },
+        {
+            "uid": "8c2e39ec18a54893bf8e52fb416b0c48",
+            "name": "Xã Minh Tân"
+        }
+    ]
+}

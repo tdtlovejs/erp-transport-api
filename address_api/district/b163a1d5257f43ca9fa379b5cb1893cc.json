@@ -1,0 +1,46 @@
+{
+    "uid": "b163a1d5257f43ca9fa379b5cb1893cc",
+    "name": "Huyện Hồng Ngự",
+    "wards": [
+        {
+            "uid": "cff8b16f84e14f849654c39c0461a6ce",
+            "name": "Xã Thường Phước 1"
+        },
+        {
+            "uid": "562afa79bae34405889137a6b06eae9a",
+            "name": "Xã Thường Thới Hậu A"
+        },
+        {
+            "uid": "5d8da1cb1a8c45d6b3f1d1158b08811e",
+            "name": "Thị trấn Thường Thới Tiền"
+        },
+        {
+            "uid": "fe7292f0e09348fd998b8d5885976217",
+            "name": "Xã Thường Phước 2"
+        },
+        {
+            "uid": "e9a83131eba946e895343d9437a4fd39",
+            "name": "Xã Thường Lạc"
+        },
+        {
+            "uid": "ec1ae5258b8a4e4e9dcbd82791329ef3",
+            "name": "Xã Long Khánh A"
+        },
+        {
+            "uid": "11ae678fccf24e439a934f37ae873a59",
+            "name": "Xã Long Khánh B"
+        },
+        {
+            "uid": "eafd7a28a07e471ea2c3daa31134a8b5",
+            "name": "Xã Long Thuận"
+        },
+        {
+            "uid": "bd51e3f149be475fa04b5895de885e1f",
+            "name": "Xã Phú Thuận B"
+        },
+        {
+            "uid": "315c67c62ec34448976554c351640dda",
+            "name": "Xã Phú Thuận A"
+        }
+    ]
+}

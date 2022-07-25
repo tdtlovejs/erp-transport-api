@@ -1,0 +1,82 @@
+{
+    "uid": "6c6ba8df4ec54dd79e778e14fe7d2f43",
+    "name": "Huyện Sông Mã",
+    "wards": [
+        {
+            "uid": "994ab8b1551742dd9a016ae9bcbcd643",
+            "name": "Thị trấn Sông Mã"
+        },
+        {
+            "uid": "544f07eb83b94fdca85b781289a731e8",
+            "name": "Xã Bó Sinh"
+        },
+        {
+            "uid": "173e7dbfecff4d36973f1dacc6f2072f",
+            "name": "Xã Pú Pẩu"
+        },
+        {
+            "uid": "7c0b9f619e804dd4bfea8d9778ad6339",
+            "name": "Xã Chiềng Phung"
+        },
+        {
+            "uid": "5b25ba4c242a4b649b8dee35bc7d4e72",
+            "name": "Xã Chiềng En"
+        },
+        {
+            "uid": "e2c05f370f36494981ca60a413494076",
+            "name": "Xã Mường Lầm"
+        },
+        {
+            "uid": "916b2a31646e4a7391a2afafd8995d85",
+            "name": "Xã Nậm Ty"
+        },
+        {
+            "uid": "9b55b52ecc184f7380ef83c44f3b2ff3",
+            "name": "Xã Đứa Mòn"
+        },
+        {
+            "uid": "c029fc6e7c7e45e1acbbc59a755bd17c",
+            "name": "Xã Yên Hưng"
+        },
+        {
+            "uid": "8f5a51422eef4a7eb22bac4f15ee4557",
+            "name": "Xã Chiềng Sơ"
+        },
+        {
+            "uid": "e15db0d8df5e42faaf4367cf3ab57a3a",
+            "name": "Xã Nà Nghịu"
+        },
+        {
+            "uid": "a44adea17c5c4c07a327f609278c787a",
+            "name": "Xã Nậm Mằn"
+        },
+        {
+            "uid": "95000c4cfe74423fbbb66ab21729ce24",
+            "name": "Xã Chiềng Khoong"
+        },
+        {
+            "uid": "3607211e5eaa45269bb3f114966be766",
+            "name": "Xã Chiềng Cang"
+        },
+        {
+            "uid": "811c3f52e95f40359200d9437446d862",
+            "name": "Xã Huổi Một"
+        },
+        {
+            "uid": "7cac41ff2d7c4f1db01923f483f916de",
+            "name": "Xã Mường Sai"
+        },
+        {
+            "uid": "e070738f457c427aabd8117e2bb1b499",
+            "name": "Xã Mường Cai"
+        },
+        {
+            "uid": "d292a27e4c0540f383e5344b079d92cb",
+            "name": "Xã Mường Hung"
+        },
+        {
+            "uid": "2974f4820f7b435d87f64f864d7281cb",
+            "name": "Xã Chiềng Khương"
+        }
+    ]
+}

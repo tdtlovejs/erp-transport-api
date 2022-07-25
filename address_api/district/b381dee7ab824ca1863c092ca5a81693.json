@@ -1,0 +1,70 @@
+{
+    "uid": "b381dee7ab824ca1863c092ca5a81693",
+    "name": "Huyện Bình Giang",
+    "wards": [
+        {
+            "uid": "a38cbb06e6904af994af32f38075f038",
+            "name": "Thị trấn Kẻ Sặt"
+        },
+        {
+            "uid": "60d996a423024384af4547b7deab0023",
+            "name": "Xã Vĩnh Hưng"
+        },
+        {
+            "uid": "fe3bcecad3d449858ff9eca6904ac13c",
+            "name": "Xã Hùng Thắng"
+        },
+        {
+            "uid": "ed12fd7225b54370ac99e3a2bf68c2bc",
+            "name": "Xã Vĩnh Hồng"
+        },
+        {
+            "uid": "03d1e40a061c491fa6ceaff21dceab1a",
+            "name": "Xã Long Xuyên"
+        },
+        {
+            "uid": "41fcd148610343e3b710842f42ce093e",
+            "name": "Xã Tân Việt"
+        },
+        {
+            "uid": "9590b11fc1394cd797640272be842ab5",
+            "name": "Xã Thúc Kháng"
+        },
+        {
+            "uid": "e02f441afb2245f8a61cda0d263f6fba",
+            "name": "Xã Tân Hồng"
+        },
+        {
+            "uid": "1acb587b491648bdbe8506384cde5a55",
+            "name": "Xã Bình Minh"
+        },
+        {
+            "uid": "79061cdd9c2c4c9f808d36bd5f1836fe",
+            "name": "Xã Hồng Khê"
+        },
+        {
+            "uid": "8e7ad8aba48f4140aa66c8bf6f40fcab",
+            "name": "Xã Thái Học"
+        },
+        {
+            "uid": "273bf154c92949fdb2d588d3a3273826",
+            "name": "Xã Cổ Bì"
+        },
+        {
+            "uid": "15150adccac14764b98b2c07a0aa0afe",
+            "name": "Xã Nhân Quyền"
+        },
+        {
+            "uid": "e4c1be70f3204465a870135243b23169",
+            "name": "Xã Thái Dương"
+        },
+        {
+            "uid": "ae013b0f37b34a588011dcf61d873ede",
+            "name": "Xã Thái Hòa"
+        },
+        {
+            "uid": "daf335d2b3fd4c87b487d68b49408d34",
+            "name": "Xã Bình Xuyên"
+        }
+    ]
+}

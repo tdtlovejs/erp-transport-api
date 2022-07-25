@@ -1,0 +1,70 @@
+{
+    "uid": "a6273538182442dc95ffb9f38129c394",
+    "name": "Huyện Mai Châu",
+    "wards": [
+        {
+            "uid": "bd6ba36d0e654c2084fc983d48306c34",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "36607819e4bf4a6da918397464f098d7",
+            "name": "Thị trấn Mai Châu"
+        },
+        {
+            "uid": "bd7d098636734e2aae62e45df5fc5507",
+            "name": "Xã Sơn Thủy"
+        },
+        {
+            "uid": "66163775aec5488a8d2988183666777d",
+            "name": "Xã Pà Cò"
+        },
+        {
+            "uid": "1970f3be68c547a3b6da78a77576f886",
+            "name": "Xã Hang Kia"
+        },
+        {
+            "uid": "d69ff2fdee094ad89e9257c617b12369",
+            "name": "Xã Đồng Tân"
+        },
+        {
+            "uid": "6ef2b1f34bd444c3b4064923e6367270",
+            "name": "Xã Cun Pheo"
+        },
+        {
+            "uid": "a3728f1f50f34b1fa283fd90ca9f652c",
+            "name": "Xã Bao La"
+        },
+        {
+            "uid": "abd70ac9a0b6446a96117fbf98fc9b17",
+            "name": "Xã Tòng Đậu"
+        },
+        {
+            "uid": "7b173f1082f54fb5a91015a4190a04ac",
+            "name": "Xã Nà Phòn"
+        },
+        {
+            "uid": "9401cac5ebd148589a293e26cec9c487",
+            "name": "Xã Săm Khóe"
+        },
+        {
+            "uid": "72079ceb3ef34f66868e327d41261e00",
+            "name": "Xã Chiềng Châu"
+        },
+        {
+            "uid": "b41b45e71cb14cf7929b322ffb0ab472",
+            "name": "Xã Mai Hạ"
+        },
+        {
+            "uid": "cd0b9093226d483faac2f64a70c60e86",
+            "name": "Xã Thành Sơn"
+        },
+        {
+            "uid": "14ff32c4e5374ef88a093686c1c0b2df",
+            "name": "Xã Mai Hịch"
+        },
+        {
+            "uid": "899a085aa3eb436da2c935836eb25649",
+            "name": "Xã Vạn Mai"
+        }
+    ]
+}

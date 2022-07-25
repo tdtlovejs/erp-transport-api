@@ -1,0 +1,58 @@
+{
+    "uid": "03c8959e49804c5fa12a00ed89a85c09",
+    "name": "Huyện Quế Phong",
+    "wards": [
+        {
+            "uid": "3a02678f202c482190b942b8451e83d6",
+            "name": "Thị trấn Kim Sơn"
+        },
+        {
+            "uid": "5cf8b06ca69b4f81981708924eb877df",
+            "name": "Xã Thông Thụ"
+        },
+        {
+            "uid": "48409c52fd5c44df818c58c89bb79c79",
+            "name": "Xã Đồng Văn"
+        },
+        {
+            "uid": "f51edd22f76c4ae59b2074b02987842c",
+            "name": "Xã Hạnh Dịch"
+        },
+        {
+            "uid": "c49472b9137b4b298ac63f37574d90fc",
+            "name": "Xã Tiền Phong"
+        },
+        {
+            "uid": "7eea11c929754cdf88612db93435617a",
+            "name": "Xã Nậm Giải"
+        },
+        {
+            "uid": "4e2e67a852624cc1b401c9220acc7177",
+            "name": "Xã Tri Lễ"
+        },
+        {
+            "uid": "5eaafb82708849ab9367c678867986e5",
+            "name": "Xã Châu Kim"
+        },
+        {
+            "uid": "6603a0de6aaf45648f38caed9621d67a",
+            "name": "Xã Mường Nọc"
+        },
+        {
+            "uid": "1a54d56b25594232a6fe2734708e54e4",
+            "name": "Xã Châu Thôn"
+        },
+        {
+            "uid": "15d801028f924b33888945fc1c6d4b33",
+            "name": "Xã Nậm Nhoóng"
+        },
+        {
+            "uid": "914f9a0ae9064945bf74c83d6a934e01",
+            "name": "Xã Quang Phong"
+        },
+        {
+            "uid": "4efd47656368431789767e1c5572c4fe",
+            "name": "Xã Căm Muộn"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "uid": "0cb492d30aae4eacb3bc0526dc0bc2b4",
+    "name": "Huyện Cẩm Khê",
+    "wards": [
+        {
+            "uid": "61ef5e1245b84f1190f3c4b5c323ac0c",
+            "name": "Thị trấn Cẩm Khê"
+        },
+        {
+            "uid": "98f66c43792d4a9b9fd40b3f6e68e1b3",
+            "name": "Xã Tiên Lương"
+        },
+        {
+            "uid": "ea8805ebc1284d0e9137e2832513cc49",
+            "name": "Xã Tuy Lộc"
+        },
+        {
+            "uid": "5728d29a179c4b1caa34a8d778ea26c5",
+            "name": "Xã Ngô Xá"
+        },
+        {
+            "uid": "23bb64110d204a03976c9003fb1ecedd",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "335a417ca799403fb1cbad1751357660",
+            "name": "Xã Phượng Vĩ"
+        },
+        {
+            "uid": "2ced6262f08b44deaeeba419301e0f75",
+            "name": "Xã Thụy Liễu"
+        },
+        {
+            "uid": "ff44cae1a6be4523a896ba59034a443a",
+            "name": "Xã Tùng Khê"
+        },
+        {
+            "uid": "4cdf5aff8b87477e87d2328c146bcb62",
+            "name": "Xã Tam Sơn"
+        },
+        {
+            "uid": "1c04dd11d5a446258e914e9706c7425b",
+            "name": "Xã Văn Bán"
+        },
+        {
+            "uid": "d38562fe1ba142f18b62da134e944f1d",
+            "name": "Xã Cấp Dẫn"
+        },
+        {
+            "uid": "0ab1299e4edc4a2a8864d0d1867fecaf",
+            "name": "Xã Xương Thịnh"
+        },
+        {
+            "uid": "f2faf8bb4d534f3ab08b4baeec670fb5",
+            "name": "Xã Phú Khê"
+        },
+        {
+            "uid": "129efba0bdd448d3b98797a7f00c78a3",
+            "name": "Xã Sơn Tình"
+        },
+        {
+            "uid": "f540fa93053c47b0aa12cbc06067a9a7",
+            "name": "Xã Yên Tập"
+        },
+        {
+            "uid": "cd7329152af54f8d9fdea9932c46073c",
+            "name": "Xã Hương Lung"
+        },
+        {
+            "uid": "ff38cd4a82b440d38b68b7a768d63270",
+            "name": "Xã Tạ Xá"
+        },
+        {
+            "uid": "cbd4c830e75c491c859d09b751ea421b",
+            "name": "Xã Phú Lạc"
+        },
+        {
+            "uid": "0f0ab1682fad41368753f23ed40b5621",
+            "name": "Xã Chương Xá"
+        },
+        {
+            "uid": "2e96497aef7746af9eb0e6c2d428f891",
+            "name": "Xã Hùng Việt"
+        },
+        {
+            "uid": "0a5ab7e18fa14785808ab42abd4aa669",
+            "name": "Xã Văn Khúc"
+        },
+        {
+            "uid": "b84df56b598a49e88a73a32bc1a6cb4c",
+            "name": "Xã Yên Dưỡng"
+        },
+        {
+            "uid": "ab236a90bc5f4a798fba526bc6c84a8a",
+            "name": "Xã Điêu Lương"
+        },
+        {
+            "uid": "04e34db632c643e18bd1e96aa8467faf",
+            "name": "Xã Đồng Lương"
+        }
+    ]
+}

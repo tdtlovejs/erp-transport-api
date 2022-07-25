@@ -1,0 +1,54 @@
+{
+    "uid": "f046d4cc4bd144abae380f0269849928",
+    "name": "Huyện Tam Nông",
+    "wards": [
+        {
+            "uid": "1ca5839a8aef45ed9f90143fbb922936",
+            "name": "Thị trấn Hưng Hoá"
+        },
+        {
+            "uid": "1afad6424ba2408da32a9166bc7d6c0b",
+            "name": "Xã Hiền Quan"
+        },
+        {
+            "uid": "c778457b7ab54e49bffb14ee22b08882",
+            "name": "Xã Bắc Sơn"
+        },
+        {
+            "uid": "54a25344c3ef40ccab22999a452dfd9e",
+            "name": "Xã Thanh Uyên"
+        },
+        {
+            "uid": "b35b6b8bdb784d8582457006b6893051",
+            "name": "Xã Lam Sơn"
+        },
+        {
+            "uid": "5294c0c5ca1349e6aede71f4880c7a08",
+            "name": "Xã Vạn Xuân"
+        },
+        {
+            "uid": "42fe07d727ee4de4aec1ceecacfabcad",
+            "name": "Xã Quang Húc"
+        },
+        {
+            "uid": "4b5badcbf9564e39a6d391f3ba0df573",
+            "name": "Xã Hương Nộn"
+        },
+        {
+            "uid": "f66df3b237534e429dab7ec4c40a2c53",
+            "name": "Xã Tề Lễ"
+        },
+        {
+            "uid": "dbbd948768714441b2c564a4fb2c9124",
+            "name": "Xã Thọ Văn"
+        },
+        {
+            "uid": "9b77ab2ae509404d97eb0b15e4199459",
+            "name": "Xã Dị Nậu"
+        },
+        {
+            "uid": "c4f39f77f5f149f9a9e47c31d29635d8",
+            "name": "Xã Dân Quyền"
+        }
+    ]
+}

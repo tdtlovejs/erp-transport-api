@@ -1,0 +1,46 @@
+{
+    "uid": "37afad6b812a46d99491b0d2f7b37237",
+    "name": "Quận 7",
+    "wards": [
+        {
+            "uid": "3549199ead484bd1bb04ee024abb82ab",
+            "name": "Phường Tân Thuận Đông"
+        },
+        {
+            "uid": "578df363b7034e0b86e791bccc87fb22",
+            "name": "Phường Tân Thuận Tây"
+        },
+        {
+            "uid": "2467efd145924edcad74ddaed28424bc",
+            "name": "Phường Tân Kiểng"
+        },
+        {
+            "uid": "408d6e24e2ab41c0b6d97bd8a87c371c",
+            "name": "Phường Tân Hưng"
+        },
+        {
+            "uid": "2fc75c6a3095402a853d4a51f298390b",
+            "name": "Phường Bình Thuận"
+        },
+        {
+            "uid": "4f65226dd114403f829bb3ae595c2872",
+            "name": "Phường Tân Quy"
+        },
+        {
+            "uid": "84959fef6b7840dda95a84cbb152bb68",
+            "name": "Phường Phú Thuận"
+        },
+        {
+            "uid": "7afa9e4addd44889b54b6c389343bc2f",
+            "name": "Phường Tân Phú"
+        },
+        {
+            "uid": "6f762dcc10b8443fa701380893be3a89",
+            "name": "Phường Tân Phong"
+        },
+        {
+            "uid": "730c09905ad14a0b994ae734840dbb70",
+            "name": "Phường Phú Mỹ"
+        }
+    ]
+}

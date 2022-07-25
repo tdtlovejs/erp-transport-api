@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <title>Test</title>
+    <style>
+        * {
+            color: #54516a;
+            font-size: 11px;
+        }
+        .block {
+            background-color: #eaf1fb;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .logoImgWrapper {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+        }
+        .logoImg {
+            width: 100%;
+            height: auto;
+        }
+        .blockTitle {
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        .commentContent {
+            text-align: center;
+        }
+        .textA {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        .text1 {
+            font-weight: 600;
+        }
+        .text2 {
+
+        }
+        table {
+            width: 100%;
+        }
+        td {
+            padding: 5px;
+            border-bottom-width: 0.5px;
+            border-bottom-style: dashed;
+            border-bottom-color: #54516a;
+        }
+        .tALeft {
+            text-align: left;
+        }
+        .tACenter {
+            text-align: center;
+        }
+        .tARight {
+            text-align: right;
+        }
+        .iconImg {
+            width: 24px;
+            height: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="textA">HÓA ĐƠN</div>
+    <div><span class="text1">Id hóa đơn :</span> {{paramId}}</div>
+    <div><span class="text1">Tiêu đề :</span> {{title}}</div>
+    <div style="margin-bottom: 10px"><span class="text1">Ghi chú :</span> {{note}}</div>
+
+    <img class="iconImg" src="data:image/png;base64,{{calendar_icon}}" alt=""/>
+    <div><span class="text1">Ngày xuất :</span> {{exportDate}}</div>
+    <div><span class="text1">Ngày hết hạn :</span> {{expiryDate}}</div>
+    <div class="block">
+        <div class="blockTitle">
+            DANH SÁCH SẢN PHẨM
+        </div>
+        <table>
+            <thead>
+                <tr>
+<!--                    <th class="tACenter">Ảnh</th>-->
+                    <th class="tALeft">Tên</th>
+                    <th class="tARight">Giá</th>
+                    <th class="tARight">Số lượng</th>
+                    <th class="tARight">Tổng giá</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each products}}
+                <tr>
+<!--                    <td class="tACenter">-->
+<!--                        <div class="logoImgWrapper">-->
+<!--                            <img class="logoImg" src="data:image/png;base64,{{this.product_logo}}" alt=""/>-->
+<!--                        </div>-->
+<!--                    </td>-->
+                    <td class="tALeft">{{this.name}}</td>
+                    <td class="tARight">{{this.price}}</td>
+                    <td class="tARight">{{this.amount}}</td>
+                    <td class="tARight">{{this.totalPrice}}</td>
+                </tr>
+                {{/each}}
+                <tr>
+                    <td colspan="4" style="text-align: center">
+                        <p class="text1">TỔNG GIÁ HÓA ĐƠN</p>
+                        <p>{{amountTotal}}</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="block">
+        <div class="blockTitle">
+            DỰ ÁN
+        </div>
+        <div>
+<!--            <div class="logoImgWrapper">-->
+<!--                <img class="logoImg" src="data:image/png;base64,{{project_logo}}" alt=""/>-->
+<!--            </div>-->
+            <p class="text1">{{project_name}} ({{project_code}})</p>
+<!--            <p class="text2">{{project_code}}</p>-->
+        </div>
+    </div>
+    <div class="block">
+        <div class="blockTitle">
+            KHÁCH HÀNG
+        </div>
+        <div>
+<!--            <div class="logoImgWrapper">-->
+<!--                <img class="logoImg" src="data:image/png;base64,{{client_logo}}" alt=""/>-->
+<!--            </div>-->
+            <p class="text1">{{client_name}} ({{client_code}})</p>
+            <div><span class="text1">Email :</span> {{client_email}}</div>
+            <div><span class="text1">Số điện thoại :</span> {{client_phoneNumber}}</div>
+            <div class="text1" style="margin: 5px 0px">ĐỊA CHỈ</div>
+            <div><span class="text1">Tỉnh/Thành phố :</span> {{clientAddressProvince}}</div>
+            <div><span class="text1">Quận/Huyện :</span> {{clientAddressDistrict}}</div>
+            <div><span class="text1">Xã/Phường :</span> {{clientAddressWard}}</div>
+            <div><span class="text1">Chi tiết :</span> {{clientAddDescription}}</div>
+            <div class="text1" style="margin: 5px 0px">THÔNG TIN BỔ SUNG</div>
+            <div><span class="text1">Tên :</span> {{clientName}}</div>
+            <div><span class="text1">Mô tả :</span> {{clientDescription}}</div>
+            <div><span class="text1">Email :</span> {{clientEmail}}</div>
+            <div><span class="text1">Số điện thoại :</span> {{clientPhoneNumber}}</div>
+            <div><span class="text1">Tỉnh/Thành phố :</span> {{clientAddress_province}}</div>
+            <div><span class="text1">Quận/Huyện :</span> {{clientAddress_district}}</div>
+            <div><span class="text1">Xã/Phường :</span> {{clientAddress_ward}}</div>
+            <div><span class="text1">Chi tiết :</span> {{clientAddress_description}}</div>
+        </div>
+    </div>
+    <div class="block">
+        <div class="blockTitle">
+            Bình luận
+        </div>
+        <div class="commentContent">
+            {{comment}}
+        </div>
+    </div>
+</body>
+</html>

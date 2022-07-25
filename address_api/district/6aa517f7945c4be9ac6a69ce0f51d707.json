@@ -1,0 +1,102 @@
+{
+    "uid": "6aa517f7945c4be9ac6a69ce0f51d707",
+    "name": "Huyện Văn Chấn",
+    "wards": [
+        {
+            "uid": "33a2ce97aa6a470d8d4a41ea0b143721",
+            "name": "Thị trấn NT Liên Sơn"
+        },
+        {
+            "uid": "cb0b1f2e64944c4d8ec738d83a56827a",
+            "name": "Thị trấn NT Trần Phú"
+        },
+        {
+            "uid": "dc8c2d6925f9460982561a988a1fe948",
+            "name": "Xã Tú Lệ"
+        },
+        {
+            "uid": "1f2bc28ef25c489d8c27783c64251ef6",
+            "name": "Xã Nậm Búng"
+        },
+        {
+            "uid": "382db92f425e4147bc3dcceaaee6ef50",
+            "name": "Xã Gia Hội"
+        },
+        {
+            "uid": "a41384d4a85a45a98464aa5f3d0b4b01",
+            "name": "Xã Sùng Đô"
+        },
+        {
+            "uid": "dad5eb7f00e54f75939c8671007e8585",
+            "name": "Xã Nậm Mười"
+        },
+        {
+            "uid": "2f887d00d18743adbffe67887d91ceb1",
+            "name": "Xã An Lương"
+        },
+        {
+            "uid": "5a4707549853424fb1f1eff09b704612",
+            "name": "Xã Nậm Lành"
+        },
+        {
+            "uid": "ebb4648835724fb381b8e156ab8e9314",
+            "name": "Xã Sơn Lương"
+        },
+        {
+            "uid": "722916b8df894250b68c0083046a0904",
+            "name": "Xã Suối Quyền"
+        },
+        {
+            "uid": "f66628ae4f8d46bc87fae4677bbdde91",
+            "name": "Xã Suối Giàng"
+        },
+        {
+            "uid": "5843482c289849b1a78262f2fa8d61b7",
+            "name": "Xã Nghĩa Sơn"
+        },
+        {
+            "uid": "b468222d90724fbb964d54d882cfdbb2",
+            "name": "Xã Suối Bu"
+        },
+        {
+            "uid": "8faf05c8a15d4bdfb35aad13620aae8a",
+            "name": "Thị trấn Sơn Thịnh"
+        },
+        {
+            "uid": "90fa2995ade748b2a8002c857b7e22a5",
+            "name": "Xã Đại Lịch"
+        },
+        {
+            "uid": "323c2ee298774dafa42482b738e75885",
+            "name": "Xã Đồng Khê"
+        },
+        {
+            "uid": "62eb8a64ea8d415c9c8fc8ae3cd86744",
+            "name": "Xã Cát Thịnh"
+        },
+        {
+            "uid": "9256344176964858b1598d4bbe9387ae",
+            "name": "Xã Tân Thịnh"
+        },
+        {
+            "uid": "f9f828c401ca4ad498ba0f8a349b99e6",
+            "name": "Xã Chấn Thịnh"
+        },
+        {
+            "uid": "714c77b7d5704a7483d813c3e495a0f9",
+            "name": "Xã Bình Thuận"
+        },
+        {
+            "uid": "d94559dea4cd4440be04e7813ae34cc5",
+            "name": "Xã Thượng Bằng La"
+        },
+        {
+            "uid": "3a7fa10778904563b31c7b49c2a7bfd4",
+            "name": "Xã Minh An"
+        },
+        {
+            "uid": "0aef597135194b81b4ab4805438c7d77",
+            "name": "Xã Nghĩa Tâm"
+        }
+    ]
+}

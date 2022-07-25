@@ -1,0 +1,62 @@
+{
+    "uid": "d0e718a880684cd2a97b9e1ebb4fe30a",
+    "name": "Quận Long Biên",
+    "wards": [
+        {
+            "uid": "f8bbaa7e57e34d5a8f1770a3ee50898d",
+            "name": "Phường Thượng Thanh"
+        },
+        {
+            "uid": "571b2fca0e8541daa99c5cef8a102e16",
+            "name": "Phường Ngọc Thụy"
+        },
+        {
+            "uid": "f3fa78f5214f4350b3e0816bc071072e",
+            "name": "Phường Giang Biên"
+        },
+        {
+            "uid": "6f80925e3f7744a4b71c3f07facfba7c",
+            "name": "Phường Đức Giang"
+        },
+        {
+            "uid": "ebca354a368c450b9d6d6b3d49377fdf",
+            "name": "Phường Việt Hưng"
+        },
+        {
+            "uid": "285491ab53c64874938a2d4e3222862b",
+            "name": "Phường Gia Thụy"
+        },
+        {
+            "uid": "f7c67ac4710e45f692fc34212942ebad",
+            "name": "Phường Ngọc Lâm"
+        },
+        {
+            "uid": "8b0208e432e24250a30a3d1186922fd7",
+            "name": "Phường Phúc Lợi"
+        },
+        {
+            "uid": "0ba70e8976d94a508de10964374b9048",
+            "name": "Phường Bồ Đề"
+        },
+        {
+            "uid": "f5765f65d023422ab86e441eee2b7bd3",
+            "name": "Phường Sài Đồng"
+        },
+        {
+            "uid": "2578966babc5492e9711aab43623e8a9",
+            "name": "Phường Long Biên"
+        },
+        {
+            "uid": "da340520626444e68bb9655e0df0755a",
+            "name": "Phường Thạch Bàn"
+        },
+        {
+            "uid": "d83caf8d9ac14383871a12aed4f347ce",
+            "name": "Phường Phúc Đồng"
+        },
+        {
+            "uid": "e37e0262349a4d4eb13de9e5ca9d1e78",
+            "name": "Phường Cự Khối"
+        }
+    ]
+}

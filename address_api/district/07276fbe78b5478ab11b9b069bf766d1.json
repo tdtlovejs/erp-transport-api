@@ -1,0 +1,50 @@
+{
+    "uid": "07276fbe78b5478ab11b9b069bf766d1",
+    "name": "Huyện Tây Hoà",
+    "wards": [
+        {
+            "uid": "ae3b024cb49c4f499cab2c1cd2700cff",
+            "name": "Xã Sơn Thành Tây"
+        },
+        {
+            "uid": "76f6e4c892d54009a44c5c8cc0c111c2",
+            "name": "Xã Sơn Thành Đông"
+        },
+        {
+            "uid": "d872140e14984e4981df23e15ec40732",
+            "name": "Xã Hòa Bình 1"
+        },
+        {
+            "uid": "32e45166447f49c79b7c375839276cec",
+            "name": "Thị trấn Phú Thứ"
+        },
+        {
+            "uid": "60ffdfecf3a144fe851f0eb923200058",
+            "name": "Xã Hòa Phong"
+        },
+        {
+            "uid": "4b0a5d9e7574434e8b76a495dbe81d04",
+            "name": "Xã Hòa Phú"
+        },
+        {
+            "uid": "892db60952fb43dbaa9e5784737397d4",
+            "name": "Xã Hòa Tân Tây"
+        },
+        {
+            "uid": "a72290400fff42a0b9846cc7ecb79b9f",
+            "name": "Xã Hòa Đồng"
+        },
+        {
+            "uid": "654cd5de09a34a0fae833ba55cf9f574",
+            "name": "Xã Hòa Mỹ Đông"
+        },
+        {
+            "uid": "258c5f3550a6472cba46f984f3a4afbe",
+            "name": "Xã Hòa Mỹ Tây"
+        },
+        {
+            "uid": "0307418821994417a2571b53d54b7aff",
+            "name": "Xã Hòa Thịnh"
+        }
+    ]
+}

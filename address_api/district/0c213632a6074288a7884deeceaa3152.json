@@ -1,0 +1,94 @@
+{
+    "uid": "0c213632a6074288a7884deeceaa3152",
+    "name": "Thành phố Việt Trì",
+    "wards": [
+        {
+            "uid": "d18b63186e674252be8cf0830d0c3ffb",
+            "name": "Phường Dữu Lâu"
+        },
+        {
+            "uid": "234862909a7b4df0871b638c4bb08ac1",
+            "name": "Phường Vân Cơ"
+        },
+        {
+            "uid": "9d5e160b75eb4ebab4ea897377bea1ea",
+            "name": "Phường Nông Trang"
+        },
+        {
+            "uid": "38ba445625a247ffb702d2b556adb4e0",
+            "name": "Phường Tân Dân"
+        },
+        {
+            "uid": "9d8f31721c6c49d0a556ab1c93b683d1",
+            "name": "Phường Gia Cẩm"
+        },
+        {
+            "uid": "795ad9d5d23e4a7eb2e80e0d00ef533b",
+            "name": "Phường Tiên Cát"
+        },
+        {
+            "uid": "338fde4039d04391af4a62752f640eba",
+            "name": "Phường Thọ Sơn"
+        },
+        {
+            "uid": "4a7c14ff20764edbb7bc4b1875db4873",
+            "name": "Phường Thanh Miếu"
+        },
+        {
+            "uid": "23d9f49562d84d4bbaaea16904a7ebb0",
+            "name": "Phường Bạch Hạc"
+        },
+        {
+            "uid": "4231cfb455cd417488f04d87e5abbf49",
+            "name": "Phường Bến Gót"
+        },
+        {
+            "uid": "a3bed84b74db42af87bfa0d7a217f895",
+            "name": "Phường Vân Phú"
+        },
+        {
+            "uid": "8b22569e45554a18a2543bfe03d00dca",
+            "name": "Xã Phượng Lâu"
+        },
+        {
+            "uid": "699cb95210d046abb18bfd5aaa00c943",
+            "name": "Xã Thụy Vân"
+        },
+        {
+            "uid": "74846b8ee3be42e09e6c152e8963143a",
+            "name": "Phường Minh Phương"
+        },
+        {
+            "uid": "ac11b3122a0d459ba627c954e7fd6b0c",
+            "name": "Xã Trưng Vương"
+        },
+        {
+            "uid": "4611f266d4ff4d339ecb2c0bb3249359",
+            "name": "Phường Minh Nông"
+        },
+        {
+            "uid": "cb500092399947db9a2d3468aa71ec32",
+            "name": "Xã Sông Lô"
+        },
+        {
+            "uid": "9184d80a30304b61a6a29c7032567572",
+            "name": "Xã Kim Đức"
+        },
+        {
+            "uid": "e7c62eb5c76049dfb1c96a3c48173aac",
+            "name": "Xã Hùng Lô"
+        },
+        {
+            "uid": "bbdb9fce7ecc4f068318b33359be4c4b",
+            "name": "Xã Hy Cương"
+        },
+        {
+            "uid": "0205991730b44d5b8129a8b81d1f7e5a",
+            "name": "Xã Chu Hóa"
+        },
+        {
+            "uid": "5d10d1807a134d899448283018b1bb2a",
+            "name": "Xã Thanh Đình"
+        }
+    ]
+}

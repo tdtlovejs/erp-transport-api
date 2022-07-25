@@ -1,0 +1,62 @@
+{
+    "uid": "7699fdc691ff4f949b30020310916f05",
+    "name": "Huyện Sơn Hòa",
+    "wards": [
+        {
+            "uid": "4cd59e2784324c799fced705d5ef19ea",
+            "name": "Thị trấn Củng Sơn"
+        },
+        {
+            "uid": "cd4c6702899e4238b98e918b1f70ffe8",
+            "name": "Xã Phước Tân"
+        },
+        {
+            "uid": "079799eb2bbf474abaa4e0d16115cbde",
+            "name": "Xã Sơn Hội"
+        },
+        {
+            "uid": "2e0aba73e2c44ab983b13e0378542b45",
+            "name": "Xã Sơn Định"
+        },
+        {
+            "uid": "146b0fcc9be84a1ab892fa90514cfb88",
+            "name": "Xã Sơn Long"
+        },
+        {
+            "uid": "e13e6dc96f1a420392f4e4b1842cb6f3",
+            "name": "Xã Cà Lúi"
+        },
+        {
+            "uid": "dc2488a6084c47e48accff8c22a5b57e",
+            "name": "Xã Sơn Phước"
+        },
+        {
+            "uid": "b03eaefdc1954a24b4c9125f339a0ca3",
+            "name": "Xã Sơn Xuân"
+        },
+        {
+            "uid": "01cd61b7cbf941bd81fab94e2a75ff8e",
+            "name": "Xã Sơn Nguyên"
+        },
+        {
+            "uid": "bd5023efe9114e99a7a83b401d2ef3b8",
+            "name": "Xã Eachà Rang"
+        },
+        {
+            "uid": "f1e2a4dbac404e6bbb80d7b32bfeed81",
+            "name": "Xã Krông Pa"
+        },
+        {
+            "uid": "a571bcd5d27845159fb7dfcbdb905acb",
+            "name": "Xã Suối Bạc"
+        },
+        {
+            "uid": "ba90e25aad2e47d2b3ea304c87822670",
+            "name": "Xã Sơn Hà"
+        },
+        {
+            "uid": "798c4404b8ad4f99aa8c526b2dd1f6cc",
+            "name": "Xã Suối Trai"
+        }
+    ]
+}

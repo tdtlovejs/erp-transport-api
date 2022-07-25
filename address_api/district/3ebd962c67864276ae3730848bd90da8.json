@@ -1,0 +1,30 @@
+{
+    "uid": "3ebd962c67864276ae3730848bd90da8",
+    "name": "Huyện Tân Phú Đông",
+    "wards": [
+        {
+            "uid": "1e551d54f4dc454f97087c45a03c5c81",
+            "name": "Xã Tân Thới"
+        },
+        {
+            "uid": "654a7c3618164f1da19f35c31297f08e",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "ea823446739e4247ac923f4360569b9d",
+            "name": "Xã Phú Thạnh"
+        },
+        {
+            "uid": "2dc3a4b3e7b6416eb3eeb5695eee1862",
+            "name": "Xã Tân Thạnh"
+        },
+        {
+            "uid": "4422eb2a84bd429a9defe88d7a268601",
+            "name": "Xã Phú Đông"
+        },
+        {
+            "uid": "603ec99141fe44dd88ecf817c2732b61",
+            "name": "Xã Phú Tân"
+        }
+    ]
+}

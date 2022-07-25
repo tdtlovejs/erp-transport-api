@@ -1,0 +1,70 @@
+{
+    "uid": "36a9d2af71e04e559f80651bfa47ec1a",
+    "name": "Huyện Cai Lậy",
+    "wards": [
+        {
+            "uid": "8ac7ebffe261494c831fa2710844a34c",
+            "name": "Xã Thạnh Lộc"
+        },
+        {
+            "uid": "fd2af79a943043728f0d3d9deb58b251",
+            "name": "Xã Mỹ Thành Bắc"
+        },
+        {
+            "uid": "b342ef1f44e44ab090bde53840ced0d0",
+            "name": "Xã Phú Cường"
+        },
+        {
+            "uid": "ec4dba771f3b4a69ba85817754b5eb41",
+            "name": "Xã Mỹ Thành Nam"
+        },
+        {
+            "uid": "de9ababd6e7c4a868db3305409a0ae0c",
+            "name": "Xã Phú Nhuận"
+        },
+        {
+            "uid": "e88feaca4d974aac947c5995e663c129",
+            "name": "Xã Bình Phú"
+        },
+        {
+            "uid": "68d80c7dd1484133b71c14f2908fdefc",
+            "name": "Xã Cẩm Sơn"
+        },
+        {
+            "uid": "ac5cf623cccc4bcfb5c1377bd9291cc7",
+            "name": "Xã Phú An"
+        },
+        {
+            "uid": "7c8464b36d374adf8f2e312db0456bff",
+            "name": "Xã Mỹ Long"
+        },
+        {
+            "uid": "d1f0d95282984141b5850d869fb8b986",
+            "name": "Xã Long Tiên"
+        },
+        {
+            "uid": "f1851c8a864d4588a1cf6569951fb0b5",
+            "name": "Xã Hiệp Đức"
+        },
+        {
+            "uid": "ca84173cf2e5479f966062c0a008e925",
+            "name": "Xã Long Trung"
+        },
+        {
+            "uid": "e84819b492a349b4b0f5612dd5922509",
+            "name": "Xã Hội Xuân"
+        },
+        {
+            "uid": "b99daeee607f4315aa4557de1c530c24",
+            "name": "Xã Tân Phong"
+        },
+        {
+            "uid": "d05a24b3747547f3821c7b0ac830f8d4",
+            "name": "Xã Tam Bình"
+        },
+        {
+            "uid": "d8ecb4c1739c438a9cf2ef9716548f7e",
+            "name": "Xã Ngũ Hiệp"
+        }
+    ]
+}

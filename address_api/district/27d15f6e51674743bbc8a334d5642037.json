@@ -1,0 +1,94 @@
+{
+    "uid": "27d15f6e51674743bbc8a334d5642037",
+    "name": "Huyện Đoan Hùng",
+    "wards": [
+        {
+            "uid": "28a4aa05f6cc49448855adf77b87c446",
+            "name": "Thị trấn Đoan Hùng"
+        },
+        {
+            "uid": "72ed37aebe8749eebf43ac69fe8ca604",
+            "name": "Xã Hùng Xuyên"
+        },
+        {
+            "uid": "d73b39ecb371445a999255e0480dcb31",
+            "name": "Xã Bằng Luân"
+        },
+        {
+            "uid": "4c4473a95ff441af93d19182aef85b8a",
+            "name": "Xã Vân Du"
+        },
+        {
+            "uid": "9c0fa0d2e10b49e6baf6470c13874730",
+            "name": "Xã Phú Lâm"
+        },
+        {
+            "uid": "b96efd8bd563449f8eb56efe8feba4fe",
+            "name": "Xã Minh Lương"
+        },
+        {
+            "uid": "a0ff3754cfdd42f9aaf41a452f69a033",
+            "name": "Xã Bằng Doãn"
+        },
+        {
+            "uid": "d9d2ef421b8b49a7bff129cc5242768d",
+            "name": "Xã Chí Đám"
+        },
+        {
+            "uid": "36cfe9c843054cf7a4ada48d012364ba",
+            "name": "Xã Phúc Lai"
+        },
+        {
+            "uid": "7ae242b2d1404e8eb901155694a04709",
+            "name": "Xã Ngọc Quan"
+        },
+        {
+            "uid": "1b8152ace2ad44b5b1688d10921b1d80",
+            "name": "Xã Hợp Nhất"
+        },
+        {
+            "uid": "c453a1b81f854b178f6be537b015db3a",
+            "name": "Xã Sóc Đăng"
+        },
+        {
+            "uid": "0d38aaf30c3d4530aee5f0f4fb87c486",
+            "name": "Xã Tây Cốc"
+        },
+        {
+            "uid": "00eabda99f4c40499be7df44c50d0515",
+            "name": "Xã Yên Kiện"
+        },
+        {
+            "uid": "378d6df071464cab865ea217ad243cce",
+            "name": "Xã Hùng Long"
+        },
+        {
+            "uid": "655d88cae69a400582ece2276e185d4a",
+            "name": "Xã Vụ Quang"
+        },
+        {
+            "uid": "86938029b33c4a0d945766978db35f23",
+            "name": "Xã Vân Đồn"
+        },
+        {
+            "uid": "ab8dd8aaf777460bb167f19e6cdb32bb",
+            "name": "Xã Tiêu Sơn"
+        },
+        {
+            "uid": "8a78db615c1a477ab5b4136e3e9e795c",
+            "name": "Xã Minh Tiến"
+        },
+        {
+            "uid": "4f117eeca12a4229a89eed8f7140b59b",
+            "name": "Xã Minh Phú"
+        },
+        {
+            "uid": "e3c4354003e64707b989d40a1a865f2e",
+            "name": "Xã Chân Mộng"
+        },
+        {
+            "uid": "435a7f71647c4b1baf99dd54f006218e",
+            "name": "Xã Ca Đình"
+        }
+    ]
+}

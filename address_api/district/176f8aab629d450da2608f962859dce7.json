@@ -1,0 +1,74 @@
+{
+    "uid": "176f8aab629d450da2608f962859dce7",
+    "name": "Huyện Nghi Xuân",
+    "wards": [
+        {
+            "uid": "72bcf26101af4ce38d20e439635a3f5a",
+            "name": "Thị trấn Xuân An"
+        },
+        {
+            "uid": "8ed9d7a3eaba4d5fad7801f302567ec8",
+            "name": "Xã Xuân Hội"
+        },
+        {
+            "uid": "23a9043b0d94421c8ab28bf50f22b1cc",
+            "name": "Xã Đan Trường"
+        },
+        {
+            "uid": "abc4661a02b84ee399520ba3441779c4",
+            "name": "Xã Xuân Phổ"
+        },
+        {
+            "uid": "dabcbca4d57d4399903f6703a460302e",
+            "name": "Xã Xuân Hải"
+        },
+        {
+            "uid": "5df5199ccfc6463387577dbbbe6266c8",
+            "name": "Xã Xuân Giang"
+        },
+        {
+            "uid": "6e620729d2c84c9b932a2c7a29bac151",
+            "name": "Thị trấn Tiên Điền"
+        },
+        {
+            "uid": "e7a0cd5687754d71a6a8c9f411d41820",
+            "name": "Xã Xuân Yên"
+        },
+        {
+            "uid": "62e9a421d3694d94a41b359db7bd612f",
+            "name": "Xã Xuân Mỹ"
+        },
+        {
+            "uid": "0a4567c6229b47bc99c977f55ef4d226",
+            "name": "Xã Xuân Thành"
+        },
+        {
+            "uid": "7d4ba2f3131d40f99127b4b9e7800407",
+            "name": "Xã Xuân Viên"
+        },
+        {
+            "uid": "499e6305025b4e99bdd619a95dfc3d4d",
+            "name": "Xã Xuân Hồng"
+        },
+        {
+            "uid": "aeaf47448b1e4ed49955054c39c17b60",
+            "name": "Xã Cỗ Đạm"
+        },
+        {
+            "uid": "0205b6a2dfa148c4bebac8898d3d2b53",
+            "name": "Xã Xuân Liên"
+        },
+        {
+            "uid": "0084579ab4524ca6b70fa415b9367157",
+            "name": "Xã Xuân Lĩnh"
+        },
+        {
+            "uid": "29692ef73dc548bcbcdabbc762e6c002",
+            "name": "Xã Xuân Lam"
+        },
+        {
+            "uid": "b234cf8ec85e49fd9692a6ae34d19d7c",
+            "name": "Xã Cương Gián"
+        }
+    ]
+}

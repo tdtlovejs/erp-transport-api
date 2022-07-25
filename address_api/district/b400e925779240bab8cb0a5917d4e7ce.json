@@ -1,0 +1,62 @@
+{
+    "uid": "b400e925779240bab8cb0a5917d4e7ce",
+    "name": "Huyện Tiên Du",
+    "wards": [
+        {
+            "uid": "feebb628f44f4294a2f1e71d5264c38b",
+            "name": "Thị trấn Lim"
+        },
+        {
+            "uid": "43248daa157c443e8cda4f4b986d23a0",
+            "name": "Xã Phú Lâm"
+        },
+        {
+            "uid": "b964b672d93147b1a88a1fe80d5dbc3f",
+            "name": "Xã Nội Duệ"
+        },
+        {
+            "uid": "55eaa4f2f1ad461498707e968212a955",
+            "name": "Xã Liên Bão"
+        },
+        {
+            "uid": "2cb6b61bb1e8408eb628a39b77f72546",
+            "name": "Xã Hiên Vân"
+        },
+        {
+            "uid": "e4578eb4fc0748999aaa330fe40fa79d",
+            "name": "Xã Hoàn Sơn"
+        },
+        {
+            "uid": "a2a48c73a93b4b11bfcb1849a0a8abea",
+            "name": "Xã Lạc Vệ"
+        },
+        {
+            "uid": "bb7308310b014bc497a32199d8a11e4f",
+            "name": "Xã Việt Đoàn"
+        },
+        {
+            "uid": "9be200f6756c48f2afd290d80a1dab29",
+            "name": "Xã Phật Tích"
+        },
+        {
+            "uid": "74458005375d47aa9c81ac335a583816",
+            "name": "Xã Tân Chi"
+        },
+        {
+            "uid": "350696ec030c4bb78c5c72c7ead9790f",
+            "name": "Xã Đại Đồng"
+        },
+        {
+            "uid": "6a08f2457e4a443c9631f4210665a791",
+            "name": "Xã Tri Phương"
+        },
+        {
+            "uid": "6626baadacc54aa19ef9976582d40550",
+            "name": "Xã Minh Đạo"
+        },
+        {
+            "uid": "acf2c6c08a9e4ff0974ad20f8609f30e",
+            "name": "Xã Cảnh Hưng"
+        }
+    ]
+}

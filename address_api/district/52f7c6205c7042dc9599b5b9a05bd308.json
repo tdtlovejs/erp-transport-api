@@ -1,0 +1,46 @@
+{
+    "uid": "52f7c6205c7042dc9599b5b9a05bd308",
+    "name": "Thị xã Giá Rai",
+    "wards": [
+        {
+            "uid": "a091d2e2d83345539da4ab415608af2d",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "74724612731e47e6a37655566510679e",
+            "name": "Phường Hộ Phòng"
+        },
+        {
+            "uid": "29291a8dec6e441097401484dd6ab926",
+            "name": "Xã Phong Thạnh Đông"
+        },
+        {
+            "uid": "44caef7935fb4d669f94f092df585e04",
+            "name": "Phường Láng Tròn"
+        },
+        {
+            "uid": "779a165b3f75464caa7b06a08e2a17ec",
+            "name": "Xã Phong Tân"
+        },
+        {
+            "uid": "38543539e8874ebc8cf68509f86e6c4c",
+            "name": "Xã Tân Phong"
+        },
+        {
+            "uid": "df3ea01880224558b66af7bbd90dcd83",
+            "name": "Xã Phong Thạnh"
+        },
+        {
+            "uid": "9d6c714bcb2b493b81e98bac08ed1456",
+            "name": "Xã Phong Thạnh A"
+        },
+        {
+            "uid": "8d4c86bd109d438180d7315e4aba121c",
+            "name": "Xã Phong Thạnh Tây"
+        },
+        {
+            "uid": "fe71bbc09e7c45a18a44bedd4a05e403",
+            "name": "Xã Tân Thạnh"
+        }
+    ]
+}

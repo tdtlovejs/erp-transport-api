@@ -1,0 +1,86 @@
+{
+    "uid": "b6727750b9e34edeaa5d17486746da9b",
+    "name": "Huyện Đức Hòa",
+    "wards": [
+        {
+            "uid": "3942d79dc88c4acfa7f4598e3abab68e",
+            "name": "Thị trấn Hậu Nghĩa"
+        },
+        {
+            "uid": "b45b0cbba3804e6293e965d883456f10",
+            "name": "Thị trấn Hiệp Hòa"
+        },
+        {
+            "uid": "483d80a88f08437faa8b9b4962eabb6c",
+            "name": "Thị trấn Đức Hòa"
+        },
+        {
+            "uid": "d6d8ab6d3bcd4d7881c219342dd980b0",
+            "name": "Xã Lộc Giang"
+        },
+        {
+            "uid": "5c0c922f1b13465fbf864495a28a7cb1",
+            "name": "Xã An Ninh Đông"
+        },
+        {
+            "uid": "7c0f740feb944e60b8fdf8798bb1a7e0",
+            "name": "Xã An Ninh Tây"
+        },
+        {
+            "uid": "8268201f020e4c739c312d6a0710c5d4",
+            "name": "Xã Tân Mỹ"
+        },
+        {
+            "uid": "c6fea57cb2e740cda9b6a25c7e5d2724",
+            "name": "Xã Hiệp Hòa"
+        },
+        {
+            "uid": "2be56de180fa4e68b58f796b7fc447cf",
+            "name": "Xã Đức Lập Thượng"
+        },
+        {
+            "uid": "e70e46f1fdf04a5aae2d94cc3b091cf6",
+            "name": "Xã Đức Lập Hạ"
+        },
+        {
+            "uid": "45f8f3a666b448a8a0c91beb168e3234",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "36b1177cc4e5466188560f8369276e7a",
+            "name": "Xã Mỹ Hạnh Bắc"
+        },
+        {
+            "uid": "707d1ab3398542d18a78ccbce7f73803",
+            "name": "Xã Đức Hòa Thượng"
+        },
+        {
+            "uid": "40404ba1777b4e01b19af6e3905ad147",
+            "name": "Xã Hòa Khánh Tây"
+        },
+        {
+            "uid": "a3dc33810fae43d6a1e90087759bb140",
+            "name": "Xã Hòa Khánh Đông"
+        },
+        {
+            "uid": "8e008447c5a74798ababef1b1ab54d12",
+            "name": "Xã Mỹ Hạnh Nam"
+        },
+        {
+            "uid": "3f8c8603f3e74e11a01d09df58a5c639",
+            "name": "Xã Hòa Khánh Nam"
+        },
+        {
+            "uid": "6c60d641d9aa4d86bd1a83277083da43",
+            "name": "Xã Đức Hòa Đông"
+        },
+        {
+            "uid": "8845b9deb894460a9568f2c1372bb232",
+            "name": "Xã Đức Hòa Hạ"
+        },
+        {
+            "uid": "8293da6aa974412fb5e5a493b5701935",
+            "name": "Xã Hựu Thạnh"
+        }
+    ]
+}

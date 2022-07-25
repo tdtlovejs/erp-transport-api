@@ -1,0 +1,34 @@
+{
+    "uid": "987f1a6645ce489bbd955dc0f354c705",
+    "name": "Huyện Mộc Hóa",
+    "wards": [
+        {
+            "uid": "a90a824fd33145d7a80092cfa18ff79d",
+            "name": "Xã Bình Hòa Tây"
+        },
+        {
+            "uid": "0b0ed8bc9ed84f839224480865cdaed0",
+            "name": "Xã Bình Thạnh"
+        },
+        {
+            "uid": "61a30045f9f1490f965fdea09f5bc955",
+            "name": "Xã Bình Hòa Trung"
+        },
+        {
+            "uid": "13059fb40c134a2d99379c8fa8d6f761",
+            "name": "Xã Bình Hòa Đông"
+        },
+        {
+            "uid": "0c0710c219be4d2f8b61201cc7bd8fd5",
+            "name": "Thị trấn Bình Phong Thạnh"
+        },
+        {
+            "uid": "6f521e208be043aebeba46af1e0a9222",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "5d84810a322d44ed85b490c5d6292040",
+            "name": "Xã Tân Thành"
+        }
+    ]
+}

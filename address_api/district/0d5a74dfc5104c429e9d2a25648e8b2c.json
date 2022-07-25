@@ -1,0 +1,70 @@
+{
+    "uid": "0d5a74dfc5104c429e9d2a25648e8b2c",
+    "name": "Thành phố Tuy Hoà",
+    "wards": [
+        {
+            "uid": "51ea9d92d963414c9efbee31b16f5ff1",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "9b61befd179547d498c9c78e171a53ee",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "7f5797eadd8b4a29a0e390c3b7fee5fb",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "490bd7a4e09242368dc55d5fe90fe49b",
+            "name": "Phường 9"
+        },
+        {
+            "uid": "59129b5b6019403aa839451d930c31e6",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "dae057238def48cea8b3c9d0c356a9a0",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "323d49555e3d4ee0ab3107ee208ed33a",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "e624715a9a5b4800879c4beaf3801970",
+            "name": "Phường 7"
+        },
+        {
+            "uid": "f80928845c684bc9b00d4c566c19eb8e",
+            "name": "Phường 6"
+        },
+        {
+            "uid": "4814800fcba44b0486cff94752b91275",
+            "name": "Phường Phú Thạnh"
+        },
+        {
+            "uid": "c28505714e9f47528e02a11bff9cdc74",
+            "name": "Phường Phú Đông"
+        },
+        {
+            "uid": "7bfb3331fef14767a398a7cb247335fe",
+            "name": "Xã Hòa Kiến"
+        },
+        {
+            "uid": "8848da35a85149f6a3afd772df307a96",
+            "name": "Xã Bình Kiến"
+        },
+        {
+            "uid": "bec9338a31ee4e60aed1faf2dff44a9a",
+            "name": "Xã Bình Ngọc"
+        },
+        {
+            "uid": "d8ff0cd764e94040a9dbfc1f9d26c232",
+            "name": "Xã An Phú"
+        },
+        {
+            "uid": "f0953f3df15c4f858d41b7b70841c31d",
+            "name": "Phường Phú Lâm"
+        }
+    ]
+}

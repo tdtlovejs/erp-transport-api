@@ -1,0 +1,102 @@
+{
+    "uid": "bbd9801aa68d40fab764ced7c84407ac",
+    "name": "Huyện Lục Yên",
+    "wards": [
+        {
+            "uid": "1a43f58d43fe4fd49373120e71a22756",
+            "name": "Thị trấn Yên Thế"
+        },
+        {
+            "uid": "475f0136fe8249a7bdc73cc737e959b6",
+            "name": "Xã Tân Phượng"
+        },
+        {
+            "uid": "9fee0c67ad0b422cb375a78a44501f84",
+            "name": "Xã Lâm Thượng"
+        },
+        {
+            "uid": "f30e219987a742708c55235b6b7f050e",
+            "name": "Xã Khánh Thiện"
+        },
+        {
+            "uid": "eba099d8d6474e419c41b5cb2e4d8e59",
+            "name": "Xã Minh Chuẩn"
+        },
+        {
+            "uid": "1ef5908f6ea2482b904ff48ab9bc2891",
+            "name": "Xã Mai Sơn"
+        },
+        {
+            "uid": "48cb082fae0f41898336a7e286bd5c94",
+            "name": "Xã Khai Trung"
+        },
+        {
+            "uid": "47e6e3bd073c41f3a2b48188f518de7f",
+            "name": "Xã Mường Lai"
+        },
+        {
+            "uid": "a67fd599e6034806963ad24d02fd7eb1",
+            "name": "Xã An Lạc"
+        },
+        {
+            "uid": "8aad0294e6a04fffbd75dc09a6384f14",
+            "name": "Xã Minh Xuân"
+        },
+        {
+            "uid": "e201584a923d4bf19528e6b61319ae9c",
+            "name": "Xã Tô Mậu"
+        },
+        {
+            "uid": "e25413a6abe040988bf0aa62114b35fc",
+            "name": "Xã Tân Lĩnh"
+        },
+        {
+            "uid": "44fcf18375254cfba0c2bdfdb78aa5f7",
+            "name": "Xã Yên Thắng"
+        },
+        {
+            "uid": "740b6088951d488197702906dc597d87",
+            "name": "Xã Khánh Hoà"
+        },
+        {
+            "uid": "8c9f9ee0d5d0440184662216fd549757",
+            "name": "Xã Vĩnh Lạc"
+        },
+        {
+            "uid": "75bd5c9605e24ff1a07c4da53d562e30",
+            "name": "Xã Liễu Đô"
+        },
+        {
+            "uid": "eeeb5e07d54648d2849cc499b7c6de28",
+            "name": "Xã Động Quan"
+        },
+        {
+            "uid": "762277014d594d01937ab01db2db05cf",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "1287b1a538d94ad687259f96a32969bb",
+            "name": "Xã Minh Tiến"
+        },
+        {
+            "uid": "75d524ddb1794d0cbc8abdc34d482950",
+            "name": "Xã Trúc Lâu"
+        },
+        {
+            "uid": "cba0cfe6992643edaa322ab05704ea48",
+            "name": "Xã Phúc Lợi"
+        },
+        {
+            "uid": "8b5f205e6afe4de4a65950591187428b",
+            "name": "Xã Phan Thanh"
+        },
+        {
+            "uid": "64fb369423d640388603b0bee26ebb0d",
+            "name": "Xã An Phú"
+        },
+        {
+            "uid": "f6a62a7167ab4927b0eea42c8e07137b",
+            "name": "Xã Trung Tâm"
+        }
+    ]
+}

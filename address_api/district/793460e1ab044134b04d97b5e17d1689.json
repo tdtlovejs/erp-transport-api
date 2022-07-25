@@ -1,0 +1,62 @@
+{
+    "uid": "793460e1ab044134b04d97b5e17d1689",
+    "name": "Huyện An Phú",
+    "wards": [
+        {
+            "uid": "dcabb5dd2aef40c487887af0708d615c",
+            "name": "Thị trấn An Phú"
+        },
+        {
+            "uid": "e1713b9058ee43848f3e4f0106b6f331",
+            "name": "Xã Khánh An"
+        },
+        {
+            "uid": "7195e3e65ec44467aaf957eb74e53328",
+            "name": "Thị Trấn Long Bình"
+        },
+        {
+            "uid": "fa917ed8c5634f258bdaf4d6c3de569d",
+            "name": "Xã Khánh Bình"
+        },
+        {
+            "uid": "1d3ad76c7cbb4a1eb76408f21b5f0a15",
+            "name": "Xã Quốc Thái"
+        },
+        {
+            "uid": "3cefaff84ad94772a59ef0d4b233a692",
+            "name": "Xã Nhơn Hội"
+        },
+        {
+            "uid": "875de952640d4f7c893dafa336f058c0",
+            "name": "Xã Phú Hữu"
+        },
+        {
+            "uid": "464b991e5c39481b9de2dfe914fa3fbb",
+            "name": "Xã Phú Hội"
+        },
+        {
+            "uid": "70a81a586ee946e7af959b8e7b6de2f0",
+            "name": "Xã Phước Hưng"
+        },
+        {
+            "uid": "888245664bf24522878ec838642fc98e",
+            "name": "Xã Vĩnh Lộc"
+        },
+        {
+            "uid": "e68f8b34cc4841edadb7202e06f25aa1",
+            "name": "Xã Vĩnh Hậu"
+        },
+        {
+            "uid": "241bbe52243f47d5a27823531139b208",
+            "name": "Xã Vĩnh Trường"
+        },
+        {
+            "uid": "eb4f11e7882a4d9ea2e57bc1981e3f9a",
+            "name": "Xã Vĩnh Hội Đông"
+        },
+        {
+            "uid": "545df06507404ded917504ad3646258a",
+            "name": "Xã Đa Phước"
+        }
+    ]
+}

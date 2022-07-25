@@ -1,0 +1,86 @@
+{
+    "uid": "87d486f3d7294c4d9d9662f3265e77fd",
+    "name": "Huyện Hà Trung",
+    "wards": [
+        {
+            "uid": "0fa41568ed4149e1a6e2a53feb509e35",
+            "name": "Thị trấn Hà Trung"
+        },
+        {
+            "uid": "b33a2f0ad5fb4992a1b530e0f416634b",
+            "name": "Xã Hà Long"
+        },
+        {
+            "uid": "0fac3e2069094904a543ffd7f8731c8b",
+            "name": "Xã Hà Vinh"
+        },
+        {
+            "uid": "17400403b8cb49a891d865823316842a",
+            "name": "Xã Hà Bắc"
+        },
+        {
+            "uid": "9f6009f822aa47c0a446dd56a2f06b1e",
+            "name": "Xã Hoạt Giang"
+        },
+        {
+            "uid": "077a9a2bde9845bcbc7b3143024bae32",
+            "name": "Xã Yên Dương"
+        },
+        {
+            "uid": "6f05a18545f94fb1b52721959f106f9a",
+            "name": "Xã Hà Giang"
+        },
+        {
+            "uid": "db72451c4026455c8a8406ff81c95957",
+            "name": "Xã Lĩnh Toại"
+        },
+        {
+            "uid": "3f2dd15be2d94a1da41e5d501cfb0db9",
+            "name": "Xã Hà Ngọc"
+        },
+        {
+            "uid": "6ebeb3ff4ad14ab1b7bb9869762e8a4b",
+            "name": "Xã Yến Sơn"
+        },
+        {
+            "uid": "40f68f65f49c4c879af6e8e31da5ace1",
+            "name": "Xã Hà Sơn"
+        },
+        {
+            "uid": "1383b5127dee468da287dcafbc0516ce",
+            "name": "Xã Hà Lĩnh"
+        },
+        {
+            "uid": "abecf8f4d72c432984879bfa7c79afad",
+            "name": "Xã Hà Đông"
+        },
+        {
+            "uid": "3bf420ba13eb49ff893f91552135d98a",
+            "name": "Xã Hà Tân"
+        },
+        {
+            "uid": "baea75618ed84aee8f2590482595c517",
+            "name": "Xã Hà Tiến"
+        },
+        {
+            "uid": "1d26af4e54d8448cad92616530d19757",
+            "name": "Xã Hà Bình"
+        },
+        {
+            "uid": "2207de3e9ec24e70a880bf3a45a8be0b",
+            "name": "Xã Hà Lai"
+        },
+        {
+            "uid": "262384d85f404251bf49e9adb8d650ca",
+            "name": "Xã Hà Châu"
+        },
+        {
+            "uid": "af9b6866b714409393c8c45c4a61848c",
+            "name": "Xã Hà Thái"
+        },
+        {
+            "uid": "129325400017401196613493ded4eba3",
+            "name": "Xã Hà Hải"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "uid": "58e01ae297fe4ee7a3e932019d49dc9c",
+    "name": "Huyện Củ Chi",
+    "wards": [
+        {
+            "uid": "f147fe0be26a4579b01c70acfd7a088d",
+            "name": "Thị trấn Củ Chi"
+        },
+        {
+            "uid": "c03aab17d27c46658aed34ae94c8efaf",
+            "name": "Xã Phú Mỹ Hưng"
+        },
+        {
+            "uid": "5d981d23f69048d5b5f8a4805014b794",
+            "name": "Xã An Phú"
+        },
+        {
+            "uid": "2bd4a05809c6440cae8942c45c93fd19",
+            "name": "Xã Trung Lập Thượng"
+        },
+        {
+            "uid": "d95a2a5b0e1d4027920e834b75096f31",
+            "name": "Xã An Nhơn Tây"
+        },
+        {
+            "uid": "1880bfb3cbed4b7bb56e2eeb1e5adb3b",
+            "name": "Xã Nhuận Đức"
+        },
+        {
+            "uid": "11bc4f631d204c80924368d3ce181503",
+            "name": "Xã Phạm Văn Cội"
+        },
+        {
+            "uid": "cd2f922212ec48fb89a801c1d9dca6b5",
+            "name": "Xã Phú Hòa Đông"
+        },
+        {
+            "uid": "2db2ca2db4714f458e7a3451141f24cc",
+            "name": "Xã Trung Lập Hạ"
+        },
+        {
+            "uid": "25bece9707074552b472d95c3301668b",
+            "name": "Xã Trung An"
+        },
+        {
+            "uid": "cab687d578fd4ba9b783fd64fcb14d9f",
+            "name": "Xã Phước Thạnh"
+        },
+        {
+            "uid": "e5848377a0f44a85a3815eb0240752cd",
+            "name": "Xã Phước Hiệp"
+        },
+        {
+            "uid": "e6eab1b7964948c7ac174461e8d2f6f5",
+            "name": "Xã Tân An Hội"
+        },
+        {
+            "uid": "0452f15addf147b7955eceb4d9c88b1d",
+            "name": "Xã Phước Vĩnh An"
+        },
+        {
+            "uid": "82a405fdbcb74f4690a3cdd966c70a39",
+            "name": "Xã Thái Mỹ"
+        },
+        {
+            "uid": "cfe924e7128e4b09b8fccf36005b41b1",
+            "name": "Xã Tân Thạnh Tây"
+        },
+        {
+            "uid": "b96b33aecef4450995ebf1b5b39a70fb",
+            "name": "Xã Hòa Phú"
+        },
+        {
+            "uid": "0544b56fed9d423e84b6ca52e2aff7de",
+            "name": "Xã Tân Thạnh Đông"
+        },
+        {
+            "uid": "65f655adce59421faebfe20d7b6ddd03",
+            "name": "Xã Bình Mỹ"
+        },
+        {
+            "uid": "8665146af40b49639da34fc4d5937166",
+            "name": "Xã Tân Phú Trung"
+        },
+        {
+            "uid": "9437708d298b4fc1ac08a4f74402c08d",
+            "name": "Xã Tân Thông Hội"
+        }
+    ]
+}

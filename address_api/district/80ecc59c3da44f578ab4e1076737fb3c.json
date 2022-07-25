@@ -1,0 +1,118 @@
+{
+    "uid": "80ecc59c3da44f578ab4e1076737fb3c",
+    "name": "Huyện Bố Trạch",
+    "wards": [
+        {
+            "uid": "7d6c9a4f4ef84cae9aaf52bdcdea1211",
+            "name": "Thị trấn Hoàn Lão"
+        },
+        {
+            "uid": "aa7714eb0cc54b199d4111d257db2311",
+            "name": "Thị trấn NT Việt Trung"
+        },
+        {
+            "uid": "16533ada967444cfb5b8bb32e1419f4b",
+            "name": "Xã Xuân Trạch"
+        },
+        {
+            "uid": "34dc8ffc057d43f0b11a7cf00e62b9eb",
+            "name": "Xã Mỹ Trạch"
+        },
+        {
+            "uid": "63811bcba3754a9a9b1e213ca12ab3f4",
+            "name": "Xã Hạ Trạch"
+        },
+        {
+            "uid": "4282a3d2906a401a968f89e99009be22",
+            "name": "Xã Bắc Trạch"
+        },
+        {
+            "uid": "d0507884202744e7abe94d7f32a7945d",
+            "name": "Xã Lâm Trạch"
+        },
+        {
+            "uid": "e23de1be7a054b609c42fa990b063558",
+            "name": "Xã Thanh Trạch"
+        },
+        {
+            "uid": "9e21dea49d064e58a43c9e32e4bba082",
+            "name": "Xã Liên Trạch"
+        },
+        {
+            "uid": "10b3270db1a744cb8dddcaef8d95f54b",
+            "name": "Xã Phúc Trạch"
+        },
+        {
+            "uid": "9cb6be920c3e4a53912f13a37f6612f4",
+            "name": "Xã Cự Nẫm"
+        },
+        {
+            "uid": "733a67642ada493a9d3a3a01b7fb4e8b",
+            "name": "Xã Hải Phú"
+        },
+        {
+            "uid": "6dab224b633c46c8ba3266a2a7b42995",
+            "name": "Xã Thượng Trạch"
+        },
+        {
+            "uid": "fc8f0f2f028a449eaa07df15c6711471",
+            "name": "Xã Sơn Lộc"
+        },
+        {
+            "uid": "760ad13da02a48869e0d7be55c182509",
+            "name": "Xã Hưng Trạch"
+        },
+        {
+            "uid": "163bf6afec9f42cd876e475dd30c0bb4",
+            "name": "Xã Đồng Trạch"
+        },
+        {
+            "uid": "54d4242fff38472dbabcba5215a2f262",
+            "name": "Xã Đức Trạch"
+        },
+        {
+            "uid": "7ac148c042e34797a005fba752148c1f",
+            "name": "Thị trấn Phong Nha"
+        },
+        {
+            "uid": "f08b0a4f0fee437b8a63b2da476a634c",
+            "name": "Xã Vạn Trạch"
+        },
+        {
+            "uid": "9c8b7684f646462a843bc10931ac7279",
+            "name": "Xã Phú Định"
+        },
+        {
+            "uid": "876824bc4e9d4aa9925f79f447e28acc",
+            "name": "Xã Trung Trạch"
+        },
+        {
+            "uid": "3a86b174593c4d2799f1c38cf805cef2",
+            "name": "Xã Tây Trạch"
+        },
+        {
+            "uid": "035906d8845840caa9c3ec790ea71e84",
+            "name": "Xã Hòa Trạch"
+        },
+        {
+            "uid": "78084dbf9bde4900b47cbab7f1f54f74",
+            "name": "Xã Đại Trạch"
+        },
+        {
+            "uid": "4c4449ec0b4a4bc9b8d6037b089dec54",
+            "name": "Xã Nhân Trạch"
+        },
+        {
+            "uid": "5c9d33fa71824bd28362a44b0a634c72",
+            "name": "Xã Tân Trạch"
+        },
+        {
+            "uid": "85fbd753c3e044979d11f9b5659584b0",
+            "name": "Xã Nam Trạch"
+        },
+        {
+            "uid": "90f41d787e804acf8a4f179a0da8ca75",
+            "name": "Xã Lý Trạch"
+        }
+    ]
+}

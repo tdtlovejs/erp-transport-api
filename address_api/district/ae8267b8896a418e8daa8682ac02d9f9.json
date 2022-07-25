@@ -1,0 +1,82 @@
+{
+    "uid": "ae8267b8896a418e8daa8682ac02d9f9",
+    "name": "Thành phố Chí Linh",
+    "wards": [
+        {
+            "uid": "35620039d23f4767b64ce070fdc54948",
+            "name": "Phường Phả Lại"
+        },
+        {
+            "uid": "fdf7ac0f4562465cab3070b6b2d4b5b1",
+            "name": "Phường Sao Đỏ"
+        },
+        {
+            "uid": "1ed643a439f745e7bf64d8d11b73dd91",
+            "name": "Phường Bến Tắm"
+        },
+        {
+            "uid": "f3c77fa28b3f4581a25da2a12a570405",
+            "name": "Xã Hoàng Hoa Thám"
+        },
+        {
+            "uid": "3e496267491b4661a5dc6c565261a849",
+            "name": "Xã Bắc An"
+        },
+        {
+            "uid": "febf5da8e3c24c52b6d97f4245b11de1",
+            "name": "Xã Hưng Đạo"
+        },
+        {
+            "uid": "fffa10b97cef4a1e90f8e45b7cba0ee9",
+            "name": "Xã Lê Lợi"
+        },
+        {
+            "uid": "ec548eecbb094d8c9f734f0eedf91363",
+            "name": "Phường Hoàng Tiến"
+        },
+        {
+            "uid": "216af904310041a2876a46fa978b24d9",
+            "name": "Phường Cộng Hoà"
+        },
+        {
+            "uid": "49eae83dd7cf4fec811e4e40f7699f0e",
+            "name": "Phường Hoàng Tân"
+        },
+        {
+            "uid": "78a0cde1bfa44bb29e46a8e7e52a4469",
+            "name": "Phường Cổ Thành"
+        },
+        {
+            "uid": "65e322887f1245cbbab95660e8e7f91d",
+            "name": "Phường Văn An"
+        },
+        {
+            "uid": "d5098925bde84164bad8858793b7f748",
+            "name": "Phường Chí Minh"
+        },
+        {
+            "uid": "5996b56a27b64563a710477809fb2450",
+            "name": "Phường Văn Đức"
+        },
+        {
+            "uid": "e6c4d7b0f3e840949f6aa7e5ec0e1cec",
+            "name": "Phường Thái Học"
+        },
+        {
+            "uid": "1dae6d35d2d8498c902fcf338dfa0225",
+            "name": "Xã Nhân Huệ"
+        },
+        {
+            "uid": "20e71ba9911b46f382e797cae801ae40",
+            "name": "Phường An Lạc"
+        },
+        {
+            "uid": "edaebaad22c744c7960733654638b68f",
+            "name": "Phường Đồng Lạc"
+        },
+        {
+            "uid": "71d36baa560c47539f9b4c6e5f82bff0",
+            "name": "Phường Tân Dân"
+        }
+    ]
+}

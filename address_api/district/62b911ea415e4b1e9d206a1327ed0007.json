@@ -1,0 +1,66 @@
+{
+    "uid": "62b911ea415e4b1e9d206a1327ed0007",
+    "name": "Thị xã An Nhơn",
+    "wards": [
+        {
+            "uid": "0f32b4d53b484f8d9677caa623957aeb",
+            "name": "Phường Bình Định"
+        },
+        {
+            "uid": "a1aaa19ed5c2420c980b3fc5334206b4",
+            "name": "Phường Đập Đá"
+        },
+        {
+            "uid": "9c90927770d840b1b5d7b712d1d43f07",
+            "name": "Xã Nhơn Mỹ"
+        },
+        {
+            "uid": "1663722d43bd428188f75f6613c41ba2",
+            "name": "Phường Nhơn Thành"
+        },
+        {
+            "uid": "707ad6e1ae0f4f7c879685fcc1849177",
+            "name": "Xã Nhơn Hạnh"
+        },
+        {
+            "uid": "f9192102d5464f21b3059bffb9b90e90",
+            "name": "Xã Nhơn Hậu"
+        },
+        {
+            "uid": "84c4110922f643dead81d54f2bab8308",
+            "name": "Xã Nhơn Phong"
+        },
+        {
+            "uid": "97ce2cc57d734b848c952bfe00ddfe8f",
+            "name": "Xã Nhơn An"
+        },
+        {
+            "uid": "78c2c5b43fa44579bd76f2ffb5a31988",
+            "name": "Xã Nhơn Phúc"
+        },
+        {
+            "uid": "8f814e60cadd4477baa65a35a40cc122",
+            "name": "Phường Nhơn Hưng"
+        },
+        {
+            "uid": "682055a90d46429ba02e55ec3bcdb6e0",
+            "name": "Xã Nhơn Khánh"
+        },
+        {
+            "uid": "1b5b28968a984d9082a5959482b1744e",
+            "name": "Xã Nhơn Lộc"
+        },
+        {
+            "uid": "7d0ea98a0aa5481d9960c98bf63a078c",
+            "name": "Phường Nhơn Hoà"
+        },
+        {
+            "uid": "28e7e5db74fc44cb811387897d58b581",
+            "name": "Xã Nhơn Tân"
+        },
+        {
+            "uid": "d5d994e41f9e4698a2f17a7b9d15cb58",
+            "name": "Xã Nhơn Thọ"
+        }
+    ]
+}

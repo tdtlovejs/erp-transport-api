@@ -1,0 +1,142 @@
+{
+    "uid": "a804b257d2fd49f7bf0d2a39846d254d",
+    "name": "Thành phố Thủ Đức",
+    "wards": [
+        {
+            "uid": "843129ae6f6f4632bb16779b2c3430dc",
+            "name": "Phường Linh Xuân"
+        },
+        {
+            "uid": "6ebccda1cdea4f29bcbbb337d75e3a22",
+            "name": "Phường Bình Chiểu"
+        },
+        {
+            "uid": "13538a655f214337bc64ad33b9bb49f0",
+            "name": "Phường Linh Trung"
+        },
+        {
+            "uid": "6035832351ee46a0a93ff5adac0c54e8",
+            "name": "Phường Tam Bình"
+        },
+        {
+            "uid": "c269eb882b7f44f582c210cddde2418d",
+            "name": "Phường Tam Phú"
+        },
+        {
+            "uid": "3e1b6e3394c24344ba869b8e919c8a93",
+            "name": "Phường Hiệp Bình Phước"
+        },
+        {
+            "uid": "a934f436aaa0483bb91f545944205304",
+            "name": "Phường Hiệp Bình Chánh"
+        },
+        {
+            "uid": "ed908fe31ad94dcb842c055615e3a339",
+            "name": "Phường Linh Chiểu"
+        },
+        {
+            "uid": "13a5203a59fd4d6fa2450af1858ed8e6",
+            "name": "Phường Linh Tây"
+        },
+        {
+            "uid": "abed9cab8d9a4b51a751581b0bc2efbc",
+            "name": "Phường Linh Đông"
+        },
+        {
+            "uid": "b0911ec6986f45cd9e8133dfbe1f6bae",
+            "name": "Phường Bình Thọ"
+        },
+        {
+            "uid": "66f3fe6e036f42b7bb9607597d68c64d",
+            "name": "Phường Trường Thọ"
+        },
+        {
+            "uid": "a448f2fc05e4403e8614c1e898bed438",
+            "name": "Phường Long Bình"
+        },
+        {
+            "uid": "8ad8d48e996f4aa9acd51fb6728899be",
+            "name": "Phường Long Thạnh Mỹ"
+        },
+        {
+            "uid": "9b66ac2b2b384d62917d3d4912d178e9",
+            "name": "Phường Tân Phú"
+        },
+        {
+            "uid": "da56667e45b34a2c87a367e73861f32a",
+            "name": "Phường Hiệp Phú"
+        },
+        {
+            "uid": "7cae46da336842d698be77f042b1fca8",
+            "name": "Phường Tăng Nhơn Phú A"
+        },
+        {
+            "uid": "0cb531858bf549b6bf62d40c3f9bfa84",
+            "name": "Phường Tăng Nhơn Phú B"
+        },
+        {
+            "uid": "ab805e21c80a46369285dce8d6bcff56",
+            "name": "Phường Phước Long B"
+        },
+        {
+            "uid": "28b752c936f04ed6b121c6971cb6f275",
+            "name": "Phường Phước Long A"
+        },
+        {
+            "uid": "10ff09749335427c9f17a1eaec1be102",
+            "name": "Phường Trường Thạnh"
+        },
+        {
+            "uid": "f03d12ba097647e38902d7a6091b8d3a",
+            "name": "Phường Long Phước"
+        },
+        {
+            "uid": "d5228297d7434b53a5db274da9872721",
+            "name": "Phường Long Trường"
+        },
+        {
+            "uid": "8d2769e64a2e4e59915aea10ef047799",
+            "name": "Phường Phước Bình"
+        },
+        {
+            "uid": "275102daf9f54515b5c43bee613ad63a",
+            "name": "Phường Phú Hữu"
+        },
+        {
+            "uid": "e15004b3ff254e8881f22861ceaf5fe0",
+            "name": "Phường Thảo Điền"
+        },
+        {
+            "uid": "5990c9f82c9e4c83a723803d396ed2b7",
+            "name": "Phường An Phú"
+        },
+        {
+            "uid": "57f07c9dfbed46c2b3559317fbd41151",
+            "name": "Phường An Khánh"
+        },
+        {
+            "uid": "fc7e9d474ec544aab78b05bc34011f8e",
+            "name": "Phường Bình Trưng Đông"
+        },
+        {
+            "uid": "df6ff1f342eb4e16ae9554a98ce59c82",
+            "name": "Phường Bình Trưng Tây"
+        },
+        {
+            "uid": "32197ee6989441a2bc8297f3a839422b",
+            "name": "Phường Cát Lái"
+        },
+        {
+            "uid": "c9ea6e6076a541aaa89a715a305b8fcb",
+            "name": "Phường Thạnh Mỹ Lợi"
+        },
+        {
+            "uid": "a43db0e8f2034ad1b7060699d8369822",
+            "name": "Phường An Lợi Đông"
+        },
+        {
+            "uid": "4ce76b2b7d374f46b8fcc86eb4507db6",
+            "name": "Phường Thủ Thiêm"
+        }
+    ]
+}

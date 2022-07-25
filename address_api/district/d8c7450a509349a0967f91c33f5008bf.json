@@ -1,0 +1,54 @@
+{
+    "uid": "d8c7450a509349a0967f91c33f5008bf",
+    "name": "Huyện Đình Lập",
+    "wards": [
+        {
+            "uid": "f1f7191282904226852bec118e4f6fdd",
+            "name": "Thị trấn Đình Lập"
+        },
+        {
+            "uid": "13a70d46b648460686188b4580dbe474",
+            "name": "Thị trấn NT Thái Bình"
+        },
+        {
+            "uid": "5d7f1b216fd746c0a2bfbdfd41bd5842",
+            "name": "Xã Bắc Xa"
+        },
+        {
+            "uid": "d911aa9d0b4b4a988452df6faa5c31cc",
+            "name": "Xã Bính Xá"
+        },
+        {
+            "uid": "79913b4a74fc4c1b8582fa084d90f118",
+            "name": "Xã Kiên Mộc"
+        },
+        {
+            "uid": "3a0beb9257bc4ae19c2cbed5b483b33c",
+            "name": "Xã Đình Lập"
+        },
+        {
+            "uid": "97b439ea8a7e489284cfbf13d1c8f226",
+            "name": "Xã Thái Bình"
+        },
+        {
+            "uid": "8b5a27c78add47459d9240517d123645",
+            "name": "Xã Cường Lợi"
+        },
+        {
+            "uid": "b64d8160917f4764b091e29052b43dae",
+            "name": "Xã Châu Sơn"
+        },
+        {
+            "uid": "ad914189f3244e5d80d65a1ef92ce40a",
+            "name": "Xã Lâm Ca"
+        },
+        {
+            "uid": "70f946db941f438f8a35773691c15998",
+            "name": "Xã Đồng Thắng"
+        },
+        {
+            "uid": "2d109d71561e4c5a91125af6fb1367ef",
+            "name": "Xã Bắc Lãng"
+        }
+    ]
+}

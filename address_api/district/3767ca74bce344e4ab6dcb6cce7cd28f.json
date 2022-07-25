@@ -1,0 +1,54 @@
+{
+    "uid": "3767ca74bce344e4ab6dcb6cce7cd28f",
+    "name": "Huyện Vĩnh Cửu",
+    "wards": [
+        {
+            "uid": "f93f12929da14e6f954d80174bc4605d",
+            "name": "Thị trấn Vĩnh An"
+        },
+        {
+            "uid": "8862806618d54a1bb3f6964a66461450",
+            "name": "Xã Phú Lý"
+        },
+        {
+            "uid": "6802eef5a3314463a7070c32699e8d6d",
+            "name": "Xã Trị An"
+        },
+        {
+            "uid": "1db2f9a9de03444f96a80995b68ea8f0",
+            "name": "Xã Tân An"
+        },
+        {
+            "uid": "c5c0f9b6aeaf48e5962cc43c96f6cd5f",
+            "name": "Xã Vĩnh Tân"
+        },
+        {
+            "uid": "322b25d11386422c9910049eea9c0fa3",
+            "name": "Xã Bình Lợi"
+        },
+        {
+            "uid": "8a239e9b5402419b92f2db23fe085123",
+            "name": "Xã Thạnh Phú"
+        },
+        {
+            "uid": "5c8396ecb8e34990ae01aa6c3ada2b44",
+            "name": "Xã Thiện Tân"
+        },
+        {
+            "uid": "11da9f47dec44a20ba78fcbc0a62df9f",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "d6bab0943f764ee897fa4c8461aed841",
+            "name": "Xã Bình Hòa"
+        },
+        {
+            "uid": "026353bca6214ba1bc3f8114b008bb0d",
+            "name": "Xã Mã Đà"
+        },
+        {
+            "uid": "24163452da184f52bbc31f5a13cb7687",
+            "name": "Xã Hiếu Liêm"
+        }
+    ]
+}

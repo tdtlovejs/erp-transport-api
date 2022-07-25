@@ -1,0 +1,130 @@
+{
+    "uid": "3601574b78a44204b359a9b987ac1bb8",
+    "name": "Thị xã Nghi Sơn",
+    "wards": [
+        {
+            "uid": "bce023691fe745c8a63b41cbb384ccec",
+            "name": "Phường Hải Hòa"
+        },
+        {
+            "uid": "f233666459d4486cb40e6d66bc3b1f0e",
+            "name": "Phường Hải Châu"
+        },
+        {
+            "uid": "0c821ebf3ce4498a8dad59780905cf23",
+            "name": "Xã Thanh Thủy"
+        },
+        {
+            "uid": "04b5f286228043a9ae300252b191d309",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "435503b703064b8cb56f925240f31753",
+            "name": "Phường Hải Ninh"
+        },
+        {
+            "uid": "2a1497d154e14bdea594792ff6b13f3b",
+            "name": "Xã Anh Sơn"
+        },
+        {
+            "uid": "33c6bbc2b03e487c85741f4da7f158dc",
+            "name": "Xã Ngọc Lĩnh"
+        },
+        {
+            "uid": "1030da71916b40eca7e82b8a8df9ae49",
+            "name": "Phường Hải An"
+        },
+        {
+            "uid": "7bcd21f842604ee0a55e3fba64154d2c",
+            "name": "Xã Các Sơn"
+        },
+        {
+            "uid": "a416fbd805dc46eaa8f0765f588bb0cb",
+            "name": "Phường Tân Dân"
+        },
+        {
+            "uid": "0f283520f14443adac6fbd4619966f1c",
+            "name": "Phường Hải Lĩnh"
+        },
+        {
+            "uid": "e678ff1068a54a21adfb4a75bef3dc42",
+            "name": "Xã Định Hải"
+        },
+        {
+            "uid": "59718c42791c4b69822d5b0e75bc9fb5",
+            "name": "Xã Phú Sơn"
+        },
+        {
+            "uid": "d6ce378adc294e9eb4cd7327c5fa56cf",
+            "name": "Phường Ninh Hải"
+        },
+        {
+            "uid": "ee9b2eacd5e94d57825c3afd09feb229",
+            "name": "Phường Nguyên Bình"
+        },
+        {
+            "uid": "c409005a708742e5bf2d8af01383fc5d",
+            "name": "Xã Hải Nhân"
+        },
+        {
+            "uid": "751aaab3c6374dd0b76498a66646a95b",
+            "name": "Phường Bình Minh"
+        },
+        {
+            "uid": "8f6aaf2bb7424607b1691581e715e234",
+            "name": "Phường Hải Thanh"
+        },
+        {
+            "uid": "635050492fb142a6a575c18d3a9f9184",
+            "name": "Xã Phú Lâm"
+        },
+        {
+            "uid": "5ac7dd257b7f4350af3ca9d0ddb06cf9",
+            "name": "Phường Xuân Lâm"
+        },
+        {
+            "uid": "caba7aa6704a494da7a435524434ea61",
+            "name": "Phường Trúc Lâm"
+        },
+        {
+            "uid": "8f206951c5e1409bb94b6a9d57bde6f1",
+            "name": "Phường Hải Bình"
+        },
+        {
+            "uid": "b094d83c956b46a89a0978e73c1d4824",
+            "name": "Xã Tân Trường"
+        },
+        {
+            "uid": "83351cffc5804c6ba82e4463b57adfc8",
+            "name": "Xã Tùng Lâm"
+        },
+        {
+            "uid": "5eeb0679439a435eaeb346c063254ff1",
+            "name": "Phường Tĩnh Hải"
+        },
+        {
+            "uid": "5f76aec6c8784be3838da241e4eeb962",
+            "name": "Phường Mai Lâm"
+        },
+        {
+            "uid": "3b32d30f941e46a992be6d62e8d045a7",
+            "name": "Xã Trường Lâm"
+        },
+        {
+            "uid": "38075fafca7b4b469344269f854b3f82",
+            "name": "Xã Hải Yến"
+        },
+        {
+            "uid": "a637cc7d07be483782f1db3b79776dda",
+            "name": "Phường Hải Thượng"
+        },
+        {
+            "uid": "0b8608ca76b14f3fa28a360b9fc1c3f5",
+            "name": "Xã Nghi Sơn"
+        },
+        {
+            "uid": "16b3d2c3dda04fbf8462e77ef0d849f2",
+            "name": "Xã Hải Hà"
+        }
+    ]
+}

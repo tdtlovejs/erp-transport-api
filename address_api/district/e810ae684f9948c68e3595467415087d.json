@@ -1,0 +1,162 @@
+{
+    "uid": "e810ae684f9948c68e3595467415087d",
+    "name": "Huyện Yên Thành",
+    "wards": [
+        {
+            "uid": "d3efcdf935c046829891c8cd67c4f564",
+            "name": "Thị trấn Yên Thành"
+        },
+        {
+            "uid": "4f0726a7cdd746cf9fdaacd8ecd3610f",
+            "name": "Xã Mã Thành"
+        },
+        {
+            "uid": "b84e873e981a4a15ac8bcddf3c828966",
+            "name": "Xã Tiến Thành"
+        },
+        {
+            "uid": "6de0b4e1aa524654bce779733ef55966",
+            "name": "Xã Lăng Thành"
+        },
+        {
+            "uid": "acbe1e5b00214943ac61376308df3952",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "de8332811dd149eb82070d2ed54b2580",
+            "name": "Xã Đức Thành"
+        },
+        {
+            "uid": "3ed68a01314b4c8da7ea5d5dcfa31239",
+            "name": "Xã Kim Thành"
+        },
+        {
+            "uid": "c519a30f6164431c92a55dca53d74634",
+            "name": "Xã Hậu Thành"
+        },
+        {
+            "uid": "0495584b13614e7e9d295c86df8dd4bc",
+            "name": "Xã Hùng Thành"
+        },
+        {
+            "uid": "61b139b3caa04cafb009dcde8758dc16",
+            "name": "Xã Đô Thành"
+        },
+        {
+            "uid": "7fadf724df144b5a81bd2023f63464d1",
+            "name": "Xã Thọ Thành"
+        },
+        {
+            "uid": "5b5b15ff3cf841d29f3680e9a5c96603",
+            "name": "Xã Quang Thành"
+        },
+        {
+            "uid": "4df4eb855dc94de487733e6f139aafec",
+            "name": "Xã Tây Thành"
+        },
+        {
+            "uid": "2d71d97955c24b82b838379dd12ad00e",
+            "name": "Xã Phúc Thành"
+        },
+        {
+            "uid": "54ffe32a4ccb4fb8b7b1d9fbad024838",
+            "name": "Xã Hồng Thành"
+        },
+        {
+            "uid": "1a3d91134c2e48189d0cc6b2bd3c80cd",
+            "name": "Xã Đồng Thành"
+        },
+        {
+            "uid": "3a78638ccb51410f95353975ccd0a8cc",
+            "name": "Xã Phú Thành"
+        },
+        {
+            "uid": "17208117ed3f497ea0142d38e058ca5a",
+            "name": "Xã Hoa Thành"
+        },
+        {
+            "uid": "ab8ed336183e4109a3b5d88571e873a4",
+            "name": "Xã Tăng Thành"
+        },
+        {
+            "uid": "f9fd76e9a81d42b3abfd9c6f398f012d",
+            "name": "Xã Văn Thành"
+        },
+        {
+            "uid": "3aa867aaae8e435d9f3ddb0464d774aa",
+            "name": "Xã Thịnh Thành"
+        },
+        {
+            "uid": "48a5283fff284618b7fa1badd77ef9ca",
+            "name": "Xã Hợp Thành"
+        },
+        {
+            "uid": "90c5f77fb56c4a6ebb3343388ce0f67b",
+            "name": "Xã Xuân Thành"
+        },
+        {
+            "uid": "ffc636b4eeb9445da4073504ddf5f31d",
+            "name": "Xã Bắc Thành"
+        },
+        {
+            "uid": "89232db045134ef38d3e5f7461b98b54",
+            "name": "Xã Nhân Thành"
+        },
+        {
+            "uid": "7a0d5023e28b471a85809323a3010add",
+            "name": "Xã Trung Thành"
+        },
+        {
+            "uid": "e28a55c929524023a6116fab97212dcc",
+            "name": "Xã Long Thành"
+        },
+        {
+            "uid": "c2bcfe8c8d2143ec852cca49f1961f55",
+            "name": "Xã Minh Thành"
+        },
+        {
+            "uid": "7c34a199637548209a1818481c6be3e6",
+            "name": "Xã Nam Thành"
+        },
+        {
+            "uid": "24d70a28f07f4ea1bbee5ca8fb1a3540",
+            "name": "Xã Vĩnh Thành"
+        },
+        {
+            "uid": "2dd45a43a3484b44bff8c4a0c52dd9be",
+            "name": "Xã Lý Thành"
+        },
+        {
+            "uid": "bdead895c28a493a9ce501282d6810a2",
+            "name": "Xã Khánh Thành"
+        },
+        {
+            "uid": "74ae17058695410bb899058c2d38b2a0",
+            "name": "Xã Viên Thành"
+        },
+        {
+            "uid": "41b690ebeb4a486e8446ca266e1ed872",
+            "name": "Xã Đại Thành"
+        },
+        {
+            "uid": "064356fb3d1b4bf1b0a4323aee8090aa",
+            "name": "Xã Liên Thành"
+        },
+        {
+            "uid": "0bfdfebb5ff74f07aed9f062e8c7e9d7",
+            "name": "Xã Bảo Thành"
+        },
+        {
+            "uid": "f97bc033d2ee4f2bb957013462ae72b1",
+            "name": "Xã Mỹ Thành"
+        },
+        {
+            "uid": "2f9635d0ef01410786ae8d5f0853ba14",
+            "name": "Xã Công Thành"
+        },
+        {
+            "uid": "b9c1e31a35344528901c51f03bedbf42",
+            "name": "Xã Sơn Thành"
+        }
+    ]
+}

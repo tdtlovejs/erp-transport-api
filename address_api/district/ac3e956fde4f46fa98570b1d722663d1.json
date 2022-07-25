@@ -1,0 +1,50 @@
+{
+    "uid": "ac3e956fde4f46fa98570b1d722663d1",
+    "name": "Huyện Tiên Yên",
+    "wards": [
+        {
+            "uid": "5714480ae4884e5fadd09e27dfca6371",
+            "name": "Thị trấn Tiên Yên"
+        },
+        {
+            "uid": "caa7e353e3d145688d822b9c36759fe8",
+            "name": "Xã Hà Lâu"
+        },
+        {
+            "uid": "dedb162cce6846f3a3bfb325f6e46a17",
+            "name": "Xã Đại Dực"
+        },
+        {
+            "uid": "254de35b934c4e2f92de741f63c41401",
+            "name": "Xã Phong Dụ"
+        },
+        {
+            "uid": "b45d6aac7e26417facddac955034acbd",
+            "name": "Xã Điền Xá"
+        },
+        {
+            "uid": "1998ce3b49c44ff3b06abb8fcb855fb1",
+            "name": "Xã Đông Ngũ"
+        },
+        {
+            "uid": "d966c2829aad461485d0fc89bf0db430",
+            "name": "Xã Yên Than"
+        },
+        {
+            "uid": "69db725a34db4ec28307c004db16fb6a",
+            "name": "Xã Đông Hải"
+        },
+        {
+            "uid": "9a96a01552c44be9a0ff7fc08f4c85ff",
+            "name": "Xã Hải Lạng"
+        },
+        {
+            "uid": "285556853241475caf5e01edc06426ba",
+            "name": "Xã Tiên Lãng"
+        },
+        {
+            "uid": "77f772ae66eb45eca8d5d07ad7ccf2a4",
+            "name": "Xã Đồng Rui"
+        }
+    ]
+}

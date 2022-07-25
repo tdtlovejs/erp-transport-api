@@ -1,0 +1,38 @@
+{
+    "uid": "bc6b535bf90a4e789f59fc523e61b6e0",
+    "name": "Huyện Châu Thành",
+    "wards": [
+        {
+            "uid": "9c7190d45ba94e8696e096b8c07f786e",
+            "name": "Thị Trấn Ngã Sáu"
+        },
+        {
+            "uid": "d1f688f08b9844bcaae37cf0467a7e07",
+            "name": "Xã Đông Thạnh"
+        },
+        {
+            "uid": "11a85086b85042508f4324b75779b8af",
+            "name": "Xã Đông Phú"
+        },
+        {
+            "uid": "a55370dd744b4dffa21fbc7b245b59d7",
+            "name": "Xã Phú Hữu"
+        },
+        {
+            "uid": "9d73821538f641af85ecb6c5c9e37683",
+            "name": "Xã Phú Tân"
+        },
+        {
+            "uid": "9ad09380c53042d5b4f991a7eec46df5",
+            "name": "Thị trấn Mái Dầm"
+        },
+        {
+            "uid": "3c5bd075087d439baa96d1859a7a402a",
+            "name": "Xã Đông Phước"
+        },
+        {
+            "uid": "17547960dc9646298d17d9e3a4cb61dd",
+            "name": "Xã Đông Phước A"
+        }
+    ]
+}

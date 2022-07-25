@@ -1,0 +1,42 @@
+{
+    "uid": "9ba8105c67a84344acbf88fd9ea61b12",
+    "name": "Huyện Mỹ Tú",
+    "wards": [
+        {
+            "uid": "8c4e85d1275d4ba49928f47270e821f5",
+            "name": "Thị trấn Huỳnh Hữu Nghĩa"
+        },
+        {
+            "uid": "41afbe3dd2df4dcca51d5526cb4cc606",
+            "name": "Xã Long Hưng"
+        },
+        {
+            "uid": "4e1e0a596e6949eeb7e41cf57a2d039b",
+            "name": "Xã Hưng Phú"
+        },
+        {
+            "uid": "567617a2e6a64a2da5d8ac7b8aeccb12",
+            "name": "Xã Mỹ Hương"
+        },
+        {
+            "uid": "2614996a48a04d01b41ad38f1c15190b",
+            "name": "Xã Mỹ Tú"
+        },
+        {
+            "uid": "35b369f23b6b4e8f9a4bc88bc711917b",
+            "name": "Xã Mỹ Phước"
+        },
+        {
+            "uid": "f0548add4cbb48ecb1498e7949f0423c",
+            "name": "Xã Thuận Hưng"
+        },
+        {
+            "uid": "22ff3c262b9a456f95cce9c5bb2db2d3",
+            "name": "Xã Mỹ Thuận"
+        },
+        {
+            "uid": "7e25d3e9d67444609b3588a27178c6ac",
+            "name": "Xã Phú Mỹ"
+        }
+    ]
+}

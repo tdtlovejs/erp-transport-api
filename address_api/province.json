@@ -1,0 +1,254 @@
+[
+    {
+        "uid": "0b108a785c0c42d3b639a3c0cc9ad07b",
+        "name": "Thành phố Hà Nội"
+    },
+    {
+        "uid": "e4d9de96cb8043ffad5672b21fc86e57",
+        "name": "Tỉnh Hà Giang"
+    },
+    {
+        "uid": "b7586a10061949168c963d64d4492921",
+        "name": "Tỉnh Cao Bằng"
+    },
+    {
+        "uid": "40d6d42bfc284483be8a0cb54028ca41",
+        "name": "Tỉnh Bắc Kạn"
+    },
+    {
+        "uid": "185bfd97983e4ea19444125de9c3fe77",
+        "name": "Tỉnh Tuyên Quang"
+    },
+    {
+        "uid": "ecc48b659abf436fac5cabb4cbf3cd51",
+        "name": "Tỉnh Lào Cai"
+    },
+    {
+        "uid": "5f55865c732f4d3ba21c7d3f84c70322",
+        "name": "Tỉnh Điện Biên"
+    },
+    {
+        "uid": "bc3c9102db054271a021d0293c92ccf1",
+        "name": "Tỉnh Lai Châu"
+    },
+    {
+        "uid": "8ad3505ed6664b758c54813f6486648c",
+        "name": "Tỉnh Sơn La"
+    },
+    {
+        "uid": "5beec7f273154085a90682556b140df7",
+        "name": "Tỉnh Yên Bái"
+    },
+    {
+        "uid": "1b90d965541f47079cf1ac081e7a2798",
+        "name": "Tỉnh Hoà Bình"
+    },
+    {
+        "uid": "775f527e205946f7ae1cc1d5bb88e4a9",
+        "name": "Tỉnh Thái Nguyên"
+    },
+    {
+        "uid": "611d9c5143b74a7d81851e35fe195a67",
+        "name": "Tỉnh Lạng Sơn"
+    },
+    {
+        "uid": "480581eff66747df8c860cf891e963cc",
+        "name": "Tỉnh Quảng Ninh"
+    },
+    {
+        "uid": "0ced025ae75f413192e51bddbcd0de10",
+        "name": "Tỉnh Bắc Giang"
+    },
+    {
+        "uid": "cc6adb53bb35417c9f8093a7d6008249",
+        "name": "Tỉnh Phú Thọ"
+    },
+    {
+        "uid": "febaa51aa45f42a4938ac5739e851922",
+        "name": "Tỉnh Vĩnh Phúc"
+    },
+    {
+        "uid": "a4297e5764854b4dbc047e8d513e522c",
+        "name": "Tỉnh Bắc Ninh"
+    },
+    {
+        "uid": "e07c119dea2f4f0d9cfebfd18f0f6e14",
+        "name": "Tỉnh Hải Dương"
+    },
+    {
+        "uid": "c56a291656da4007b9f506c07251c39e",
+        "name": "Thành phố Hải Phòng"
+    },
+    {
+        "uid": "a20f7149499e4025a972c7ce9fb110a0",
+        "name": "Tỉnh Hưng Yên"
+    },
+    {
+        "uid": "6762fa77e8024245a9f89323c76f0263",
+        "name": "Tỉnh Thái Bình"
+    },
+    {
+        "uid": "48bf3e864dad4dcab1558b1c6fc9cde5",
+        "name": "Tỉnh Hà Nam"
+    },
+    {
+        "uid": "78e337d5898d400385956e428ed4e778",
+        "name": "Tỉnh Nam Định"
+    },
+    {
+        "uid": "0d3466159ef14169babb85cbc522db10",
+        "name": "Tỉnh Ninh Bình"
+    },
+    {
+        "uid": "a7b2b56d10744458acb7ae9053f8f7f4",
+        "name": "Tỉnh Thanh Hóa"
+    },
+    {
+        "uid": "60d5e267fb2b418b8faad1082a7995e1",
+        "name": "Tỉnh Nghệ An"
+    },
+    {
+        "uid": "3262bec8d162459bb9bbf262e449ba62",
+        "name": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "uid": "88b2647025364d1e9fb4a761d6b01450",
+        "name": "Tỉnh Quảng Bình"
+    },
+    {
+        "uid": "3be05628cf7b4da7940cebef6db6863e",
+        "name": "Tỉnh Quảng Trị"
+    },
+    {
+        "uid": "6793164626764410828dbf683afef221",
+        "name": "Tỉnh Thừa Thiên Huế"
+    },
+    {
+        "uid": "49d3eea208674f14879c4324b849d016",
+        "name": "Thành phố Đà Nẵng"
+    },
+    {
+        "uid": "f57b3356821544edb3d800fec8f7de90",
+        "name": "Tỉnh Quảng Nam"
+    },
+    {
+        "uid": "ca14cfe2639141439e5aea4f67d03dea",
+        "name": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "uid": "cbe850fcbdda45fd9857081931fba630",
+        "name": "Tỉnh Bình Định"
+    },
+    {
+        "uid": "e623c8b32264442e8b828d2cc61297ca",
+        "name": "Tỉnh Phú Yên"
+    },
+    {
+        "uid": "176bb874ca664a19a502bc3434389ac3",
+        "name": "Tỉnh Khánh Hòa"
+    },
+    {
+        "uid": "ecee8e69e5f4485e8e0d6aa88ef73303",
+        "name": "Tỉnh Ninh Thuận"
+    },
+    {
+        "uid": "043bf570162d4862bc418fada0776b23",
+        "name": "Tỉnh Bình Thuận"
+    },
+    {
+        "uid": "758257bd1cee477fb908cd9436910718",
+        "name": "Tỉnh Kon Tum"
+    },
+    {
+        "uid": "79ebf24e8fda4d56bd0d6a5c731a9825",
+        "name": "Tỉnh Gia Lai"
+    },
+    {
+        "uid": "5944ea104bf04f009b7083ed65c6938e",
+        "name": "Tỉnh Đắk Lắk"
+    },
+    {
+        "uid": "220b143ea3da4e209252e1dc3a58f580",
+        "name": "Tỉnh Đắk Nông"
+    },
+    {
+        "uid": "fecec6fb2d304b6a98bf7b6df8472e4c",
+        "name": "Tỉnh Lâm Đồng"
+    },
+    {
+        "uid": "e0a5d497ea8c49d8b7c31d3604d9842f",
+        "name": "Tỉnh Bình Phước"
+    },
+    {
+        "uid": "888bcc0c6d084bab95710013be80c1c8",
+        "name": "Tỉnh Tây Ninh"
+    },
+    {
+        "uid": "c2fe5e0e2602460eb2e50cee83ca9e18",
+        "name": "Tỉnh Bình Dương"
+    },
+    {
+        "uid": "2e87098264ce46cf82bb0c89753b89d9",
+        "name": "Tỉnh Đồng Nai"
+    },
+    {
+        "uid": "c9b0be258b5d41029c7c1e014e88d0fa",
+        "name": "Tỉnh Bà Rịa - Vũng Tàu"
+    },
+    {
+        "uid": "7ec4b6d211574b0695d8bd62b038000b",
+        "name": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "uid": "a38ddd536b994decb486f8797a8742e7",
+        "name": "Tỉnh Long An"
+    },
+    {
+        "uid": "a478ef1351c842dda62c95ccd38d4e96",
+        "name": "Tỉnh Tiền Giang"
+    },
+    {
+        "uid": "77834df262144a08815f5d96fa7f12d1",
+        "name": "Tỉnh Bến Tre"
+    },
+    {
+        "uid": "2b02c8cff86443288f9b970364877492",
+        "name": "Tỉnh Trà Vinh"
+    },
+    {
+        "uid": "01b3111adfbf466b9fbfd91e636c7de0",
+        "name": "Tỉnh Vĩnh Long"
+    },
+    {
+        "uid": "e1557c2d71fd4744ae126d6ee4dc5c71",
+        "name": "Tỉnh Đồng Tháp"
+    },
+    {
+        "uid": "d1a645c7263c4a19b6f74a3386be8d48",
+        "name": "Tỉnh An Giang"
+    },
+    {
+        "uid": "2d45f4b7a9284b4ea15976f8f4608c45",
+        "name": "Tỉnh Kiên Giang"
+    },
+    {
+        "uid": "e4b68ef3238545fd8b15c955eae6f8dc",
+        "name": "Thành phố Cần Thơ"
+    },
+    {
+        "uid": "59a88fc9046c4b338910e2ad7cfada39",
+        "name": "Tỉnh Hậu Giang"
+    },
+    {
+        "uid": "ea9d015c95a54ee1b0eee3c133c516ab",
+        "name": "Tỉnh Sóc Trăng"
+    },
+    {
+        "uid": "1249e2791ca5479197fd522985333496",
+        "name": "Tỉnh Bạc Liêu"
+    },
+    {
+        "uid": "cd65ab1d36d8443f9eed3e14b88a48d7",
+        "name": "Tỉnh Cà Mau"
+    }
+]

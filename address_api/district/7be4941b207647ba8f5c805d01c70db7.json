@@ -1,0 +1,50 @@
+{
+    "uid": "7be4941b207647ba8f5c805d01c70db7",
+    "name": "Huyện Mỹ Lộc",
+    "wards": [
+        {
+            "uid": "7cee83e2134c4391ab7bc199b63958bd",
+            "name": "Thị trấn Mỹ Lộc"
+        },
+        {
+            "uid": "d978680a2571436b90ada2afd3ca3855",
+            "name": "Xã Mỹ Hà"
+        },
+        {
+            "uid": "a6bdcadb9af4456d95d499b4a474395b",
+            "name": "Xã Mỹ Tiến"
+        },
+        {
+            "uid": "724abbde456e440fb6e9c2f51105c6ff",
+            "name": "Xã Mỹ Thắng"
+        },
+        {
+            "uid": "1d723bd121d54b838d956b80c9edbfa0",
+            "name": "Xã Mỹ Trung"
+        },
+        {
+            "uid": "511ced571588417794b9fd05ec98b76f",
+            "name": "Xã Mỹ Tân"
+        },
+        {
+            "uid": "fd97088f434c462fb3c422c4b7f62a41",
+            "name": "Xã Mỹ Phúc"
+        },
+        {
+            "uid": "86cf271ae6fb413db594344c5985da04",
+            "name": "Xã Mỹ Hưng"
+        },
+        {
+            "uid": "af7ae9c7fbcb431c9205c50eaa6f1f26",
+            "name": "Xã Mỹ Thuận"
+        },
+        {
+            "uid": "b34aa873dfac4fd483c669dd358cceba",
+            "name": "Xã Mỹ Thịnh"
+        },
+        {
+            "uid": "474ea43501a848e890c1ddeae8b7b5e2",
+            "name": "Xã Mỹ Thành"
+        }
+    ]
+}

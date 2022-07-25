@@ -1,0 +1,46 @@
+{
+    "uid": "0843b52ab83441feb61cd0e2a73e7931",
+    "name": "Thành phố Bạc Liêu",
+    "wards": [
+        {
+            "uid": "450c89986a9e44728a405b1ff98f8814",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "e195a1c2739f456d81739b54648a8d60",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "86fe35baf9694ff38a816f4324d67cae",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "601c8a22be5645bebba97a78d072101a",
+            "name": "Phường 7"
+        },
+        {
+            "uid": "4fd546b92ca64348926e7f7ead2af10b",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "ab517a0fcf9749b3a584a9dc92a1586f",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "7ae58ebbb4394da9b55c55e2318e6457",
+            "name": "Phường Nhà Mát"
+        },
+        {
+            "uid": "972b54abcfe643d8a1c5ba9a88d940b2",
+            "name": "Xã Vĩnh Trạch"
+        },
+        {
+            "uid": "12c61ec128df47dbb594a2dbcc4aacc9",
+            "name": "Xã Vĩnh Trạch Đông"
+        },
+        {
+            "uid": "9cedb64144494c53a9a8fd46160bdad9",
+            "name": "Xã Hiệp Thành"
+        }
+    ]
+}

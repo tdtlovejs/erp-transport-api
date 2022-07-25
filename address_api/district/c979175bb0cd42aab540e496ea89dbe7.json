@@ -1,0 +1,114 @@
+{
+    "uid": "c979175bb0cd42aab540e496ea89dbe7",
+    "name": "Huyện Phú Xuyên",
+    "wards": [
+        {
+            "uid": "44f03260dabe42e09745791293e40981",
+            "name": "Thị trấn Phú Minh"
+        },
+        {
+            "uid": "d0f0abda8f5c426f8b5366f1b4adabbe",
+            "name": "Thị trấn Phú Xuyên"
+        },
+        {
+            "uid": "0d37e73f932d4812ac637e0bcfdad890",
+            "name": "Xã Hồng Minh"
+        },
+        {
+            "uid": "f55fd7e02c974ba49525eda447aab84b",
+            "name": "Xã Phượng Dực"
+        },
+        {
+            "uid": "8f36349c883644a992bae5bf63d31013",
+            "name": "Xã Nam Tiến"
+        },
+        {
+            "uid": "a3b7f94869b5475199ddac6cdde96010",
+            "name": "Xã Tri Trung"
+        },
+        {
+            "uid": "a48a5d2258284376ac537e8558468cec",
+            "name": "Xã Đại Thắng"
+        },
+        {
+            "uid": "2e6ea1ef7c85442780cf7eca0c2e8d88",
+            "name": "Xã Phú Túc"
+        },
+        {
+            "uid": "c3039990448a4cb0ace8106c34eaaaea",
+            "name": "Xã Văn Hoàng"
+        },
+        {
+            "uid": "c556f9a436eb485cae3df5c930ca8185",
+            "name": "Xã Hồng Thái"
+        },
+        {
+            "uid": "abef7e234b9c4cdc906fac3370dc2562",
+            "name": "Xã Hoàng Long"
+        },
+        {
+            "uid": "933ef5d31c0f4276af4cc700968bf043",
+            "name": "Xã Quang Trung"
+        },
+        {
+            "uid": "4a9912e29b024c5cbccea6cbeab96daa",
+            "name": "Xã Nam Phong"
+        },
+        {
+            "uid": "5897c01fb4e042a781ea8c2532269d40",
+            "name": "Xã Nam Triều"
+        },
+        {
+            "uid": "cf56201191c6403c9cc84237d69cb79b",
+            "name": "Xã Tân Dân"
+        },
+        {
+            "uid": "27b6d355f93f4cf488e84b375ffb6c36",
+            "name": "Xã Sơn Hà"
+        },
+        {
+            "uid": "a3a73a8f23824b3d87d99e7c00f3701d",
+            "name": "Xã Chuyên Mỹ"
+        },
+        {
+            "uid": "c83534bb62534898acea2c3acaa15842",
+            "name": "Xã Khai Thái"
+        },
+        {
+            "uid": "98960cdae9244cc8a0cea23e3e1575c6",
+            "name": "Xã Phúc Tiến"
+        },
+        {
+            "uid": "2492afd5e89c44bda0128dd55945aa29",
+            "name": "Xã Vân Từ"
+        },
+        {
+            "uid": "ed77ce3f350e4ec480db5973f24106f9",
+            "name": "Xã Tri Thủy"
+        },
+        {
+            "uid": "19dfaa2340854768abc548ee5b48699d",
+            "name": "Xã Đại Xuyên"
+        },
+        {
+            "uid": "6649166d970f4629b2cd310211d41bda",
+            "name": "Xã Phú Yên"
+        },
+        {
+            "uid": "893bad352320449ba2ecf487377618a8",
+            "name": "Xã Bạch Hạ"
+        },
+        {
+            "uid": "55d467656c9347dc83523fc5dc983794",
+            "name": "Xã Quang Lãng"
+        },
+        {
+            "uid": "8557352b285d40c99aa6714c4ae570bf",
+            "name": "Xã Châu Can"
+        },
+        {
+            "uid": "6af0c80e1a944ceb96e56e8c8af85265",
+            "name": "Xã Minh Tân"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uid": "ac428f50d19c4545aab45b46f3878817",
+    "name": "Huyện Thạnh Phú",
+    "wards": [
+        {
+            "uid": "fde33adbc9ef45cb838e8e1177b895a7",
+            "name": "Thị trấn Thạnh Phú"
+        },
+        {
+            "uid": "82aeb96036f84bf193bc58b119d3aa20",
+            "name": "Xã Phú Khánh"
+        },
+        {
+            "uid": "ba972793a5c74b79a9d08a622ad59689",
+            "name": "Xã Đại Điền"
+        },
+        {
+            "uid": "5af38711d42646fb9e64677e74460953",
+            "name": "Xã Quới Điền"
+        },
+        {
+            "uid": "847515765b714f69a1bf519856e444cf",
+            "name": "Xã Tân Phong"
+        },
+        {
+            "uid": "c460ed85920d4b6eb72c5f73a7adaa57",
+            "name": "Xã Mỹ Hưng"
+        },
+        {
+            "uid": "906f15e092564a8da3c1d7a08408703a",
+            "name": "Xã An Thạnh"
+        },
+        {
+            "uid": "c6d57fb2e4054117a337ed82dc96db4f",
+            "name": "Xã Thới Thạnh"
+        },
+        {
+            "uid": "80644348e37546e1be4c6815f0bef6f8",
+            "name": "Xã Hòa Lợi"
+        },
+        {
+            "uid": "618632117ec840ddb6b60a6db4705ea4",
+            "name": "Xã An Điền"
+        },
+        {
+            "uid": "5e632fdae44f4bc183bde74ad84402be",
+            "name": "Xã Bình Thạnh"
+        },
+        {
+            "uid": "1dd489d33a704d708a74755743c3634d",
+            "name": "Xã An Thuận"
+        },
+        {
+            "uid": "c9a163ef04104b799bee875946abea18",
+            "name": "Xã An Quy"
+        },
+        {
+            "uid": "ada7cee9f35e4cccbf4bc475729d6096",
+            "name": "Xã Thạnh Hải"
+        },
+        {
+            "uid": "4f92f15086654a60a9e019affd2b3982",
+            "name": "Xã An Nhơn"
+        },
+        {
+            "uid": "5b50686c5f394dceb0eba25babff06be",
+            "name": "Xã Giao Thạnh"
+        },
+        {
+            "uid": "216d1baa693e40cc91d1d62c23c10aac",
+            "name": "Xã Thạnh Phong"
+        },
+        {
+            "uid": "c87365c7de474aaab0962d94e909584c",
+            "name": "Xã Mỹ An"
+        }
+    ]
+}

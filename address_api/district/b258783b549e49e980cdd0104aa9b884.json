@@ -1,0 +1,74 @@
+{
+    "uid": "b258783b549e49e980cdd0104aa9b884",
+    "name": "Huyện Bảo Lạc",
+    "wards": [
+        {
+            "uid": "db7dca0399bd483eb3e1f95cffd9de56",
+            "name": "Thị trấn Bảo Lạc"
+        },
+        {
+            "uid": "92cf18e2e10d4b3aa246ee10f8ab008f",
+            "name": "Xã Cốc Pàng"
+        },
+        {
+            "uid": "6466cd1d717c4a198a860094b913e104",
+            "name": "Xã Thượng Hà"
+        },
+        {
+            "uid": "3cc06910b4be4b1497db50e31117de6a",
+            "name": "Xã Cô Ba"
+        },
+        {
+            "uid": "3dba6b00afff4f10a84b225ab5825e19",
+            "name": "Xã Bảo Toàn"
+        },
+        {
+            "uid": "5f8321832c00474f999b95f26f953b0c",
+            "name": "Xã Khánh Xuân"
+        },
+        {
+            "uid": "6a08cf039ad4442ea0f2ac1b9307de0b",
+            "name": "Xã Xuân Trường"
+        },
+        {
+            "uid": "52b362b4763842d382f625be5d659b79",
+            "name": "Xã Hồng Trị"
+        },
+        {
+            "uid": "1f67bd2d7d834369b21be6ff2e9d4922",
+            "name": "Xã Kim Cúc"
+        },
+        {
+            "uid": "f078561aff65475d8c5f3b642187a217",
+            "name": "Xã Phan Thanh"
+        },
+        {
+            "uid": "9b94260ae3cb43e68b8d15c213229434",
+            "name": "Xã Hồng An"
+        },
+        {
+            "uid": "63932df1ef864dffb17b22f7d7b771ee",
+            "name": "Xã Hưng Đạo"
+        },
+        {
+            "uid": "de2cfe8248574c8993c41b0ae17d3d91",
+            "name": "Xã Hưng Thịnh"
+        },
+        {
+            "uid": "5e3009f2ce72470c8adb5175ef593a81",
+            "name": "Xã Huy Giáp"
+        },
+        {
+            "uid": "34a77ab35e864153af7b8638152b40d9",
+            "name": "Xã Đình Phùng"
+        },
+        {
+            "uid": "0d47df19e6234cd397bb7f378263e334",
+            "name": "Xã Sơn Lập"
+        },
+        {
+            "uid": "f04d8a9c9f6d4e4181e59e1c7b8b024a",
+            "name": "Xã Sơn Lộ"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "uid": "c23eaab1c80e4e98801f5a726e4cf8fe",
+    "name": "Huyện Trà Ôn",
+    "wards": [
+        {
+            "uid": "473d0666fcb8422189b46086422a8b0b",
+            "name": "Thị trấn Trà Ôn"
+        },
+        {
+            "uid": "e52a80981b2242bba2bb152552f7ad71",
+            "name": "Xã Xuân Hiệp"
+        },
+        {
+            "uid": "360383acf1614600a0b09fb47a638629",
+            "name": "Xã Nhơn Bình"
+        },
+        {
+            "uid": "40c8d7d73aea47da81f7db98a87856e1",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "ba6432012508444996326c8b16b15f54",
+            "name": "Xã Thới Hòa"
+        },
+        {
+            "uid": "9dae165395744354bd4227d80f7026ac",
+            "name": "Xã Trà Côn"
+        },
+        {
+            "uid": "dcdb49782c5e478b82283660298df837",
+            "name": "Xã Tân Mỹ"
+        },
+        {
+            "uid": "dd05c7857df24df2aeb31917195fadcc",
+            "name": "Xã Hựu Thành"
+        },
+        {
+            "uid": "c868e353ecb846e093e44cffd426d81f",
+            "name": "Xã Vĩnh Xuân"
+        },
+        {
+            "uid": "b308812c7d8f4819adead8a9d05518cc",
+            "name": "Xã Thuận Thới"
+        },
+        {
+            "uid": "885234d3811f4220a1cc4ee12108481b",
+            "name": "Xã Phú Thành"
+        },
+        {
+            "uid": "546f2a3d483b4a65999c4cc37fedcf6a",
+            "name": "Xã Thiện Mỹ"
+        },
+        {
+            "uid": "0b575bcf7a6a48c29d5910d4650cf598",
+            "name": "Xã Lục Sỹ Thành"
+        },
+        {
+            "uid": "618fbf6a537849d5858ec9754d147baa",
+            "name": "Xã Tích Thiện"
+        }
+    ]
+}

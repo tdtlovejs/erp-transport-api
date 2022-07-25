@@ -1,0 +1,46 @@
+{
+    "uid": "75934f10f09146448d3f5cc685195e67",
+    "name": "Huyện Vũ Quang",
+    "wards": [
+        {
+            "uid": "836d45b333ff47849ddc3d5e81178851",
+            "name": "Thị trấn Vũ Quang"
+        },
+        {
+            "uid": "d157d4d738554776b81c4f4caf1a9db6",
+            "name": "Xã Ân Phú"
+        },
+        {
+            "uid": "d03e8f6e8bbb49a6bbb18792b942d516",
+            "name": "Xã Đức Giang"
+        },
+        {
+            "uid": "0cc8695b23924c2aac6e9cfbc5668f0f",
+            "name": "Xã Đức Lĩnh"
+        },
+        {
+            "uid": "c097e67e62c445c2b3f851088c10fe0d",
+            "name": "Xã Thọ Điền"
+        },
+        {
+            "uid": "ce1d5733503d427e9c5a955eae528684",
+            "name": "Xã Đức Hương"
+        },
+        {
+            "uid": "96c5060394444a129f11cead509992f3",
+            "name": "Xã Đức Bồng"
+        },
+        {
+            "uid": "0c2136f59f7640b58dcc210c9ecacc23",
+            "name": "Xã Đức Liên"
+        },
+        {
+            "uid": "9c63cfae21fa4542808f7fe3bd060b89",
+            "name": "Xã Hương Minh"
+        },
+        {
+            "uid": "bc2464107f8f4177b941079a1ef23e01",
+            "name": "Xã Quang Thọ"
+        }
+    ]
+}

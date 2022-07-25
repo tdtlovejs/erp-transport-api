@@ -1,0 +1,86 @@
+{
+    "uid": "3ae63ac306fa4eb18eabb1c589c0e889",
+    "name": "Huyện Hạ Hoà",
+    "wards": [
+        {
+            "uid": "31adf24d470947e7a48ef38442eb7056",
+            "name": "Thị trấn Hạ Hoà"
+        },
+        {
+            "uid": "fb8a267f49554085b30cfff870549c64",
+            "name": "Xã Đại Phạm"
+        },
+        {
+            "uid": "97855a1017154c56861662002133d0c2",
+            "name": "Xã Đan Thượng"
+        },
+        {
+            "uid": "2a1fbb9709ab46cba25ea5f0745450e5",
+            "name": "Xã Hà Lương"
+        },
+        {
+            "uid": "41e869727ef7404b92d008dd830c4907",
+            "name": "Xã Tứ Hiệp"
+        },
+        {
+            "uid": "19065ac860fd403587644cad03468b09",
+            "name": "Xã Hiền Lương"
+        },
+        {
+            "uid": "95827727f1bf4466a30797d9ebaf6f8b",
+            "name": "Xã Phương Viên"
+        },
+        {
+            "uid": "e182086e10574177824a7aa00a05c10b",
+            "name": "Xã Gia Điền"
+        },
+        {
+            "uid": "b16396e5c58f49e5855fbc70d6445524",
+            "name": "Xã Ấm Hạ"
+        },
+        {
+            "uid": "6c271aefb712417fb12fea20a8c5b8f7",
+            "name": "Xã Hương Xạ"
+        },
+        {
+            "uid": "a252e16db59e41f29d4f8e5609775e71",
+            "name": "Xã Xuân Áng"
+        },
+        {
+            "uid": "0905b86f0b644621bbaad949c833579c",
+            "name": "Xã Yên Kỳ"
+        },
+        {
+            "uid": "fd36c0aabfc441d4b6208a1c92b24bec",
+            "name": "Xã Minh Hạc"
+        },
+        {
+            "uid": "60a448a167654ed09519ccdd5337a6a6",
+            "name": "Xã Lang Sơn"
+        },
+        {
+            "uid": "c442f462f4ca4cb1a3486d69f43e8012",
+            "name": "Xã Bằng Giã"
+        },
+        {
+            "uid": "334c78ae3b0a4ec088f0eaa9ba036607",
+            "name": "Xã Yên Luật"
+        },
+        {
+            "uid": "0a799f5fbb9f45c1b73538bc9cd01f81",
+            "name": "Xã Vô Tranh"
+        },
+        {
+            "uid": "150c870182ee44afa522ba90d88d2153",
+            "name": "Xã Văn Lang"
+        },
+        {
+            "uid": "0b5d2fa901b6434487de4f3b5ac58aa6",
+            "name": "Xã Minh Côi"
+        },
+        {
+            "uid": "555c244ce41c4edba1304014003f4da9",
+            "name": "Xã Vĩnh Chân"
+        }
+    ]
+}

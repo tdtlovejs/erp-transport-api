@@ -1,0 +1,62 @@
+{
+    "uid": "3b8223abd38b4c74913b0f656e3928a2",
+    "name": "Huyện Long Thành",
+    "wards": [
+        {
+            "uid": "e14dd887db7b4633b0719a9f7e5c123a",
+            "name": "Thị trấn Long Thành"
+        },
+        {
+            "uid": "d94cdd6be3184952879c77da97758d9d",
+            "name": "Xã An Phước"
+        },
+        {
+            "uid": "7f3829dac93f4cb8bc3ab65a0eb471fd",
+            "name": "Xã Bình An"
+        },
+        {
+            "uid": "9b1f9ca075a34f3e9b60c9e6b6380e32",
+            "name": "Xã Long Đức"
+        },
+        {
+            "uid": "b20b517cee8243cb8b397596f2708fb9",
+            "name": "Xã Lộc An"
+        },
+        {
+            "uid": "26ba72ab81ca448499a5780e2f204152",
+            "name": "Xã Bình Sơn"
+        },
+        {
+            "uid": "39a74048d53341f1b97d523ca3e452e2",
+            "name": "Xã Tam An"
+        },
+        {
+            "uid": "1d0263c234aa40ae9c7000978c01684c",
+            "name": "Xã Cẩm Đường"
+        },
+        {
+            "uid": "f42c458bb10b4541a484f13d1b1dbeaa",
+            "name": "Xã Long An"
+        },
+        {
+            "uid": "fd23da817552489b917e3a5502e6a1b1",
+            "name": "Xã Bàu Cạn"
+        },
+        {
+            "uid": "e84a7628799e4b1287cb2355dc323c23",
+            "name": "Xã Long Phước"
+        },
+        {
+            "uid": "582f9d05c5324706af3775eb1cc06ed2",
+            "name": "Xã Phước Bình"
+        },
+        {
+            "uid": "3dc05ff2692e4c7f99ab8e75bddd63d9",
+            "name": "Xã Tân Hiệp"
+        },
+        {
+            "uid": "5590e1162ffe49daa71b43cb021f3aaf",
+            "name": "Xã Phước Thái"
+        }
+    ]
+}

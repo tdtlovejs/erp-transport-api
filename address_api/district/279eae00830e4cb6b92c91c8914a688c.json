@@ -1,0 +1,90 @@
+{
+    "uid": "279eae00830e4cb6b92c91c8914a688c",
+    "name": "Thành phố Quy Nhơn",
+    "wards": [
+        {
+            "uid": "5d24a5bb2d6a4f8384fbfe22a1a8491b",
+            "name": "Phường Nhơn Bình"
+        },
+        {
+            "uid": "4b991cee542e40e482fa7aa5347119f2",
+            "name": "Phường Nhơn Phú"
+        },
+        {
+            "uid": "67d44d911f61468ba66261d6df71bdf4",
+            "name": "Phường Đống Đa"
+        },
+        {
+            "uid": "c470b8de213b4e8eb27c16b791be5cf5",
+            "name": "Phường Trần Quang Diệu"
+        },
+        {
+            "uid": "bd7d50df8fb949ef832988d1c939b47c",
+            "name": "Phường Hải Cảng"
+        },
+        {
+            "uid": "0b781b2d46f94c14b10463d5b70d721a",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "a8c40d69385b419ca9d7580a6ee693b4",
+            "name": "Phường Thị Nại"
+        },
+        {
+            "uid": "6d4370a63bc54c54a6d4450a2750e5c6",
+            "name": "Phường Lê Hồng Phong"
+        },
+        {
+            "uid": "df0e876246e14d8d9947c0762023a038",
+            "name": "Phường Trần Hưng Đạo"
+        },
+        {
+            "uid": "ef48bb5cb1474ca59e71a4a58bcc7ebb",
+            "name": "Phường Ngô Mây"
+        },
+        {
+            "uid": "64bda48da1c24251a6df53a144996d37",
+            "name": "Phường Lý Thường Kiệt"
+        },
+        {
+            "uid": "5ab61823a71144ddaf438057af7942b6",
+            "name": "Phường Lê Lợi"
+        },
+        {
+            "uid": "93bc1b261ebe4d69a5c1498d193f1820",
+            "name": "Phường Trần Phú"
+        },
+        {
+            "uid": "ce71518d284f4efe81ae399e0261949a",
+            "name": "Phường Bùi Thị Xuân"
+        },
+        {
+            "uid": "539d1ddd4bad4d9b834a5cb753c3bab2",
+            "name": "Phường Nguyễn Văn Cừ"
+        },
+        {
+            "uid": "82948ca51bfc409e8dd5ab62e7d29d5a",
+            "name": "Phường Ghềnh Ráng"
+        },
+        {
+            "uid": "00089e7387cb4db3baf513ce9ac3b42c",
+            "name": "Xã Nhơn Lý"
+        },
+        {
+            "uid": "f86d5fb74eb14e41823445a57bb6c28e",
+            "name": "Xã Nhơn Hội"
+        },
+        {
+            "uid": "16060586b38b4970a9dc68d89c59fee4",
+            "name": "Xã Nhơn Hải"
+        },
+        {
+            "uid": "7a6ba61aa507432db43d157555451542",
+            "name": "Xã Nhơn Châu"
+        },
+        {
+            "uid": "b0ef9043c74446f2890cc83d0cfeb0df",
+            "name": "Xã Phước Mỹ"
+        }
+    ]
+}

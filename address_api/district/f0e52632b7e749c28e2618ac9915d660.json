@@ -1,0 +1,106 @@
+{
+    "uid": "f0e52632b7e749c28e2618ac9915d660",
+    "name": "Thành phố Hải Dương",
+    "wards": [
+        {
+            "uid": "a5bb28fe55234c3590e82295b13cc5cd",
+            "name": "Phường Cẩm Thượng"
+        },
+        {
+            "uid": "a7bf0d7c8508461498e78128867065a5",
+            "name": "Phường Bình Hàn"
+        },
+        {
+            "uid": "73e2b1a4b76e40e89b11cbbfc61fa77e",
+            "name": "Phường Ngọc Châu"
+        },
+        {
+            "uid": "dcafe3f01d3c40aabe24f9718e14bcde",
+            "name": "Phường Nhị Châu"
+        },
+        {
+            "uid": "512fe89bf3bd44dda4fbbc14d2f7f293",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "d02bc5cfc1e4419f90bd6ceb03b24e2e",
+            "name": "Phường Nguyễn Trãi"
+        },
+        {
+            "uid": "ab44b2ec36fb4e06a78a5ca9a44d93a7",
+            "name": "Phường Phạm Ngũ Lão"
+        },
+        {
+            "uid": "dcf8cc43cdc24951855981bcf0ed21d7",
+            "name": "Phường Trần Hưng Đạo"
+        },
+        {
+            "uid": "8a423f32749b4a14a7f752271803bb35",
+            "name": "Phường Trần Phú"
+        },
+        {
+            "uid": "98b83e41d53b47a09a9a6e1bf1ab1e45",
+            "name": "Phường Thanh Bình"
+        },
+        {
+            "uid": "65bfc813799a49a08b914b09afa8e41c",
+            "name": "Phường Tân Bình"
+        },
+        {
+            "uid": "87d856ce1b284893b31295ebce223b04",
+            "name": "Phường Lê Thanh Nghị"
+        },
+        {
+            "uid": "bb13a8913289474fbadfe3b3b1d80d24",
+            "name": "Phường Hải Tân"
+        },
+        {
+            "uid": "ebab10c57d194ea6bc9b032ce8961845",
+            "name": "Phường Tứ Minh"
+        },
+        {
+            "uid": "bee5c3a80cde43219cb52021d8b71672",
+            "name": "Phường Việt Hoà"
+        },
+        {
+            "uid": "d2bb3e44edcb44e6a89e5d82fce8010b",
+            "name": "Phường Ái Quốc"
+        },
+        {
+            "uid": "6640c92dac754097b344f4402d05109e",
+            "name": "Xã An Thượng"
+        },
+        {
+            "uid": "2e7847ea827f44aca7e813af247f136e",
+            "name": "Phường Nam Đồng"
+        },
+        {
+            "uid": "bb46134bd1ad4e9a87ed9e7278ee9a64",
+            "name": "Xã Quyết Thắng"
+        },
+        {
+            "uid": "81d85fc5d337435881c0bff30d09bb94",
+            "name": "Xã Tiền Tiến"
+        },
+        {
+            "uid": "40e0a6c63bfc42d08f278dab35fb4a3f",
+            "name": "Phường Thạch Khôi"
+        },
+        {
+            "uid": "2f57d2df29d345218504b858b88289e8",
+            "name": "Xã Liên Hồng"
+        },
+        {
+            "uid": "e41b6453dd564b5a92552707d3c6ff61",
+            "name": "Phường Tân Hưng"
+        },
+        {
+            "uid": "a0539274cbd94e85b03a86baf4d7188b",
+            "name": "Xã Gia Xuyên"
+        },
+        {
+            "uid": "2baf789751f84dfda6509ed399e48b2c",
+            "name": "Xã Ngọc Sơn"
+        }
+    ]
+}

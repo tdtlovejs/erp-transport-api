@@ -1,0 +1,78 @@
+{
+    "uid": "9909e162af304f389ef31113e525eb0c",
+    "name": "Huyện Triệu Phong",
+    "wards": [
+        {
+            "uid": "5f39533b771349609d4e24247a5465d9",
+            "name": "Thị Trấn Ái Tử"
+        },
+        {
+            "uid": "df86d2921b1a4cd4aab0a2267db879bd",
+            "name": "Xã Triệu An"
+        },
+        {
+            "uid": "3624b2ad155e430fa1d1614b0e2fbd67",
+            "name": "Xã Triệu Vân"
+        },
+        {
+            "uid": "cb8326d99b6a456a89e3c23014f5650f",
+            "name": "Xã Triệu Phước"
+        },
+        {
+            "uid": "4558ca870b754ad5ad865a76c9045f37",
+            "name": "Xã Triệu Độ"
+        },
+        {
+            "uid": "8ddb66e3b7494add88621f0d4178edcc",
+            "name": "Xã Triệu Trạch"
+        },
+        {
+            "uid": "14ec2599060a4ed487f8181997191a60",
+            "name": "Xã Triệu Thuận"
+        },
+        {
+            "uid": "b432203d293045408a59bff5110f0c8b",
+            "name": "Xã Triệu Đại"
+        },
+        {
+            "uid": "77acef474d0b4c8a86a24064fd51ad2c",
+            "name": "Xã Triệu Hòa"
+        },
+        {
+            "uid": "b2d6f54964c44c5b9867254edbc4f6e0",
+            "name": "Xã Triệu Lăng"
+        },
+        {
+            "uid": "abb5fc9614ca4ec4b7de8dde2a787304",
+            "name": "Xã Triệu Sơn"
+        },
+        {
+            "uid": "cae58ffba1bb42849aac7fe726df668e",
+            "name": "Xã Triệu Long"
+        },
+        {
+            "uid": "f218a48489f94502b5837c18ff2d8f12",
+            "name": "Xã Triệu Tài"
+        },
+        {
+            "uid": "a9131b92cd9547efa84ac94d6bce6580",
+            "name": "Xã Triệu Trung"
+        },
+        {
+            "uid": "3d1bac6921874ea3b80ea9bc11bed0dc",
+            "name": "Xã Triệu Ái"
+        },
+        {
+            "uid": "547a3ad5d39e483b90dc0370f2472867",
+            "name": "Xã Triệu Thượng"
+        },
+        {
+            "uid": "4244dd86257a46c1a10eaf9881508ff7",
+            "name": "Xã Triệu Giang"
+        },
+        {
+            "uid": "4db0a739989a4753b384c0a931bbaec5",
+            "name": "Xã Triệu Thành"
+        }
+    ]
+}

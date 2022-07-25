@@ -1,0 +1,70 @@
+{
+    "uid": "aabde78b3845458294933dbfa2d945bf",
+    "name": "Huyện Krông Pắc",
+    "wards": [
+        {
+            "uid": "2765a146141645a7929bbb3a3ebc842c",
+            "name": "Thị trấn Phước An"
+        },
+        {
+            "uid": "9768000dfb0640bbb5458413f4595cc5",
+            "name": "Xã KRông Búk"
+        },
+        {
+            "uid": "0d5b59e1f83e47dd8360565f9330b106",
+            "name": "Xã Ea Kly"
+        },
+        {
+            "uid": "1247fd525fc248ccaf43106c41996674",
+            "name": "Xã Ea Kênh"
+        },
+        {
+            "uid": "d7f671d6250340858ba6c7049e861ccf",
+            "name": "Xã Ea Phê"
+        },
+        {
+            "uid": "960b9da300c94cf48fcdc1d5abbcc07c",
+            "name": "Xã Ea KNuec"
+        },
+        {
+            "uid": "d07049abd8bb411c9fcd5f4cd5384db8",
+            "name": "Xã Ea Yông"
+        },
+        {
+            "uid": "a7be36373582403892a9ccbf82684e5d",
+            "name": "Xã Hòa An"
+        },
+        {
+            "uid": "e31bd604aed04724bc847ef6527d1911",
+            "name": "Xã Ea Kuăng"
+        },
+        {
+            "uid": "ba66f31980d049a9acd36a4f78075e95",
+            "name": "Xã Hòa Đông"
+        },
+        {
+            "uid": "d6c00f03d3234dfdb9d2a3cc7cd55e40",
+            "name": "Xã Ea Hiu"
+        },
+        {
+            "uid": "bed2f25aff354fc7815bf65647e305d3",
+            "name": "Xã Hòa Tiến"
+        },
+        {
+            "uid": "e94eb660139a4ef989382a0ac7555985",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "89105deb550e4c00acc3ef2310d33ece",
+            "name": "Xã Vụ Bổn"
+        },
+        {
+            "uid": "751494f980bf493a8af04a9b44beb211",
+            "name": "Xã Ea Uy"
+        },
+        {
+            "uid": "f5e6e6bbd332414f99957bbb08c148ba",
+            "name": "Xã Ea Yiêng"
+        }
+    ]
+}

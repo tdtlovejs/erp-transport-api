@@ -1,0 +1,74 @@
+{
+    "uid": "a0abf2ca739d4f28b19a7fab302254ff",
+    "name": "Huyện Bảo Yên",
+    "wards": [
+        {
+            "uid": "a7a79662600b4b269b02eb5ccfc55202",
+            "name": "Thị trấn Phố Ràng"
+        },
+        {
+            "uid": "2d4ae52bf226403fba161b80e30fe726",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "d33c44d420254da4bee00da9ca714322",
+            "name": "Xã Nghĩa Đô"
+        },
+        {
+            "uid": "64183fd15f3b47a680337b6c7ea5e73d",
+            "name": "Xã Vĩnh Yên"
+        },
+        {
+            "uid": "0d6ece5607fc44839fe2fe90596c3db2",
+            "name": "Xã Điện Quan"
+        },
+        {
+            "uid": "769af868f60c426bbbfe966f3e59cbd7",
+            "name": "Xã Xuân Hoà"
+        },
+        {
+            "uid": "b90cdb2342374cec9315d4dbcb82a666",
+            "name": "Xã Tân Dương"
+        },
+        {
+            "uid": "bbfde37251dc43e18947613cde0748ef",
+            "name": "Xã Thượng Hà"
+        },
+        {
+            "uid": "5db57b6372f44872900139e3d31781ca",
+            "name": "Xã Kim Sơn"
+        },
+        {
+            "uid": "44f0fc762c274768927a4bb9f87622fb",
+            "name": "Xã Cam Cọn"
+        },
+        {
+            "uid": "58ab028a2e454ad0b84c27084349872c",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "3acf27618b2b4062887768c95ea6d9de",
+            "name": "Xã Xuân Thượng"
+        },
+        {
+            "uid": "6704ec6876db48b59579833b84a5cf13",
+            "name": "Xã Việt Tiến"
+        },
+        {
+            "uid": "0aeda14729744b4793ba36b21b31a783",
+            "name": "Xã Yên Sơn"
+        },
+        {
+            "uid": "752e9ad559ee4da58f694a382a6fe1f3",
+            "name": "Xã Bảo Hà"
+        },
+        {
+            "uid": "c5d4b630fcd04b078e6b590f5535eff1",
+            "name": "Xã Lương Sơn"
+        },
+        {
+            "uid": "478b1500bd6e4cd880cb47043a4fd86b",
+            "name": "Xã Phúc Khánh"
+        }
+    ]
+}

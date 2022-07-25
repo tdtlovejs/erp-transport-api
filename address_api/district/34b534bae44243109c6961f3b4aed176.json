@@ -1,0 +1,66 @@
+{
+    "uid": "34b534bae44243109c6961f3b4aed176",
+    "name": "Thành phố Cao Lãnh",
+    "wards": [
+        {
+            "uid": "ebd6b43a99804074a9ef2c7c0dcaa4c5",
+            "name": "Phường 11"
+        },
+        {
+            "uid": "16345ace08094d50a6a8b6fde01161de",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "bc5c30b268ec4da78a6ed37bfb7f43c2",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "f0bd5858b5054810bfdf24e0218ee85c",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "2649517e453a432e8dcd502bc626ac2a",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "31b8cec538ad47d485cc8c456e8eb8e3",
+            "name": "Phường 6"
+        },
+        {
+            "uid": "6d59f6c9ee8a4363a6463240be95051f",
+            "name": "Xã Mỹ Ngãi"
+        },
+        {
+            "uid": "c1f697c7b3f949d085b5902c22ff07fb",
+            "name": "Xã Mỹ Tân"
+        },
+        {
+            "uid": "f6d686e9742842039f7a938353ec842a",
+            "name": "Xã Mỹ Trà"
+        },
+        {
+            "uid": "fff749345de543cbaf104b84d6e0aadc",
+            "name": "Phường Mỹ Phú"
+        },
+        {
+            "uid": "f945182022b34dd2afdfcaba8f053e78",
+            "name": "Xã Tân Thuận Tây"
+        },
+        {
+            "uid": "4a9a47ebd9ab4a57977e77ead61a60fc",
+            "name": "Phường Hoà Thuận"
+        },
+        {
+            "uid": "26207ca5ad094fe3aed8606e1433770c",
+            "name": "Xã Hòa An"
+        },
+        {
+            "uid": "7b5a4bfa9d9b4d8ebc0257f9e1bf13e6",
+            "name": "Xã Tân Thuận Đông"
+        },
+        {
+            "uid": "e2205986a97f423aa839cc3927e0ba96",
+            "name": "Xã Tịnh Thới"
+        }
+    ]
+}

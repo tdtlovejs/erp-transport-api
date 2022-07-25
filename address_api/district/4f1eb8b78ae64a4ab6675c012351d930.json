@@ -1,0 +1,126 @@
+{
+    "uid": "4f1eb8b78ae64a4ab6675c012351d930",
+    "name": "Huyện Vĩnh Bảo",
+    "wards": [
+        {
+            "uid": "32472cb9aa514cb298e900bbec1c4516",
+            "name": "Thị trấn Vĩnh Bảo"
+        },
+        {
+            "uid": "32000d41b632488389a2adc92660d7c2",
+            "name": "Xã Dũng Tiến"
+        },
+        {
+            "uid": "2a374d28036b41869a71196ec8e5df38",
+            "name": "Xã Giang Biên"
+        },
+        {
+            "uid": "0dbc7e21e39341789423954912281d6b",
+            "name": "Xã Thắng Thuỷ"
+        },
+        {
+            "uid": "d991cc2236e54f109192ed5d6efef40f",
+            "name": "Xã Trung Lập"
+        },
+        {
+            "uid": "a2a2f929e6ed467899feb352994cdafd",
+            "name": "Xã Việt Tiến"
+        },
+        {
+            "uid": "df7ac08e5e434dbf9ff35cf44b5fb517",
+            "name": "Xã Vĩnh An"
+        },
+        {
+            "uid": "4a39b42eaa39416ea83c8a174711db21",
+            "name": "Xã Vĩnh Long"
+        },
+        {
+            "uid": "ae628538d1dc476da1395fd9766ce324",
+            "name": "Xã Hiệp Hoà"
+        },
+        {
+            "uid": "e5c27c8f53b54697ba31c5a80b6fcbb9",
+            "name": "Xã Hùng Tiến"
+        },
+        {
+            "uid": "98541dbb4b9f4f10be290c141818ccff",
+            "name": "Xã An Hoà"
+        },
+        {
+            "uid": "e2abb509b1d24711a449e0b4406802a7",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "cc5e3920996e44979b9cc66130af5ef6",
+            "name": "Xã Tân Liên"
+        },
+        {
+            "uid": "9fd5f16a31324309a875f2f9f4be91b3",
+            "name": "Xã Nhân Hoà"
+        },
+        {
+            "uid": "515778f5054c4b5d97f84acc05f348c3",
+            "name": "Xã Tam Đa"
+        },
+        {
+            "uid": "009b12cdd5b6433dba4b41c17d9925ce",
+            "name": "Xã Hưng Nhân"
+        },
+        {
+            "uid": "b46e3e64114f4266b2bfbd6d4e6580d0",
+            "name": "Xã Vinh Quang"
+        },
+        {
+            "uid": "6cbd3a3e7a3a48409f2bea38a9f91170",
+            "name": "Xã Đồng Minh"
+        },
+        {
+            "uid": "2f6bade1cebf4a63aedd01c681968fc8",
+            "name": "Xã Thanh Lương"
+        },
+        {
+            "uid": "ae38f80b14cc410b86204c02d88372ad",
+            "name": "Xã Liên Am"
+        },
+        {
+            "uid": "19240c9c356e4a4187c2feb4aee12df0",
+            "name": "Xã Lý Học"
+        },
+        {
+            "uid": "827669740ea347b6a93cd476fde02bb0",
+            "name": "Xã Tam Cường"
+        },
+        {
+            "uid": "e429bc33063e4d4e900652213d9eae50",
+            "name": "Xã Hoà Bình"
+        },
+        {
+            "uid": "e0a90f22a3eb40b0988681aeaa11d862",
+            "name": "Xã Tiền Phong"
+        },
+        {
+            "uid": "68884074b73e46e48094fc70725deacf",
+            "name": "Xã Vĩnh Phong"
+        },
+        {
+            "uid": "bd6a7db44ece4d43889334e18807035e",
+            "name": "Xã Cộng Hiền"
+        },
+        {
+            "uid": "8e1da2d41f634966bce7bfc0990b2c18",
+            "name": "Xã Cao Minh"
+        },
+        {
+            "uid": "41fba8143a034740877a4807411e6647",
+            "name": "Xã Cổ Am"
+        },
+        {
+            "uid": "9d65e767a9f34bb8820e57e58cc6b4fd",
+            "name": "Xã Vĩnh Tiến"
+        },
+        {
+            "uid": "e394dbe18d744eb48cdefe8b69f7baf8",
+            "name": "Xã Trấn Dương"
+        }
+    ]
+}

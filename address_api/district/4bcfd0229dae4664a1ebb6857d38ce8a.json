@@ -1,0 +1,74 @@
+{
+    "uid": "4bcfd0229dae4664a1ebb6857d38ce8a",
+    "name": "Huyện An Lão",
+    "wards": [
+        {
+            "uid": "538666b5a1414e78970a319ab28ce2c7",
+            "name": "Thị trấn An Lão"
+        },
+        {
+            "uid": "7d0da72122d4402fb376bcbe068b9e75",
+            "name": "Xã Bát Trang"
+        },
+        {
+            "uid": "cb4d53c497b7411f8c9e5078547ceb58",
+            "name": "Xã Trường Thọ"
+        },
+        {
+            "uid": "4881be4b5dcd46e8b2ac588e83967c2f",
+            "name": "Xã Trường Thành"
+        },
+        {
+            "uid": "afbc9c92eef74a489fdc4a1b24f1eab8",
+            "name": "Xã An Tiến"
+        },
+        {
+            "uid": "3565b701ef524ed1aa2948cbdf5a8131",
+            "name": "Xã Quang Hưng"
+        },
+        {
+            "uid": "e60dc525898c4aec84da3808f09073e7",
+            "name": "Xã Quang Trung"
+        },
+        {
+            "uid": "dcfab6bc48b145a9a68c68faaf162a38",
+            "name": "Xã Quốc Tuấn"
+        },
+        {
+            "uid": "c2f571d41c784ff1afc84a8214a89b42",
+            "name": "Xã An Thắng"
+        },
+        {
+            "uid": "0c097890b1894dc5ab184de66db8f975",
+            "name": "Thị trấn Trường Sơn"
+        },
+        {
+            "uid": "15392ee688cb4704886671a454441225",
+            "name": "Xã Tân Dân"
+        },
+        {
+            "uid": "56a7189a5b86491ab1740f5429652187",
+            "name": "Xã Thái Sơn"
+        },
+        {
+            "uid": "21e6873d5c674af79f2537e065fa1078",
+            "name": "Xã Tân Viên"
+        },
+        {
+            "uid": "e48ecfac932143ea944ee6f604143c33",
+            "name": "Xã Mỹ Đức"
+        },
+        {
+            "uid": "5bd5a06a3e054a98b9bd737833913695",
+            "name": "Xã Chiến Thắng"
+        },
+        {
+            "uid": "abea217b59fa45d68cc08a2e6d9bd42d",
+            "name": "Xã An Thọ"
+        },
+        {
+            "uid": "64b6e4c35ea8481a93e170872536ac98",
+            "name": "Xã An Thái"
+        }
+    ]
+}

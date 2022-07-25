@@ -1,0 +1,42 @@
+{
+    "uid": "b43d00ffb4df40779dc18968a14c8317",
+    "name": "Huyện Hồng Dân",
+    "wards": [
+        {
+            "uid": "f6d947e0b2ca47028d47c6a97e76542a",
+            "name": "Thị trấn Ngan Dừa"
+        },
+        {
+            "uid": "36b9ff3d9aff49d3b210298d841a2e59",
+            "name": "Xã Ninh Quới"
+        },
+        {
+            "uid": "171d7ff99a364c81af8437ec0605a48b",
+            "name": "Xã Ninh Quới A"
+        },
+        {
+            "uid": "1b275533eb3b42948e54f1405ed48e00",
+            "name": "Xã Ninh Hòa"
+        },
+        {
+            "uid": "84c5ef0b074842bda82661718bdfe9e2",
+            "name": "Xã Lộc Ninh"
+        },
+        {
+            "uid": "925cf148ab80481690b655ae81ebba4a",
+            "name": "Xã Vĩnh Lộc"
+        },
+        {
+            "uid": "4b1d5182621b4b79b65427ea5eb5f498",
+            "name": "Xã Vĩnh Lộc A"
+        },
+        {
+            "uid": "bfd87e64f7fa4f44ba3602be78c87edb",
+            "name": "Xã Ninh Thạnh Lợi A"
+        },
+        {
+            "uid": "41bc54a1401b4bbcb06051661f7cbce1",
+            "name": "Xã Ninh Thạnh Lợi"
+        }
+    ]
+}

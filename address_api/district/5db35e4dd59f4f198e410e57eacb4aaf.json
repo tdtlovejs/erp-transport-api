@@ -1,0 +1,78 @@
+{
+    "uid": "5db35e4dd59f4f198e410e57eacb4aaf",
+    "name": "Huyện Mê Linh",
+    "wards": [
+        {
+            "uid": "beff58ebc8944b53babf18b706323833",
+            "name": "Thị trấn Chi Đông"
+        },
+        {
+            "uid": "4f440b1c188b482282154a8c71f432e2",
+            "name": "Xã Đại Thịnh"
+        },
+        {
+            "uid": "1bd45a5ce1a84cc59538b1011df1374a",
+            "name": "Xã Kim Hoa"
+        },
+        {
+            "uid": "dfdd9a3ac10b4381aeda9aa54e3fbd92",
+            "name": "Xã Thạch Đà"
+        },
+        {
+            "uid": "d6f82105a7ce4ef1965430eeeeb6b890",
+            "name": "Xã Tiến Thắng"
+        },
+        {
+            "uid": "afc24c38315447e2bb0cd62a969ff111",
+            "name": "Xã Tự Lập"
+        },
+        {
+            "uid": "d12433363bdb4ffeb2bdae0e3e8a509f",
+            "name": "Thị trấn Quang Minh"
+        },
+        {
+            "uid": "f111c8ddcb364d4b9edb395782460468",
+            "name": "Xã Thanh Lâm"
+        },
+        {
+            "uid": "0706cd34c3a34adf8398b6379990ae29",
+            "name": "Xã Tam Đồng"
+        },
+        {
+            "uid": "3e7f5a15c9fb475ea3a74eaa496d0b2a",
+            "name": "Xã Liên Mạc"
+        },
+        {
+            "uid": "b41edebeb29a490fb837961c375ca4e9",
+            "name": "Xã Vạn Yên"
+        },
+        {
+            "uid": "17981797f1624270b76f3e8b5db937e8",
+            "name": "Xã Chu Phan"
+        },
+        {
+            "uid": "24204eb7e68e44fe90eab7330a7af941",
+            "name": "Xã Tiến Thịnh"
+        },
+        {
+            "uid": "9d4a5eaee8084785b142a688e8205087",
+            "name": "Xã Mê Linh"
+        },
+        {
+            "uid": "cbdd84e499ba4eb190aa571a85c32795",
+            "name": "Xã Văn Khê"
+        },
+        {
+            "uid": "0ff3b72377dc48cc88dc5eeae9c0d592",
+            "name": "Xã Hoàng Kim"
+        },
+        {
+            "uid": "c835837a9e7c4e24a9b13d8057177a68",
+            "name": "Xã Tiền Phong"
+        },
+        {
+            "uid": "ad18d019116d432b8b238bec3a81c630",
+            "name": "Xã Tráng Việt"
+        }
+    ]
+}

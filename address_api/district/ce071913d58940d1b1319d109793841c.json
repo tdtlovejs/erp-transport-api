@@ -1,0 +1,42 @@
+{
+    "uid": "ce071913d58940d1b1319d109793841c",
+    "name": "Thành phố Đông Hà",
+    "wards": [
+        {
+            "uid": "8e9471a05b704c45a37efff26be3a726",
+            "name": "Phường Đông Giang"
+        },
+        {
+            "uid": "ea50b28c77db4d808dd5296c1aed5c62",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "ffafe5b0653849bcb45a2ea15f340316",
+            "name": "Phường Đông Lễ"
+        },
+        {
+            "uid": "25b88aae83ef4de6a19a09cbbc4228c5",
+            "name": "Phường Đông Thanh"
+        },
+        {
+            "uid": "b56e61d9a0b9423e8b589717932188b1",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "37def261b2844b0a9a277dd4e1d5e072",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "7708bab85c2e4b66962375001f18a8bc",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "481cf99bdac64d3282e51adc1d02432e",
+            "name": "Phường Đông Lương"
+        },
+        {
+            "uid": "f27092f2309f4b19b9f26b2edbd00b63",
+            "name": "Phường 3"
+        }
+    ]
+}

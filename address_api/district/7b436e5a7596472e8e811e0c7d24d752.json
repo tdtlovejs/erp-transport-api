@@ -1,0 +1,110 @@
+{
+    "uid": "7b436e5a7596472e8e811e0c7d24d752",
+    "name": "Huyện Yên Định",
+    "wards": [
+        {
+            "uid": "e2f6a29cbf114919bba225ec88e2c164",
+            "name": "Thị trấn Thống Nhất"
+        },
+        {
+            "uid": "e718637250f243968583b40c43b8c53a",
+            "name": "Xã Yên Lâm"
+        },
+        {
+            "uid": "a96dc9ea16c84d589fb2fbfbbb8a9cba",
+            "name": "Xã Yên Tâm"
+        },
+        {
+            "uid": "71d1c170ca864604b90161334dccd319",
+            "name": "Xã Yên Phú"
+        },
+        {
+            "uid": "8a839b3ba7cd4701b4d78565ff4a3083",
+            "name": "Xã Quí Lộc"
+        },
+        {
+            "uid": "692fb4a7fa8044f7a49c6713289dc869",
+            "name": "Xã Yên Thọ"
+        },
+        {
+            "uid": "e68ab665a5c141589826e65e458d5721",
+            "name": "Xã Yên Trung"
+        },
+        {
+            "uid": "afa9fa2e32024b3a8b8e15cc0230d50d",
+            "name": "Xã Yên Trường"
+        },
+        {
+            "uid": "43c94a69e2b24ac29f6d8e41dd7c3b7d",
+            "name": "Xã Yên Phong"
+        },
+        {
+            "uid": "0dbf55af875640bb9570097184a06b9b",
+            "name": "Xã Yên Thái"
+        },
+        {
+            "uid": "54387e6f88814a55938a807218fef8ef",
+            "name": "Xã Yên Hùng"
+        },
+        {
+            "uid": "6362c8459f734e25851954d167f2d8dd",
+            "name": "Xã Yên Thịnh"
+        },
+        {
+            "uid": "01902b0da76f4f3aaa2d37b1e994d3ac",
+            "name": "Xã Yên Ninh"
+        },
+        {
+            "uid": "b77500a153fe4dcc963e4d2b750d0b2b",
+            "name": "Xã Yên Lạc"
+        },
+        {
+            "uid": "8075618ba41f407d9ccd8c6b384e40b5",
+            "name": "Xã Định Tăng"
+        },
+        {
+            "uid": "3dd749a670b44269835eb35c30f96d55",
+            "name": "Xã Định Hòa"
+        },
+        {
+            "uid": "b7a9f7d4ad5e48edb7e54cb6cafcbd48",
+            "name": "Xã Định Thành"
+        },
+        {
+            "uid": "8e4fc01fab9c46c0b2cb3a9003003270",
+            "name": "Xã Định Công"
+        },
+        {
+            "uid": "80a71cb30090440e80b45ea6dff7b375",
+            "name": "Xã Định Tân"
+        },
+        {
+            "uid": "15e7f9453ef44676a412fa08a9c7dbaf",
+            "name": "Xã Định Tiến"
+        },
+        {
+            "uid": "1c8927a0ca2343f285a0e9ab4f1518eb",
+            "name": "Xã Định Long"
+        },
+        {
+            "uid": "5cdcb0ba7f26498780cc11198fdd14e1",
+            "name": "Xã Định Liên"
+        },
+        {
+            "uid": "5f62467c8d6f4cadb01e659576e0c6c2",
+            "name": "Thị trấn Quán Lào"
+        },
+        {
+            "uid": "662349e6fd0f4c37a6ee10ebb27ec56b",
+            "name": "Xã Định Hưng"
+        },
+        {
+            "uid": "c9b2d33e7d8e44178b62abe6e24958ec",
+            "name": "Xã Định Hải"
+        },
+        {
+            "uid": "6660853ee5fb49d09d8371e6a3787354",
+            "name": "Xã Định Bình"
+        }
+    ]
+}

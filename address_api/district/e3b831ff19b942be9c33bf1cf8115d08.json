@@ -1,0 +1,86 @@
+{
+    "uid": "e3b831ff19b942be9c33bf1cf8115d08",
+    "name": "Huyện Nam Trực",
+    "wards": [
+        {
+            "uid": "2025f803a15546ccb1e6960cc9855eb3",
+            "name": "Thị trấn Nam Giang"
+        },
+        {
+            "uid": "a90d9a1d212d4e4ab28ebed2ce3c8fd1",
+            "name": "Xã Nam Mỹ"
+        },
+        {
+            "uid": "2a497d5fd434449aa2861886cfd7f821",
+            "name": "Xã Điền Xá"
+        },
+        {
+            "uid": "582c010cb85c4ae5851f28ecd09fe53c",
+            "name": "Xã Nghĩa An"
+        },
+        {
+            "uid": "db5df5afd90e4ab2bf29057d53cf2c15",
+            "name": "Xã Nam Thắng"
+        },
+        {
+            "uid": "fef2d3b49edc4a81ba45528f6570b6cd",
+            "name": "Xã Nam Toàn"
+        },
+        {
+            "uid": "8a656d7aae0349b4b9f653396e37bfd4",
+            "name": "Xã Hồng Quang"
+        },
+        {
+            "uid": "528e1f646bb84d52afb4d35327019923",
+            "name": "Xã Tân Thịnh"
+        },
+        {
+            "uid": "3c7bc484b99943e2996ef6837ad545e8",
+            "name": "Xã Nam Cường"
+        },
+        {
+            "uid": "97f192a4f53c42fd9bcf73cfebdcb4af",
+            "name": "Xã Nam Hồng"
+        },
+        {
+            "uid": "0381804582df45019c2134a16ea11bde",
+            "name": "Xã Nam Hùng"
+        },
+        {
+            "uid": "60aee2c0d6fb478a980ed965f8de3519",
+            "name": "Xã Nam Hoa"
+        },
+        {
+            "uid": "edc9adce97104542b45982a146fa4af5",
+            "name": "Xã Nam Dương"
+        },
+        {
+            "uid": "5109d00cfaba4365a1e0bdd8b19b4ff8",
+            "name": "Xã Nam Thanh"
+        },
+        {
+            "uid": "bbdc1ae9b7ab4c3b9d367dc40d3d744b",
+            "name": "Xã Nam Lợi"
+        },
+        {
+            "uid": "6113a8e56450443eb7ec525a9a87ba86",
+            "name": "Xã Bình Minh"
+        },
+        {
+            "uid": "bc6f2c5b0823403daa32a5430ab74860",
+            "name": "Xã Đồng Sơn"
+        },
+        {
+            "uid": "cb4e4fbf5ae846e19410074393a582b6",
+            "name": "Xã Nam Tiến"
+        },
+        {
+            "uid": "bdb0db7189734a45a65606d147b4d27d",
+            "name": "Xã Nam Hải"
+        },
+        {
+            "uid": "3b2bd587b6dc404e8f6d2333e290ba59",
+            "name": "Xã Nam Thái"
+        }
+    ]
+}

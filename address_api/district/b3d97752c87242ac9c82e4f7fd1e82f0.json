@@ -1,0 +1,98 @@
+{
+    "uid": "b3d97752c87242ac9c82e4f7fd1e82f0",
+    "name": "Huyện Hậu Lộc",
+    "wards": [
+        {
+            "uid": "10c9e5fbff164c67a3b2bcfcae188689",
+            "name": "Thị trấn Hậu Lộc"
+        },
+        {
+            "uid": "dddb817cc2d2451ea05e762212cd0b65",
+            "name": "Xã Đồng Lộc"
+        },
+        {
+            "uid": "2853ba451be24a86afb8a8b227026534",
+            "name": "Xã Đại Lộc"
+        },
+        {
+            "uid": "65edf5cad4844422abbb6546973c66b4",
+            "name": "Xã Triệu Lộc"
+        },
+        {
+            "uid": "bff631bbcd87441b8efa6f8452ab39d6",
+            "name": "Xã Tiến Lộc"
+        },
+        {
+            "uid": "739f98c30bc741a194ba046553451875",
+            "name": "Xã Lộc Sơn"
+        },
+        {
+            "uid": "20f3261f1ada428dbcd10a1657c0862d",
+            "name": "Xã Cầu Lộc"
+        },
+        {
+            "uid": "887768aa1bf946ca9bbafd69747c1bfa",
+            "name": "Xã Thành Lộc"
+        },
+        {
+            "uid": "c4d788fac7dd45a3a0a2573646237f3c",
+            "name": "Xã Tuy Lộc"
+        },
+        {
+            "uid": "25b320af7848407eb757406da2cf7d2c",
+            "name": "Xã Phong Lộc"
+        },
+        {
+            "uid": "160452140c624051888a8a8128813ccf",
+            "name": "Xã Mỹ Lộc"
+        },
+        {
+            "uid": "99ea683632bf4f47a419f23af4eb7464",
+            "name": "Xã Thuần Lộc"
+        },
+        {
+            "uid": "fcca082a91144277be213ce58cf7ccea",
+            "name": "Xã Xuân Lộc"
+        },
+        {
+            "uid": "dbf96bbf55a646308b5e34caac7405dd",
+            "name": "Xã Hoa Lộc"
+        },
+        {
+            "uid": "2f4854bbe1504b94bda9f419eb11e482",
+            "name": "Xã Liên Lộc"
+        },
+        {
+            "uid": "d52324fe4c99415e98a41a2237fe0866",
+            "name": "Xã Quang Lộc"
+        },
+        {
+            "uid": "9bca7c6e9f014bb2ae1dcfa17ed0a6cf",
+            "name": "Xã Phú Lộc"
+        },
+        {
+            "uid": "5824b1f867304d5989c882d68878ad4b",
+            "name": "Xã Hòa Lộc"
+        },
+        {
+            "uid": "b75dffb496f64cf9bec68ea3e029c747",
+            "name": "Xã Minh Lộc"
+        },
+        {
+            "uid": "c8706625888e414085463b1e3eb9b70b",
+            "name": "Xã Hưng Lộc"
+        },
+        {
+            "uid": "698f8f105d194e5ba1a4e2724b340b17",
+            "name": "Xã Hải Lộc"
+        },
+        {
+            "uid": "109d3c19220245d5abc3d799ab66ace4",
+            "name": "Xã Đa Lộc"
+        },
+        {
+            "uid": "34fc1c13832548b3b30fb224fe377ef8",
+            "name": "Xã Ngư Lộc"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "uid": "ddb3eb16e37e4be8a6311b0ea6c15be9",
+    "name": "Huyện Phú Thiện",
+    "wards": [
+        {
+            "uid": "9b560072283d4e47a4166d055c7435c6",
+            "name": "Thị trấn Phú Thiện"
+        },
+        {
+            "uid": "499d9904aefe46089bfc090a783b0696",
+            "name": "Xã Chư A Thai"
+        },
+        {
+            "uid": "5f062ae41fd8426f80d02f6381e299d1",
+            "name": "Xã Ayun Hạ"
+        },
+        {
+            "uid": "d61d5d52de19458da33e8b7fbc03dcd9",
+            "name": "Xã Ia Ake"
+        },
+        {
+            "uid": "dcd1c13a8c3f4ef8998201a52873c94c",
+            "name": "Xã Ia Sol"
+        },
+        {
+            "uid": "00a3c41d9a6744f8b79d2c735f0ce9c9",
+            "name": "Xã Ia Piar"
+        },
+        {
+            "uid": "c380e1dd4be04e4aa32bc572d3cf94bd",
+            "name": "Xã Ia Peng"
+        },
+        {
+            "uid": "e0aa0a9da8c840349c301be816270e06",
+            "name": "Xã Chrôh Pơnan"
+        },
+        {
+            "uid": "dc5bc63d3f3d4823898597e8736e8260",
+            "name": "Xã Ia Hiao"
+        },
+        {
+            "uid": "ccf99237f8784f5a806ff6fe166f95a4",
+            "name": "Xã Ia Yeng"
+        }
+    ]
+}

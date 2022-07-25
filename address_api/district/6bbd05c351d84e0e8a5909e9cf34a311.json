@@ -1,0 +1,38 @@
+{
+    "uid": "6bbd05c351d84e0e8a5909e9cf34a311",
+    "name": "Huyện Cư Kuin",
+    "wards": [
+        {
+            "uid": "7cbe25be11bb42829d631610e652fd28",
+            "name": "Xã Ea Ning"
+        },
+        {
+            "uid": "aae550ecc041486c99472b312d418424",
+            "name": "Xã Cư Ê Wi"
+        },
+        {
+            "uid": "c2b64719fcec4454a45e42393b8c5cfa",
+            "name": "Xã Ea Ktur"
+        },
+        {
+            "uid": "ade6bcc030114ffcbb1a42fc9b83c517",
+            "name": "Xã Ea Tiêu"
+        },
+        {
+            "uid": "3049c874ce364364bd86b2c9e6cd00a1",
+            "name": "Xã Ea BHốk"
+        },
+        {
+            "uid": "a1d5f2e6fd874d9b9f6e97c371e5b0a8",
+            "name": "Xã Ea Hu"
+        },
+        {
+            "uid": "43b8482714734f7a8740bb956d81de06",
+            "name": "Xã Dray Bhăng"
+        },
+        {
+            "uid": "bed5096e2d9f49809b76874f4293d913",
+            "name": "Xã Hòa Hiệp"
+        }
+    ]
+}

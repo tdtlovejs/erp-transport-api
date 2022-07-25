@@ -1,0 +1,38 @@
+{
+    "uid": "7dd478fbc09546ca85a4df4536150fda",
+    "name": "Huyện Ngọc Hồi",
+    "wards": [
+        {
+            "uid": "6618fb44c8534d43aa36e467e3f67d89",
+            "name": "Thị trấn Plei Kần"
+        },
+        {
+            "uid": "454d86788a5e4ac887c10f59f53b7bae",
+            "name": "Xã Đắk Ang"
+        },
+        {
+            "uid": "d3b65a4e3c9f43698ad91cce5a9bf85b",
+            "name": "Xã Đắk Dục"
+        },
+        {
+            "uid": "7436a25b2e6a41d496ac41d2b7171eb0",
+            "name": "Xã Đắk Nông"
+        },
+        {
+            "uid": "10b81d6d09f344b5993a8605e1628d8c",
+            "name": "Xã Đắk Xú"
+        },
+        {
+            "uid": "cdcd5ba45dab42e58cdaa6ce5b700e87",
+            "name": "Xã Đắk Kan"
+        },
+        {
+            "uid": "446268c387a84d1094331c992594900e",
+            "name": "Xã Bờ Y"
+        },
+        {
+            "uid": "abb1c8248e4247d5a2de05936f28cec3",
+            "name": "Xã Sa Loong"
+        }
+    ]
+}

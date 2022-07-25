@@ -1,0 +1,58 @@
+{
+    "uid": "fed0dfc7f4054e72b1d1fac975b0f1ec",
+    "name": "Huyện Tuy Phước",
+    "wards": [
+        {
+            "uid": "2e1093ef123f493fb6ee3a8492250fa3",
+            "name": "Thị trấn Tuy Phước"
+        },
+        {
+            "uid": "806fd9ea1c91429c8113f7f6a00dba5a",
+            "name": "Thị trấn Diêu Trì"
+        },
+        {
+            "uid": "cb3ec2226bb6414cb2da62285f8ac449",
+            "name": "Xã Phước Thắng"
+        },
+        {
+            "uid": "aff0cd64aeb64262ab2f8c664ee5e724",
+            "name": "Xã Phước Hưng"
+        },
+        {
+            "uid": "a443f16aa71245e89970035148548588",
+            "name": "Xã Phước Quang"
+        },
+        {
+            "uid": "13229bac7c4941b099e3d6d0c27f7738",
+            "name": "Xã Phước Hòa"
+        },
+        {
+            "uid": "5ea34df3c2fc491b9485c9988f992600",
+            "name": "Xã Phước Sơn"
+        },
+        {
+            "uid": "630f267412c04232964cbfaa0cd3aa83",
+            "name": "Xã Phước Hiệp"
+        },
+        {
+            "uid": "99a3c49b83c6440982a9a0cddd196acb",
+            "name": "Xã Phước Lộc"
+        },
+        {
+            "uid": "44c32d750aeb46aab3129bbf47a76c3c",
+            "name": "Xã Phước Nghĩa"
+        },
+        {
+            "uid": "00a849de46e34a0daa376d3c344edde5",
+            "name": "Xã Phước Thuận"
+        },
+        {
+            "uid": "6bbcdbfcda1247d895ff8079072f8f12",
+            "name": "Xã Phước An"
+        },
+        {
+            "uid": "902e79d0604846b3b2358234e3ffefd4",
+            "name": "Xã Phước Thành"
+        }
+    ]
+}

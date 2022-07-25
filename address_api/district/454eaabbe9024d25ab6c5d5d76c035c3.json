@@ -1,0 +1,70 @@
+{
+    "uid": "454eaabbe9024d25ab6c5d5d76c035c3",
+    "name": "Huyện Như Xuân",
+    "wards": [
+        {
+            "uid": "a9a72d88c24f4c48b4176efcc63cd8c2",
+            "name": "Thị trấn Yên Cát"
+        },
+        {
+            "uid": "fdd77e26c77c47afa792fef1f9e4bedc",
+            "name": "Xã Bãi Trành"
+        },
+        {
+            "uid": "e85ee528d7654bd29499470e9550b789",
+            "name": "Xã Xuân Hòa"
+        },
+        {
+            "uid": "081b69f7f0d04d999285e5721d6b360b",
+            "name": "Xã Xuân Bình"
+        },
+        {
+            "uid": "0f1a0b5d0bdb4ee9a16c620ed60b866b",
+            "name": "Xã Hóa Quỳ"
+        },
+        {
+            "uid": "505eea0c5ec44ea8852dbe011a9f96a6",
+            "name": "Xã Cát Vân"
+        },
+        {
+            "uid": "c4449415b7e44a1ab36fa7954a3d564a",
+            "name": "Xã Cát Tân"
+        },
+        {
+            "uid": "64d93b324bc4494385ab9232fdff3f3a",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "b350946a8abe4a37be2dd0eee5a474c2",
+            "name": "Xã Bình Lương"
+        },
+        {
+            "uid": "fc053c4006914250a435a349a77704e9",
+            "name": "Xã Thanh Quân"
+        },
+        {
+            "uid": "2162d8f984114924882e57628908156e",
+            "name": "Xã Thanh Xuân"
+        },
+        {
+            "uid": "f314e813e0f845b1b7871337066c51c3",
+            "name": "Xã Thanh Hòa"
+        },
+        {
+            "uid": "69534d1b00894f6999ba63abe374a950",
+            "name": "Xã Thanh Phong"
+        },
+        {
+            "uid": "33b53c7dc3e043ffa3ac07efe2109a3f",
+            "name": "Xã Thanh Lâm"
+        },
+        {
+            "uid": "7dfe1a7eac8649bea795feef1c2835ef",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "fc6afe0f1ca94ce4abe024610c1f3a68",
+            "name": "Xã Thượng Ninh"
+        }
+    ]
+}

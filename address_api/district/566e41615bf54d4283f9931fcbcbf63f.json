@@ -1,0 +1,78 @@
+{
+    "uid": "566e41615bf54d4283f9931fcbcbf63f",
+    "name": "Huyện Mèo Vạc",
+    "wards": [
+        {
+            "uid": "3b5fe0a2a4154c51b7146d868a7ac287",
+            "name": "Thị trấn Mèo Vạc"
+        },
+        {
+            "uid": "6094e92caf0f4929abd9ffea103dcc59",
+            "name": "Xã Thượng Phùng"
+        },
+        {
+            "uid": "e5c94ff06c8b4bc39c6ce89253329216",
+            "name": "Xã Pải Lủng"
+        },
+        {
+            "uid": "f44c505babcb434a8456eb78840d6fd5",
+            "name": "Xã Xín Cái"
+        },
+        {
+            "uid": "810a9c4641444ad693ced758edc1fe01",
+            "name": "Xã Pả Vi"
+        },
+        {
+            "uid": "6106eb6ef884478f8f5254c678a16403",
+            "name": "Xã Giàng Chu Phìn"
+        },
+        {
+            "uid": "c10ff4418e2141dc8eddc6ed2989efda",
+            "name": "Xã Sủng Trà"
+        },
+        {
+            "uid": "fb6f0ef189f343b2b33f4ce934453534",
+            "name": "Xã Sủng Máng"
+        },
+        {
+            "uid": "51573d3a0cbe42fd9ffbf255ca8938c2",
+            "name": "Xã Sơn Vĩ"
+        },
+        {
+            "uid": "2989b4344a9b4cfda8c693d905c6b7cc",
+            "name": "Xã Tả Lủng"
+        },
+        {
+            "uid": "bf0614b68623442da8748f16039e6a62",
+            "name": "Xã Cán Chu Phìn"
+        },
+        {
+            "uid": "6bef9e94779e4c498ef7b26eedf816ea",
+            "name": "Xã Lũng Pù"
+        },
+        {
+            "uid": "bae1419c1a96461e8c80df977694af29",
+            "name": "Xã Lũng Chinh"
+        },
+        {
+            "uid": "5ce08c27d50f4d3cbf140087335b54ae",
+            "name": "Xã Tát Ngà"
+        },
+        {
+            "uid": "1013a77ef81c4b3bb8036976cc6d5878",
+            "name": "Xã Nậm Ban"
+        },
+        {
+            "uid": "222df67ff53c43dcbee6d48878dc10ab",
+            "name": "Xã Khâu Vai"
+        },
+        {
+            "uid": "e73a4980ae534c3594212c86412f50fb",
+            "name": "Xã Niêm Tòng"
+        },
+        {
+            "uid": "1a5fc734485349f88b52d81eb7ca5979",
+            "name": "Xã Niêm Sơn"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "335ce8294d7245e5bcc791e531f95577",
+    "name": "Huyện Nậm Nhùn",
+    "wards": [
+        {
+            "uid": "557a5305d82149b689c7859fc5a6e0db",
+            "name": "Thị trấn Nậm Nhùn"
+        },
+        {
+            "uid": "e6aa22ab56f14555bc83f7e4baa15e82",
+            "name": "Xã Hua Bun"
+        },
+        {
+            "uid": "193eb281071944ea83fe7977672938b7",
+            "name": "Xã Mường Mô"
+        },
+        {
+            "uid": "87c818f1d0fd4a2796464a28cbeaf97b",
+            "name": "Xã Nậm Chà"
+        },
+        {
+            "uid": "946b4fa87b514d769cab87af435be1c2",
+            "name": "Xã Nậm Manh"
+        },
+        {
+            "uid": "d475c5412c3b4df0951ebab639ab14f4",
+            "name": "Xã Nậm Hàng"
+        },
+        {
+            "uid": "f96d85deeeb4427ebe8feef666bd7fdc",
+            "name": "Xã Lê Lợi"
+        },
+        {
+            "uid": "d9fbd2052236478c80badd3dff5d155d",
+            "name": "Xã Pú Đao"
+        },
+        {
+            "uid": "20bd88cce31b438e9bb4eb4745e126ab",
+            "name": "Xã Nậm Pì"
+        },
+        {
+            "uid": "f462f1708a07475ebcf04cd6a749035c",
+            "name": "Xã Nậm Ban"
+        },
+        {
+            "uid": "f76a479dab2c4a6a8d9101442811527a",
+            "name": "Xã Trung Chải"
+        }
+    ]
+}

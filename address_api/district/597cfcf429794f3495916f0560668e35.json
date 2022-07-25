@@ -1,0 +1,58 @@
+{
+    "uid": "597cfcf429794f3495916f0560668e35",
+    "name": "Huyện Bảo Lâm",
+    "wards": [
+        {
+            "uid": "aa97f0a68372466abf06f84edb9b9777",
+            "name": "Thị trấn Pác Miầu"
+        },
+        {
+            "uid": "b7305d5e54604f739cd10b0009e08c73",
+            "name": "Xã Đức Hạnh"
+        },
+        {
+            "uid": "33c38e6bb4e24563b1101a8bd7f9bd78",
+            "name": "Xã Lý Bôn"
+        },
+        {
+            "uid": "0ba7bfac2b79450786f7bd1dcee4b5ec",
+            "name": "Xã Nam Cao"
+        },
+        {
+            "uid": "22fb9c032d0a4a84b45d5b9fa692a8eb",
+            "name": "Xã Nam Quang"
+        },
+        {
+            "uid": "ea6b009e098d40f5801f0478394e467c",
+            "name": "Xã Vĩnh Quang"
+        },
+        {
+            "uid": "8ca91a0e9ebf40d898593683390e459f",
+            "name": "Xã Quảng Lâm"
+        },
+        {
+            "uid": "d406c63a8ecf4e9fb89922f2a8b28e6a",
+            "name": "Xã Thạch Lâm"
+        },
+        {
+            "uid": "c12fc3100272424da37f91f4772ae17a",
+            "name": "Xã Vĩnh Phong"
+        },
+        {
+            "uid": "f8ee536d61b4433ea7abf2024bab59f2",
+            "name": "Xã Mông Ân"
+        },
+        {
+            "uid": "5738cd01130048539e73c59cfdf900e4",
+            "name": "Xã Thái Học"
+        },
+        {
+            "uid": "5bbcfa6c19c647acba82364e6cd0b0f9",
+            "name": "Xã Thái Sơn"
+        },
+        {
+            "uid": "01546ad1f44e4783937260893b1acb53",
+            "name": "Xã Yên Thổ"
+        }
+    ]
+}

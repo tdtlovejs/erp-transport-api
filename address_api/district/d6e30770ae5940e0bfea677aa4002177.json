@@ -1,0 +1,54 @@
+{
+    "uid": "d6e30770ae5940e0bfea677aa4002177",
+    "name": "Huyện Quan Sơn",
+    "wards": [
+        {
+            "uid": "bd6bea22f7c04851a2b131ad9d5640d0",
+            "name": "Xã Trung Xuân"
+        },
+        {
+            "uid": "8d925fddef8b4621ac49293593315534",
+            "name": "Xã Trung Thượng"
+        },
+        {
+            "uid": "7899ec55d5f741d098f9c1aa4f4af167",
+            "name": "Xã Trung Tiến"
+        },
+        {
+            "uid": "1535c660bec9496cbff025701fc3093b",
+            "name": "Xã Trung Hạ"
+        },
+        {
+            "uid": "01b7675486fe49cab2af86afa2d0c2b6",
+            "name": "Xã Sơn Hà"
+        },
+        {
+            "uid": "e260e8087b354b66a7e17aa74ca20e98",
+            "name": "Xã Tam Thanh"
+        },
+        {
+            "uid": "d310957eedd04fa8b075b19272a7f6ed",
+            "name": "Xã Sơn Thủy"
+        },
+        {
+            "uid": "c332d8693d534364b5b30551a0f035bb",
+            "name": "Xã Na Mèo"
+        },
+        {
+            "uid": "eea919f349d3429c9dde96448e3f0b39",
+            "name": "Thị trấn Sơn Lư"
+        },
+        {
+            "uid": "f0484e9cc60b4d6394393803b94074c4",
+            "name": "Xã Tam Lư"
+        },
+        {
+            "uid": "607374bdf59f4d8d9f9243424631bd72",
+            "name": "Xã Sơn Điện"
+        },
+        {
+            "uid": "7b381757cbe74c9189a7972f640a4bd9",
+            "name": "Xã Mường Mìn"
+        }
+    ]
+}

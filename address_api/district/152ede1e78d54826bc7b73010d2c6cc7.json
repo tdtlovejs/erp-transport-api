@@ -1,0 +1,54 @@
+{
+    "uid": "152ede1e78d54826bc7b73010d2c6cc7",
+    "name": "Huyện Na Hang",
+    "wards": [
+        {
+            "uid": "c7c95e2fbc094e0e8407ff0c7f4aa8f2",
+            "name": "Thị trấn Na Hang"
+        },
+        {
+            "uid": "eca257c7e8264efa88b31d6b2163bdd7",
+            "name": "Xã Sinh Long"
+        },
+        {
+            "uid": "ae42f5ccc3434ef2a4e515b47eba1449",
+            "name": "Xã Thượng Giáp"
+        },
+        {
+            "uid": "b572e1e998804c79b6ee36551ae80f7a",
+            "name": "Xã Thượng Nông"
+        },
+        {
+            "uid": "2814e82c08654dfab7d3dcc1a244366e",
+            "name": "Xã Côn Lôn"
+        },
+        {
+            "uid": "4866d19952614ecbaa800455c00ee4bc",
+            "name": "Xã Yên Hoa"
+        },
+        {
+            "uid": "ebbfd1c8b1c345079ce15a844a77ba6b",
+            "name": "Xã Hồng Thái"
+        },
+        {
+            "uid": "cf7d3c931c974dbcaf5ba984b4b8bf0b",
+            "name": "Xã Đà Vị"
+        },
+        {
+            "uid": "1de7a6d7e8a34883a1b7c7bfc0e5f011",
+            "name": "Xã Khau Tinh"
+        },
+        {
+            "uid": "f051d80d2aa14ea2af7d8f86df6eaa9d",
+            "name": "Xã Sơn Phú"
+        },
+        {
+            "uid": "4c8f0c6465c8474b96e5d52d1017381c",
+            "name": "Xã Năng Khả"
+        },
+        {
+            "uid": "5c50372f034d409d8f8e031e262c8125",
+            "name": "Xã Thanh Tương"
+        }
+    ]
+}

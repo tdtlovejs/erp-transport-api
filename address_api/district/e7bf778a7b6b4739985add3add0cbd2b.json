@@ -1,0 +1,82 @@
+{
+    "uid": "e7bf778a7b6b4739985add3add0cbd2b",
+    "name": "Huyện Yên Khánh",
+    "wards": [
+        {
+            "uid": "680beaa8b4054effbdf004555406ec75",
+            "name": "Thị trấn Yên Ninh"
+        },
+        {
+            "uid": "98efbedd654c43b6a987b010106cef85",
+            "name": "Xã Khánh Tiên"
+        },
+        {
+            "uid": "b2c9a08df5974216907145bc04940cd7",
+            "name": "Xã Khánh Phú"
+        },
+        {
+            "uid": "b6b8c2676be14815b0c6aea9083e14b0",
+            "name": "Xã Khánh Hòa"
+        },
+        {
+            "uid": "b720fdf0f0ca48688f531a3eea1b4c11",
+            "name": "Xã Khánh Lợi"
+        },
+        {
+            "uid": "ab724c557b324e3c877459e947867ae3",
+            "name": "Xã Khánh An"
+        },
+        {
+            "uid": "14c2231aed2f45bc8b5e4532d9c7f059",
+            "name": "Xã Khánh Cường"
+        },
+        {
+            "uid": "e68ab55544b94cb3948031a57b5f15d2",
+            "name": "Xã Khánh Cư"
+        },
+        {
+            "uid": "5efc8c7fb7b241c79842e142d378f4e4",
+            "name": "Xã Khánh Thiện"
+        },
+        {
+            "uid": "9e9502f6408b4569b8acffb5baeb9e95",
+            "name": "Xã Khánh Hải"
+        },
+        {
+            "uid": "eab7e08ff3b146179c0b4f35d17cd6ad",
+            "name": "Xã Khánh Trung"
+        },
+        {
+            "uid": "847eb9f02bd5417ba5dc285b517d6f31",
+            "name": "Xã Khánh Mậu"
+        },
+        {
+            "uid": "f2ee4b18fc7c461baa90f0a3564e9aac",
+            "name": "Xã Khánh Vân"
+        },
+        {
+            "uid": "7df0f11a15e9498a96e06342558ad0fc",
+            "name": "Xã Khánh Hội"
+        },
+        {
+            "uid": "61faff6004c54414a71dc9eb0943c505",
+            "name": "Xã Khánh Công"
+        },
+        {
+            "uid": "3708df67d7594542abd6d051fe00131b",
+            "name": "Xã Khánh Thành"
+        },
+        {
+            "uid": "b460d88ae319449c910af4fc297bf126",
+            "name": "Xã Khánh Nhạc"
+        },
+        {
+            "uid": "f93c99cb0a804d1d887c898afc4ff01d",
+            "name": "Xã Khánh Thủy"
+        },
+        {
+            "uid": "38407112cc8e4bd7987a5af5a4ee2cc8",
+            "name": "Xã Khánh Hồng"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uid": "d5c52da605d449c99399fd77dc7c5131",
+    "name": "Huyện Gia Lộc",
+    "wards": [
+        {
+            "uid": "484f2f2ad670402da6df6261dd75d4b9",
+            "name": "Thị trấn Gia Lộc"
+        },
+        {
+            "uid": "4654f7987a5f4c478192229f06c78bad",
+            "name": "Xã Thống Nhất"
+        },
+        {
+            "uid": "49340d34cddb4f86b95c1fd1cf0b04b1",
+            "name": "Xã Yết Kiêu"
+        },
+        {
+            "uid": "a0136697041e40869b9e892017564a80",
+            "name": "Xã Gia Tân"
+        },
+        {
+            "uid": "30853476c97b4422bd66b6568a0cd507",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "3820cee934bc4cf7984c9d96a1382bcc",
+            "name": "Xã Gia Khánh"
+        },
+        {
+            "uid": "ddf8450eabab4884b6e87932c9d76332",
+            "name": "Xã Gia Lương"
+        },
+        {
+            "uid": "a3d481d5dc964352a4bb0f933999b66d",
+            "name": "Xã Lê Lợi"
+        },
+        {
+            "uid": "cc5342aa61bf4e1995b7e7f6afda2ec4",
+            "name": "Xã Toàn Thắng"
+        },
+        {
+            "uid": "571a9840a88d46dfa0638a6712b6e80e",
+            "name": "Xã Hoàng Diệu"
+        },
+        {
+            "uid": "c96a60bf8ca846d5883536b1e28770b9",
+            "name": "Xã Hồng Hưng"
+        },
+        {
+            "uid": "de14768376a84bddb326513a74efd46b",
+            "name": "Xã Phạm Trấn"
+        },
+        {
+            "uid": "bed3bb56885f4a2a945b9549c51e7424",
+            "name": "Xã Đoàn Thượng"
+        },
+        {
+            "uid": "68ba7ff426064577a698ae094d43046d",
+            "name": "Xã Thống Kênh"
+        },
+        {
+            "uid": "30ea7e1953354560b48c45bc74cc319a",
+            "name": "Xã Quang Minh"
+        },
+        {
+            "uid": "e6152b064cac4746ab6bbf0c159b597f",
+            "name": "Xã Đồng Quang"
+        },
+        {
+            "uid": "9a932da8af284e8aab67d02cacebba43",
+            "name": "Xã Nhật Tân"
+        },
+        {
+            "uid": "783da04fd9214e008b1c9cfe922ce270",
+            "name": "Xã Đức Xương"
+        }
+    ]
+}

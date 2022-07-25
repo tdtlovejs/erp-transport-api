@@ -1,0 +1,66 @@
+{
+    "uid": "b4910693d06e4db4aab3767bc03e8689",
+    "name": "Huyện Xuân Lộc",
+    "wards": [
+        {
+            "uid": "c8536220509b448683b4a084a7badca9",
+            "name": "Thị trấn Gia Ray"
+        },
+        {
+            "uid": "f6ee4795f2574b00b505c31c9b3f75a9",
+            "name": "Xã Xuân Bắc"
+        },
+        {
+            "uid": "e5079039b3d8496cbc7612dec0198f13",
+            "name": "Xã Suối Cao"
+        },
+        {
+            "uid": "04a1242b877c4510bf8b07bb7db50f74",
+            "name": "Xã Xuân Thành"
+        },
+        {
+            "uid": "113a80a1eff04566802a905c2a9de4ba",
+            "name": "Xã Xuân Thọ"
+        },
+        {
+            "uid": "76f52aefa67e406f9ff112674f3fc28b",
+            "name": "Xã Xuân Trường"
+        },
+        {
+            "uid": "8d90841b01b24b5ab80edaf26a770612",
+            "name": "Xã Xuân Hòa"
+        },
+        {
+            "uid": "645f7e0928cc4810af2b25f12ff31ebb",
+            "name": "Xã Xuân Hưng"
+        },
+        {
+            "uid": "c7f21872de8e47e689c9d9f5faf32798",
+            "name": "Xã Xuân Tâm"
+        },
+        {
+            "uid": "02555f5848aa477981a7653a27229b1a",
+            "name": "Xã Suối Cát"
+        },
+        {
+            "uid": "2cf1ce87ef2940deb25e81799bcfd98c",
+            "name": "Xã Xuân Hiệp"
+        },
+        {
+            "uid": "228e8a9d5a4f450995575d358fce7b53",
+            "name": "Xã Xuân Phú"
+        },
+        {
+            "uid": "e9b64b85c66c4077b5be525b9dbf8b22",
+            "name": "Xã Xuân Định"
+        },
+        {
+            "uid": "81d978fa2f1a466ea9aa5fd8197ecb8f",
+            "name": "Xã Bảo Hoà"
+        },
+        {
+            "uid": "bc9da5ddef3947dfbc8bd654b8633766",
+            "name": "Xã Lang Minh"
+        }
+    ]
+}

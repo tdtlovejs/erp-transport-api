@@ -1,0 +1,70 @@
+{
+    "uid": "8e3be8ff16b046e0956309e7bfd56162",
+    "name": "Thị xã Cai Lậy",
+    "wards": [
+        {
+            "uid": "1ea4dce8582e4da582f97f915b1945be",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "d3e5298b4c5e4c58a3b97e215d0794c7",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "3f14572b2baf4e1bafe56ff1a85eb30b",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "cacdbafb1fed49d8b6b0d502f6a2829e",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "4801926c59b640c9820624b4cd501d57",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "e97c9af163d8482393166779c5b0235f",
+            "name": "Xã Mỹ Phước Tây"
+        },
+        {
+            "uid": "2a2eb8c8d7464844bc6f7be6cbd97967",
+            "name": "Xã Mỹ Hạnh Đông"
+        },
+        {
+            "uid": "5e1ece75ed01443bbf15a6745d823cf0",
+            "name": "Xã Mỹ Hạnh Trung"
+        },
+        {
+            "uid": "56caa1b2a66a46e7b15ffe26fda43e32",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "19b6a8b11eb14560b03522f95b0e33ca",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "2e7acd6d52e64e53a528e9f74e0c450c",
+            "name": "Xã Tân Hội"
+        },
+        {
+            "uid": "7fa3b047f6e54d6e96acc1b86bcf1b62",
+            "name": "Phường Nhị Mỹ"
+        },
+        {
+            "uid": "b401fa1bccd84c85b8386a45a95d04ae",
+            "name": "Xã Nhị Quý"
+        },
+        {
+            "uid": "f71594237cd9443eb3f215ca8cbfc9f0",
+            "name": "Xã Thanh Hòa"
+        },
+        {
+            "uid": "4da1f6d24fed44cba64aeb69abc8ca1a",
+            "name": "Xã Phú Quý"
+        },
+        {
+            "uid": "a02bd9d809bd4c0b81316313f65a0e72",
+            "name": "Xã Long Khánh"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "uid": "eaf1db2bad9843e3aac14b8bae061397",
+    "name": "Thành phố Sơn La",
+    "wards": [
+        {
+            "uid": "f2a291801403403484638a3cd6f0b6cf",
+            "name": "Phường Chiềng Lề"
+        },
+        {
+            "uid": "c7cd953f92744ef49a29f8d91b8a0ed0",
+            "name": "Phường Tô Hiệu"
+        },
+        {
+            "uid": "7c08425705ac4910a4727d3150b9dfc5",
+            "name": "Phường Quyết Thắng"
+        },
+        {
+            "uid": "df03980fe0b441eb81647af48595f26b",
+            "name": "Phường Quyết Tâm"
+        },
+        {
+            "uid": "8a70411afbb0447cab8365748e3abd61",
+            "name": "Xã Chiềng Cọ"
+        },
+        {
+            "uid": "329e2ac08082407d8150ed8ac318f607",
+            "name": "Xã Chiềng Đen"
+        },
+        {
+            "uid": "98f162f127494fa586ef2476fa27689d",
+            "name": "Xã Chiềng Xôm"
+        },
+        {
+            "uid": "6f87dd2f224643cca59d6eee622e152f",
+            "name": "Phường Chiềng An"
+        },
+        {
+            "uid": "a594a3ddc3354b869bc6912a7c05669f",
+            "name": "Phường Chiềng Cơi"
+        },
+        {
+            "uid": "6905c9b4b38c4994ac29303c62739618",
+            "name": "Xã Chiềng Ngần"
+        },
+        {
+            "uid": "5cd34ab21c2241f499389f875ba4b804",
+            "name": "Xã Hua La"
+        },
+        {
+            "uid": "8f44caa6e1754b14bdec172c5887299e",
+            "name": "Phường Chiềng Sinh"
+        }
+    ]
+}

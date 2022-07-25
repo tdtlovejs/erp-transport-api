@@ -1,0 +1,42 @@
+{
+    "uid": "5c15f8c810f44275b5db9e6d16192afc",
+    "name": "Huyện Phú Hoà",
+    "wards": [
+        {
+            "uid": "ead6d53a45794d859a5258cc3f4d6bcd",
+            "name": "Xã Hòa Quang Bắc"
+        },
+        {
+            "uid": "44883bf711e74d049580269fee98f802",
+            "name": "Xã Hòa Quang Nam"
+        },
+        {
+            "uid": "8fa7e09ac0e84d6bac72eae0d4473d88",
+            "name": "Xã Hòa Hội"
+        },
+        {
+            "uid": "5889f4a40dc9423799b9b670a0adccdd",
+            "name": "Xã Hòa Trị"
+        },
+        {
+            "uid": "7061f49a93cd430993a904de18a5187d",
+            "name": "Xã Hòa An"
+        },
+        {
+            "uid": "a1267d21248d47af9f33678e9041a630",
+            "name": "Xã Hòa Định Đông"
+        },
+        {
+            "uid": "84ec99b11b714325809b1fdf8fa8f3b6",
+            "name": "Thị Trấn Phú Hoà"
+        },
+        {
+            "uid": "0f515edc414d42808d5de5e1de363a2b",
+            "name": "Xã Hòa Định Tây"
+        },
+        {
+            "uid": "6f6b022d2e854a03bced63104c83d501",
+            "name": "Xã Hòa Thắng"
+        }
+    ]
+}

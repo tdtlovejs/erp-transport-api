@@ -1,0 +1,66 @@
+{
+    "uid": "640d4a8033964adfa73856932ec1d91e",
+    "name": "Huyện Hoài Ân",
+    "wards": [
+        {
+            "uid": "94645355b42e4c338d0d5bdaa7f8e2d4",
+            "name": "Thị trấn Tăng Bạt Hổ"
+        },
+        {
+            "uid": "e3b6883260a9400a9def3896351c8f92",
+            "name": "Xã Ân Hảo Tây"
+        },
+        {
+            "uid": "43fae8d799864e01a4b545f643052186",
+            "name": "Xã Ân Hảo Đông"
+        },
+        {
+            "uid": "85999f15f03e4654aa89fed8a8f2dd7b",
+            "name": "Xã Ân Sơn"
+        },
+        {
+            "uid": "41417c40b5f34e7d978c8eae4e8a8338",
+            "name": "Xã Ân Mỹ"
+        },
+        {
+            "uid": "2b41b5c22e58404a824eb6b2fe168a11",
+            "name": "Xã Đak Mang"
+        },
+        {
+            "uid": "f50c693fd32f415d8714df90c4f9445e",
+            "name": "Xã Ân Tín"
+        },
+        {
+            "uid": "58f48b543be442ed9a7219ca2032f7d5",
+            "name": "Xã Ân Thạnh"
+        },
+        {
+            "uid": "975b00c8c3aa488a9924b335f2099ac2",
+            "name": "Xã Ân Phong"
+        },
+        {
+            "uid": "438e0b14c700480690c557b67b414495",
+            "name": "Xã Ân Đức"
+        },
+        {
+            "uid": "36b0faab4f5f4d81b929e50837adfd81",
+            "name": "Xã Ân Hữu"
+        },
+        {
+            "uid": "ccead33a96fc4216ac807b01d7c21378",
+            "name": "Xã Bok Tới"
+        },
+        {
+            "uid": "515f2c20272f4224bc16ecdef9d95330",
+            "name": "Xã Ân Tường Tây"
+        },
+        {
+            "uid": "f5dca716ebbd45bb83e015e257836839",
+            "name": "Xã Ân Tường Đông"
+        },
+        {
+            "uid": "4f68e7b423d74317943d13ad56404b38",
+            "name": "Xã Ân Nghĩa"
+        }
+    ]
+}

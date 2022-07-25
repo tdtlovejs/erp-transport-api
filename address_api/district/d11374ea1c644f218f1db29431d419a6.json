@@ -1,0 +1,50 @@
+{
+    "uid": "d11374ea1c644f218f1db29431d419a6",
+    "name": "Huyện Tân Hiệp",
+    "wards": [
+        {
+            "uid": "83ea11a2caae4a7693a86f9297c78787",
+            "name": "Thị trấn Tân Hiệp"
+        },
+        {
+            "uid": "c46114b9a5a146d7aae5ba58dbc5eba4",
+            "name": "Xã Tân Hội"
+        },
+        {
+            "uid": "6f9b52535f36426fb3dd9899a74ca169",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "c0f71097643e4a438845ea162c912ad6",
+            "name": "Xã Tân Hiệp B"
+        },
+        {
+            "uid": "9eaa273332cd4bdfabfefcc076bcce13",
+            "name": "Xã Tân Hoà"
+        },
+        {
+            "uid": "0f7ff2e1cc274029b8b8cb562d5e787f",
+            "name": "Xã Thạnh Đông B"
+        },
+        {
+            "uid": "25436ab2721a46a48e56bddaf581673b",
+            "name": "Xã Thạnh Đông"
+        },
+        {
+            "uid": "82409cb6a3ab419895bddaf6a1eb8630",
+            "name": "Xã Tân Hiệp A"
+        },
+        {
+            "uid": "706c07d140b443719c554230c5ed6bf3",
+            "name": "Xã Tân An"
+        },
+        {
+            "uid": "30c57cde27834de8b2711db3b2e1de8b",
+            "name": "Xã Thạnh Đông A"
+        },
+        {
+            "uid": "bc959640fcfa45ac8b07b6b484a459a5",
+            "name": "Xã Thạnh Trị"
+        }
+    ]
+}

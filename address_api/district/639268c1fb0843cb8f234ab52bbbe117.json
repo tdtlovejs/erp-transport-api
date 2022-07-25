@@ -1,0 +1,66 @@
+{
+    "uid": "639268c1fb0843cb8f234ab52bbbe117",
+    "name": "Huyện Quang Bình",
+    "wards": [
+        {
+            "uid": "759ecc5336024318b8716e5f2928efa2",
+            "name": "Xã Xuân Minh"
+        },
+        {
+            "uid": "0aac5c2b9a2a4f1a953fe51a9d82ab85",
+            "name": "Xã Tiên Nguyên"
+        },
+        {
+            "uid": "7f4ca693b33340f19a9d52bd4aca7b28",
+            "name": "Xã Tân Nam"
+        },
+        {
+            "uid": "ba0497a3a8a84a4cad8353d02b80a153",
+            "name": "Xã Bản Rịa"
+        },
+        {
+            "uid": "600c4009b7584c1eb903d951104905fd",
+            "name": "Xã Yên Thành"
+        },
+        {
+            "uid": "bae220148f6d4d21a07987707ce0e7fe",
+            "name": "Thị trấn Yên Bình"
+        },
+        {
+            "uid": "2464b346f129466daba3c9c7df9e3ffb",
+            "name": "Xã Tân Trịnh"
+        },
+        {
+            "uid": "840588a241c1420f96f79881dbcb2749",
+            "name": "Xã Tân Bắc"
+        },
+        {
+            "uid": "74110c2d924c442daf7795d7c52eaeba",
+            "name": "Xã Bằng Lang"
+        },
+        {
+            "uid": "a33031d11a8d41368346a121d0d41e04",
+            "name": "Xã Yên Hà"
+        },
+        {
+            "uid": "011df50d88ee434a80c14cc5c4dbee4b",
+            "name": "Xã Hương Sơn"
+        },
+        {
+            "uid": "26026283208a4e9e8079d3b9c3c6c5e5",
+            "name": "Xã Xuân Giang"
+        },
+        {
+            "uid": "eac1ac553e5c469197bf7205ad5da2f3",
+            "name": "Xã Nà Khương"
+        },
+        {
+            "uid": "bf87b652e4a04b51be338273cdb4db07",
+            "name": "Xã Tiên Yên"
+        },
+        {
+            "uid": "e9051cb3a35e4d9c93d169ef6bdb8488",
+            "name": "Xã Vĩ Thượng"
+        }
+    ]
+}

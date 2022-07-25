@@ -1,0 +1,34 @@
+{
+    "uid": "ec56d330326a4687be55c4cd5443da36",
+    "name": "Thị xã Bỉm Sơn",
+    "wards": [
+        {
+            "uid": "cbf09eb91c60473abb0343990b0c6c60",
+            "name": "Phường Bắc Sơn"
+        },
+        {
+            "uid": "f1af204d53d34e73a49570ba5961036f",
+            "name": "Phường Ba Đình"
+        },
+        {
+            "uid": "a2b4cf98dd954b928a6ecb0eca9a3110",
+            "name": "Phường Lam Sơn"
+        },
+        {
+            "uid": "fe353d3b42bb49c5926b85b34c21da56",
+            "name": "Phường Ngọc Trạo"
+        },
+        {
+            "uid": "6d90e0b271b64d3e98794a39804af57b",
+            "name": "Phường Đông Sơn"
+        },
+        {
+            "uid": "650ceb6f802f4023850de30814144c71",
+            "name": "Phường Phú Sơn"
+        },
+        {
+            "uid": "1aff061652134ec4a87cc4a72bfd07dd",
+            "name": "Xã Quang Trung"
+        }
+    ]
+}

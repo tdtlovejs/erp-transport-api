@@ -1,0 +1,42 @@
+{
+    "uid": "b4628ce2089b4fddb0cdd87a0f6ece63",
+    "name": "Huyện Sơn Tây",
+    "wards": [
+        {
+            "uid": "6eb3cadc66e640c88e614007c8ae86bd",
+            "name": "Xã Sơn Bua"
+        },
+        {
+            "uid": "fbff328d052344a6bbd3fdb544f775c1",
+            "name": "Xã Sơn Mùa"
+        },
+        {
+            "uid": "98694b2b38904d1c833b620842fd6bf9",
+            "name": "Xã Sơn Liên"
+        },
+        {
+            "uid": "92daab40bcc54a24a99ee7e27b16e4f9",
+            "name": "Xã Sơn Tân"
+        },
+        {
+            "uid": "59d1145e1caa4d3dab9448c70f0365ee",
+            "name": "Xã Sơn Màu"
+        },
+        {
+            "uid": "fa9c3aae309d4fe29036f717a5b79af1",
+            "name": "Xã Sơn Dung"
+        },
+        {
+            "uid": "e4d79c95dbb14339820708a097b8a079",
+            "name": "Xã Sơn Long"
+        },
+        {
+            "uid": "3097b52fe6a34116bb221a3e80b489dc",
+            "name": "Xã Sơn Tinh"
+        },
+        {
+            "uid": "f05af1db0cae45d1ae6585929f70e022",
+            "name": "Xã Sơn Lập"
+        }
+    ]
+}

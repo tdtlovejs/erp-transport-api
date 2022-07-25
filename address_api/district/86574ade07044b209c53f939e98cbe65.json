@@ -1,0 +1,38 @@
+{
+    "uid": "86574ade07044b209c53f939e98cbe65",
+    "name": "Huyện Lâm Bình",
+    "wards": [
+        {
+            "uid": "d66ba27aa3d6432d8f1ce280a92a5ea1",
+            "name": "Xã Phúc Yên"
+        },
+        {
+            "uid": "b4434332d3334e34a31b2ba28219c71f",
+            "name": "Xã Xuân Lập"
+        },
+        {
+            "uid": "38fb572e996b4052a13fbc97eafa7c9f",
+            "name": "Xã Khuôn Hà"
+        },
+        {
+            "uid": "55dbb3d075e74faeb3c62a33fea607b8",
+            "name": "Xã Lăng Can"
+        },
+        {
+            "uid": "40c4ac077a94471087aa419429ed832b",
+            "name": "Xã Thượng Lâm"
+        },
+        {
+            "uid": "6b660761e2cd4e829c883280460d02cd",
+            "name": "Xã Bình An"
+        },
+        {
+            "uid": "cba50a470ba642fc9f5b8538a4c021c5",
+            "name": "Xã Hồng Quang"
+        },
+        {
+            "uid": "9b8907478c36423bb61b702862927b50",
+            "name": "Xã Thổ Bình"
+        }
+    ]
+}

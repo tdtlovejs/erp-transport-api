@@ -1,0 +1,58 @@
+{
+    "uid": "3d6abf1a5fcf4a3b9c527588dfe59db3",
+    "name": "Huyện Tháp Mười",
+    "wards": [
+        {
+            "uid": "725c5593ffdd4117b5ab34b7d618f9f8",
+            "name": "Thị trấn Mỹ An"
+        },
+        {
+            "uid": "a9fc97fc16854a1fb8c949ec6f5adf3a",
+            "name": "Xã Thạnh Lợi"
+        },
+        {
+            "uid": "97869c4dc7d049c9bdb897fa5557b100",
+            "name": "Xã Hưng Thạnh"
+        },
+        {
+            "uid": "a079d6ceda0e4f5599ac8c00ae8d7078",
+            "name": "Xã Trường Xuân"
+        },
+        {
+            "uid": "08bc8351a9c24a04b3824753262b37d3",
+            "name": "Xã Tân Kiều"
+        },
+        {
+            "uid": "e2a7b174229147fd93da8de5e6973a65",
+            "name": "Xã Mỹ Hòa"
+        },
+        {
+            "uid": "184f7f66f01947a4b4798fd2ecc2c391",
+            "name": "Xã Mỹ Quý"
+        },
+        {
+            "uid": "6797cc92033b48e79ef8f1656d5310d7",
+            "name": "Xã Mỹ Đông"
+        },
+        {
+            "uid": "74906bd9c17443d391db2f7d452a252c",
+            "name": "Xã Đốc Binh Kiều"
+        },
+        {
+            "uid": "92f65cd5bb01475a94da38482189dab9",
+            "name": "Xã Mỹ An"
+        },
+        {
+            "uid": "606091eba2424d47898f1ba86e876914",
+            "name": "Xã Phú Điền"
+        },
+        {
+            "uid": "43f49ef0f023478d84c67ef8cb86e99c",
+            "name": "Xã Láng Biển"
+        },
+        {
+            "uid": "b19b01914ee64ca3b21c6045e7e588c1",
+            "name": "Xã Thanh Mỹ"
+        }
+    ]
+}

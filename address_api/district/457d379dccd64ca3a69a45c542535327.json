@@ -1,0 +1,54 @@
+{
+    "uid": "457d379dccd64ca3a69a45c542535327",
+    "name": "Huyện Nhơn Trạch",
+    "wards": [
+        {
+            "uid": "289763b1d57d436581d1ba30742332d7",
+            "name": "Xã Phước Thiền"
+        },
+        {
+            "uid": "0f5270c3b6e34c5890db3ddc855070aa",
+            "name": "Xã Long Tân"
+        },
+        {
+            "uid": "880ebc85150943bcb2acf144e7917972",
+            "name": "Xã Đại Phước"
+        },
+        {
+            "uid": "da01b83cb0d446dbb2dae3225dc4a572",
+            "name": "Thị trấn Hiệp Phước"
+        },
+        {
+            "uid": "bcc7dd1db8024bbda898675924f9c4a3",
+            "name": "Xã Phú Hữu"
+        },
+        {
+            "uid": "69ca0c2db00d451e8aba9c0e9fdf734f",
+            "name": "Xã Phú Hội"
+        },
+        {
+            "uid": "6925247acbb64dfa8287d1363b384011",
+            "name": "Xã Phú Thạnh"
+        },
+        {
+            "uid": "eb6204ba46b642f48bcb3b9284fca546",
+            "name": "Xã Phú Đông"
+        },
+        {
+            "uid": "a001ffba47e248a89e1ed648b306e249",
+            "name": "Xã Long Thọ"
+        },
+        {
+            "uid": "9dcf3831ea304ab4bc920797bd07b785",
+            "name": "Xã Vĩnh Thanh"
+        },
+        {
+            "uid": "c9890127093d41419f8e922f74129010",
+            "name": "Xã Phước Khánh"
+        },
+        {
+            "uid": "9705356352f24c43b930838ddff26e23",
+            "name": "Xã Phước An"
+        }
+    ]
+}

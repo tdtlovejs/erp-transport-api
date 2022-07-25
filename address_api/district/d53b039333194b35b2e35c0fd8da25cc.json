@@ -1,0 +1,46 @@
+{
+    "uid": "d53b039333194b35b2e35c0fd8da25cc",
+    "name": "Huyện Vĩnh Hưng",
+    "wards": [
+        {
+            "uid": "ee56424d13694c68a8c6320d2f6e640a",
+            "name": "Thị trấn Vĩnh Hưng"
+        },
+        {
+            "uid": "fa5d7575a79c4818aeffec20d6551830",
+            "name": "Xã Hưng Điền A"
+        },
+        {
+            "uid": "23bd32286dbb4321921e38390841af53",
+            "name": "Xã Khánh Hưng"
+        },
+        {
+            "uid": "db3ed43526394eeeba49894df5e1f92d",
+            "name": "Xã Thái Trị"
+        },
+        {
+            "uid": "9219b5cb9ad84854a11f46b62588ecce",
+            "name": "Xã Vĩnh Trị"
+        },
+        {
+            "uid": "cab136b2b87d4cd4adb73b29e2b08f7e",
+            "name": "Xã Thái Bình Trung"
+        },
+        {
+            "uid": "0d607ea792704e02854cb6b97c2e6c8c",
+            "name": "Xã Vĩnh Bình"
+        },
+        {
+            "uid": "ddb671701f3e4b9daa7ec5e29a2ebe25",
+            "name": "Xã Vĩnh Thuận"
+        },
+        {
+            "uid": "16ce32f6e1a9465d8ae8d82a3f8847cd",
+            "name": "Xã Tuyên Bình"
+        },
+        {
+            "uid": "1ef66bb8e954467ea5111d1c4a8a3752",
+            "name": "Xã Tuyên Bình Tây"
+        }
+    ]
+}

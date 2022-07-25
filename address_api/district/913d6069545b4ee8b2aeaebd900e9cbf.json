@@ -1,0 +1,154 @@
+{
+    "uid": "913d6069545b4ee8b2aeaebd900e9cbf",
+    "name": "Huyện Diễn Châu",
+    "wards": [
+        {
+            "uid": "378b369d5bf84bfc954231902e2faf89",
+            "name": "Thị trấn Diễn Châu"
+        },
+        {
+            "uid": "e9b023eddc5b4d67a3d3450a3fe2854b",
+            "name": "Xã Diễn Lâm"
+        },
+        {
+            "uid": "83bc23ad1a4a4ab6a54d0c6a9f214f81",
+            "name": "Xã Diễn Đoài"
+        },
+        {
+            "uid": "a18faa725f4343f78fa09e675a8d6cca",
+            "name": "Xã Diễn Trường"
+        },
+        {
+            "uid": "e4a08b70e3b44947a76c49a33b8615cc",
+            "name": "Xã Diễn Yên"
+        },
+        {
+            "uid": "62c1728e95e3454289616cadfe1fd9d7",
+            "name": "Xã Diễn Hoàng"
+        },
+        {
+            "uid": "ea09f6298cba4431a945d069d77d0ee4",
+            "name": "Xã Diễn Hùng"
+        },
+        {
+            "uid": "ca70c611d8dd452797b6272a42d4f86b",
+            "name": "Xã Diễn Mỹ"
+        },
+        {
+            "uid": "3ccea5f5a9224e9d81733c11eb9bf5a8",
+            "name": "Xã Diễn Hồng"
+        },
+        {
+            "uid": "1c01dde3c2f24a838cbac40ee2810ded",
+            "name": "Xã Diễn Phong"
+        },
+        {
+            "uid": "733627a2f3ac4c82b8ee78b5318e7ca0",
+            "name": "Xã Diễn Hải"
+        },
+        {
+            "uid": "24b19dbaa72343579b86acb97becea80",
+            "name": "Xã Diễn Tháp"
+        },
+        {
+            "uid": "e9588287e9e84c91834bf3a59c59a78f",
+            "name": "Xã Diễn Liên"
+        },
+        {
+            "uid": "9ad78eb5208245ed9b41a976eb996058",
+            "name": "Xã Diễn Vạn"
+        },
+        {
+            "uid": "ac9f9fe00dfa48499a8b4ebed08a439c",
+            "name": "Xã Diễn Kim"
+        },
+        {
+            "uid": "4fa7e61214ab4667b10dce5f3c7b4258",
+            "name": "Xã Diễn Kỷ"
+        },
+        {
+            "uid": "53ba7c5a1ed44167b1a13fd570a4512c",
+            "name": "Xã Diễn Xuân"
+        },
+        {
+            "uid": "6e7ca5e572a343c2af3cf4ee18af43e5",
+            "name": "Xã Diễn Thái"
+        },
+        {
+            "uid": "e5a8833185124e569667efaf4b60b8c3",
+            "name": "Xã Diễn Đồng"
+        },
+        {
+            "uid": "826094152660438b892ebccee522ee13",
+            "name": "Xã Diễn Bích"
+        },
+        {
+            "uid": "af80f6be74964b7b8ff3f6eb78226ade",
+            "name": "Xã Diễn Hạnh"
+        },
+        {
+            "uid": "8a6ff75cbfb642c19936509912f5ef00",
+            "name": "Xã Diễn Ngọc"
+        },
+        {
+            "uid": "529a1e1e1e964e50bb39eda79e0c202d",
+            "name": "Xã Diễn Quảng"
+        },
+        {
+            "uid": "efdc6d1b15bf45e6bd568f812005b199",
+            "name": "Xã Diễn Nguyên"
+        },
+        {
+            "uid": "e537f09a28e04dcabfbeaeac1df802ed",
+            "name": "Xã Diễn Hoa"
+        },
+        {
+            "uid": "78b3fc5201f94b3fbfdbef5380a346c0",
+            "name": "Xã Diễn Thành"
+        },
+        {
+            "uid": "e9211a32e0344d26acc04eebfd597753",
+            "name": "Xã Diễn Phúc"
+        },
+        {
+            "uid": "8b929d05220d45a4a2eefd6d9ed0c02c",
+            "name": "Xã Diễn Cát"
+        },
+        {
+            "uid": "28d094e05cce4e8b8c6a15bae04614f8",
+            "name": "Xã Diễn Thịnh"
+        },
+        {
+            "uid": "67992bff2e4f49849dcb692cedd3962d",
+            "name": "Xã Diễn Tân"
+        },
+        {
+            "uid": "adaf17ac2f8945f99340e24541b405e3",
+            "name": "Xã Minh Châu"
+        },
+        {
+            "uid": "f753e0facb14433c844ad71e21d8b9a4",
+            "name": "Xã Diễn Thọ"
+        },
+        {
+            "uid": "d0aa3411f3b54176940d9b650e1f857a",
+            "name": "Xã Diễn Lợi"
+        },
+        {
+            "uid": "9186f6de6de046959de4c144731c02e6",
+            "name": "Xã Diễn Lộc"
+        },
+        {
+            "uid": "a63a374563cb4afb8e4701c5aa762998",
+            "name": "Xã Diễn Trung"
+        },
+        {
+            "uid": "43dda8c5e5fd42bdbf97597b330cab78",
+            "name": "Xã Diễn An"
+        },
+        {
+            "uid": "df3753bbd3ac4695aef5bde00baea80d",
+            "name": "Xã Diễn Phú"
+        }
+    ]
+}

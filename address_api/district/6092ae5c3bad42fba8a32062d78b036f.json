@@ -1,0 +1,46 @@
+{
+    "uid": "6092ae5c3bad42fba8a32062d78b036f",
+    "name": "Huyện Ea Súp",
+    "wards": [
+        {
+            "uid": "845fbcb0e1354a318658c7059f221bb4",
+            "name": "Thị trấn Ea Súp"
+        },
+        {
+            "uid": "860d486274a044f7ac62d8b7892a9ed9",
+            "name": "Xã Ia Lốp"
+        },
+        {
+            "uid": "37bf554248934b25873092d7658154be",
+            "name": "Xã Ia JLơi"
+        },
+        {
+            "uid": "a89bcff47b194219839d600eeeadaa6f",
+            "name": "Xã Ea Rốk"
+        },
+        {
+            "uid": "0efbb1520e6a44fb9a83f5de901e4ed6",
+            "name": "Xã Ya Tờ Mốt"
+        },
+        {
+            "uid": "70628d7be4ca484f9f341328ef1dd8e7",
+            "name": "Xã Ia RVê"
+        },
+        {
+            "uid": "4e5af24e62a241b98cf7b387c356cb5d",
+            "name": "Xã Ea Lê"
+        },
+        {
+            "uid": "c6aa6d2252044ce28a8eade50b9d7128",
+            "name": "Xã Cư KBang"
+        },
+        {
+            "uid": "65f2e7d4ba14462e8ad6fa8a9fa2230c",
+            "name": "Xã Ea Bung"
+        },
+        {
+            "uid": "a1e07a20ef0741e09bfe76e44ecfafed",
+            "name": "Xã Cư M'Lan"
+        }
+    ]
+}

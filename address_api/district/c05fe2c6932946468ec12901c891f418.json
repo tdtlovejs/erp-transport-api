@@ -1,0 +1,38 @@
+{
+    "uid": "c05fe2c6932946468ec12901c891f418",
+    "name": "Thị xã Kiến Tường",
+    "wards": [
+        {
+            "uid": "45af8d5183c745b191d702bdde84a85c",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "f4ddaaa8185845298858943538ffe366",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "6ab4984319bf4a97addec754176e15f5",
+            "name": "Xã Thạnh Trị"
+        },
+        {
+            "uid": "4abd6a10ba2d423792b43bcc0ba8774f",
+            "name": "Xã Bình Hiệp"
+        },
+        {
+            "uid": "26fca00841064fff8bd3b9fe7d5c6510",
+            "name": "Xã Bình Tân"
+        },
+        {
+            "uid": "5948d982bb9f463485a582d75e6305c9",
+            "name": "Xã Tuyên Thạnh"
+        },
+        {
+            "uid": "677fdb46f3d044b793bd0e18e5a88bf3",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "6f17db36b9ca433490c83a4933a54c67",
+            "name": "Xã Thạnh Hưng"
+        }
+    ]
+}

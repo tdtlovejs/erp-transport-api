@@ -1,0 +1,50 @@
+{
+    "uid": "0cb53e4b8704467590a589a0d71c68ba",
+    "name": "Huyện Đồng Xuân",
+    "wards": [
+        {
+            "uid": "7e0e4b12466648c6af6d6224f1f66e60",
+            "name": "Thị trấn La Hai"
+        },
+        {
+            "uid": "258d1b1712584628a6f3fa30f6e20a12",
+            "name": "Xã Đa Lộc"
+        },
+        {
+            "uid": "bc52e60bd17e450e8e5fe00442b6df4b",
+            "name": "Xã Phú Mỡ"
+        },
+        {
+            "uid": "45a9e16b241a4b118226f5fc92d8e2b2",
+            "name": "Xã Xuân Lãnh"
+        },
+        {
+            "uid": "9ec7c383656b49d284a683cdb1727c28",
+            "name": "Xã Xuân Long"
+        },
+        {
+            "uid": "c5759019337c4b158b0c52305437d3ec",
+            "name": "Xã Xuân Quang 1"
+        },
+        {
+            "uid": "3e0591d00a4e4626af84c42f75a0d6e3",
+            "name": "Xã Xuân Sơn Bắc"
+        },
+        {
+            "uid": "db99dbf6b87f42de989d6cdc53661b32",
+            "name": "Xã Xuân Quang 2"
+        },
+        {
+            "uid": "8463419f2f15488084cefe2a7f15432f",
+            "name": "Xã Xuân Sơn Nam"
+        },
+        {
+            "uid": "e9d1065dc1044413aeae10c6ccfe752a",
+            "name": "Xã Xuân Quang 3"
+        },
+        {
+            "uid": "04b3b543c3e240079ce359e5a92e7ed9",
+            "name": "Xã Xuân Phước"
+        }
+    ]
+}

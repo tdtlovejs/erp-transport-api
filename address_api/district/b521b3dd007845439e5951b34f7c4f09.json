@@ -1,0 +1,58 @@
+{
+    "uid": "b521b3dd007845439e5951b34f7c4f09",
+    "name": "Huyện Thới Lai",
+    "wards": [
+        {
+            "uid": "f63601e8410a481d878cad4349c323ba",
+            "name": "Thị trấn Thới Lai"
+        },
+        {
+            "uid": "faa9c2bfe7634072bc9def2168c6a641",
+            "name": "Xã Thới Thạnh"
+        },
+        {
+            "uid": "bee3ab40e95a419699356faca0a4425e",
+            "name": "Xã Tân Thạnh"
+        },
+        {
+            "uid": "7672219ec3e44feea1405e169717ec36",
+            "name": "Xã Xuân Thắng"
+        },
+        {
+            "uid": "36f369bca1f241769d0d2ebaf1a8b254",
+            "name": "Xã Đông Bình"
+        },
+        {
+            "uid": "1b20b52de5174ff48ab103981b8c1c43",
+            "name": "Xã Đông Thuận"
+        },
+        {
+            "uid": "4d8deff4cf214188a282ed6d00b89006",
+            "name": "Xã Thới Tân"
+        },
+        {
+            "uid": "0095f51673724a1180c0624c95208ff4",
+            "name": "Xã Trường Thắng"
+        },
+        {
+            "uid": "b5fa899505e042d88a4b19753246a64d",
+            "name": "Xã Định Môn"
+        },
+        {
+            "uid": "3bd199b0d2184b23bdf596e2f1e92f34",
+            "name": "Xã Trường Thành"
+        },
+        {
+            "uid": "0a7af04f818b4139a2875c741bd5b31a",
+            "name": "Xã Trường Xuân"
+        },
+        {
+            "uid": "6fe18d641a1143afb576c9bb77396bc3",
+            "name": "Xã Trường Xuân A"
+        },
+        {
+            "uid": "73c77b54121b4556991abfbf489e7ad6",
+            "name": "Xã Trường Xuân B"
+        }
+    ]
+}

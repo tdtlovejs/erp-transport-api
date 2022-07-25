@@ -1,0 +1,74 @@
+{
+    "uid": "98a972d9f1cd41e5907556816595e350",
+    "name": "Thành phố Mỹ Tho",
+    "wards": [
+        {
+            "uid": "9d964106b2da4929a03de12063e3a05c",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "5bcc449d13794c0492ad255e1f04b660",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "3bfadbc655d249509c895e39c4ccd440",
+            "name": "Phường 7"
+        },
+        {
+            "uid": "f5f7682bc73f4c478e496659dd6ba47e",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "fe65fe163b764bef89e5c3280ec320d1",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "e8f31f7297534eb7bed66844b17da707",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "6f884fc7980a4bd5ae6f8c9053eef7b0",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "8df2612b39724528abeb617ffce897ae",
+            "name": "Phường 6"
+        },
+        {
+            "uid": "6c6f1f8edbe84f97818eba7f0d901127",
+            "name": "Phường 9"
+        },
+        {
+            "uid": "a8233e208cf8418393b27a65ddc0066b",
+            "name": "Phường 10"
+        },
+        {
+            "uid": "a1bcb5611cd64167b466864cd79f7cdd",
+            "name": "Phường Tân Long"
+        },
+        {
+            "uid": "9c03f81162454354a0dfa594431f308a",
+            "name": "Xã Đạo Thạnh"
+        },
+        {
+            "uid": "df0a4fb4fc7842d48ad0d2e767f4e62e",
+            "name": "Xã Trung An"
+        },
+        {
+            "uid": "ffcc5b8379d440c2af269909e628425d",
+            "name": "Xã Mỹ Phong"
+        },
+        {
+            "uid": "67296ea3c9804fc295dfde05914e0691",
+            "name": "Xã Tân Mỹ Chánh"
+        },
+        {
+            "uid": "8d5e95430a714a37888b8ce6d9a024a2",
+            "name": "Xã Phước Thạnh"
+        },
+        {
+            "uid": "438a765e8e1f45f98ba3e100262142ae",
+            "name": "Xã Thới Sơn"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "uid": "897b04751da34302a1b64835e3064a59",
+    "name": "Huyện Yên Sơn",
+    "wards": [
+        {
+            "uid": "e4c2c46174cf4b06beec05e4e60ac824",
+            "name": "Xã Quí Quân"
+        },
+        {
+            "uid": "49b3a4d5259644aeb6745feb4d4906df",
+            "name": "Xã Lực Hành"
+        },
+        {
+            "uid": "c24176e614384e7e81624a8244594935",
+            "name": "Xã Kiến Thiết"
+        },
+        {
+            "uid": "04a41fcf0aba411ebbc5823cfca3315e",
+            "name": "Xã Trung Minh"
+        },
+        {
+            "uid": "fe677510501f45fb90df9fa4ad36340b",
+            "name": "Xã Chiêu Yên"
+        },
+        {
+            "uid": "c6dc1a8370b04488ab7dff6f578dd700",
+            "name": "Xã Trung Trực"
+        },
+        {
+            "uid": "bbcf1bc5e358474b8fefb57079b1b8b1",
+            "name": "Xã Xuân Vân"
+        },
+        {
+            "uid": "618ef1a94de243b0afdb1f3a33086b5c",
+            "name": "Xã Phúc Ninh"
+        },
+        {
+            "uid": "11bb8378d57448968b3633094d9e316b",
+            "name": "Xã Hùng Lợi"
+        },
+        {
+            "uid": "2ab4483054344dacac6133b0896cd40a",
+            "name": "Xã Trung Sơn"
+        },
+        {
+            "uid": "cebf336ff3344034af91fe9ca68d379a",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "46c5c1f7439d49a6a15eac7e41e6474e",
+            "name": "Xã Tứ Quận"
+        },
+        {
+            "uid": "02db8cfc11d34cee96f0e6f60c190f1f",
+            "name": "Xã Đạo Viện"
+        },
+        {
+            "uid": "55c4943e140649d7bd77be4178422be1",
+            "name": "Xã Tân Long"
+        },
+        {
+            "uid": "7e03030cecfc4e09994f3f188805ea04",
+            "name": "Xã Thắng Quân"
+        },
+        {
+            "uid": "a1cbaaf58ac24cb49082ae07a60bf89f",
+            "name": "Xã Kim Quan"
+        },
+        {
+            "uid": "e75d3025ecf04ecdae4356b7f4ff0cf5",
+            "name": "Xã Lang Quán"
+        },
+        {
+            "uid": "2d560b60c6664487b1121c3d62a5dcfb",
+            "name": "Xã Phú Thịnh"
+        },
+        {
+            "uid": "4ae83c1f265444bf837ab2556ed62432",
+            "name": "Xã Công Đa"
+        },
+        {
+            "uid": "7c60b0c60ba146c7beb5bd488e6190a4",
+            "name": "Xã Trung Môn"
+        },
+        {
+            "uid": "cfdc3bb260db4edcbc4f4f2a56446a4b",
+            "name": "Xã Chân Sơn"
+        },
+        {
+            "uid": "6ab25280188f4edbb06dedf2b5b4ae89",
+            "name": "Xã Thái Bình"
+        },
+        {
+            "uid": "fe34d1110d7046a08c44b9c2c6ad248d",
+            "name": "Xã Tiến Bộ"
+        },
+        {
+            "uid": "e87db72415934cc0a970827ffe690ced",
+            "name": "Xã Mỹ Bằng"
+        },
+        {
+            "uid": "6b4e4d6a3ae64520bfe5e47ffcc45e53",
+            "name": "Xã Hoàng Khai"
+        },
+        {
+            "uid": "75e6f7328bf74114a5318d8dafb1344e",
+            "name": "Xã Nhữ Hán"
+        },
+        {
+            "uid": "c791fdac28eb43bc873d2e564104ca07",
+            "name": "Xã Nhữ Khê"
+        },
+        {
+            "uid": "80f504946b6548eaaf4e5dad30fb589a",
+            "name": "Xã Đội Bình"
+        }
+    ]
+}

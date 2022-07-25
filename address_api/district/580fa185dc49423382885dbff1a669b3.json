@@ -1,0 +1,70 @@
+{
+    "uid": "580fa185dc49423382885dbff1a669b3",
+    "name": "Huyện Mỏ Cày Nam",
+    "wards": [
+        {
+            "uid": "44573a633fa34bf7ae65bd9d3c998f06",
+            "name": "Thị trấn Mỏ Cày"
+        },
+        {
+            "uid": "faf84818c96947c0a53d4edd918ee99d",
+            "name": "Xã Định Thủy"
+        },
+        {
+            "uid": "1f46a0261ed74b369f915e806d679b41",
+            "name": "Xã Đa Phước Hội"
+        },
+        {
+            "uid": "70ed83b3669f4af8878ec76c97de64c6",
+            "name": "Xã Tân Hội"
+        },
+        {
+            "uid": "fa82a979a56f4b24802c8304cc08fb56",
+            "name": "Xã Phước Hiệp"
+        },
+        {
+            "uid": "ef320398caec438484d8b7cb5841a069",
+            "name": "Xã Bình Khánh"
+        },
+        {
+            "uid": "960c970857d047598d137a1032fa9e54",
+            "name": "Xã An Thạnh"
+        },
+        {
+            "uid": "1dc0386218c648469d2ba6a28a9ae719",
+            "name": "Xã An Định"
+        },
+        {
+            "uid": "16fe1b51ca9d45449778e7f19e78557c",
+            "name": "Xã Thành Thới B"
+        },
+        {
+            "uid": "9dc4d949767a4e2b89df14969fa017e6",
+            "name": "Xã Tân Trung"
+        },
+        {
+            "uid": "c6ee5eb0a3c049fdba145cfd6071be36",
+            "name": "Xã An Thới"
+        },
+        {
+            "uid": "d9f0b9fb3e6f4125a036428951269596",
+            "name": "Xã Thành Thới A"
+        },
+        {
+            "uid": "f2d8e06418d04e7fbebf0eecb888539e",
+            "name": "Xã Minh Đức"
+        },
+        {
+            "uid": "2ab0b59808d84d95957f49a9c35dfa4d",
+            "name": "Xã Ngãi Đăng"
+        },
+        {
+            "uid": "7dd6c1579f84492ba053b5af7e3d77fa",
+            "name": "Xã Cẩm Sơn"
+        },
+        {
+            "uid": "1b9222dd3b2141c7b6ced260e73ff200",
+            "name": "Xã Hương Mỹ"
+        }
+    ]
+}

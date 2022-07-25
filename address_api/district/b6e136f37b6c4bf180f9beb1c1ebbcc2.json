@@ -1,0 +1,62 @@
+{
+    "uid": "b6e136f37b6c4bf180f9beb1c1ebbcc2",
+    "name": "Thành phố Ninh Bình",
+    "wards": [
+        {
+            "uid": "38c64e3cebdd4d7fab1f7b65dfbb3be2",
+            "name": "Phường Đông Thành"
+        },
+        {
+            "uid": "62b3f587035446668c0fbce81bd073be",
+            "name": "Phường Tân Thành"
+        },
+        {
+            "uid": "88923addfce04dc8bae43ab68e09d12b",
+            "name": "Phường Thanh Bình"
+        },
+        {
+            "uid": "1cde6ac273b04ebca1e72fa5a839fa49",
+            "name": "Phường Vân Giang"
+        },
+        {
+            "uid": "6bae6ddc4c6d43ce9b66d731c21007de",
+            "name": "Phường Bích Đào"
+        },
+        {
+            "uid": "fb5f517833d54ec29088d87159d2199d",
+            "name": "Phường Phúc Thành"
+        },
+        {
+            "uid": "a0bd993ba1e649d19a9458fde3f28109",
+            "name": "Phường Nam Bình"
+        },
+        {
+            "uid": "ec5600c29b3e4d80861adccf38f17ec5",
+            "name": "Phường Nam Thành"
+        },
+        {
+            "uid": "49eb01f57ab34dd58ba18516362eb0f4",
+            "name": "Phường Ninh Khánh"
+        },
+        {
+            "uid": "cd7b56e7ac624d8ba9c81c7273f0f08a",
+            "name": "Xã Ninh Nhất"
+        },
+        {
+            "uid": "e3a0376106a0491aa84bd11c5b6eb009",
+            "name": "Xã Ninh Tiến"
+        },
+        {
+            "uid": "0cacf12af6da419ab8a7816e66225359",
+            "name": "Xã Ninh Phúc"
+        },
+        {
+            "uid": "37006d7814ba4e859e862f77c2fc2719",
+            "name": "Phường Ninh Sơn"
+        },
+        {
+            "uid": "abaaed0207b5412390b6341599cd3c9d",
+            "name": "Phường Ninh Phong"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "uid": "3c13f7be2a6a427bae1f3c336999dd04",
+    "name": "Huyện Phù Mỹ",
+    "wards": [
+        {
+            "uid": "de31de464d904de69926368468bf4c10",
+            "name": "Thị trấn Phù Mỹ"
+        },
+        {
+            "uid": "9737cad5fd824352b36a93b35a9e31db",
+            "name": "Thị trấn Bình Dương"
+        },
+        {
+            "uid": "c5b18ad5201e4f5bb7bf4d8c473f5c61",
+            "name": "Xã Mỹ Đức"
+        },
+        {
+            "uid": "42df49a898cd4260899cf04be723f17d",
+            "name": "Xã Mỹ Châu"
+        },
+        {
+            "uid": "81814be5be2b4f98a4743c9e47020a76",
+            "name": "Xã Mỹ Thắng"
+        },
+        {
+            "uid": "711409061b4d48fda48211a25378d5ef",
+            "name": "Xã Mỹ Lộc"
+        },
+        {
+            "uid": "523b6cff8a714a67bead3b8c25585dc6",
+            "name": "Xã Mỹ Lợi"
+        },
+        {
+            "uid": "e2fcd060db9d4420bf404afcba52166f",
+            "name": "Xã Mỹ An"
+        },
+        {
+            "uid": "56f66fe62eae4532b9d28981d9852472",
+            "name": "Xã Mỹ Phong"
+        },
+        {
+            "uid": "7276cdf4cf234ab09f05886ff28a934e",
+            "name": "Xã Mỹ Trinh"
+        },
+        {
+            "uid": "ce879ce0e91d485d926d2b9d96dcbdcd",
+            "name": "Xã Mỹ Thọ"
+        },
+        {
+            "uid": "40873efccf2e4ada8d0dd0d695ad26b3",
+            "name": "Xã Mỹ Hòa"
+        },
+        {
+            "uid": "06978a4a70c34cee8b331c63ce7c9cce",
+            "name": "Xã Mỹ Thành"
+        },
+        {
+            "uid": "1140081bb1a340b7850ff446fbe4cba3",
+            "name": "Xã Mỹ Chánh"
+        },
+        {
+            "uid": "509b38e82d5e4359b84596b627cf1c6b",
+            "name": "Xã Mỹ Quang"
+        },
+        {
+            "uid": "92739308e49b41aa88954a45dd15cb23",
+            "name": "Xã Mỹ Hiệp"
+        },
+        {
+            "uid": "a5994a7c43f94635be001805dcd393b0",
+            "name": "Xã Mỹ Tài"
+        },
+        {
+            "uid": "4817385ac89746efa68f88813e4272f4",
+            "name": "Xã Mỹ Cát"
+        },
+        {
+            "uid": "2b186fb26e814f079f2e3f3e52bcd8a0",
+            "name": "Xã Mỹ Chánh Tây"
+        }
+    ]
+}

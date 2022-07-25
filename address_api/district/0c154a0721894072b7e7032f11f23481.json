@@ -1,0 +1,62 @@
+{
+    "uid": "0c154a0721894072b7e7032f11f23481",
+    "name": "Huyện Định Quán",
+    "wards": [
+        {
+            "uid": "f7518f19512e46beb877f9bf8f91d76a",
+            "name": "Thị trấn Định Quán"
+        },
+        {
+            "uid": "d5755bd62a3f4acbac3154824feab0f7",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "ded7631496674b3aae62dc796c9b3c3b",
+            "name": "Xã Phú Tân"
+        },
+        {
+            "uid": "bc69e5b96029475ea1ef0d664cc94bdc",
+            "name": "Xã Phú Vinh"
+        },
+        {
+            "uid": "c9fc6447cdc2404ebb2ac0ccf5e2c23f",
+            "name": "Xã Phú Lợi"
+        },
+        {
+            "uid": "a3a832ffdf3c4a25b25ca11fcfb6f487",
+            "name": "Xã Phú Hòa"
+        },
+        {
+            "uid": "72d54d7fb31e45bbbfbcb9fe1b29a239",
+            "name": "Xã Ngọc Định"
+        },
+        {
+            "uid": "2f5193e5f25048ccbd931d79ff716d10",
+            "name": "Xã La Ngà"
+        },
+        {
+            "uid": "b1e5506e03ac4df3bd6547d718e199e1",
+            "name": "Xã Gia Canh"
+        },
+        {
+            "uid": "7686fba3a2f84335a788d976e2260a8b",
+            "name": "Xã Phú Ngọc"
+        },
+        {
+            "uid": "6d50e3edca824e4e8caf9f11c23f6363",
+            "name": "Xã Phú Cường"
+        },
+        {
+            "uid": "41318087181142e8a708f72809ae0bdf",
+            "name": "Xã Túc Trưng"
+        },
+        {
+            "uid": "8ee7699b4e084f37af845deb38aab62e",
+            "name": "Xã Phú Túc"
+        },
+        {
+            "uid": "e07835c68bb540b2944d7f2b2b3747a2",
+            "name": "Xã Suối Nho"
+        }
+    ]
+}

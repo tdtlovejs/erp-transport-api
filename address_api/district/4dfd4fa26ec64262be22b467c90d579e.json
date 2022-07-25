@@ -1,0 +1,62 @@
+{
+    "uid": "4dfd4fa26ec64262be22b467c90d579e",
+    "name": "Quận Hoàng Mai",
+    "wards": [
+        {
+            "uid": "c2ebc54dfaeb41099ec3167cb23fcebd",
+            "name": "Phường Thanh Trì"
+        },
+        {
+            "uid": "eb45c9b9cc6b4b208eece433e621e30b",
+            "name": "Phường Vĩnh Hưng"
+        },
+        {
+            "uid": "0266b079e73e4431bf246aa4d4c832aa",
+            "name": "Phường Định Công"
+        },
+        {
+            "uid": "eff9838d9de64200b3774176ad967f6d",
+            "name": "Phường Mai Động"
+        },
+        {
+            "uid": "157d28443e7c421cab042e385b2d9d37",
+            "name": "Phường Tương Mai"
+        },
+        {
+            "uid": "018fefe20c1d49d1acfe78b27e27ab6e",
+            "name": "Phường Đại Kim"
+        },
+        {
+            "uid": "3f2dde16543245439ee6ca8011d2acde",
+            "name": "Phường Tân Mai"
+        },
+        {
+            "uid": "f860131a50e74c5a9d7bde5bc7e83c7b",
+            "name": "Phường Hoàng Văn Thụ"
+        },
+        {
+            "uid": "3b1a14200af94e599bba2e2227171139",
+            "name": "Phường Giáp Bát"
+        },
+        {
+            "uid": "da47370d30144525ae445ccca74418d4",
+            "name": "Phường Lĩnh Nam"
+        },
+        {
+            "uid": "26f420fd39d246d6a0942157d7d7205f",
+            "name": "Phường Thịnh Liệt"
+        },
+        {
+            "uid": "059b4cc41fab4df6a5ef45c4ec3a6e47",
+            "name": "Phường Trần Phú"
+        },
+        {
+            "uid": "bd01d09457b04d3595eb057fc5fe9ecf",
+            "name": "Phường Hoàng Liệt"
+        },
+        {
+            "uid": "532cba59443c4c18b30dbe91657d9ac4",
+            "name": "Phường Yên Sở"
+        }
+    ]
+}

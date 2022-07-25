@@ -1,0 +1,66 @@
+{
+    "uid": "b40b8a1f4b5c49c68230e48463bdb466",
+    "name": "Huyện Long Hồ",
+    "wards": [
+        {
+            "uid": "94e948cf21854afca6482accff7920ec",
+            "name": "Thị trấn Long Hồ"
+        },
+        {
+            "uid": "0664157187e640c39d73a53b5e5b2135",
+            "name": "Xã Đồng Phú"
+        },
+        {
+            "uid": "c9a427871bd0451e9874f8df591017e2",
+            "name": "Xã Bình Hòa Phước"
+        },
+        {
+            "uid": "a0c78267069b44efbb3561c2c0426795",
+            "name": "Xã Hòa Ninh"
+        },
+        {
+            "uid": "5a7b33f40dad4c85b48d190190c33241",
+            "name": "Xã An Bình"
+        },
+        {
+            "uid": "1d5bab563eb947049fd1d17625494f05",
+            "name": "Xã Thanh Đức"
+        },
+        {
+            "uid": "6dec87791b7945b9bebfc17e719eb8c1",
+            "name": "Xã Tân Hạnh"
+        },
+        {
+            "uid": "621f1d096a7d41c9bc144c31bc19ace8",
+            "name": "Xã Phước Hậu"
+        },
+        {
+            "uid": "6066bde120bd4e499bf764d0366563b8",
+            "name": "Xã Long Phước"
+        },
+        {
+            "uid": "390ef14a74d94b63b7c1d2f18e356603",
+            "name": "Xã Phú Đức"
+        },
+        {
+            "uid": "d23bb5da56654adcbc02847af8f22b03",
+            "name": "Xã Lộc Hòa"
+        },
+        {
+            "uid": "4b9fdb1e154342598c99c916024f4ed3",
+            "name": "Xã Long An"
+        },
+        {
+            "uid": "f3ed57fb59f84fb2aba22f91e5357ecd",
+            "name": "Xã Phú Quới"
+        },
+        {
+            "uid": "5e238f69668745478165b76f4815e59c",
+            "name": "Xã Thạnh Quới"
+        },
+        {
+            "uid": "3ad096519e1c4e06a7ac21f6b8eb3a3c",
+            "name": "Xã Hòa Phú"
+        }
+    ]
+}

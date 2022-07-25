@@ -1,0 +1,94 @@
+{
+    "uid": "ec39a5893b874422a392818289f2c463",
+    "name": "Huyện Gia Lâm",
+    "wards": [
+        {
+            "uid": "24147f13f43e49fb9c7ae4f02b61a9c4",
+            "name": "Thị trấn Yên Viên"
+        },
+        {
+            "uid": "9913af8969354efa9b60b76011879a93",
+            "name": "Xã Yên Thường"
+        },
+        {
+            "uid": "a66673dbd43c4ab39c75a1807840ad2a",
+            "name": "Xã Yên Viên"
+        },
+        {
+            "uid": "ba645c5a1d9547d6a3d3a63d4ca5a794",
+            "name": "Xã Ninh Hiệp"
+        },
+        {
+            "uid": "480d01c1839b4905bb5f3c17ad20bcd9",
+            "name": "Xã Đình Xuyên"
+        },
+        {
+            "uid": "87993f0b97d04bf28b76464c9a5119dd",
+            "name": "Xã Dương Hà"
+        },
+        {
+            "uid": "ab308cd9f51b4c55b71f5f276ca9ae11",
+            "name": "Xã Phù Đổng"
+        },
+        {
+            "uid": "aaba9405658f49819dfbfabba9a82aad",
+            "name": "Xã Trung Mầu"
+        },
+        {
+            "uid": "a6e8ffd4ca294302bb8766f6926e3a72",
+            "name": "Xã Lệ Chi"
+        },
+        {
+            "uid": "fdd0127ea49942f8bec6b6ee3b2447ae",
+            "name": "Xã Cổ Bi"
+        },
+        {
+            "uid": "a578a095b95846e5b7e2eea118329dd4",
+            "name": "Xã Đặng Xá"
+        },
+        {
+            "uid": "d84eb59c56eb404b912f18984b28205f",
+            "name": "Xã Phú Thị"
+        },
+        {
+            "uid": "9f507b6dcb6c4841b646681b56df08a5",
+            "name": "Xã Kim Sơn"
+        },
+        {
+            "uid": "33e4c0bf7a264453a2da998610e48fa2",
+            "name": "Thị trấn Trâu Quỳ"
+        },
+        {
+            "uid": "da190a4586de4c919e812ccd0435809e",
+            "name": "Xã Dương Quang"
+        },
+        {
+            "uid": "37d6fea865f34365a924e901d80de429",
+            "name": "Xã Dương Xá"
+        },
+        {
+            "uid": "a251c3b4a30e4caa9cb67d1dfeca0774",
+            "name": "Xã Đông Dư"
+        },
+        {
+            "uid": "4ad4d90f1c924cbbb9b32e70c37e524c",
+            "name": "Xã Đa Tốn"
+        },
+        {
+            "uid": "9711b7f72eda4b7f82b45b9aed86fb37",
+            "name": "Xã Kiêu Kỵ"
+        },
+        {
+            "uid": "623e8e9b9c7849eba2f262e0108fdb76",
+            "name": "Xã Bát Tràng"
+        },
+        {
+            "uid": "562bd14dd59a4eb8887caa174c4a880d",
+            "name": "Xã Kim Lan"
+        },
+        {
+            "uid": "fe186bfe77ea4e08b820f4b7df206bd8",
+            "name": "Xã Văn Đức"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "uid": "a138788690e0483394ad821dfcd412ce",
+    "name": "Huyện Vị Thuỷ",
+    "wards": [
+        {
+            "uid": "ae06d2be2d674494a8ba024e7b86314e",
+            "name": "Thị trấn Nàng Mau"
+        },
+        {
+            "uid": "08c9c9d502a947e2ba58a1aaf9e0c79b",
+            "name": "Xã Vị Trung"
+        },
+        {
+            "uid": "9ba9838f2f8c457d84230e66adafc9dc",
+            "name": "Xã Vị Thuỷ"
+        },
+        {
+            "uid": "7d3ed4cd84f04c96a851a54fc457e353",
+            "name": "Xã Vị Thắng"
+        },
+        {
+            "uid": "e488516c057e4cdda04e954151599f9c",
+            "name": "Xã Vĩnh Thuận Tây"
+        },
+        {
+            "uid": "057932351e62454b8c15dc329610b947",
+            "name": "Xã Vĩnh Trung"
+        },
+        {
+            "uid": "db21cbfb28d147a080ef478faa26439a",
+            "name": "Xã Vĩnh Tường"
+        },
+        {
+            "uid": "404855f45bf84d839ad72241c8365668",
+            "name": "Xã Vị Đông"
+        },
+        {
+            "uid": "839c2ae6050d4c9696cb7616c1120f88",
+            "name": "Xã Vị Thanh"
+        },
+        {
+            "uid": "68c45f0c2b13421f973e28ffa8f671d8",
+            "name": "Xã Vị Bình"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "uid": "cb4fb44250ef45029495823b1126831c",
+    "name": "Huyện Kim Bôi",
+    "wards": [
+        {
+            "uid": "d546a6cb89ab463f902b1ec9bf7c8739",
+            "name": "Thị trấn Bo"
+        },
+        {
+            "uid": "d8b557884882444fb9ec35d4fecfd62c",
+            "name": "Xã Đú Sáng"
+        },
+        {
+            "uid": "be4ba25837144db88cbc41a0bc1f55ef",
+            "name": "Xã Hùng Sơn"
+        },
+        {
+            "uid": "b912c73a031744caa886e21918911ff6",
+            "name": "Xã Bình Sơn"
+        },
+        {
+            "uid": "c9f7a21da68f48b79558da617fd16da0",
+            "name": "Xã Tú Sơn"
+        },
+        {
+            "uid": "640271908ccb4b24a35cd5c00535c604",
+            "name": "Xã Vĩnh Tiến"
+        },
+        {
+            "uid": "ae12b0e327b14866a66b42e51c4f5d79",
+            "name": "Xã Đông Bắc"
+        },
+        {
+            "uid": "7501fbf30fa44723997e31f343f98bbb",
+            "name": "Xã Xuân Thủy"
+        },
+        {
+            "uid": "557f5ef9fab64256a7c15816e1163369",
+            "name": "Xã Vĩnh Đồng"
+        },
+        {
+            "uid": "67cbdf252be7404789ecaaacef2cc85d",
+            "name": "Xã Kim Lập"
+        },
+        {
+            "uid": "eab6467c333e42f2aa16a69adac66f49",
+            "name": "Xã Hợp Tiến"
+        },
+        {
+            "uid": "ce0f334e70e34d34b10a60491e040a42",
+            "name": "Xã Kim Bôi"
+        },
+        {
+            "uid": "c017ec111e3643319e72944ff950a4e1",
+            "name": "Xã Nam Thượng"
+        },
+        {
+            "uid": "021360122e2c441bb7e9c9a005fa670e",
+            "name": "Xã Cuối Hạ"
+        },
+        {
+            "uid": "fab18d6638554f45bc6bff1e36ef1a8e",
+            "name": "Xã Sào Báy"
+        },
+        {
+            "uid": "e45b0eff5cba46b4a99c07d1366a7140",
+            "name": "Xã Mi Hòa"
+        },
+        {
+            "uid": "f741caa2631b48b8ab485adc3dae11be",
+            "name": "Xã Nuông Dăm"
+        }
+    ]
+}

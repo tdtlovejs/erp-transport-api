@@ -1,0 +1,74 @@
+{
+    "uid": "9cd010add8674cb4945b06e47af5bc4f",
+    "name": "Huyện Kim Động",
+    "wards": [
+        {
+            "uid": "6bacf444ac38450597e7ff9491f7d3a5",
+            "name": "Thị trấn Lương Bằng"
+        },
+        {
+            "uid": "1a5c2a2f644746b5a5230047c2911337",
+            "name": "Xã Nghĩa Dân"
+        },
+        {
+            "uid": "ae6a545a07264030b599ed7966f94540",
+            "name": "Xã Toàn Thắng"
+        },
+        {
+            "uid": "91643746b03341b2a5fad3184ff27302",
+            "name": "Xã Vĩnh Xá"
+        },
+        {
+            "uid": "35ae9563dbdf4de1964bbb278f4466fd",
+            "name": "Xã Phạm Ngũ Lão"
+        },
+        {
+            "uid": "f30f8446b59b4a14a71949ecc1beca53",
+            "name": "Xã Thọ Vinh"
+        },
+        {
+            "uid": "e811dcba764a4c139fb87722f7956ae1",
+            "name": "Xã Đồng Thanh"
+        },
+        {
+            "uid": "7a7e08415118499f868644bc97b551b0",
+            "name": "Xã Song Mai"
+        },
+        {
+            "uid": "5c8a43f741604245a776c05c0aba52c2",
+            "name": "Xã Chính Nghĩa"
+        },
+        {
+            "uid": "ed5d077babb54e139dc324d010dff9f5",
+            "name": "Xã Nhân La"
+        },
+        {
+            "uid": "e2fd6d9083114fc7819b4352faa84e93",
+            "name": "Xã Phú Thịnh"
+        },
+        {
+            "uid": "7cb5415bc70d48c7826c1f5c480fa9e4",
+            "name": "Xã Mai Động"
+        },
+        {
+            "uid": "c6421c2614f141eea1e7987bcb3f28c8",
+            "name": "Xã Đức Hợp"
+        },
+        {
+            "uid": "387d1a3e96394792b0750420aaca0ba7",
+            "name": "Xã Hùng An"
+        },
+        {
+            "uid": "9f30e9986fe449acab2fcf8386938a3e",
+            "name": "Xã Ngọc Thanh"
+        },
+        {
+            "uid": "2ccd8076eb5847d1bd6cf3439502e2f6",
+            "name": "Xã Vũ Xá"
+        },
+        {
+            "uid": "e23694fa560e4a9cac1a178bc1ad6ca0",
+            "name": "Xã Hiệp Cường"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uid": "98d157a9e7c048f7a94a676731e402bc",
+    "name": "Huyện Bắc Sơn",
+    "wards": [
+        {
+            "uid": "f1f4b9e1d9ef46c1abd14af533d744f8",
+            "name": "Thị trấn Bắc Sơn"
+        },
+        {
+            "uid": "b21d8d5456164476b714b1a375e019ab",
+            "name": "Xã Long Đống"
+        },
+        {
+            "uid": "3d2c6baa6419461abc285ea080b80436",
+            "name": "Xã Vạn Thủy"
+        },
+        {
+            "uid": "d1a54aa4f0244cf89c14d575b3e4f0e7",
+            "name": "Xã Đồng ý"
+        },
+        {
+            "uid": "b9d3a402704b4f1582f7d29a0f49a6f4",
+            "name": "Xã Tân Tri"
+        },
+        {
+            "uid": "c997b4ce790f446b84675c30034a686e",
+            "name": "Xã Bắc Quỳnh"
+        },
+        {
+            "uid": "11e0b61f6318472c98d623ff115b9ca8",
+            "name": "Xã Hưng Vũ"
+        },
+        {
+            "uid": "94e80239e29f4ecc940b554099ba4bdb",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "c0304cf893ee4d19a55bb423dc6e32bf",
+            "name": "Xã Vũ Sơn"
+        },
+        {
+            "uid": "74009906b6d840efa804a207cd742875",
+            "name": "Xã Chiêu Vũ"
+        },
+        {
+            "uid": "7a1e04c13a70403d9aa26d84d0a7ca04",
+            "name": "Xã Tân Hương"
+        },
+        {
+            "uid": "3cbbeab94cf2487f8c0d46b0a2577d76",
+            "name": "Xã Chiến Thắng"
+        },
+        {
+            "uid": "cb93652f77ed426095745dafff3d21a5",
+            "name": "Xã Vũ Lăng"
+        },
+        {
+            "uid": "abbd8bad11cc4cc99571123a07a91e86",
+            "name": "Xã Trấn Yên"
+        },
+        {
+            "uid": "bfa0e21b484d4230b7160ba482762b7b",
+            "name": "Xã Vũ Lễ"
+        },
+        {
+            "uid": "dcf1643cb6654ccbb48c718456ac21c4",
+            "name": "Xã Nhất Hòa"
+        },
+        {
+            "uid": "e27511840c624993a1e8ee285b54de58",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "9e61ed8fbe914f9fb4fc9b3067dea328",
+            "name": "Xã Nhất Tiến"
+        }
+    ]
+}

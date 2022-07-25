@@ -1,0 +1,30 @@
+{
+    "uid": "cbc532dc9eb74ddfabb3cbcea86a5a45",
+    "name": "Huyện Tuy Đức",
+    "wards": [
+        {
+            "uid": "0c0613b050604273b0ec803659f27705",
+            "name": "Xã Quảng Trực"
+        },
+        {
+            "uid": "197646416ca8470e8ce8d1479fc381ae",
+            "name": "Xã Đắk Búk So"
+        },
+        {
+            "uid": "e9e6e525bd7346b7858494f418820b75",
+            "name": "Xã Quảng Tâm"
+        },
+        {
+            "uid": "57d131ab18804d918df7904027be2bf8",
+            "name": "Xã Đắk R'Tíh"
+        },
+        {
+            "uid": "d8077300f22349d89b4d6fa9edd7653c",
+            "name": "Xã Đắk Ngo"
+        },
+        {
+            "uid": "7c1e4c9645b94b7bb4cf998abb4da761",
+            "name": "Xã Quảng Tân"
+        }
+    ]
+}

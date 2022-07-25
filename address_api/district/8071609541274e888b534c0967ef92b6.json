@@ -1,0 +1,58 @@
+{
+    "uid": "8071609541274e888b534c0967ef92b6",
+    "name": "Thành phố Hội An",
+    "wards": [
+        {
+            "uid": "bb5b6559543e429babe7d34178fcae74",
+            "name": "Phường Minh An"
+        },
+        {
+            "uid": "60505fbed5f8469089fcc15d060323e4",
+            "name": "Phường Tân An"
+        },
+        {
+            "uid": "8461f81c711142f38044e7349e1a1844",
+            "name": "Phường Cẩm Phô"
+        },
+        {
+            "uid": "ffe8b71812b040b3b429c17feca601c8",
+            "name": "Phường Thanh Hà"
+        },
+        {
+            "uid": "bd0b60d9b86d41e4b301189eddaa73dd",
+            "name": "Phường Sơn Phong"
+        },
+        {
+            "uid": "b6d19a7b20394428b45d6e2a8941d929",
+            "name": "Phường Cẩm Châu"
+        },
+        {
+            "uid": "a08d3c2acbd748bd982fc3e6377b741c",
+            "name": "Phường Cửa Đại"
+        },
+        {
+            "uid": "76765a69cbbf44259a33559c26d93d2a",
+            "name": "Phường Cẩm An"
+        },
+        {
+            "uid": "509e213d39d24ee0b8ee58742fe5e47c",
+            "name": "Xã Cẩm Hà"
+        },
+        {
+            "uid": "81981baddd634b8da79d8ff0133cdd63",
+            "name": "Xã Cẩm Kim"
+        },
+        {
+            "uid": "5a9a8f4c3a1645f3946f181932a63d22",
+            "name": "Phường Cẩm Nam"
+        },
+        {
+            "uid": "d8f488d8df814a9dad0848037640385a",
+            "name": "Xã Cẩm Thanh"
+        },
+        {
+            "uid": "7b51f5e6b97d4590a6080418b494655b",
+            "name": "Xã Tân Hiệp"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "uid": "e9d743ddec164fc09c687dd9b4eb8f92",
+    "name": "Thị xã Sa Pa",
+    "wards": [
+        {
+            "uid": "44839263c5704b4bab3b71ec674d47b1",
+            "name": "Phường Sa Pa"
+        },
+        {
+            "uid": "bcd491540c5c4bdba70543dfe13ef820",
+            "name": "Phường Sa Pả"
+        },
+        {
+            "uid": "64f944bfa318442ea36f3de79084cafa",
+            "name": "Phường Ô Quý Hồ"
+        },
+        {
+            "uid": "6568fd116ef74bcbb7298d5ffceb07a4",
+            "name": "Xã Ngũ Chỉ Sơn"
+        },
+        {
+            "uid": "b0787dfec95b42c68bd7524ef594d44b",
+            "name": "Phường Phan Si Păng"
+        },
+        {
+            "uid": "986e734e18524c94893ed69fd2e25625",
+            "name": "Xã Trung Chải"
+        },
+        {
+            "uid": "43e7255c8b254dfa8c9f471c8e143d33",
+            "name": "Xã Tả Phìn"
+        },
+        {
+            "uid": "590a9f87052446ba95737eebbad7e723",
+            "name": "Phường Hàm Rồng"
+        },
+        {
+            "uid": "ffd38213dd7c4d40b0b0e20fd82d4ff1",
+            "name": "Xã Hoàng Liên"
+        },
+        {
+            "uid": "42bc0d15ef834d228324a2fb424a33e5",
+            "name": "Xã Thanh Bình"
+        },
+        {
+            "uid": "2610367247f24bbf985e11c5d3440699",
+            "name": "Phường Cầu Mây"
+        },
+        {
+            "uid": "c28b294a6587443e868ede80acd173c7",
+            "name": "Xã Mường Hoa"
+        },
+        {
+            "uid": "50fb3f53149e4696a5809696ef68dd87",
+            "name": "Xã Tả Van"
+        },
+        {
+            "uid": "d1e18cf64c314f11b6985ea19794d83e",
+            "name": "Xã Mường Bo"
+        },
+        {
+            "uid": "5deb4084186a4cacab6a74d960adca9d",
+            "name": "Xã Bản Hồ"
+        },
+        {
+            "uid": "0ff7dad4983b45839711a44950028b65",
+            "name": "Xã Liên Minh"
+        }
+    ]
+}

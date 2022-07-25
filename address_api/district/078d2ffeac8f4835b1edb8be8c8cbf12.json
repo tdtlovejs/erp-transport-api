@@ -1,0 +1,38 @@
+{
+    "uid": "078d2ffeac8f4835b1edb8be8c8cbf12",
+    "name": "Huyện Thuận Nam",
+    "wards": [
+        {
+            "uid": "7406cc63971c4f0982cd36118122f938",
+            "name": "Xã Phước Hà"
+        },
+        {
+            "uid": "b5ed01694c26417bb523189417a5366f",
+            "name": "Xã Phước Nam"
+        },
+        {
+            "uid": "c384f05c11854ce1b9b224528dc55686",
+            "name": "Xã Phước Ninh"
+        },
+        {
+            "uid": "2d799e4d6712413bbacb63b1b30b73cc",
+            "name": "Xã Nhị Hà"
+        },
+        {
+            "uid": "1746f793598f4bff83372158ed718486",
+            "name": "Xã Phước Dinh"
+        },
+        {
+            "uid": "2b059fd96ef54ff0a09ac9cdc5d01238",
+            "name": "Xã Phước Minh"
+        },
+        {
+            "uid": "17438b8518fb4b7ba43d1893b2a66c72",
+            "name": "Xã Phước Diêm"
+        },
+        {
+            "uid": "94a46abbcf5f41a3a1c60250fa48f3fb",
+            "name": "Xã Cà Ná"
+        }
+    ]
+}

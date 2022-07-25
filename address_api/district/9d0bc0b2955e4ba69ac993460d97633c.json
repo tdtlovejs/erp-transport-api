@@ -1,0 +1,50 @@
+{
+    "uid": "9d0bc0b2955e4ba69ac993460d97633c",
+    "name": "Huyện Hòa Vang",
+    "wards": [
+        {
+            "uid": "fd653c47e5754c46827b382141a2754e",
+            "name": "Xã Hòa Bắc"
+        },
+        {
+            "uid": "2f078d9184f54302ad413ece6916e157",
+            "name": "Xã Hòa Liên"
+        },
+        {
+            "uid": "b3de41a5740642efb7400d7892481686",
+            "name": "Xã Hòa Ninh"
+        },
+        {
+            "uid": "83afe2f9ace54c8386f0bcce4ca33fac",
+            "name": "Xã Hòa Sơn"
+        },
+        {
+            "uid": "0717e2a7df8d41788e703d6f726daa32",
+            "name": "Xã Hòa Nhơn"
+        },
+        {
+            "uid": "6bff16e13c2d44ae99d674917756e2c2",
+            "name": "Xã Hòa Phú"
+        },
+        {
+            "uid": "b59690b45bdd45c394ed9f37918c65f6",
+            "name": "Xã Hòa Phong"
+        },
+        {
+            "uid": "fa04187bfce14f67a8885c847256a0dc",
+            "name": "Xã Hòa Châu"
+        },
+        {
+            "uid": "6bc828906e294dffa9bd43e33600f071",
+            "name": "Xã Hòa Tiến"
+        },
+        {
+            "uid": "8fd349f4fcb243c0ab6fa24e48f4a5f1",
+            "name": "Xã Hòa Phước"
+        },
+        {
+            "uid": "cb280df32ded44cf8eabd228b21c3ba9",
+            "name": "Xã Hòa Khương"
+        }
+    ]
+}

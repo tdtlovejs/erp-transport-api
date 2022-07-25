@@ -1,0 +1,54 @@
+{
+    "uid": "a872838dfcf547119c7aadd80b31d6c6",
+    "name": "Huyện Nghĩa Hành",
+    "wards": [
+        {
+            "uid": "4d35083a61a04688babd0f5fa597ecf9",
+            "name": "Thị trấn Chợ Chùa"
+        },
+        {
+            "uid": "f64fbcf0123d4ee387e825ec844091fb",
+            "name": "Xã Hành Thuận"
+        },
+        {
+            "uid": "aae6b3425fd0462db240acbf5985b166",
+            "name": "Xã Hành Dũng"
+        },
+        {
+            "uid": "3f0b7de1607c48a98e16eebdf7b3130b",
+            "name": "Xã Hành Trung"
+        },
+        {
+            "uid": "50fd10dbebe24962b96a3b208515c9c3",
+            "name": "Xã Hành Nhân"
+        },
+        {
+            "uid": "7187b69d8fbd4293826f30890aa6b01f",
+            "name": "Xã Hành Đức"
+        },
+        {
+            "uid": "4dd94d0df5cb4971981adec0cb21be29",
+            "name": "Xã Hành Minh"
+        },
+        {
+            "uid": "5cbc2d855368433b9d600b2ee250acac",
+            "name": "Xã Hành Phước"
+        },
+        {
+            "uid": "f3358b617b9b4660bbfc8872d5863722",
+            "name": "Xã Hành Thiện"
+        },
+        {
+            "uid": "959b2a81c36541c3a098d2a6a7d0f3f3",
+            "name": "Xã Hành Thịnh"
+        },
+        {
+            "uid": "1c549b0eb3e842cd849b65211a573a15",
+            "name": "Xã Hành Tín Tây"
+        },
+        {
+            "uid": "a322039375d44d7a89a64afce25a2b23",
+            "name": "Xã Hành Tín Đông"
+        }
+    ]
+}

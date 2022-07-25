@@ -1,0 +1,70 @@
+{
+    "uid": "dcdd0a682fd442009140c9f7c47c2f4e",
+    "name": "Huyện Phong Điền",
+    "wards": [
+        {
+            "uid": "fbf5248e4cb04353bd4a2995b2bef880",
+            "name": "Thị trấn Phong Điền"
+        },
+        {
+            "uid": "2cede591d7c24687a21dd99c729aca74",
+            "name": "Xã Điền Hương"
+        },
+        {
+            "uid": "d78c8fd53e5e460b8d7fcdc5340b4263",
+            "name": "Xã Điền Môn"
+        },
+        {
+            "uid": "8948ff5ce1ec420da307ae1f911889c8",
+            "name": "Xã Điền Lộc"
+        },
+        {
+            "uid": "31d6a195e8044976892e3990c1878289",
+            "name": "Xã Phong Bình"
+        },
+        {
+            "uid": "dea2c0821d1e4ae998f4fe354e142048",
+            "name": "Xã Điền Hòa"
+        },
+        {
+            "uid": "f97300e6b4a64d00b362c5b3b6fc8b36",
+            "name": "Xã Phong Chương"
+        },
+        {
+            "uid": "d0e328a63fba46fba1242c67e5b4b02f",
+            "name": "Xã Phong Hải"
+        },
+        {
+            "uid": "3e5492946ece45d2be0a414005482401",
+            "name": "Xã Điền Hải"
+        },
+        {
+            "uid": "b94221004a9b4f5c873e4342f7546fb1",
+            "name": "Xã Phong Hòa"
+        },
+        {
+            "uid": "0f8b7907066a419395082164b70056d0",
+            "name": "Xã Phong Thu"
+        },
+        {
+            "uid": "150f305ec54845bfbd5dc1b195d50db7",
+            "name": "Xã Phong Hiền"
+        },
+        {
+            "uid": "371e3848ac3c412eab7aeea0e95249f3",
+            "name": "Xã Phong Mỹ"
+        },
+        {
+            "uid": "f4125f520c1044deb1b85f2d9e1406bc",
+            "name": "Xã Phong An"
+        },
+        {
+            "uid": "8ce278c0e9f44f2ea9ecc4f5264ed90a",
+            "name": "Xã Phong Xuân"
+        },
+        {
+            "uid": "097b5d18cba04766a7c13a4c98307c7f",
+            "name": "Xã Phong Sơn"
+        }
+    ]
+}

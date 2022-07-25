@@ -1,0 +1,50 @@
+{
+    "uid": "4865bc07051d40a8bb394883e346c842",
+    "name": "Huyện Cái Nước",
+    "wards": [
+        {
+            "uid": "52b91ef800804590aaf5c991738cf394",
+            "name": "Thị trấn Cái Nước"
+        },
+        {
+            "uid": "ba386e44d0ce4f9382d72ab4c0c3adc2",
+            "name": "Xã Thạnh Phú"
+        },
+        {
+            "uid": "827bd229c9a944d9b323b5c175e4cd52",
+            "name": "Xã Lương Thế Trân"
+        },
+        {
+            "uid": "7610cac1e2d34c71a3125e5856e339b8",
+            "name": "Xã Phú Hưng"
+        },
+        {
+            "uid": "2acff6762e3d46c9b3129e3d0cec2e0c",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "94878e5aff844bea8e053f37e37cd26d",
+            "name": "Xã Hưng Mỹ"
+        },
+        {
+            "uid": "92418e679d58479ca94fdadbebda3ca5",
+            "name": "Xã Hoà Mỹ"
+        },
+        {
+            "uid": "35dbfad892f048b588720bf9f3629261",
+            "name": "Xã Đông Hưng"
+        },
+        {
+            "uid": "73b21069c58d4d17a44db84c20b17b07",
+            "name": "Xã Đông Thới"
+        },
+        {
+            "uid": "938b633da9dc43fb839099aa2bc3e48c",
+            "name": "Xã Tân Hưng Đông"
+        },
+        {
+            "uid": "108bc5f9372849c8995544595abb8389",
+            "name": "Xã Trần Thới"
+        }
+    ]
+}

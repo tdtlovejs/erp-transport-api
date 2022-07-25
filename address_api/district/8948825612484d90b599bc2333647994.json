@@ -1,0 +1,58 @@
+{
+    "uid": "8948825612484d90b599bc2333647994",
+    "name": "Huyện Vĩnh Lộc",
+    "wards": [
+        {
+            "uid": "3b4553dd98ef4387a776777f37136a00",
+            "name": "Thị trấn Vĩnh Lộc"
+        },
+        {
+            "uid": "268506121d524211af53964f67da253f",
+            "name": "Xã Vĩnh Quang"
+        },
+        {
+            "uid": "c6493ec45f114ce59f84a1f876ba14b1",
+            "name": "Xã Vĩnh Yên"
+        },
+        {
+            "uid": "281257528dac42049762d3a92d797509",
+            "name": "Xã Vĩnh Tiến"
+        },
+        {
+            "uid": "8b593c1da11645b59ccca341d27c8f74",
+            "name": "Xã Vĩnh Long"
+        },
+        {
+            "uid": "53ee160ccc0f4fcdac0db3e213e42140",
+            "name": "Xã Vĩnh Phúc"
+        },
+        {
+            "uid": "fad5744de96943e58a77a879cbcbc190",
+            "name": "Xã Vĩnh Hưng"
+        },
+        {
+            "uid": "f863035e29ff499c985fa0d14c6483a8",
+            "name": "Xã Vĩnh Hòa"
+        },
+        {
+            "uid": "606d5248978b4af995a3626fb0ad2d2d",
+            "name": "Xã Vĩnh Hùng"
+        },
+        {
+            "uid": "f7664bd1397046c597d37a273cad395e",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "20ab4d52c9884f7382af44231ec0e218",
+            "name": "Xã Ninh Khang"
+        },
+        {
+            "uid": "bb3161004e434c75983180292cf01480",
+            "name": "Xã Vĩnh Thịnh"
+        },
+        {
+            "uid": "6c43eb1fddc0453b9eb38d3357ad67a1",
+            "name": "Xã Vĩnh An"
+        }
+    ]
+}

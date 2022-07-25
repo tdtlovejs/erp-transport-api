@@ -1,0 +1,70 @@
+{
+    "uid": "4f20efbc6ae346e2b4bf62804e83074f",
+    "name": "Huyện Mường Khương",
+    "wards": [
+        {
+            "uid": "9a822072292d439b9a7a8ed13f039abd",
+            "name": "Xã Pha Long"
+        },
+        {
+            "uid": "cbffd8cedaae4f25b1cc232bd3fb91c9",
+            "name": "Xã Tả Ngải Chồ"
+        },
+        {
+            "uid": "c127dc0621e341eeb149869d6ab80783",
+            "name": "Xã Tung Chung Phố"
+        },
+        {
+            "uid": "2e08137642f5466589d0b8bee5ab70e5",
+            "name": "Thị trấn Mường Khương"
+        },
+        {
+            "uid": "fa8582d5994a43a0aef549eb4603e659",
+            "name": "Xã Dìn Chin"
+        },
+        {
+            "uid": "2102ed8596154be08ceced364a55a5da",
+            "name": "Xã Tả Gia Khâu"
+        },
+        {
+            "uid": "569a3812aba5477fa47c8791ecf66cb6",
+            "name": "Xã Nậm Chảy"
+        },
+        {
+            "uid": "7caf294f5c23460d85aeba12c096ce9e",
+            "name": "Xã Nấm Lư"
+        },
+        {
+            "uid": "404b2b9bb1c544f4939383a30e8c0e09",
+            "name": "Xã Lùng Khấu Nhin"
+        },
+        {
+            "uid": "813f4efb0be2437db7bab19477c43694",
+            "name": "Xã Thanh Bình"
+        },
+        {
+            "uid": "05dc2c368c5b46a6b723b1c8703b18df",
+            "name": "Xã Cao Sơn"
+        },
+        {
+            "uid": "3db2301204484b78a60ca3e1738186cb",
+            "name": "Xã Lùng Vai"
+        },
+        {
+            "uid": "4ad6bb64f6d34d07a97d4d3cc17c7002",
+            "name": "Xã Bản Lầu"
+        },
+        {
+            "uid": "b85694bd7717402abd636c1096b1b582",
+            "name": "Xã La Pan Tẩn"
+        },
+        {
+            "uid": "8feee66aa6de4099856b52e1e8c5cebf",
+            "name": "Xã Tả Thàng"
+        },
+        {
+            "uid": "d218f51b819d49ddb2d5871576ba9179",
+            "name": "Xã Bản Sen"
+        }
+    ]
+}

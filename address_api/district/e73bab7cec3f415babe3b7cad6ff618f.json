@@ -1,0 +1,90 @@
+{
+    "uid": "e73bab7cec3f415babe3b7cad6ff618f",
+    "name": "Thị xã Đông Triều",
+    "wards": [
+        {
+            "uid": "dbd0c48f19bd4381962007c85320f2a1",
+            "name": "Phường Mạo Khê"
+        },
+        {
+            "uid": "38b6bf6b5df947228de49ec45a48966f",
+            "name": "Phường Đông Triều"
+        },
+        {
+            "uid": "2faf82df007f4d33980c18ce5ff6ce88",
+            "name": "Xã An Sinh"
+        },
+        {
+            "uid": "369bf8cb6a3144018a0883f4f1b3867b",
+            "name": "Xã Tràng Lương"
+        },
+        {
+            "uid": "c0d546c4fe83411db46e9b45cf16e834",
+            "name": "Xã Bình Khê"
+        },
+        {
+            "uid": "a80ab83a681b480aa60ebd4ae03286d8",
+            "name": "Xã Việt Dân"
+        },
+        {
+            "uid": "a217e976c65c48889de497401aabd816",
+            "name": "Xã Tân Việt"
+        },
+        {
+            "uid": "77be9ccc8fba47ed9b90c72f9f64d986",
+            "name": "Xã Bình Dương"
+        },
+        {
+            "uid": "559ea3a341a44ede8223fa18e8df3364",
+            "name": "Phường Đức Chính"
+        },
+        {
+            "uid": "b72fd30330894925abb111ba42def42b",
+            "name": "Phường Tràng An"
+        },
+        {
+            "uid": "13ea791ebd924ce7a1ec8c22a66194aa",
+            "name": "Xã Nguyễn Huệ"
+        },
+        {
+            "uid": "6f172747bf8d433ca57a1a93dec357dc",
+            "name": "Xã Thủy An"
+        },
+        {
+            "uid": "a819f7fec8524f838e8f0089f611b949",
+            "name": "Phường Xuân Sơn"
+        },
+        {
+            "uid": "0a442090b7394525bd3082d08d4717bc",
+            "name": "Xã Hồng Thái Tây"
+        },
+        {
+            "uid": "819e7eef37414a03890e8aa4842fbeae",
+            "name": "Xã Hồng Thái Đông"
+        },
+        {
+            "uid": "6a9b3778b53a4a06865768b9205eeb68",
+            "name": "Phường Hoàng Quế"
+        },
+        {
+            "uid": "ecd2bd9b21f34c75960a3d24c4222dad",
+            "name": "Phường Yên Thọ"
+        },
+        {
+            "uid": "738b4027e90e49a2a001dcb8a60c6df4",
+            "name": "Phường Hồng Phong"
+        },
+        {
+            "uid": "b1037f90aabd4062a606b301f375227f",
+            "name": "Phường Kim Sơn"
+        },
+        {
+            "uid": "a424eab39f9547adb53cdcd4327fd961",
+            "name": "Phường Hưng Đạo"
+        },
+        {
+            "uid": "bac69a89005a4dc5bb15ec86cf0bc096",
+            "name": "Xã Yên Đức"
+        }
+    ]
+}

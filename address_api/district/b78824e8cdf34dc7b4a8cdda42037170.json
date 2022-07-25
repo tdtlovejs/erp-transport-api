@@ -1,0 +1,38 @@
+{
+    "uid": "b78824e8cdf34dc7b4a8cdda42037170",
+    "name": "Thành phố Hà Giang",
+    "wards": [
+        {
+            "uid": "d9fdf92a610d4079a6c4a87fec26b2e7",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "67937ad773894de685a6f3832c1091f7",
+            "name": "Phường Trần Phú"
+        },
+        {
+            "uid": "b0448e0f3e6548aaaae3795ac2cdd396",
+            "name": "Phường Ngọc Hà"
+        },
+        {
+            "uid": "e358d94e6dfe4909865ce65e6e709bab",
+            "name": "Phường Nguyễn Trãi"
+        },
+        {
+            "uid": "364c64a8f85a4e9084739a9f5547c1ea",
+            "name": "Phường Minh Khai"
+        },
+        {
+            "uid": "3968e55d55274b28863de97c878e84be",
+            "name": "Xã Ngọc Đường"
+        },
+        {
+            "uid": "983762014d204c24a169e34d3e72f4e9",
+            "name": "Xã Phương Độ"
+        },
+        {
+            "uid": "6cb43359bb854fdbba70f3584aa09c89",
+            "name": "Xã Phương Thiện"
+        }
+    ]
+}

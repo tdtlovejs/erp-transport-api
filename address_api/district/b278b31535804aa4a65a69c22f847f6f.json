@@ -1,0 +1,74 @@
+{
+    "uid": "b278b31535804aa4a65a69c22f847f6f",
+    "name": "Huyện Đà Bắc",
+    "wards": [
+        {
+            "uid": "867c588df0cc4bd7a1a56ee92b73202c",
+            "name": "Thị trấn Đà Bắc"
+        },
+        {
+            "uid": "8a39cca9adcf4befa1dcc0ab32e299bc",
+            "name": "Xã Nánh Nghê"
+        },
+        {
+            "uid": "cca6f5b21d164e2b815e2e24fb9c2de7",
+            "name": "Xã Giáp Đắt"
+        },
+        {
+            "uid": "c9381f944fdb42a3adca5ca5c5bdc80e",
+            "name": "Xã Mường Chiềng"
+        },
+        {
+            "uid": "58f3f0a2f79f4b9d8e68468afb7bd1f0",
+            "name": "Xã Tân Pheo"
+        },
+        {
+            "uid": "e335ed04a8a7493280e19457176cfd2c",
+            "name": "Xã Đồng Chum"
+        },
+        {
+            "uid": "293d0206bbed4e4cbfceb2134867899b",
+            "name": "Xã Tân Minh"
+        },
+        {
+            "uid": "086901abb1534018b45beb64a32a229c",
+            "name": "Xã Đoàn Kết"
+        },
+        {
+            "uid": "227079722343402abd4b75387919cb21",
+            "name": "Xã Đồng Ruộng"
+        },
+        {
+            "uid": "b98014b6fc824ea0b25ccefc506c4ab6",
+            "name": "Xã Tú Lý"
+        },
+        {
+            "uid": "a2bfc6219ca240d69372b2eae1ebc52e",
+            "name": "Xã Trung Thành"
+        },
+        {
+            "uid": "828323e91468484ab922f8401c3766f9",
+            "name": "Xã Yên Hòa"
+        },
+        {
+            "uid": "8d323b4b86ef4861ab217bdbed8d56bd",
+            "name": "Xã Cao Sơn"
+        },
+        {
+            "uid": "6a3708c135c945dd93892d2fafbe91ac",
+            "name": "Xã Toàn Sơn"
+        },
+        {
+            "uid": "b161b26279624ddcaca6b955098c5c93",
+            "name": "Xã Hiền Lương"
+        },
+        {
+            "uid": "fe8032d8c2c04c57845c7382d1dcaad5",
+            "name": "Xã Tiền Phong"
+        },
+        {
+            "uid": "ac0110a45b9145f1a531a684c509fd40",
+            "name": "Xã Vầy Nưa"
+        }
+    ]
+}

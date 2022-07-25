@@ -1,0 +1,38 @@
+{
+    "uid": "16bb90344e584eee84a1bb669875e636",
+    "name": "Huyện Bù Gia Mập",
+    "wards": [
+        {
+            "uid": "9a8a164bf2fb47878866cc5b73e71aeb",
+            "name": "Xã Bù Gia Mập"
+        },
+        {
+            "uid": "1848f73e7c684229b96f3bdcf96cdd96",
+            "name": "Xã Đak Ơ"
+        },
+        {
+            "uid": "a3a35732af904dc09fc449ecdb786335",
+            "name": "Xã Đức Hạnh"
+        },
+        {
+            "uid": "48752731fcac4cdfbe7e832bfa71328c",
+            "name": "Xã Phú Văn"
+        },
+        {
+            "uid": "0c69288dfd4641d797d4dfeb1c9f272d",
+            "name": "Xã Đa Kia"
+        },
+        {
+            "uid": "d9d6011c7a8148dfa3ce7ee2c947254b",
+            "name": "Xã Phước Minh"
+        },
+        {
+            "uid": "d31515bc6bdd4b3898edd41917b574d3",
+            "name": "Xã Bình Thắng"
+        },
+        {
+            "uid": "913f262639864a1a8beff81e56113b3f",
+            "name": "Xã Phú Nghĩa"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "96b1f8e794884fc0ac8d9daaab66b01a",
+    "name": "Huyện Ninh Hải",
+    "wards": [
+        {
+            "uid": "5028f5ddbaac40919057b96f1f2c08b8",
+            "name": "Thị trấn Khánh Hải"
+        },
+        {
+            "uid": "d82d3af33fd5423f8617764124c013d9",
+            "name": "Xã Vĩnh Hải"
+        },
+        {
+            "uid": "80d7f92a15254ca3a7ecdf658fd0da7f",
+            "name": "Xã Phương Hải"
+        },
+        {
+            "uid": "d43ab5c4389a4f02abac9fb7392b51f8",
+            "name": "Xã Tân Hải"
+        },
+        {
+            "uid": "d1cf2cf66fea4f1884782dc326160026",
+            "name": "Xã Xuân Hải"
+        },
+        {
+            "uid": "90647bbaad784be7be9cb7aab1462a10",
+            "name": "Xã Hộ Hải"
+        },
+        {
+            "uid": "cf7bb55356d24093b784c496200021ec",
+            "name": "Xã Tri Hải"
+        },
+        {
+            "uid": "a09aa93d580040a78ccaef10c6a924a8",
+            "name": "Xã Nhơn Hải"
+        },
+        {
+            "uid": "07a610a5e94644de9e02d4fd847d6f1a",
+            "name": "Xã Thanh Hải"
+        }
+    ]
+}

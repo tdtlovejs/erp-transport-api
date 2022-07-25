@@ -1,0 +1,70 @@
+{
+    "uid": "45408fcc14534e2b9d03162d3f4642a6",
+    "name": "Huyện Đức Thọ",
+    "wards": [
+        {
+            "uid": "dd9fa5b0b44c4953860dc0707eb6ff3d",
+            "name": "Thị trấn Đức Thọ"
+        },
+        {
+            "uid": "e19519fbebbe4286ad602340b01bb69f",
+            "name": "Xã Quang Vĩnh"
+        },
+        {
+            "uid": "d18076205d7a4637808f31d7472032b2",
+            "name": "Xã Tùng Châu"
+        },
+        {
+            "uid": "8885fe20592e49f08c6f67432e26a03f",
+            "name": "Xã Trường Sơn"
+        },
+        {
+            "uid": "d9e844ac1c76429abd0aa334d0f29ceb",
+            "name": "Xã Liên Minh"
+        },
+        {
+            "uid": "389911a09a864992b3e2024f85dd13b6",
+            "name": "Xã Yên Hồ"
+        },
+        {
+            "uid": "2d18811d7eeb4b4ab319230cf61d32be",
+            "name": "Xã Tùng Ảnh"
+        },
+        {
+            "uid": "9d8631d9875c425cb5c9cace9f26a942",
+            "name": "Xã Bùi La Nhân"
+        },
+        {
+            "uid": "71d45be7dda948a49c589e98d50827dd",
+            "name": "Xã Thanh Bình Thịnh"
+        },
+        {
+            "uid": "4b7e8d0863c446879bbc4bd948a151a7",
+            "name": "Xã Lâm Trung Thủy"
+        },
+        {
+            "uid": "5db747e36a7849d1bc39634755af77ab",
+            "name": "Xã Hòa Lạc"
+        },
+        {
+            "uid": "7f5eaa9e01504d8e883b4dc895497983",
+            "name": "Xã Tân Dân"
+        },
+        {
+            "uid": "f793b2279d744deea4c8a93fa13d286e",
+            "name": "Xã An Dũng"
+        },
+        {
+            "uid": "a15cc605fd834c2bb1f688b8bbb5ccf1",
+            "name": "Xã Đức Đồng"
+        },
+        {
+            "uid": "0e8d66afc03044f1ac6f00ac2e9436ea",
+            "name": "Xã Đức Lạng"
+        },
+        {
+            "uid": "e184e48bd3574fd2ad9219a05056b937",
+            "name": "Xã Tân Hương"
+        }
+    ]
+}

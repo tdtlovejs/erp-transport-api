@@ -1,0 +1,90 @@
+{
+    "uid": "46c6efb0f0ab4dff9c01d92068681116",
+    "name": "Huyện Thanh Oai",
+    "wards": [
+        {
+            "uid": "6ae9625d3dd94975a21ab7647bcec123",
+            "name": "Thị trấn Kim Bài"
+        },
+        {
+            "uid": "ace999c407424ba593e41947363a3815",
+            "name": "Xã Cự Khê"
+        },
+        {
+            "uid": "24b9530ef6b24170b40c7b440cdc7619",
+            "name": "Xã Bích Hòa"
+        },
+        {
+            "uid": "496a2818681a4e64be21e528427fe7d8",
+            "name": "Xã Mỹ Hưng"
+        },
+        {
+            "uid": "f621538fef144ab09e04e411a353d325",
+            "name": "Xã Cao Viên"
+        },
+        {
+            "uid": "d94852fcb051441382d49f7cccea006a",
+            "name": "Xã Bình Minh"
+        },
+        {
+            "uid": "30dfde3b4efd4c20a8d9b11ec50db124",
+            "name": "Xã Tam Hưng"
+        },
+        {
+            "uid": "a87ab0dec1a1457dae3bec4bdd1a8db3",
+            "name": "Xã Thanh Cao"
+        },
+        {
+            "uid": "9411d946bdde4dc4a2e3f4ceda9f4f06",
+            "name": "Xã Thanh Thùy"
+        },
+        {
+            "uid": "d2255d3f429e4369a5a6166fcbe10c0e",
+            "name": "Xã Thanh Mai"
+        },
+        {
+            "uid": "58d4122dde1e4b51ac08280786785768",
+            "name": "Xã Thanh Văn"
+        },
+        {
+            "uid": "870ff6d4d9cb40dbbacd4619e115412d",
+            "name": "Xã Đỗ Động"
+        },
+        {
+            "uid": "b2f222fbf06f42fda978363e0314d358",
+            "name": "Xã Kim An"
+        },
+        {
+            "uid": "cbfbd22b9570497eafae2a4a3bf1ad06",
+            "name": "Xã Kim Thư"
+        },
+        {
+            "uid": "a900924c96544dfe80c2ea7cfd163ecf",
+            "name": "Xã Phương Trung"
+        },
+        {
+            "uid": "a53ce4d2ca9c49758c5701f2f97cf42f",
+            "name": "Xã Tân Ước"
+        },
+        {
+            "uid": "3de2bd14ceb74d8195034e6196ab3dff",
+            "name": "Xã Dân Hòa"
+        },
+        {
+            "uid": "11feee4b3b2b4ccebcbaa818f9477148",
+            "name": "Xã Liên Châu"
+        },
+        {
+            "uid": "bf7774a1f49e4445be76445292f0f085",
+            "name": "Xã Cao Dương"
+        },
+        {
+            "uid": "cfb62cb492b447b3b22cb80c4cd26395",
+            "name": "Xã Xuân Dương"
+        },
+        {
+            "uid": "90d4074b582e4f29a75686dc94c187a8",
+            "name": "Xã Hồng Dương"
+        }
+    ]
+}

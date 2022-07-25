@@ -1,0 +1,50 @@
+{
+    "uid": "7d5e19d5ac0147f5b5718d232fe76fd1",
+    "name": "Huyện Quảng Điền",
+    "wards": [
+        {
+            "uid": "45eeb9306b8747cdb00b8b6ec54edd96",
+            "name": "Thị trấn Sịa"
+        },
+        {
+            "uid": "de79798a48d64a608b77929a8330144c",
+            "name": "Xã Quảng Thái"
+        },
+        {
+            "uid": "895e49bf01d347199d8ed45b5beca461",
+            "name": "Xã Quảng Ngạn"
+        },
+        {
+            "uid": "d0cb60629c264ea981fee29985ea8aec",
+            "name": "Xã Quảng Lợi"
+        },
+        {
+            "uid": "7f3a70c57b3b4a92a4de84a00d32acea",
+            "name": "Xã Quảng Công"
+        },
+        {
+            "uid": "92b8135464f845c883f8c64b4108e8be",
+            "name": "Xã Quảng Phước"
+        },
+        {
+            "uid": "dffafa41834c4f33898cb18ba74a2a13",
+            "name": "Xã Quảng Vinh"
+        },
+        {
+            "uid": "e74e14c8d5454e69b2a352c0dc60c1cc",
+            "name": "Xã Quảng An"
+        },
+        {
+            "uid": "9290340125a24ee0b8308351dcc88b6f",
+            "name": "Xã Quảng Thành"
+        },
+        {
+            "uid": "4b274cc72d6347acabbd772f9cbdf5f4",
+            "name": "Xã Quảng Thọ"
+        },
+        {
+            "uid": "47e7d76b64d44326a87860a90f880579",
+            "name": "Xã Quảng Phú"
+        }
+    ]
+}

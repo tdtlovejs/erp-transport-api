@@ -1,0 +1,82 @@
+{
+    "uid": "afc5001ce0e54992ba90486e470d8b46",
+    "name": "Huyện Bình Gia",
+    "wards": [
+        {
+            "uid": "cc8968407cbc4420863f2febbd6389ec",
+            "name": "Xã Hưng Đạo"
+        },
+        {
+            "uid": "c2490e992f894d239ad84f15f32ca90b",
+            "name": "Xã Vĩnh Yên"
+        },
+        {
+            "uid": "42cfad7908f34145a47c445113711ea9",
+            "name": "Xã Hoa Thám"
+        },
+        {
+            "uid": "9688b5257a834c5dbe9145e2b176f5c1",
+            "name": "Xã Quý Hòa"
+        },
+        {
+            "uid": "03bc396c21a645ebba48253b44471bb2",
+            "name": "Xã Hồng Phong"
+        },
+        {
+            "uid": "569998b7358a43f08ad3f4ce119d3f2f",
+            "name": "Xã Yên Lỗ"
+        },
+        {
+            "uid": "071dab5d5b414f838956fd398fb8216c",
+            "name": "Xã Thiện Hòa"
+        },
+        {
+            "uid": "1328ae7678104bc6947b9e703e138dca",
+            "name": "Xã Quang Trung"
+        },
+        {
+            "uid": "6ce832f6c81740eda9e8e14d609f379c",
+            "name": "Xã Thiện Thuật"
+        },
+        {
+            "uid": "bc3348fcaa7849bd81fcc2c55c7c4328",
+            "name": "Xã Minh Khai"
+        },
+        {
+            "uid": "1530088616da4086aa12bca9f59159ba",
+            "name": "Xã Thiện Long"
+        },
+        {
+            "uid": "23815085fc9f4b55b0574eb6012e7c6c",
+            "name": "Xã Hoàng Văn Thụ"
+        },
+        {
+            "uid": "12ac30cf35e44a0385867df12a62ece2",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "3c5582e178594effb065e4d86efc08fa",
+            "name": "Xã Mông Ân"
+        },
+        {
+            "uid": "a98a7c4cf6da4188920b68ef91379e3f",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "3acfa4de1c9f43399898d77933d940aa",
+            "name": "Thị trấn Bình Gia"
+        },
+        {
+            "uid": "f9a0fb9287574eb68c9f515d25be8102",
+            "name": "Xã Hồng Thái"
+        },
+        {
+            "uid": "0cda9317daed42a2837b1d370a08bdc0",
+            "name": "Xã Bình La"
+        },
+        {
+            "uid": "93797b0db0914845aabd3e67914b0aeb",
+            "name": "Xã Tân Văn"
+        }
+    ]
+}

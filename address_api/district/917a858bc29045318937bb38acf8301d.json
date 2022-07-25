@@ -1,0 +1,42 @@
+{
+    "uid": "917a858bc29045318937bb38acf8301d",
+    "name": "Huyện Tam Đảo",
+    "wards": [
+        {
+            "uid": "506b96c56ed6418d84504ee442091e98",
+            "name": "Thị trấn Tam Đảo"
+        },
+        {
+            "uid": "37e894ffe33a4cea9f9c604719a47184",
+            "name": "Thị trấn Hợp Châu"
+        },
+        {
+            "uid": "7eb9bc6490d048f891f09757eeb3007f",
+            "name": "Xã Đạo Trù"
+        },
+        {
+            "uid": "52160e8106b04f38a27bb7720ab86c07",
+            "name": "Xã Yên Dương"
+        },
+        {
+            "uid": "9af91e6e543b4be88370ca71b569e71c",
+            "name": "Xã Bồ Lý"
+        },
+        {
+            "uid": "6305a8b855874625b8e59085ff5cefac",
+            "name": "Thị trấn Đại Đình"
+        },
+        {
+            "uid": "b7588835f04342c7a136d29741020674",
+            "name": "Xã Tam Quan"
+        },
+        {
+            "uid": "919bf82f75424d409ff5d30f0c2bf99c",
+            "name": "Xã Hồ Sơn"
+        },
+        {
+            "uid": "8bf8bde6639d44d7aa4bc63694b7a140",
+            "name": "Xã Minh Quang"
+        }
+    ]
+}

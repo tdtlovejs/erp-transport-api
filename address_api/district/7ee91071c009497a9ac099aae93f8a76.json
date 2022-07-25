@@ -1,0 +1,90 @@
+{
+    "uid": "7ee91071c009497a9ac099aae93f8a76",
+    "name": "Huyện Lộc Bình",
+    "wards": [
+        {
+            "uid": "c812b88491c842afa64b9f6f88344bc6",
+            "name": "Thị trấn Na Dương"
+        },
+        {
+            "uid": "885417c10b3e4bfab3f6c8906c1304f3",
+            "name": "Thị trấn Lộc Bình"
+        },
+        {
+            "uid": "6bfd1d546b584cf294123dbd13e6433a",
+            "name": "Xã Mẫu Sơn"
+        },
+        {
+            "uid": "d94c127f68e74931922f16f6cd4fe24f",
+            "name": "Xã Yên Khoái"
+        },
+        {
+            "uid": "ff2fe272ce1f4784a64a56076530443c",
+            "name": "Xã Khánh Xuân"
+        },
+        {
+            "uid": "3e9b2ad7a3fb44eba9464b168ca2b4c7",
+            "name": "Xã Tú Mịch"
+        },
+        {
+            "uid": "47a034c39f6f4cb0b953afe0c6880796",
+            "name": "Xã Hữu Khánh"
+        },
+        {
+            "uid": "0b110379b564411aacc849ad4109b120",
+            "name": "Xã Đồng Bục"
+        },
+        {
+            "uid": "2ab3978cec3741ebb3e0cd63f9139961",
+            "name": "Xã Tam Gia"
+        },
+        {
+            "uid": "6ef45c4812194417801ed1d896319e4f",
+            "name": "Xã Tú Đoạn"
+        },
+        {
+            "uid": "81a05307482a410a8934511fd935cd62",
+            "name": "Xã Khuất Xá"
+        },
+        {
+            "uid": "cf5a4d38e29e43f099dd02e9cef469d0",
+            "name": "Xã Tĩnh Bắc"
+        },
+        {
+            "uid": "d62d3f52fe9040cdbdd17ab717791aa7",
+            "name": "Xã Thống Nhất"
+        },
+        {
+            "uid": "3688af5bd1164529907f6a29a924de72",
+            "name": "Xã Sàn Viên"
+        },
+        {
+            "uid": "a9ba98b243d14f46b2e81d68293a8186",
+            "name": "Xã Đông Quan"
+        },
+        {
+            "uid": "915083111eb0458b9cb0ab0df7dd9897",
+            "name": "Xã Minh Hiệp"
+        },
+        {
+            "uid": "7b7c7da629f14ef0a7cb0c6712d58095",
+            "name": "Xã Hữu Lân"
+        },
+        {
+            "uid": "ec13316cc81b46a1bd1974e7f4efb407",
+            "name": "Xã Lợi Bác"
+        },
+        {
+            "uid": "a0ea6cc72561401e9c4ddf16d806b11d",
+            "name": "Xã Nam Quan"
+        },
+        {
+            "uid": "e779c1025215427ab1ccf89926c15e18",
+            "name": "Xã Xuân Dương"
+        },
+        {
+            "uid": "452ed780bc3c41678b4c5b5a7e7f154d",
+            "name": "Xã Ái Quốc"
+        }
+    ]
+}

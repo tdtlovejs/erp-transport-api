@@ -1,0 +1,66 @@
+{
+    "uid": "089391ab91eb41aa909b9794c695b0a8",
+    "name": "Thành phố Hà Tĩnh",
+    "wards": [
+        {
+            "uid": "5e2b844b998c43b28bd48a53e586be7e",
+            "name": "Phường Trần Phú"
+        },
+        {
+            "uid": "9c332cdca394414aa3531a8ca2fb3ffc",
+            "name": "Phường Nam Hà"
+        },
+        {
+            "uid": "1397fb42a39d48fca50de65e32caf31e",
+            "name": "Phường Bắc Hà"
+        },
+        {
+            "uid": "de384b9749484cbbb6dbe92bc0f1a554",
+            "name": "Phường Nguyễn Du"
+        },
+        {
+            "uid": "c921ead841264c1daed9e72088803107",
+            "name": "Phường Tân Giang"
+        },
+        {
+            "uid": "5a0bb25e2db5489c8caf327128bff148",
+            "name": "Phường Đại Nài"
+        },
+        {
+            "uid": "68d3afdf0cab4509b395d67945425334",
+            "name": "Phường Hà Huy Tập"
+        },
+        {
+            "uid": "b92b471616cd45d6a0965a4d0e2e0d1b",
+            "name": "Xã Thạch Trung"
+        },
+        {
+            "uid": "f2fdd8d00b674ef58b5b1333853c9721",
+            "name": "Phường Thạch Quý"
+        },
+        {
+            "uid": "497a445a66cf4502aa4000b6bed91d6e",
+            "name": "Phường Thạch Linh"
+        },
+        {
+            "uid": "8f6ea6aa167d428d97170dfa0c36228a",
+            "name": "Phường Văn Yên"
+        },
+        {
+            "uid": "86a1e2db71194a89bc612c4dbfe0dafc",
+            "name": "Xã Thạch Hạ"
+        },
+        {
+            "uid": "a3e48da5d73c467391d72355f8198eca",
+            "name": "Xã Đồng Môn"
+        },
+        {
+            "uid": "e201883bcffc41788e594f2e48098e54",
+            "name": "Xã Thạch Hưng"
+        },
+        {
+            "uid": "4f7d4d0f530a4544881852053691c15f",
+            "name": "Xã Thạch Bình"
+        }
+    ]
+}

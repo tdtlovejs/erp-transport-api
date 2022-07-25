@@ -1,0 +1,82 @@
+{
+    "uid": "b9288eb19d524e759470fac25ef5561b",
+    "name": "Huyện Quảng Hòa",
+    "wards": [
+        {
+            "uid": "ad1c65422fc74686a482269b88e9ac15",
+            "name": "Xã Quốc Toản"
+        },
+        {
+            "uid": "87125a2263384ddfae61f979445ab3b4",
+            "name": "Thị trấn Quảng Uyên"
+        },
+        {
+            "uid": "1e783e01fdc74a04bf17d824aec1eee4",
+            "name": "Xã Phi Hải"
+        },
+        {
+            "uid": "44f71b538d9c4080bbdd5167f86d90a3",
+            "name": "Xã Quảng Hưng"
+        },
+        {
+            "uid": "c31e951d29e245b5be575d24c67a3146",
+            "name": "Xã Độc Lập"
+        },
+        {
+            "uid": "cfedb8348c074708afa68b36054d4237",
+            "name": "Xã Cai Bộ"
+        },
+        {
+            "uid": "9ec018d5a8ac49c18d83705a2cfe347e",
+            "name": "Xã Phúc Sen"
+        },
+        {
+            "uid": "abc087ad17b04f21a527025fe5bb9b7e",
+            "name": "Xã Chí Thảo"
+        },
+        {
+            "uid": "3d4474ffd48d4e379e5e96247ab6177e",
+            "name": "Xã Tự Do"
+        },
+        {
+            "uid": "d8c71556d6674a878b2a3498ab772e77",
+            "name": "Xã Hồng Quang"
+        },
+        {
+            "uid": "a5745a1fb8a1465ea1a42594a5ec0e8a",
+            "name": "Xã Ngọc Động"
+        },
+        {
+            "uid": "afec5842867d4fe983d5bcc954e98d3e",
+            "name": "Xã Hạnh Phúc"
+        },
+        {
+            "uid": "0bd0fe3638c84685a3758fe844318eee",
+            "name": "Thị trấn Tà Lùng"
+        },
+        {
+            "uid": "e7309a4e320742fab818d6b7b30f32a7",
+            "name": "Xã Bế Văn Đàn"
+        },
+        {
+            "uid": "76b6b33216034f87b653bd82a0233ff4",
+            "name": "Xã Cách Linh"
+        },
+        {
+            "uid": "649f5a2c9ad6422496bdd7aaadc88762",
+            "name": "Xã Đại Sơn"
+        },
+        {
+            "uid": "c67434078c7841da8fbfa276b2623bca",
+            "name": "Xã Tiên Thành"
+        },
+        {
+            "uid": "1034a02d550b482198e1c780d4b0a958",
+            "name": "Thị trấn Hoà Thuận"
+        },
+        {
+            "uid": "2cddd52e6259410f9ef655876e9baf01",
+            "name": "Xã Mỹ Hưng"
+        }
+    ]
+}

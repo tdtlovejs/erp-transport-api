@@ -1,0 +1,74 @@
+{
+    "uid": "ee310b6d3bf649409b46433a325ab200",
+    "name": "Huyện Tam Bình",
+    "wards": [
+        {
+            "uid": "67076dc2ce6645e4be54ed1df30e02af",
+            "name": "Thị trấn Tam Bình"
+        },
+        {
+            "uid": "a1382b1df3ad4b84a1a4570588babdab",
+            "name": "Xã Tân Lộc"
+        },
+        {
+            "uid": "07253a1ea85d418b877e371f7a7f41c0",
+            "name": "Xã Phú Thịnh"
+        },
+        {
+            "uid": "16c6e69b815f4511bcad96f768818e00",
+            "name": "Xã Hậu Lộc"
+        },
+        {
+            "uid": "f0c6fa5088f942608a3739a74996b947",
+            "name": "Xã Hòa Thạnh"
+        },
+        {
+            "uid": "2353f3ed0a5240db9fc282e86dc3d93e",
+            "name": "Xã Hoà Lộc"
+        },
+        {
+            "uid": "354e38bceb2f460da93735f028229e65",
+            "name": "Xã Phú Lộc"
+        },
+        {
+            "uid": "fcdfe485877d439496e36ac4b2aee238",
+            "name": "Xã Song Phú"
+        },
+        {
+            "uid": "ec95382609c74d29a96111cbe62c3285",
+            "name": "Xã Hòa Hiệp"
+        },
+        {
+            "uid": "5ea88cd64f994739a426d377d399254d",
+            "name": "Xã Mỹ Lộc"
+        },
+        {
+            "uid": "db19c4c83493448cbc7d41695c488295",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "25ea142921d246bb9005ef31e28535b3",
+            "name": "Xã Long Phú"
+        },
+        {
+            "uid": "8ce50cd873aa429da4021b69a9cb0f54",
+            "name": "Xã Mỹ Thạnh Trung"
+        },
+        {
+            "uid": "410699159fce4d70b160f0a1f2cc5ba2",
+            "name": "Xã Tường Lộc"
+        },
+        {
+            "uid": "26f69bc0562e4a508ddcc5b174a54c78",
+            "name": "Xã Loan Mỹ"
+        },
+        {
+            "uid": "b439f5df14cb46d884320d41e1654841",
+            "name": "Xã Ngãi Tứ"
+        },
+        {
+            "uid": "ca623c7a24714331bf455b96a6227bcb",
+            "name": "Xã Bình Ninh"
+        }
+    ]
+}

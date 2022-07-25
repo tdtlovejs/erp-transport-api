@@ -1,0 +1,58 @@
+{
+    "uid": "db4303fe4452442db7ad61a5df865da0",
+    "name": "Thành phố Long Xuyên",
+    "wards": [
+        {
+            "uid": "5c63ae160351475c85e1471449e7004c",
+            "name": "Phường Mỹ Bình"
+        },
+        {
+            "uid": "788a36ba12a448a287a248922b1bfc54",
+            "name": "Phường Mỹ Long"
+        },
+        {
+            "uid": "15404fea04774da0889c15dd46b19f17",
+            "name": "Phường Đông Xuyên"
+        },
+        {
+            "uid": "701f53bebfdb44a39bf34f03db3d3391",
+            "name": "Phường Mỹ Xuyên"
+        },
+        {
+            "uid": "ebef0d9178f241af83049b2713b93909",
+            "name": "Phường Bình Đức"
+        },
+        {
+            "uid": "8c863196e9a4486289df75bfe33325b5",
+            "name": "Phường Bình Khánh"
+        },
+        {
+            "uid": "7208286795ed4d9f84c0f3451a7042c2",
+            "name": "Phường Mỹ Phước"
+        },
+        {
+            "uid": "9d870a1ef3fb4f94bc5569735cec03f0",
+            "name": "Phường Mỹ Quý"
+        },
+        {
+            "uid": "043578a0a15c43b2b37d8d5bdc8c6727",
+            "name": "Phường Mỹ Thới"
+        },
+        {
+            "uid": "4ab46603b75348d1b970e9204baf05a7",
+            "name": "Phường Mỹ Thạnh"
+        },
+        {
+            "uid": "baabe7faf3ab4732beb83fb8fb88a0d1",
+            "name": "Phường Mỹ Hòa"
+        },
+        {
+            "uid": "5f81d164654e4191b578fc03b6a02980",
+            "name": "Xã Mỹ Khánh"
+        },
+        {
+            "uid": "3ff34ba0d4c14e3e95eba0b60e9a3be5",
+            "name": "Xã Mỹ Hoà Hưng"
+        }
+    ]
+}

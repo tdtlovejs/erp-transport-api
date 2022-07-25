@@ -1,0 +1,82 @@
+{
+    "uid": "2c54e5c0846f4e0fbc58eed7cc2b6835",
+    "name": "Huyện Yên Thế",
+    "wards": [
+        {
+            "uid": "8fff00540d67494ca5c7370a96363a64",
+            "name": "Xã Đồng Tiến"
+        },
+        {
+            "uid": "fbd5e9a63fcb4d7ea488812359b223da",
+            "name": "Xã Canh Nậu"
+        },
+        {
+            "uid": "5de255b041534eedab957d36108a5e56",
+            "name": "Xã Xuân Lương"
+        },
+        {
+            "uid": "1b9540d5c24b43c38cf93a8cc43c85e9",
+            "name": "Xã Tam Tiến"
+        },
+        {
+            "uid": "77bde5904e81489bb0fd89343897fdf4",
+            "name": "Xã Đồng Vương"
+        },
+        {
+            "uid": "b198bb60a39a41c0ad13d19d0e8bc95b",
+            "name": "Xã Đồng Hưu"
+        },
+        {
+            "uid": "2bea33da2b7a4baaaa02641e101d47b5",
+            "name": "Xã Đồng Tâm"
+        },
+        {
+            "uid": "ff570f621f51402e8401f0a0e4cc00cb",
+            "name": "Xã Tam Hiệp"
+        },
+        {
+            "uid": "c82a39f9a7dd42c8b37d3c893a92c4ec",
+            "name": "Xã Tiến Thắng"
+        },
+        {
+            "uid": "1f4c01c8ce4f481a803448c94e623788",
+            "name": "Xã Hồng Kỳ"
+        },
+        {
+            "uid": "e84f7284ee9a4c65aa78c9745c8a1505",
+            "name": "Xã Đồng Lạc"
+        },
+        {
+            "uid": "141345234a3f4ed1a5b191ce929246b3",
+            "name": "Xã Đông Sơn"
+        },
+        {
+            "uid": "11bf7c0e361b41aba836524776d330ed",
+            "name": "Xã Tân Hiệp"
+        },
+        {
+            "uid": "eafdf290f328434784872e1cbb12f8f8",
+            "name": "Xã Hương Vĩ"
+        },
+        {
+            "uid": "6b1f91dc46ab4fb7bd378b501ff0334b",
+            "name": "Xã Đồng Kỳ"
+        },
+        {
+            "uid": "22164e49d0734926bd01f02cd296500a",
+            "name": "Xã An Thượng"
+        },
+        {
+            "uid": "8b7ff324a05844acac149e893298ae99",
+            "name": "Thị trấn Phồn Xương"
+        },
+        {
+            "uid": "991eda9ef5eb49738abf96a45cb95b39",
+            "name": "Xã Tân Sỏi"
+        },
+        {
+            "uid": "a60f08bbf9524823a0a7d681824a1263",
+            "name": "Thị trấn Bố Hạ"
+        }
+    ]
+}

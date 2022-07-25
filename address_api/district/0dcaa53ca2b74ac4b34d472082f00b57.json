@@ -1,0 +1,62 @@
+{
+    "uid": "0dcaa53ca2b74ac4b34d472082f00b57",
+    "name": "Huyện Duy Xuyên",
+    "wards": [
+        {
+            "uid": "9ed1ef573f914143aac83c81e823329f",
+            "name": "Thị trấn Nam Phước"
+        },
+        {
+            "uid": "d366912a7b8a4d1eb5b0e3716827e468",
+            "name": "Xã Duy Thu"
+        },
+        {
+            "uid": "e4310ac5e9774086b4e66c1212237707",
+            "name": "Xã Duy Phú"
+        },
+        {
+            "uid": "e92748c08f6147c4a885f1687fa2ac4a",
+            "name": "Xã Duy Tân"
+        },
+        {
+            "uid": "c798b5648fdc4663af5082933bdd0d8a",
+            "name": "Xã Duy Hòa"
+        },
+        {
+            "uid": "28ea987b272c4aafa95be67424db5b5e",
+            "name": "Xã Duy Châu"
+        },
+        {
+            "uid": "5bf65ce554344abeab1f4f3b1d8e751a",
+            "name": "Xã Duy Trinh"
+        },
+        {
+            "uid": "b14495f6274d4c2abccdf56af58e7904",
+            "name": "Xã Duy Sơn"
+        },
+        {
+            "uid": "95ed56d50a8d49d6b76fbe557ca0a206",
+            "name": "Xã Duy Trung"
+        },
+        {
+            "uid": "091b58d59d2f4330bf51fca18405e83e",
+            "name": "Xã Duy Phước"
+        },
+        {
+            "uid": "1c76ec0ea87e4a0daf6d7285d91d3046",
+            "name": "Xã Duy Thành"
+        },
+        {
+            "uid": "e053570d611f4d2993e4e96d993a36b4",
+            "name": "Xã Duy Vinh"
+        },
+        {
+            "uid": "ed55a684571f4a7dace898741fe3f862",
+            "name": "Xã Duy Nghĩa"
+        },
+        {
+            "uid": "65e5f1607d694bc3a66413709b9123f0",
+            "name": "Xã Duy Hải"
+        }
+    ]
+}

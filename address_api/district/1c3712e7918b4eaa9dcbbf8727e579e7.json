@@ -1,0 +1,54 @@
+{
+    "uid": "1c3712e7918b4eaa9dcbbf8727e579e7",
+    "name": "Huyện Nam Giang",
+    "wards": [
+        {
+            "uid": "8c1f0e4e7e254ee688bd37afa27de0a4",
+            "name": "Thị trấn Thạnh Mỹ"
+        },
+        {
+            "uid": "f962bdb09ef44faba96e2a0cbb85c01b",
+            "name": "Xã Laêê"
+        },
+        {
+            "uid": "9c54c3232aa6478d927547c0ba534076",
+            "name": "Xã Chơ Chun"
+        },
+        {
+            "uid": "4cb1e94118b343ccb971274fdb1ba1e7",
+            "name": "Xã Zuôich"
+        },
+        {
+            "uid": "96cfcffe59a242a887a5cdd1c3caa4aa",
+            "name": "Xã Tà Pơơ"
+        },
+        {
+            "uid": "fbe54814e71646f7bbc282bc1924a159",
+            "name": "Xã La Dêê"
+        },
+        {
+            "uid": "9f4e1922b5b044e48fb2e69f27b51ab8",
+            "name": "Xã Đắc Tôi"
+        },
+        {
+            "uid": "578c4355dd1542e7bfc53f174a204f4f",
+            "name": "Xã Chà Vàl"
+        },
+        {
+            "uid": "9412206ed9484fff949796466836772e",
+            "name": "Xã Tà Bhinh"
+        },
+        {
+            "uid": "609500590d3945deaab0bbf8cb79a8ef",
+            "name": "Xã Cà Dy"
+        },
+        {
+            "uid": "6b36c9829ace42148fcfbbfa9e2828d3",
+            "name": "Xã Đắc Pre"
+        },
+        {
+            "uid": "cd68f664985840718e7d58807bf3daec",
+            "name": "Xã Đắc Pring"
+        }
+    ]
+}

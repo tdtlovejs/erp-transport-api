@@ -1,0 +1,34 @@
+{
+    "uid": "aba926fb828e4179b93a80222714ad01",
+    "name": "Huyện Nhà Bè",
+    "wards": [
+        {
+            "uid": "c7f8d11b252645479dc2e827a36c38ce",
+            "name": "Thị trấn Nhà Bè"
+        },
+        {
+            "uid": "d509881630c3460c975035ca5ec0d33d",
+            "name": "Xã Phước Kiển"
+        },
+        {
+            "uid": "ea2794fdc91e4d3a92a6c427889ddf9e",
+            "name": "Xã Phước Lộc"
+        },
+        {
+            "uid": "7ebccf2614574ea98e34e24340b7ad51",
+            "name": "Xã Nhơn Đức"
+        },
+        {
+            "uid": "0a69730a6e604a7d9a7dff9743ff502e",
+            "name": "Xã Phú Xuân"
+        },
+        {
+            "uid": "9ddc27dadc3846d7aa9891e482ecba93",
+            "name": "Xã Long Thới"
+        },
+        {
+            "uid": "da6d47ee79d249778710656c23c0a976",
+            "name": "Xã Hiệp Phước"
+        }
+    ]
+}

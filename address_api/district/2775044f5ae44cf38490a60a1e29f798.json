@@ -1,0 +1,38 @@
+{
+    "uid": "2775044f5ae44cf38490a60a1e29f798",
+    "name": "Huyện Khánh Sơn",
+    "wards": [
+        {
+            "uid": "67e7eea9ab5e470494eb4860dbdbce6c",
+            "name": "Thị trấn Tô Hạp"
+        },
+        {
+            "uid": "0f4e266bcac34976ad56ba49abc5d415",
+            "name": "Xã Thành Sơn"
+        },
+        {
+            "uid": "93196e98354346c2a0145d2d749c8812",
+            "name": "Xã Sơn Lâm"
+        },
+        {
+            "uid": "135b65acb1044f56b5554560e30f3039",
+            "name": "Xã Sơn Hiệp"
+        },
+        {
+            "uid": "fa288810f2fd4a07a11a0171b49b7e03",
+            "name": "Xã Sơn Bình"
+        },
+        {
+            "uid": "d07d8c4963294a08a324728def515126",
+            "name": "Xã Sơn Trung"
+        },
+        {
+            "uid": "c6aa70e69a4e4ed58feb67bc98ffe9ca",
+            "name": "Xã Ba Cụm Bắc"
+        },
+        {
+            "uid": "a3c73fb4c7994fac9b66221af2502a1e",
+            "name": "Xã Ba Cụm Nam"
+        }
+    ]
+}

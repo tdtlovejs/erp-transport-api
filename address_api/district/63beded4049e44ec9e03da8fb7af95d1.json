@@ -1,0 +1,78 @@
+{
+    "uid": "63beded4049e44ec9e03da8fb7af95d1",
+    "name": "Huyện A Lưới",
+    "wards": [
+        {
+            "uid": "c2fec96a99ec474d8a21c7cb27aac132",
+            "name": "Thị trấn A Lưới"
+        },
+        {
+            "uid": "c9bdeae0b7b74d7f8fbb41189785fd17",
+            "name": "Xã Hồng Vân"
+        },
+        {
+            "uid": "14546783e76a4bdfbc975ab6c9ff35a5",
+            "name": "Xã Hồng Hạ"
+        },
+        {
+            "uid": "a7dcc701459d49e787e2d1bd9504d68f",
+            "name": "Xã Hồng Kim"
+        },
+        {
+            "uid": "e385f23fe788458aa3aff87f08dc0551",
+            "name": "Xã Trung Sơn"
+        },
+        {
+            "uid": "b2ee568c5966495ba9f867881c5cd03c",
+            "name": "Xã Hương Nguyên"
+        },
+        {
+            "uid": "1428c6ec2fa642259c569ce55b352d91",
+            "name": "Xã Hồng Bắc"
+        },
+        {
+            "uid": "764a8b2381294668bd7e28d55a2cfce2",
+            "name": "Xã A Ngo"
+        },
+        {
+            "uid": "5d7b05a3dd4846689cce6b6899fdad3d",
+            "name": "Xã Sơn Thủy"
+        },
+        {
+            "uid": "e001eeb289b24501be34cdf6ae6fcfe2",
+            "name": "Xã Phú Vinh"
+        },
+        {
+            "uid": "6d860c91a8114b09b2a3f2c3e3902fed",
+            "name": "Xã Hương Phong"
+        },
+        {
+            "uid": "afa5cfcd788343058d8834db67cbab76",
+            "name": "Xã Quảng Nhâm"
+        },
+        {
+            "uid": "f339157ba77c48a38f854aa155b57433",
+            "name": "Xã Hồng Thượng"
+        },
+        {
+            "uid": "329fff61a9fc418a898445e54ecd4247",
+            "name": "Xã Hồng Thái"
+        },
+        {
+            "uid": "c8bf3fa9c74945a9a808012e23c02571",
+            "name": "Xã A Roàng"
+        },
+        {
+            "uid": "79b7dad4d30543798ac37b8db8bbfaae",
+            "name": "Xã Đông Sơn"
+        },
+        {
+            "uid": "fa523747999c4774be610e6804dd38a0",
+            "name": "Xã Lâm Đớt"
+        },
+        {
+            "uid": "4ea9db1ca39544a1a407d34300854ec5",
+            "name": "Xã Hồng Thủy"
+        }
+    ]
+}

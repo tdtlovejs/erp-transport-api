@@ -1,0 +1,106 @@
+{
+    "uid": "d5b3d3994e8a4128ba516618560dc9f9",
+    "name": "Huyện Kim Sơn",
+    "wards": [
+        {
+            "uid": "7b5919cfab0e43c099d9bf8ac0e92285",
+            "name": "Thị trấn Phát Diệm"
+        },
+        {
+            "uid": "01ecd00cc4e341a684b3d190b43ff60e",
+            "name": "Thị trấn Bình Minh"
+        },
+        {
+            "uid": "c4c77e01220f4735bc20c4ee9c148de4",
+            "name": "Xã Hồi Ninh"
+        },
+        {
+            "uid": "040f2505e42647bc9cd4c05917aa5f90",
+            "name": "Xã Xuân Chính"
+        },
+        {
+            "uid": "71c0e3c3f258463491ccb33821562018",
+            "name": "Xã Kim Định"
+        },
+        {
+            "uid": "593b2c8ba6d6433783a6bc3e86ef4e2e",
+            "name": "Xã Ân Hòa"
+        },
+        {
+            "uid": "28b4015232024c5da89ddab4312b1a62",
+            "name": "Xã Hùng Tiến"
+        },
+        {
+            "uid": "f406db27e618471d84298178dae4ef51",
+            "name": "Xã Quang Thiện"
+        },
+        {
+            "uid": "6c24d1ffe54e475895454c59470b02a1",
+            "name": "Xã Như Hòa"
+        },
+        {
+            "uid": "33b2ebcf82c74b1f97afd5e557c8b038",
+            "name": "Xã Chất Bình"
+        },
+        {
+            "uid": "e7e43b0da4ef41a1abc716a58b83a6bf",
+            "name": "Xã Đồng Hướng"
+        },
+        {
+            "uid": "ff140f72449048da9396346dace9198a",
+            "name": "Xã Kim Chính"
+        },
+        {
+            "uid": "94cb8617683a4ec6ae9633aacaf9f008",
+            "name": "Xã Thượng Kiệm"
+        },
+        {
+            "uid": "e68e79b7740d45d7a352963cd1e3ec69",
+            "name": "Xã Lưu Phương"
+        },
+        {
+            "uid": "fb7bc921df944f8db8056856e0ba63c1",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "d458dd08d1514d85a7d677d1c3fed31b",
+            "name": "Xã Yên Lộc"
+        },
+        {
+            "uid": "29f48e4461cb4430b9bd5f320136fc75",
+            "name": "Xã Lai Thành"
+        },
+        {
+            "uid": "a69a679f58ef43109f5ee6a07346b2d3",
+            "name": "Xã Định Hóa"
+        },
+        {
+            "uid": "a6431fd5cfd04b5380d86c76c94d1588",
+            "name": "Xã Văn Hải"
+        },
+        {
+            "uid": "01a90d2faabb4a88adf749f355f087bf",
+            "name": "Xã Kim Tân"
+        },
+        {
+            "uid": "4a1496065b924304bb4517ebb751642b",
+            "name": "Xã Kim Mỹ"
+        },
+        {
+            "uid": "87a07ca1ce2d4973801d1182ac123bcd",
+            "name": "Xã Cồn Thoi"
+        },
+        {
+            "uid": "2c19c64cb62b4885a5f69fcc26965cf1",
+            "name": "Xã Kim Hải"
+        },
+        {
+            "uid": "ea4c1a65611347af87b53f28ac46072f",
+            "name": "Xã Kim Trung"
+        },
+        {
+            "uid": "4586ab9b17f14759bac9c546f625790b",
+            "name": "Xã Kim Đông"
+        }
+    ]
+}

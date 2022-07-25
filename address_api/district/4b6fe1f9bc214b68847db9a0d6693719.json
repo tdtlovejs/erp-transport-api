@@ -1,0 +1,106 @@
+{
+    "uid": "4b6fe1f9bc214b68847db9a0d6693719",
+    "name": "Thành phố Vinh",
+    "wards": [
+        {
+            "uid": "58399f9e1b6149a0bc5b8eb8a62239db",
+            "name": "Phường Đông Vĩnh"
+        },
+        {
+            "uid": "582c0ab770904d9184f94ec5d0d07979",
+            "name": "Phường Hà Huy Tập"
+        },
+        {
+            "uid": "8ce848c65053486da7da4d5efbab1ead",
+            "name": "Phường Lê Lợi"
+        },
+        {
+            "uid": "d917c19b8dbe48858bce373fe1b1b10a",
+            "name": "Phường Quán Bàu"
+        },
+        {
+            "uid": "dd783467a67a46bd82de9d7ad1171760",
+            "name": "Phường Hưng Bình"
+        },
+        {
+            "uid": "f5390f1900884dd9b7c48afcd4fdc866",
+            "name": "Phường Hưng Phúc"
+        },
+        {
+            "uid": "a0d5cc0d57354af1b89068f6f389bdc5",
+            "name": "Phường Hưng Dũng"
+        },
+        {
+            "uid": "400b87e20a6f46e797332fe0dfef1c99",
+            "name": "Phường Cửa Nam"
+        },
+        {
+            "uid": "90dfb3510d1d447786f1112b7ba965a0",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "da8c2ab474c94dfc80216999f5f30b1f",
+            "name": "Phường Đội Cung"
+        },
+        {
+            "uid": "6c014285c3f6484da3c80cc962c173fb",
+            "name": "Phường Lê Mao"
+        },
+        {
+            "uid": "836a0b0962094c39b1f1ec0f1a72b95c",
+            "name": "Phường Trường Thi"
+        },
+        {
+            "uid": "d04fbae78e494238b0c227b15f324df0",
+            "name": "Phường Bến Thủy"
+        },
+        {
+            "uid": "f0cce4913345429ea7d293407216ccd4",
+            "name": "Phường Hồng Sơn"
+        },
+        {
+            "uid": "64776d3a075c4ccb945a1d2689166d43",
+            "name": "Phường Trung Đô"
+        },
+        {
+            "uid": "f255c1200e114da881f74cbc63a10d94",
+            "name": "Xã Nghi Phú"
+        },
+        {
+            "uid": "1e907466106c46a38f236c922fb49f55",
+            "name": "Xã Hưng Đông"
+        },
+        {
+            "uid": "e59606d3f5af47728c826a338d1ef4ab",
+            "name": "Xã Hưng Lộc"
+        },
+        {
+            "uid": "429976a128df4e9b821996d82e3206a4",
+            "name": "Xã Hưng Hòa"
+        },
+        {
+            "uid": "f63a0eed39394ad08c1ad8b36dda2a6f",
+            "name": "Phường Vinh Tân"
+        },
+        {
+            "uid": "1dfe5c1f5d9846c4a78ddf816426cf08",
+            "name": "Xã Nghi Liên"
+        },
+        {
+            "uid": "fdea66f9c4494c3c96b12f608dad6fba",
+            "name": "Xã Nghi Ân"
+        },
+        {
+            "uid": "b7f102cee5cf423980720f395bd1c9f7",
+            "name": "Xã Nghi Kim"
+        },
+        {
+            "uid": "c1c94efe05764ac4803066877703de2d",
+            "name": "Xã Nghi Đức"
+        },
+        {
+            "uid": "298441860b274788a9e66f76580c4987",
+            "name": "Xã Hưng Chính"
+        }
+    ]
+}

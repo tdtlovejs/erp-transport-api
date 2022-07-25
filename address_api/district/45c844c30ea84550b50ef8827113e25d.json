@@ -1,0 +1,50 @@
+{
+    "uid": "45c844c30ea84550b50ef8827113e25d",
+    "name": "Thị xã Kỳ Anh",
+    "wards": [
+        {
+            "uid": "222c3a0ac3444c0d98b5104440dab568",
+            "name": "Phường Hưng Trí"
+        },
+        {
+            "uid": "aad4f4f83d304ebc81f41cbee75b728f",
+            "name": "Xã Kỳ Ninh"
+        },
+        {
+            "uid": "e00c4ce5c0794d2f97cfca5561520864",
+            "name": "Xã Kỳ Lợi"
+        },
+        {
+            "uid": "8b0988b3566845aabf963e257b524490",
+            "name": "Xã Kỳ Hà"
+        },
+        {
+            "uid": "b10c47fc1f91478bbe0330556fa8a1e0",
+            "name": "Phường Kỳ Trinh"
+        },
+        {
+            "uid": "184f0753329c4b64b51c1f24035a83ed",
+            "name": "Phường Kỳ Thịnh"
+        },
+        {
+            "uid": "90489d3cdd71418f9e7ccecbbf5245c0",
+            "name": "Xã Kỳ Hoa"
+        },
+        {
+            "uid": "d322e4a82b894a95aaa298964e708f4e",
+            "name": "Phường Kỳ Phương"
+        },
+        {
+            "uid": "92f391b78bdc4dd7bdfbe6278b284ce1",
+            "name": "Phường Kỳ Long"
+        },
+        {
+            "uid": "94424f10171f4952acad547940a5e2c5",
+            "name": "Phường Kỳ Liên"
+        },
+        {
+            "uid": "d48a2ba1fc7d482abaa3a3a4523103ed",
+            "name": "Xã Kỳ Nam"
+        }
+    ]
+}

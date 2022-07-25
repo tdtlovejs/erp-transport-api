@@ -1,0 +1,58 @@
+{
+    "uid": "1c12782b576c4f65a7cd77c40b4539f3",
+    "name": "Huyện M'Đrắk",
+    "wards": [
+        {
+            "uid": "652a029de67549b89bf707ed9ea926b0",
+            "name": "Thị trấn M'Đrắk"
+        },
+        {
+            "uid": "ec911e93bbfb41cba68580f7d23f8ab7",
+            "name": "Xã Cư Prao"
+        },
+        {
+            "uid": "5e37398ee0584bc2a497b142699c8794",
+            "name": "Xã Ea Pil"
+        },
+        {
+            "uid": "68a3d2bd938042d1a6c1db49535d99f1",
+            "name": "Xã Ea Lai"
+        },
+        {
+            "uid": "4d7e56c893e849fc8dc18e78e2a0ecc8",
+            "name": "Xã Ea H'MLay"
+        },
+        {
+            "uid": "6205aca341f540ab9a248e178b1a6699",
+            "name": "Xã Krông Jing"
+        },
+        {
+            "uid": "14c134192bf840cdae4d90a3b8c7bc3c",
+            "name": "Xã Ea M' Doal"
+        },
+        {
+            "uid": "8cee523f340743e2ba8f951e14de3210",
+            "name": "Xã Ea Riêng"
+        },
+        {
+            "uid": "6fd671cdb9bf48d58a82d2ac5be25ecc",
+            "name": "Xã Cư M'ta"
+        },
+        {
+            "uid": "3801422c3789498d9a05c884f837b750",
+            "name": "Xã Cư K Róa"
+        },
+        {
+            "uid": "435f3e3929644cd9b7882780a61e3ba7",
+            "name": "Xã Krông Á"
+        },
+        {
+            "uid": "df44b71ca0424dd8937cdaf43c8cc0d8",
+            "name": "Xã Cư San"
+        },
+        {
+            "uid": "573ecff59b0741db80e0fd2d5d1b6fb7",
+            "name": "Xã Ea Trang"
+        }
+    ]
+}

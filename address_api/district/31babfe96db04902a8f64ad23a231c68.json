@@ -1,0 +1,46 @@
+{
+    "uid": "31babfe96db04902a8f64ad23a231c68",
+    "name": "Huyện An Lão",
+    "wards": [
+        {
+            "uid": "8cccfff37ad54baabbd92e8034b02e27",
+            "name": "Thị trấn An Lão"
+        },
+        {
+            "uid": "35ec7fc0b6dc41329872738c472f88f9",
+            "name": "Xã An Hưng"
+        },
+        {
+            "uid": "9d736ac96dfb420b8e6a3ddf9d38f4f9",
+            "name": "Xã An Trung"
+        },
+        {
+            "uid": "091c9a54168b4fb9b6f544c4fc6c7a3b",
+            "name": "Xã An Dũng"
+        },
+        {
+            "uid": "42e2af6428dd47a5b3b1f4182d89e451",
+            "name": "Xã An Vinh"
+        },
+        {
+            "uid": "ced5c7a8f8954ee2bbbd35ec44cc6ea2",
+            "name": "Xã An Toàn"
+        },
+        {
+            "uid": "bdcb3e6505d24b968caa0bf9758d2913",
+            "name": "Xã An Tân"
+        },
+        {
+            "uid": "18d5d0e3a8034f52b0aca4104dec444e",
+            "name": "Xã An Hòa"
+        },
+        {
+            "uid": "b97800c70cc8499dbf90b451fb792a11",
+            "name": "Xã An Quang"
+        },
+        {
+            "uid": "489de59c1f7341fe861d892a1badd4d1",
+            "name": "Xã An Nghĩa"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "f0008f4c94d14f2a9b5becea19627514",
+    "name": "Huyện Trần Đề",
+    "wards": [
+        {
+            "uid": "fd37c0f44be84135acc9a662e2e72201",
+            "name": "Xã Đại Ân 2"
+        },
+        {
+            "uid": "df06dc6f5d2647eab20111a9b86f50b2",
+            "name": "Thị trấn Trần Đề"
+        },
+        {
+            "uid": "298abada3fe0465da878656204d27e3f",
+            "name": "Xã Liêu Tú"
+        },
+        {
+            "uid": "f0d3a8f7d2254ae0b91639c586e2f42a",
+            "name": "Xã Lịch Hội Thượng"
+        },
+        {
+            "uid": "142c5f6f614e46dd9b4c3ae9c5987e73",
+            "name": "Thị trấn Lịch Hội Thượng"
+        },
+        {
+            "uid": "e534f82d8ca14322b9f237e0cccda832",
+            "name": "Xã Trung Bình"
+        },
+        {
+            "uid": "4a840d0d28db44d3ad53b83808ed79b3",
+            "name": "Xã Tài Văn"
+        },
+        {
+            "uid": "3497880260e14374be910f0e619f2e58",
+            "name": "Xã Viên An"
+        },
+        {
+            "uid": "6b786d1e199b46488facb344c02cfdd1",
+            "name": "Xã Thạnh Thới An"
+        },
+        {
+            "uid": "c6dff4f7e0994705a9cd00816587f4b7",
+            "name": "Xã Thạnh Thới Thuận"
+        },
+        {
+            "uid": "35795168bfb94c13863a9a803b9c21c1",
+            "name": "Xã Viên Bình"
+        }
+    ]
+}

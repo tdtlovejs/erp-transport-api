@@ -1,0 +1,42 @@
+{
+    "uid": "f22c7d291dc641b18885d68bb6043c27",
+    "name": "Huyện Ninh Phước",
+    "wards": [
+        {
+            "uid": "c10a4ee8d32340acb6942c5533d703ac",
+            "name": "Thị trấn Phước Dân"
+        },
+        {
+            "uid": "0ab14a66e8a9431095c32e729b416792",
+            "name": "Xã Phước Sơn"
+        },
+        {
+            "uid": "c66800c4185847cdacafe4a0a56cc189",
+            "name": "Xã Phước Thái"
+        },
+        {
+            "uid": "87d09d41096d4fa49421370246198ab0",
+            "name": "Xã Phước Hậu"
+        },
+        {
+            "uid": "682b434232d64397b0724055f9c75634",
+            "name": "Xã Phước Thuận"
+        },
+        {
+            "uid": "75dda56742ed4d80b3e2389ad051b3d8",
+            "name": "Xã An Hải"
+        },
+        {
+            "uid": "c7d9de48370948a68184176923a74698",
+            "name": "Xã Phước Hữu"
+        },
+        {
+            "uid": "ce30297be5a14b198f6c3504f466b844",
+            "name": "Xã Phước Hải"
+        },
+        {
+            "uid": "a2c64b69c4b44b16ba3fad64d19fc11d",
+            "name": "Xã Phước Vinh"
+        }
+    ]
+}

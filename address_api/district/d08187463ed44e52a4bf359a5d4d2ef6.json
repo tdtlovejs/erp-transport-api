@@ -1,0 +1,42 @@
+{
+    "uid": "d08187463ed44e52a4bf359a5d4d2ef6",
+    "name": "Huyện Vĩnh Thạnh",
+    "wards": [
+        {
+            "uid": "9e050d229bc74b34b4490c38835e4064",
+            "name": "Thị trấn Vĩnh Thạnh"
+        },
+        {
+            "uid": "e0d80fa4b9f04aa48c9c6f1a87989ce7",
+            "name": "Xã Vĩnh Sơn"
+        },
+        {
+            "uid": "7f153fbea32d41679d5f73cb4ae80631",
+            "name": "Xã Vĩnh Kim"
+        },
+        {
+            "uid": "1feb2ba7dc834636b8b678931b3df8c3",
+            "name": "Xã Vĩnh Hiệp"
+        },
+        {
+            "uid": "b888e901fd1c43479ebeefa957f94331",
+            "name": "Xã Vĩnh Hảo"
+        },
+        {
+            "uid": "6e2632ea25df4117a6f25096812adbea",
+            "name": "Xã Vĩnh Hòa"
+        },
+        {
+            "uid": "fcd9ac86b8c44a158b09ce3e937b16a9",
+            "name": "Xã Vĩnh Thịnh"
+        },
+        {
+            "uid": "aea059595e514713ae8cc2d4680ffc62",
+            "name": "Xã Vĩnh Thuận"
+        },
+        {
+            "uid": "ea3a0c72ac4642f793258485bdca25aa",
+            "name": "Xã Vĩnh Quang"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "uid": "f53730ae4a24476a9bfb7efcdfbeb8c1",
+    "name": "Huyện Gio Linh",
+    "wards": [
+        {
+            "uid": "3e85c661eb244e908e5ebbb1750742a4",
+            "name": "Thị trấn Gio Linh"
+        },
+        {
+            "uid": "01c9b4c6db3343cbaf457307e7986539",
+            "name": "Thị trấn Cửa Việt"
+        },
+        {
+            "uid": "0b2c206e770a420594b34859e2362b82",
+            "name": "Xã Trung Giang"
+        },
+        {
+            "uid": "6e4de3b7bb6e4a87a7edcada2c4f3635",
+            "name": "Xã Trung Hải"
+        },
+        {
+            "uid": "9c529b0f41514ea99bef81e7169abb92",
+            "name": "Xã Trung Sơn"
+        },
+        {
+            "uid": "4c74ae555aa84772b8ccc9c7bbc428af",
+            "name": "Xã Phong Bình"
+        },
+        {
+            "uid": "b640c851150f4ef483481e9c872e24d5",
+            "name": "Xã Gio Mỹ"
+        },
+        {
+            "uid": "642dc65f83bb4157bb74a66932de427b",
+            "name": "Xã Gio Hải"
+        },
+        {
+            "uid": "220eaf79fbeb44b080dcbeb4408d5c21",
+            "name": "Xã Gio An"
+        },
+        {
+            "uid": "2e1b7464c15d40a397600cec3b853d1e",
+            "name": "Xã Gio Châu"
+        },
+        {
+            "uid": "2e967d902ee94c37b2fce14a082a1fe1",
+            "name": "Xã Gio Việt"
+        },
+        {
+            "uid": "d6b4cb3b1f584fd7a95aa9b46d6a7572",
+            "name": "Xã Linh Trường"
+        },
+        {
+            "uid": "87cbf5b1a2914a93966f6387f6223267",
+            "name": "Xã Gio Sơn"
+        },
+        {
+            "uid": "9793ac4d3d0346218cf85c859ad6aa35",
+            "name": "Xã Gio Mai"
+        },
+        {
+            "uid": "05f081ee687a445f8ead37489694cfe2",
+            "name": "Xã Hải Thái"
+        },
+        {
+            "uid": "93e1554fae3f43d3b19f79a0db3cd421",
+            "name": "Xã Linh Hải"
+        },
+        {
+            "uid": "77061abc9eaa4943a0c0b5c12b172849",
+            "name": "Xã Gio Quang"
+        }
+    ]
+}

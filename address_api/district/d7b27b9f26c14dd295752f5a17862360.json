@@ -1,0 +1,70 @@
+{
+    "uid": "d7b27b9f26c14dd295752f5a17862360",
+    "name": "Quận Gò Vấp",
+    "wards": [
+        {
+            "uid": "9f0884201f34412fae61f1065ed509ca",
+            "name": "Phường 15"
+        },
+        {
+            "uid": "e99d68ac1656403e89780afff549774b",
+            "name": "Phường 13"
+        },
+        {
+            "uid": "5ba2a54a43c6454ea5e08319e6b62d77",
+            "name": "Phường 17"
+        },
+        {
+            "uid": "1fe882100d1c437a8f7760dfd40535b0",
+            "name": "Phường 6"
+        },
+        {
+            "uid": "f0dab8975cc84b1cbecc582c049449b7",
+            "name": "Phường 16"
+        },
+        {
+            "uid": "641a14ad53ab41dda6c050b59888c7e2",
+            "name": "Phường 12"
+        },
+        {
+            "uid": "082725afff194d998758f82d669327c0",
+            "name": "Phường 14"
+        },
+        {
+            "uid": "8b3c287d763c4760a5e6377f5f5b56c6",
+            "name": "Phường 10"
+        },
+        {
+            "uid": "cc045043e25f4f65a9473f63b2ca5403",
+            "name": "Phường 05"
+        },
+        {
+            "uid": "0b665dd6bbc04004ab20d72d4cf1acf1",
+            "name": "Phường 07"
+        },
+        {
+            "uid": "b724c928a10b4ec49eb797c684b46756",
+            "name": "Phường 04"
+        },
+        {
+            "uid": "1277184679f64104bb33c5a8ce3f55d5",
+            "name": "Phường 01"
+        },
+        {
+            "uid": "c9deda6ebc12422eb00dd20b8ef26945",
+            "name": "Phường 9"
+        },
+        {
+            "uid": "b32f1bfba58f48a8be23204c844f8d64",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "da8fcec5ef4740feba659ce560151621",
+            "name": "Phường 11"
+        },
+        {
+            "uid": "034896f3117141ce9802e62c45eae80c",
+            "name": "Phường 03"
+        }
+    ]
+}

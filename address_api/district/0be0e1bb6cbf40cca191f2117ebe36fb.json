@@ -1,0 +1,78 @@
+{
+    "uid": "0be0e1bb6cbf40cca191f2117ebe36fb",
+    "name": "Huyện Yên Minh",
+    "wards": [
+        {
+            "uid": "0ee2af8d1b434d02b21066e198707903",
+            "name": "Thị trấn Yên Minh"
+        },
+        {
+            "uid": "fd4baef45715456a97704722487c428c",
+            "name": "Xã Thắng Mố"
+        },
+        {
+            "uid": "c9338cf9a2cf49228ff7b3a039c15eb1",
+            "name": "Xã Phú Lũng"
+        },
+        {
+            "uid": "d3d21f61cc2e4cc2a0041e0517c0c31b",
+            "name": "Xã Sủng Tráng"
+        },
+        {
+            "uid": "fcc3f9cd805046578d65ebf7c45ab538",
+            "name": "Xã Bạch Đích"
+        },
+        {
+            "uid": "0b731449b1114ee1bcb7bff7731d541a",
+            "name": "Xã Na Khê"
+        },
+        {
+            "uid": "fc8e74bf2f9246f19ee92745d4c46031",
+            "name": "Xã Sủng Thài"
+        },
+        {
+            "uid": "129d6f8f2359407da3a9ddf00a07158d",
+            "name": "Xã Hữu Vinh"
+        },
+        {
+            "uid": "120707bb58714f2cbd288c83300a159a",
+            "name": "Xã Lao Và Chải"
+        },
+        {
+            "uid": "154837617f554ac1872affe716533e59",
+            "name": "Xã Mậu Duệ"
+        },
+        {
+            "uid": "e9b06d717b164adcb03b7e1fe7b1565e",
+            "name": "Xã Đông Minh"
+        },
+        {
+            "uid": "f62645d386f64f3fbcc5301563a42df2",
+            "name": "Xã Mậu Long"
+        },
+        {
+            "uid": "2fccc5246fc347d5bd7e31596a21b37a",
+            "name": "Xã Ngam La"
+        },
+        {
+            "uid": "cbe80bc5546d40a9882bd9cb5e1e886a",
+            "name": "Xã Ngọc Long"
+        },
+        {
+            "uid": "95ee45b81ede40189200773582a997ac",
+            "name": "Xã Đường Thượng"
+        },
+        {
+            "uid": "e15e7362a57c4a019191e853a475ebd3",
+            "name": "Xã Lũng Hồ"
+        },
+        {
+            "uid": "40438e9f63c5424d840c5696392570a9",
+            "name": "Xã Du Tiến"
+        },
+        {
+            "uid": "4078ace27263414a816003c749d3b4f0",
+            "name": "Xã Du Già"
+        }
+    ]
+}

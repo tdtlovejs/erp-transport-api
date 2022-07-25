@@ -1,0 +1,46 @@
+{
+    "uid": "84c4b30b8ef545c9b6389c17b22c2e50",
+    "name": "Huyện Mường Ảng",
+    "wards": [
+        {
+            "uid": "a3317544e6a444c9b3ba07776f3e7ddf",
+            "name": "Thị trấn Mường Ảng"
+        },
+        {
+            "uid": "f8ebae3933624252beaa230b79874a8e",
+            "name": "Xã Mường Đăng"
+        },
+        {
+            "uid": "0b8edbcb9f3a423b8e040c2854cb9ef9",
+            "name": "Xã Ngối Cáy"
+        },
+        {
+            "uid": "96e32107d82044b292e3e8135e038a2a",
+            "name": "Xã Ẳng Tở"
+        },
+        {
+            "uid": "d1f9e7e50a114e598b809682bd5158c0",
+            "name": "Xã Búng Lao"
+        },
+        {
+            "uid": "05102d0e843641d48ac481560680bd0d",
+            "name": "Xã Xuân Lao"
+        },
+        {
+            "uid": "8c0e11fe1f3046aaa11c9784d097f7b0",
+            "name": "Xã Ẳng Nưa"
+        },
+        {
+            "uid": "69e7b4a88b7d4d04a9666eb554210447",
+            "name": "Xã Ẳng Cang"
+        },
+        {
+            "uid": "4cb5e00752f047ee9aba1e7e010a83cd",
+            "name": "Xã Nặm Lịch"
+        },
+        {
+            "uid": "9cd772677b1e4c9e9e13fc359eb186f1",
+            "name": "Xã Mường Lạn"
+        }
+    ]
+}

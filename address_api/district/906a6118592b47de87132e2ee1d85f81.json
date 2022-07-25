@@ -1,0 +1,38 @@
+{
+    "uid": "906a6118592b47de87132e2ee1d85f81",
+    "name": "Huyện Phước Long",
+    "wards": [
+        {
+            "uid": "87687f00bcc8481e86df84040bb6bc5d",
+            "name": "Thị trấn Phước Long"
+        },
+        {
+            "uid": "201ad4a8e9684bd08b76422603f30d51",
+            "name": "Xã Vĩnh Phú Đông"
+        },
+        {
+            "uid": "7156bd713c034b5c98c7187530c83c08",
+            "name": "Xã Vĩnh Phú Tây"
+        },
+        {
+            "uid": "0f82523cd24040dab36828b39199399d",
+            "name": "Xã Phước Long"
+        },
+        {
+            "uid": "c3c36a70ad774fd787996753c1faad4e",
+            "name": "Xã Hưng Phú"
+        },
+        {
+            "uid": "91b34285b3874946b7751e70bd97bc6b",
+            "name": "Xã Vĩnh Thanh"
+        },
+        {
+            "uid": "ae45d0dae14442eeb04d84b4a5df70fc",
+            "name": "Xã Phong Thạnh Tây A"
+        },
+        {
+            "uid": "766870686eb64480909fca456c4898ca",
+            "name": "Xã Phong Thạnh Tây B"
+        }
+    ]
+}

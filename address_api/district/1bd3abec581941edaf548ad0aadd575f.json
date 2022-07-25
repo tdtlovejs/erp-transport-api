@@ -1,0 +1,90 @@
+{
+    "uid": "1bd3abec581941edaf548ad0aadd575f",
+    "name": "Huyện Quỳ Hợp",
+    "wards": [
+        {
+            "uid": "6717319bdce34f2fa9ed253dc0134467",
+            "name": "Thị trấn Quỳ Hợp"
+        },
+        {
+            "uid": "4c449867b6df4572b8e1b9369aba0ac8",
+            "name": "Xã Yên Hợp"
+        },
+        {
+            "uid": "27ff38806dd4466cb9d6db408120d738",
+            "name": "Xã Châu Tiến"
+        },
+        {
+            "uid": "9d60788779fe42aabf15913a726a459e",
+            "name": "Xã Châu Hồng"
+        },
+        {
+            "uid": "a9ecffaf549a48d7a3e473653b5fad6a",
+            "name": "Xã Đồng Hợp"
+        },
+        {
+            "uid": "0b9cb37299294a488aa36bf124665e00",
+            "name": "Xã Châu Thành"
+        },
+        {
+            "uid": "b2d345a56f674694820591d5079ed95e",
+            "name": "Xã Liên Hợp"
+        },
+        {
+            "uid": "79179d0e3ea9494ca7ea513aabadecdf",
+            "name": "Xã Châu Lộc"
+        },
+        {
+            "uid": "0381f60f715147df997cf6df50067816",
+            "name": "Xã Tam Hợp"
+        },
+        {
+            "uid": "1dc9279a18ac48c5ad176f2147305f64",
+            "name": "Xã Châu Cường"
+        },
+        {
+            "uid": "08eb7771603b4e37b7cf1900096b224b",
+            "name": "Xã Châu Quang"
+        },
+        {
+            "uid": "88e62ec19c94496ab1ac33030f11c7e1",
+            "name": "Xã Thọ Hợp"
+        },
+        {
+            "uid": "8417dd14d16d448195920db59ce7afc2",
+            "name": "Xã Minh Hợp"
+        },
+        {
+            "uid": "e7f6d04680b44c4381816a040d272a22",
+            "name": "Xã Nghĩa Xuân"
+        },
+        {
+            "uid": "e11af7a371cd4d799d616e0531baa194",
+            "name": "Xã Châu Thái"
+        },
+        {
+            "uid": "fd3305241d3e4cc081b6e9f35f40c809",
+            "name": "Xã Châu Đình"
+        },
+        {
+            "uid": "f2f0c259711b4a848b05286ebf250d64",
+            "name": "Xã Văn Lợi"
+        },
+        {
+            "uid": "15bbeaae5e684415b0e84f409e2f8f6b",
+            "name": "Xã Nam Sơn"
+        },
+        {
+            "uid": "4259cd64d9a54d0bbe8d3fa3093ccb3e",
+            "name": "Xã Châu Lý"
+        },
+        {
+            "uid": "66cdc21884f84069bb23d58555cfb54b",
+            "name": "Xã Hạ Sơn"
+        },
+        {
+            "uid": "d9d04da045274c77af6bf0913aaf9529",
+            "name": "Xã Bắc Sơn"
+        }
+    ]
+}

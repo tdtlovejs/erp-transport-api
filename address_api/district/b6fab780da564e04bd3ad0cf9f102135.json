@@ -1,0 +1,134 @@
+{
+    "uid": "b6fab780da564e04bd3ad0cf9f102135",
+    "name": "Huyện Chương Mỹ",
+    "wards": [
+        {
+            "uid": "60cb60c1f0574bbf853f7390ab844ddd",
+            "name": "Thị trấn Chúc Sơn"
+        },
+        {
+            "uid": "d9891a22426e4561bb7a70c3aefcc22b",
+            "name": "Thị trấn Xuân Mai"
+        },
+        {
+            "uid": "4b94f4bf91474baa98275929b485bd35",
+            "name": "Xã Phụng Châu"
+        },
+        {
+            "uid": "acfa39994a624f92ab0a8c5f3e220291",
+            "name": "Xã Tiên Phương"
+        },
+        {
+            "uid": "f72180a771454271bf4ea3468b67350d",
+            "name": "Xã Đông Sơn"
+        },
+        {
+            "uid": "46a32924200a4b5faa98ce6bb3fee76c",
+            "name": "Xã Đông Phương Yên"
+        },
+        {
+            "uid": "fbe6bee116fe4f7daf3ec86ea291978d",
+            "name": "Xã Phú Nghĩa"
+        },
+        {
+            "uid": "4fb52676c3b34cb9b9411b4e56811734",
+            "name": "Xã Trường Yên"
+        },
+        {
+            "uid": "3a4bcc6ea929438190abc79c23e02727",
+            "name": "Xã Ngọc Hòa"
+        },
+        {
+            "uid": "296261f38b584826bd745c77c687f5b7",
+            "name": "Xã Thủy Xuân Tiên"
+        },
+        {
+            "uid": "de4ae1c3b0fe4401aa921e7bad7e6b05",
+            "name": "Xã Thanh Bình"
+        },
+        {
+            "uid": "0fb45f3384bd4062a3610189cc86c877",
+            "name": "Xã Trung Hòa"
+        },
+        {
+            "uid": "dde0e5970d634663947bd6398cc127ed",
+            "name": "Xã Đại Yên"
+        },
+        {
+            "uid": "8c32f95abb694efb9c776e63b0bee306",
+            "name": "Xã Thụy Hương"
+        },
+        {
+            "uid": "d0206b295b7d4fbcbf5fe39e0295890e",
+            "name": "Xã Tốt Động"
+        },
+        {
+            "uid": "e9339bbf1cfd473380c623de4ac45baa",
+            "name": "Xã Lam Điền"
+        },
+        {
+            "uid": "35c805797b4b4ac7a6d8149882d68cee",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "03e324061f03482a9b67980665f960d9",
+            "name": "Xã Nam Phương Tiến"
+        },
+        {
+            "uid": "8403dae8bb2d4fa189238d28842d2172",
+            "name": "Xã Hợp Đồng"
+        },
+        {
+            "uid": "4efda2da512645a99c3df438a6e7c91e",
+            "name": "Xã Hoàng Văn Thụ"
+        },
+        {
+            "uid": "448db9f6a85144f2a5a2ac5411240137",
+            "name": "Xã Hoàng Diệu"
+        },
+        {
+            "uid": "4488fc5408ee428081c585247a812653",
+            "name": "Xã Hữu Văn"
+        },
+        {
+            "uid": "2a629f90f0d2433cb60010f419ef52dd",
+            "name": "Xã Quảng Bị"
+        },
+        {
+            "uid": "7da820c3280541469a1e909923065fb7",
+            "name": "Xã Mỹ Lương"
+        },
+        {
+            "uid": "aaf745ce6f3748b2b53d3abb279cdaff",
+            "name": "Xã Thượng Vực"
+        },
+        {
+            "uid": "36da794fc5754fe4bec6d512ef2c1277",
+            "name": "Xã Hồng Phong"
+        },
+        {
+            "uid": "f3a781fc610a49cd8cb951607c769f06",
+            "name": "Xã Đồng Phú"
+        },
+        {
+            "uid": "e22e737799874825a9c1bfafe58ca77a",
+            "name": "Xã Trần Phú"
+        },
+        {
+            "uid": "4d5f4c51f9694b73b8c312a0bc6af50e",
+            "name": "Xã Văn Võ"
+        },
+        {
+            "uid": "5823cb66c72842a5868a4ba81d73449f",
+            "name": "Xã Đồng Lạc"
+        },
+        {
+            "uid": "8adff1e79ae54047a4ee1f8cce96fc56",
+            "name": "Xã Hòa Chính"
+        },
+        {
+            "uid": "f622bee1f5e3480f9aa8eba8a69d2a9d",
+            "name": "Xã Phú Nam An"
+        }
+    ]
+}

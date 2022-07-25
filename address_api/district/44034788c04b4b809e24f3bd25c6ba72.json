@@ -1,0 +1,70 @@
+{
+    "uid": "44034788c04b4b809e24f3bd25c6ba72",
+    "name": "Quận 8",
+    "wards": [
+        {
+            "uid": "c9d751a69ff942d8bad56dd8d1188ddb",
+            "name": "Phường 08"
+        },
+        {
+            "uid": "99e55f4b836d49448a94012f3c0f7587",
+            "name": "Phường 02"
+        },
+        {
+            "uid": "2b11e6e2a8f946ea97dd76b462056aa3",
+            "name": "Phường 01"
+        },
+        {
+            "uid": "5a9abd76a0b34628a6340f322379b8e1",
+            "name": "Phường 03"
+        },
+        {
+            "uid": "465b4967abb142b093d5dea5d1955580",
+            "name": "Phường 11"
+        },
+        {
+            "uid": "45b22c070fd045cb9142995d291a9955",
+            "name": "Phường 09"
+        },
+        {
+            "uid": "66854d8996b6473386ed628842055688",
+            "name": "Phường 10"
+        },
+        {
+            "uid": "fcb45192b1d14d6098947610d845640b",
+            "name": "Phường 04"
+        },
+        {
+            "uid": "787f51e6c35b46609dbaa4594dd683e0",
+            "name": "Phường 13"
+        },
+        {
+            "uid": "7969d7b8a56d426dacb1d3d906f28fda",
+            "name": "Phường 12"
+        },
+        {
+            "uid": "420990eebac747f1850cddbb979efe5c",
+            "name": "Phường 05"
+        },
+        {
+            "uid": "4472c4f7c379466994d243eddd199e96",
+            "name": "Phường 14"
+        },
+        {
+            "uid": "f59f95f8d87b4fac9e79c846380231c8",
+            "name": "Phường 06"
+        },
+        {
+            "uid": "e4e46da13956441a84f9a3f33f8abfe5",
+            "name": "Phường 15"
+        },
+        {
+            "uid": "0d779d18d41648d6a5b8e308696b4e1b",
+            "name": "Phường 16"
+        },
+        {
+            "uid": "6ac5f60067b144d4b7262bbdc5c41e1f",
+            "name": "Phường 07"
+        }
+    ]
+}

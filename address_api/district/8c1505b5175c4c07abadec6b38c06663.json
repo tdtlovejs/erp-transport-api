@@ -1,0 +1,114 @@
+{
+    "uid": "8c1505b5175c4c07abadec6b38c06663",
+    "name": "Thành phố Nha Trang",
+    "wards": [
+        {
+            "uid": "9b89400e032446fb9f2fdfc7a21e8a18",
+            "name": "Phường Vĩnh Hòa"
+        },
+        {
+            "uid": "6a0925593b2e40a598db45a2bd69d21b",
+            "name": "Phường Vĩnh Hải"
+        },
+        {
+            "uid": "9ca22ab2cd0944408c4b3fe6630e94e5",
+            "name": "Phường Vĩnh Phước"
+        },
+        {
+            "uid": "febac3bd24c745a991399885d621195c",
+            "name": "Phường Ngọc Hiệp"
+        },
+        {
+            "uid": "2d0bc7105af24d62ba7f798b6ad1066e",
+            "name": "Phường Vĩnh Thọ"
+        },
+        {
+            "uid": "b6cd949a070d4910a14736cc00641d00",
+            "name": "Phường Xương Huân"
+        },
+        {
+            "uid": "9396673807d7497eaaa17231f096f8c6",
+            "name": "Phường Vạn Thắng"
+        },
+        {
+            "uid": "ab0a064671be43e0891719d82c19fdba",
+            "name": "Phường Vạn Thạnh"
+        },
+        {
+            "uid": "2e83419b6ce645c38217649a755f8b15",
+            "name": "Phường Phương Sài"
+        },
+        {
+            "uid": "5494dfc8aab24d0f80e0885cb4dd2d0c",
+            "name": "Phường Phương Sơn"
+        },
+        {
+            "uid": "2d332990470b44ff82118682fe227531",
+            "name": "Phường Phước Hải"
+        },
+        {
+            "uid": "f2914dcacd0d45028060d26e09179d80",
+            "name": "Phường Phước Tân"
+        },
+        {
+            "uid": "1c0c206d69a3445e8a843abb6ae61370",
+            "name": "Phường Lộc Thọ"
+        },
+        {
+            "uid": "282986b4b8a946ed96f8b85230feb11d",
+            "name": "Phường Phước Tiến"
+        },
+        {
+            "uid": "f32562f4f3e0401c81c3f0a5b9dd7e1f",
+            "name": "Phường Tân Lập"
+        },
+        {
+            "uid": "0cf52757bf2a4467ab1d20c38d02cca8",
+            "name": "Phường Phước Hòa"
+        },
+        {
+            "uid": "77de15ea4a5248a2a836de7a2009921f",
+            "name": "Phường Vĩnh Nguyên"
+        },
+        {
+            "uid": "845198ecaff04fd1be7a9c3aaed44476",
+            "name": "Phường Phước Long"
+        },
+        {
+            "uid": "bd00b07d7a5a46d4a9a61688351a4a8c",
+            "name": "Phường Vĩnh Trường"
+        },
+        {
+            "uid": "11790111d9f14fa09cb2dcf34e4b059b",
+            "name": "Xã Vĩnh Lương"
+        },
+        {
+            "uid": "78a3b9fee41c4b7aa9c23164b710c5bf",
+            "name": "Xã Vĩnh Phương"
+        },
+        {
+            "uid": "9dacd4735864484cbba7ecb11a148855",
+            "name": "Xã Vĩnh Ngọc"
+        },
+        {
+            "uid": "970947d2f24b476ba6db9dd19f0cef9c",
+            "name": "Xã Vĩnh Thạnh"
+        },
+        {
+            "uid": "fbdc618b74ee4c4686583252a7ff6b91",
+            "name": "Xã Vĩnh Trung"
+        },
+        {
+            "uid": "572290f443674e5a9442b4a0bef7697c",
+            "name": "Xã Vĩnh Hiệp"
+        },
+        {
+            "uid": "a0ac2ad06f30421d844cfe693835ef77",
+            "name": "Xã Vĩnh Thái"
+        },
+        {
+            "uid": "357b191771f147c684f8d8740fc8b1e9",
+            "name": "Xã Phước Đồng"
+        }
+    ]
+}

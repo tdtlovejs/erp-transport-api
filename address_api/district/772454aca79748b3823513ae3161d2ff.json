@@ -1,0 +1,62 @@
+{
+    "uid": "772454aca79748b3823513ae3161d2ff",
+    "name": "Huyện Bảo Lâm",
+    "wards": [
+        {
+            "uid": "2c864e946ade482ba7d1b6daf8a46d08",
+            "name": "Thị trấn Lộc Thắng"
+        },
+        {
+            "uid": "78943e6393144b6e990f37a192b292f9",
+            "name": "Xã Lộc Bảo"
+        },
+        {
+            "uid": "2b438180fe644a879b398b2a9e88e8e5",
+            "name": "Xã Lộc Lâm"
+        },
+        {
+            "uid": "ccb131df150343deb21ba6f6fad6d67b",
+            "name": "Xã Lộc Phú"
+        },
+        {
+            "uid": "437a714b71704614bb0aedf800278cd0",
+            "name": "Xã Lộc Bắc"
+        },
+        {
+            "uid": "29982d2406354fcebf5227b3f29e1125",
+            "name": "Xã B' Lá"
+        },
+        {
+            "uid": "19b3672bd026442ca1bbd23d34e8c42a",
+            "name": "Xã Lộc Ngãi"
+        },
+        {
+            "uid": "4369c8c9cd4c404faacbb3886a5e35f9",
+            "name": "Xã Lộc Quảng"
+        },
+        {
+            "uid": "616e162071a14b46a5122e5a510ccb67",
+            "name": "Xã Lộc Tân"
+        },
+        {
+            "uid": "2c621247b4fa4d09ac74bda2e37d576a",
+            "name": "Xã Lộc Đức"
+        },
+        {
+            "uid": "75d4d68d7a4b44cc892a67a73ad00d15",
+            "name": "Xã Lộc An"
+        },
+        {
+            "uid": "f191144d2b5d46d987ae9edbe6667136",
+            "name": "Xã Tân Lạc"
+        },
+        {
+            "uid": "7a96d78cc68f422191deef0acd817039",
+            "name": "Xã Lộc Thành"
+        },
+        {
+            "uid": "e4f36682d75641e2b2da51790fbcf2f2",
+            "name": "Xã Lộc Nam"
+        }
+    ]
+}

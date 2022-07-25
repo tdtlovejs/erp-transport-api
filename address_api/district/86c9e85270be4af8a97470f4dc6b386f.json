@@ -1,0 +1,50 @@
+{
+    "uid": "86c9e85270be4af8a97470f4dc6b386f",
+    "name": "Thành phố Cao Bằng",
+    "wards": [
+        {
+            "uid": "37c687df33524696bea534fa5d569dc4",
+            "name": "Phường Sông Hiến"
+        },
+        {
+            "uid": "1ebbee8029d649d69287346badd2ce4c",
+            "name": "Phường Sông Bằng"
+        },
+        {
+            "uid": "62e405291b1043608ad91c9dad67e431",
+            "name": "Phường Hợp Giang"
+        },
+        {
+            "uid": "422f6232af9d432db8c54a07002d8c8a",
+            "name": "Phường Tân Giang"
+        },
+        {
+            "uid": "30c845b2ee994141901fcfbd9ce459f0",
+            "name": "Phường Ngọc Xuân"
+        },
+        {
+            "uid": "9bf2be0953c24658b089e3618ef31b3f",
+            "name": "Phường Đề Thám"
+        },
+        {
+            "uid": "1dbf7df7221842bd943c4c439b75c80d",
+            "name": "Phường Hoà Chung"
+        },
+        {
+            "uid": "e996098b930f40538d8a61fc7b4c55ae",
+            "name": "Phường Duyệt Trung"
+        },
+        {
+            "uid": "114c9e483cd840de84332f1af678f578",
+            "name": "Xã Vĩnh Quang"
+        },
+        {
+            "uid": "ef52f0dbb70c44ce845d0560529c239b",
+            "name": "Xã Hưng Đạo"
+        },
+        {
+            "uid": "c3293594d3a04be099a7dc68863ab489",
+            "name": "Xã Chu Trinh"
+        }
+    ]
+}

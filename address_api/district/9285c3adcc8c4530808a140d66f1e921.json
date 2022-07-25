@@ -1,0 +1,50 @@
+{
+    "uid": "9285c3adcc8c4530808a140d66f1e921",
+    "name": "Thành phố Vĩnh Long",
+    "wards": [
+        {
+            "uid": "e31d861300db4f3b9c99b23c5ae6891a",
+            "name": "Phường 9"
+        },
+        {
+            "uid": "2851f5fde73a4fc4a253cc60db3bc3f8",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "e52c4e3917b2409cbd82fb01076a65e9",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "968a39ad3b084f87ae63c91928209998",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "54428582148b46f5824b62305b1167ea",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "95f893dad98747798b28add0677f56d3",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "9f0d7dc9e36a4ccdaa6683bff4f48c46",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "c2e1918561364bc18aebf00f62ca696c",
+            "name": "Phường Tân Ngãi"
+        },
+        {
+            "uid": "c6a6ef8a2c8d492c8cd47d1515d4fee6",
+            "name": "Phường Tân Hòa"
+        },
+        {
+            "uid": "95aa1c2264db44d7b5eb4e95f6c8e328",
+            "name": "Phường Tân Hội"
+        },
+        {
+            "uid": "6d236df0b3244d158af8ab8a59cbf1db",
+            "name": "Phường Trường An"
+        }
+    ]
+}

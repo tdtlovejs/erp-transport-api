@@ -1,0 +1,62 @@
+{
+    "uid": "fad2155611784821bfdf927a9934f447",
+    "name": "Huyện Bạch Thông",
+    "wards": [
+        {
+            "uid": "e129df1657144617bf6e6eeed697ec42",
+            "name": "Thị trấn Phủ Thông"
+        },
+        {
+            "uid": "423be0c168674f01a327572cab297976",
+            "name": "Xã Vi Hương"
+        },
+        {
+            "uid": "82544e5ba9424799990e90b1700317f6",
+            "name": "Xã Sĩ Bình"
+        },
+        {
+            "uid": "8a7d1763c9a645f79d54416a446a13d7",
+            "name": "Xã Vũ Muộn"
+        },
+        {
+            "uid": "e2e5fe1a5f204e24b27be622a0372335",
+            "name": "Xã Đôn Phong"
+        },
+        {
+            "uid": "33a5202403f04e90816f4ecf36463a23",
+            "name": "Xã Lục Bình"
+        },
+        {
+            "uid": "8393f9aa81f846eaa816156db8f857fc",
+            "name": "Xã Tân Tú"
+        },
+        {
+            "uid": "a550b561fd4446719ecb7a671e7b5e62",
+            "name": "Xã Nguyên Phúc"
+        },
+        {
+            "uid": "aae690810afd41a983d9dd651d49523b",
+            "name": "Xã Cao Sơn"
+        },
+        {
+            "uid": "af4193c6a9bb45aa91174200c5a68d9b",
+            "name": "Xã Quân Hà"
+        },
+        {
+            "uid": "b1bcad11108c4c8f938f1a551c6574b5",
+            "name": "Xã Cẩm Giàng"
+        },
+        {
+            "uid": "3cc7bff28e62485da4a084db2ab2a509",
+            "name": "Xã Mỹ Thanh"
+        },
+        {
+            "uid": "cb0426bfdb4542ef9ede73d58ba7976d",
+            "name": "Xã Dương Phong"
+        },
+        {
+            "uid": "04837fc681eb46f48e363ff919e7835f",
+            "name": "Xã Quang Thuận"
+        }
+    ]
+}

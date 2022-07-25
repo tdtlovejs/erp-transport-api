@@ -1,0 +1,38 @@
+{
+    "uid": "aa11f2e547f24653b8790e01686419ee",
+    "name": "Huyện Đam Rông",
+    "wards": [
+        {
+            "uid": "793092cbf7cf4fb68335c7f36e86b4cb",
+            "name": "Xã Đạ Tông"
+        },
+        {
+            "uid": "91e63ac82b9a4886855cbf15acbbbc0f",
+            "name": "Xã Đạ Long"
+        },
+        {
+            "uid": "666b674a9a574fb9a05d2f7be904d958",
+            "name": "Xã Đạ M' Rong"
+        },
+        {
+            "uid": "fb10fd7203cb422fb45131cd652b3098",
+            "name": "Xã Liêng Srônh"
+        },
+        {
+            "uid": "6bb3c314fc2a429ab56556ff25a058ed",
+            "name": "Xã Đạ Rsal"
+        },
+        {
+            "uid": "1b29c7c6926c46919f3f672f8e65ab63",
+            "name": "Xã Rô Men"
+        },
+        {
+            "uid": "824157574fd54aecbfd217cfebe5770a",
+            "name": "Xã Phi Liêng"
+        },
+        {
+            "uid": "34d74ffd967e4657b0fbcb4f9182aa13",
+            "name": "Xã Đạ K' Nàng"
+        }
+    ]
+}

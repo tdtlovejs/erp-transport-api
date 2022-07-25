@@ -1,0 +1,58 @@
+{
+    "uid": "2f1167178cc7410791f7804cea1c2ea7",
+    "name": "Huyện Bắc Mê",
+    "wards": [
+        {
+            "uid": "f7e9da50f3f7484db6507300e4842044",
+            "name": "Xã Minh Sơn"
+        },
+        {
+            "uid": "83ff58436b1244c2af52d7196f8c82c3",
+            "name": "Xã Giáp Trung"
+        },
+        {
+            "uid": "bfb68042257d4ff2a4876d198d196cd5",
+            "name": "Xã Yên Định"
+        },
+        {
+            "uid": "b4220e117e294e628b0dfb82f4952be7",
+            "name": "Thị trấn Yên Phú"
+        },
+        {
+            "uid": "b61c85839d534a94854d98fad0c4b643",
+            "name": "Xã Minh Ngọc"
+        },
+        {
+            "uid": "5e2120756e5a4cadbf0219989397f5a8",
+            "name": "Xã Yên Phong"
+        },
+        {
+            "uid": "d0934c60632d4b0eb7515c6473785e04",
+            "name": "Xã Lạc Nông"
+        },
+        {
+            "uid": "12caaaa3cfbb42cebef994b272d99e05",
+            "name": "Xã Phú Nam"
+        },
+        {
+            "uid": "13f20e356c2346bc9f99b8ed5b7b14ca",
+            "name": "Xã Yên Cường"
+        },
+        {
+            "uid": "b6d18e5329c945e783e20b48812a5507",
+            "name": "Xã Thượng Tân"
+        },
+        {
+            "uid": "3e2769bc51a648cebf6eb3f732d6d993",
+            "name": "Xã Đường Âm"
+        },
+        {
+            "uid": "87307a2b502845c6b5c816c95e8eae32",
+            "name": "Xã Đường Hồng"
+        },
+        {
+            "uid": "29bdacbc87ed478f91870a6471e276a7",
+            "name": "Xã Phiêng Luông"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uid": "5e0275fcdf664937a6ec9e5691ab24aa",
+    "name": "Huyện Xín Mần",
+    "wards": [
+        {
+            "uid": "c393246395cf4f55b49bcec4d168fb49",
+            "name": "Thị trấn Cốc Pài"
+        },
+        {
+            "uid": "29b95593bd2241c483fd681a19855cb9",
+            "name": "Xã Nàn Xỉn"
+        },
+        {
+            "uid": "77555440623840c28589b61ae7e8e1ad",
+            "name": "Xã Bản Díu"
+        },
+        {
+            "uid": "973e4ed989fe4aabbcffb19fcceda0f7",
+            "name": "Xã Chí Cà"
+        },
+        {
+            "uid": "a2959684f2cd45af92ab0017cfb56049",
+            "name": "Xã Xín Mần"
+        },
+        {
+            "uid": "5735d4495fc24fd58757cd7c35ec06b6",
+            "name": "Xã Thèn Phàng"
+        },
+        {
+            "uid": "63f25f54c8994b6186c0dd9e866761b2",
+            "name": "Xã Trung Thịnh"
+        },
+        {
+            "uid": "efd437bb627747a79046bbbd717d0ff9",
+            "name": "Xã Pà Vầy Sủ"
+        },
+        {
+            "uid": "668143aa68f94c07b352bc136728991c",
+            "name": "Xã Cốc Rế"
+        },
+        {
+            "uid": "08b3dcfc857b4a04b64af8bdcf94d894",
+            "name": "Xã Thu Tà"
+        },
+        {
+            "uid": "1e479de9658a4c5dbd1c228d4fa1e77e",
+            "name": "Xã Nàn Ma"
+        },
+        {
+            "uid": "9617945bd71e431faac3d25fbf3c0f43",
+            "name": "Xã Tả Nhìu"
+        },
+        {
+            "uid": "f210146ab4a6444b8221648a597bb531",
+            "name": "Xã Bản Ngò"
+        },
+        {
+            "uid": "147dd0e2375146659ddb8930bc49ff6e",
+            "name": "Xã Chế Là"
+        },
+        {
+            "uid": "ad7bba4c218e4d008c3c16e899533eb0",
+            "name": "Xã Nấm Dẩn"
+        },
+        {
+            "uid": "f7d1b5c666714720a30fd767e84a174a",
+            "name": "Xã Quảng Nguyên"
+        },
+        {
+            "uid": "274ba8c30ad94d759bd00298d4f46c36",
+            "name": "Xã Nà Chì"
+        },
+        {
+            "uid": "4e78da00a6104869b80321135b2a8c35",
+            "name": "Xã Khuôn Lùng"
+        }
+    ]
+}

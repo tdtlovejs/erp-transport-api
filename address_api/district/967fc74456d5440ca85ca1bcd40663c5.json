@@ -1,0 +1,82 @@
+{
+    "uid": "967fc74456d5440ca85ca1bcd40663c5",
+    "name": "Huyện Phú Vang",
+    "wards": [
+        {
+            "uid": "ec25a91759e74bce92b7751b6e1061ed",
+            "name": "Thị trấn Thuận An"
+        },
+        {
+            "uid": "26cfc88a54cb4f24ae6a7f0a64feca94",
+            "name": "Xã Phú Thuận"
+        },
+        {
+            "uid": "b711ada35d7848339da1390e39e900ea",
+            "name": "Xã Phú Dương"
+        },
+        {
+            "uid": "9e719f0a12084b99900424823d4d58dc",
+            "name": "Xã Phú Mậu"
+        },
+        {
+            "uid": "2d2276e3c56741b2b2cc8ed8653a2255",
+            "name": "Xã Phú An"
+        },
+        {
+            "uid": "2cf908cc1d29455baa838c64e4001862",
+            "name": "Xã Phú Hải"
+        },
+        {
+            "uid": "8d7ea35c04fc4efba3a72ad81843d3db",
+            "name": "Xã Phú Xuân"
+        },
+        {
+            "uid": "22432dc64aa64ceb86db263735267a35",
+            "name": "Xã Phú Diên"
+        },
+        {
+            "uid": "7e949a18e9044fbea855a4336b449490",
+            "name": "Xã Phú Thanh"
+        },
+        {
+            "uid": "52d3f21dbc334a5693baab9cc4379bac",
+            "name": "Xã Phú Mỹ"
+        },
+        {
+            "uid": "4d3f8039f1824ceb9d87d1954918ea20",
+            "name": "Xã Phú Thượng"
+        },
+        {
+            "uid": "ab0a6851f3a9439a9a42e8e2be3a555e",
+            "name": "Xã Phú Hồ"
+        },
+        {
+            "uid": "58bfe575b1294ef5b8e28e4ab69cd71b",
+            "name": "Xã Vinh Xuân"
+        },
+        {
+            "uid": "7c18a745100d428d9f893b0f237bea03",
+            "name": "Xã Phú Lương"
+        },
+        {
+            "uid": "de2b52e420044d9298b0255ab062b79f",
+            "name": "Thị trấn Phú Đa"
+        },
+        {
+            "uid": "f4c458e48fa24d7b8d110e30dfd59e4b",
+            "name": "Xã Vinh Thanh"
+        },
+        {
+            "uid": "86d8d4fe38a54b1b96cfe917ac441ca4",
+            "name": "Xã Vinh An"
+        },
+        {
+            "uid": "e898765d49f44111ab6345c0c06d9c2f",
+            "name": "Xã Phú Gia"
+        },
+        {
+            "uid": "3b8deb8df25245e79c067f66c0c0f9aa",
+            "name": "Xã Vinh Hà"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "44afcbb81f2f415c94bced8e2542e3b5",
+    "name": "Thị xã Long Mỹ",
+    "wards": [
+        {
+            "uid": "b6942d2638474b3abe9c83955c13d777",
+            "name": "Phường Thuận An"
+        },
+        {
+            "uid": "0f3b5c1eadb348d4a8a9626212763296",
+            "name": "Phường Trà Lồng"
+        },
+        {
+            "uid": "6ff1db6f4cc34b94a2c6f5e552001a2c",
+            "name": "Phường Bình Thạnh"
+        },
+        {
+            "uid": "1d33dc61da4e4ed5b51fa5c8712d7595",
+            "name": "Xã Long Bình"
+        },
+        {
+            "uid": "3632f060051d4f62ab6028b7de585353",
+            "name": "Phường Vĩnh Tường"
+        },
+        {
+            "uid": "488294da9d294cccab6baed3351681ec",
+            "name": "Xã Long Trị"
+        },
+        {
+            "uid": "5beb153b344b4bf2be2a979c724bd8c9",
+            "name": "Xã Long Trị A"
+        },
+        {
+            "uid": "6ac19c54ca4f490f9df05e6beae2ad9a",
+            "name": "Xã Long Phú"
+        },
+        {
+            "uid": "bd8ba70b4d494d218c4bcf2cfc0fa5e6",
+            "name": "Xã Tân Phú"
+        }
+    ]
+}

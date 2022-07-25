@@ -1,0 +1,46 @@
+{
+    "uid": "953b336c54c94f51a4388addb048fdd0",
+    "name": "Huyện Thống Nhất",
+    "wards": [
+        {
+            "uid": "c0d872f4347b4fc581f2f068cf9102f1",
+            "name": "Xã Gia Tân 1"
+        },
+        {
+            "uid": "60a9376f3444408ba5f2e0df277fc382",
+            "name": "Xã Gia Tân 2"
+        },
+        {
+            "uid": "4d42e7e73c694b509f56e7b71a4105eb",
+            "name": "Xã Gia Tân 3"
+        },
+        {
+            "uid": "b61b6adc831641c6ab7342b874f9d426",
+            "name": "Xã Gia Kiệm"
+        },
+        {
+            "uid": "b1ef63f0f82448c0ac32fafc7d903b45",
+            "name": "Xã Quang Trung"
+        },
+        {
+            "uid": "6b44bc623f4d40988860600c860ad0b8",
+            "name": "Xã Bàu Hàm 2"
+        },
+        {
+            "uid": "94e2124f72d042a8b55b8f0facd02a82",
+            "name": "Xã Hưng Lộc"
+        },
+        {
+            "uid": "d5ed7dc83751488abe9efba1a6ea087f",
+            "name": "Xã Lộ 25"
+        },
+        {
+            "uid": "13bac1f8eca949b6819ede5975ea00bf",
+            "name": "Xã Xuân Thiện"
+        },
+        {
+            "uid": "29a2e0766d174bfd869fad89163f5da2",
+            "name": "Thị trấn Dầu Giây"
+        }
+    ]
+}

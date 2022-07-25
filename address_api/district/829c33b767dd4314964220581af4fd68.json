@@ -1,0 +1,50 @@
+{
+    "uid": "829c33b767dd4314964220581af4fd68",
+    "name": "Huyện Hiệp Đức",
+    "wards": [
+        {
+            "uid": "bb5d38346411460cbca5694fd23f6273",
+            "name": "Xã Hiệp Hòa"
+        },
+        {
+            "uid": "144f115c91d24e4ca6ba5a10e3101dea",
+            "name": "Xã Hiệp Thuận"
+        },
+        {
+            "uid": "a3b2804a98f44057ac1aa11b4549d0e8",
+            "name": "Xã Quế Thọ"
+        },
+        {
+            "uid": "a0001136dd8343dc9c8c4fd6640ff734",
+            "name": "Xã Bình Lâm"
+        },
+        {
+            "uid": "80b8cf69181d46288343c9de5e9e632e",
+            "name": "Xã Sông Trà"
+        },
+        {
+            "uid": "b3287e927a924c09a0e9ebe1357eb55b",
+            "name": "Xã Phước Trà"
+        },
+        {
+            "uid": "acea9ac612b24abd9f82d7537cd07285",
+            "name": "Xã Phước Gia"
+        },
+        {
+            "uid": "caea84b46e184345b461189d74201016",
+            "name": "Thị trấn Tân Bình"
+        },
+        {
+            "uid": "3027d05f9f3544b48d6fffdb02333ddc",
+            "name": "Xã Quế Lưu"
+        },
+        {
+            "uid": "d122f1f7b0e64e33a369c6da41833bb1",
+            "name": "Xã Thăng Phước"
+        },
+        {
+            "uid": "2e94e478e6404fc4b454e85566d71972",
+            "name": "Xã Bình Sơn"
+        }
+    ]
+}

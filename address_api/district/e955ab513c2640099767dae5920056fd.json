@@ -1,0 +1,94 @@
+{
+    "uid": "e955ab513c2640099767dae5920056fd",
+    "name": "Huyện Văn Bàn",
+    "wards": [
+        {
+            "uid": "53839dfe5ce54a3a99576e6a6e37c86a",
+            "name": "Thị trấn Khánh Yên"
+        },
+        {
+            "uid": "e5fcec37c1eb4f61a1b134dbe4d809ff",
+            "name": "Xã Võ Lao"
+        },
+        {
+            "uid": "e8475e5880104aea8b4fcc0f484b637e",
+            "name": "Xã Sơn Thuỷ"
+        },
+        {
+            "uid": "7005d99aa63b4c81abb4627aa2e19d8d",
+            "name": "Xã Nậm Mả"
+        },
+        {
+            "uid": "74cc3cc803104559a29e265934dd35ee",
+            "name": "Xã Tân Thượng"
+        },
+        {
+            "uid": "da09f18e1a064e53b28e3953d59f6984",
+            "name": "Xã Nậm Rạng"
+        },
+        {
+            "uid": "48126966da324909b9d33fbf720d94bd",
+            "name": "Xã Nậm Chầy"
+        },
+        {
+            "uid": "56f31aba003b44d59c0d94d1af1e549d",
+            "name": "Xã Tân An"
+        },
+        {
+            "uid": "6aead11569e54005aa652fe605bcf444",
+            "name": "Xã Khánh Yên Thượng"
+        },
+        {
+            "uid": "81a0605a2d864220a84e685727b71c73",
+            "name": "Xã Nậm Xé"
+        },
+        {
+            "uid": "f09a3a2bfa7245f996b5a9b5335219f7",
+            "name": "Xã Dần Thàng"
+        },
+        {
+            "uid": "6f8df17af7964a248de70a53e9ff29a9",
+            "name": "Xã Chiềng Ken"
+        },
+        {
+            "uid": "a447116100684d3898389686178e77ac",
+            "name": "Xã Làng Giàng"
+        },
+        {
+            "uid": "5a7172b068ab42aa97912287ad8e4792",
+            "name": "Xã Hoà Mạc"
+        },
+        {
+            "uid": "2d3ba9bb9aa141fca1c8e8a85525eed9",
+            "name": "Xã Khánh Yên Trung"
+        },
+        {
+            "uid": "586c51309d5f4c5398861a9ef291020c",
+            "name": "Xã Khánh Yên Hạ"
+        },
+        {
+            "uid": "babf1257dbab4e62817d95d64f8795e6",
+            "name": "Xã Dương Quỳ"
+        },
+        {
+            "uid": "2a2c136779cd4bb5aa1fa9c26f1af822",
+            "name": "Xã Nậm Tha"
+        },
+        {
+            "uid": "fafeacd9f216415ca1343870ff925d7b",
+            "name": "Xã Minh Lương"
+        },
+        {
+            "uid": "38c865b32c914602b26d874de25a1e4d",
+            "name": "Xã Thẩm Dương"
+        },
+        {
+            "uid": "926aa6f2904f434ca2de4bc0386145d8",
+            "name": "Xã Liêm Phú"
+        },
+        {
+            "uid": "4ba0d496614a45b5bd25c8267f007889",
+            "name": "Xã Nậm Xây"
+        }
+    ]
+}

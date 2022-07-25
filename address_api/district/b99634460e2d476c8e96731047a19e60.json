@@ -1,0 +1,66 @@
+{
+    "uid": "b99634460e2d476c8e96731047a19e60",
+    "name": "Huyện Nậm Pồ",
+    "wards": [
+        {
+            "uid": "1c7f864da4e644c4b71eaa37b522a897",
+            "name": "Xã Nậm Tin"
+        },
+        {
+            "uid": "d90085ecdab347e287586c3ae2cddd35",
+            "name": "Xã Pa Tần"
+        },
+        {
+            "uid": "87cbda6c1afb4e19840f67c1fd756ed7",
+            "name": "Xã Chà Cang"
+        },
+        {
+            "uid": "ffee4cccc8fb43139a0f281d392e1393",
+            "name": "Xã Na Cô Sa"
+        },
+        {
+            "uid": "d1bce5b2e2f547c1adc5f4e8bcb3ac8e",
+            "name": "Xã Nà Khoa"
+        },
+        {
+            "uid": "7185a99c2d764bf1b7695d060791fadb",
+            "name": "Xã Nà Hỳ"
+        },
+        {
+            "uid": "1d3172d8126044eeb8eb7128a34825ab",
+            "name": "Xã Nà Bủng"
+        },
+        {
+            "uid": "b56eb21acc374d6788056f5df1b40193",
+            "name": "Xã Nậm Nhừ"
+        },
+        {
+            "uid": "ca54999c1c7e4ada975e6d1d7ec28107",
+            "name": "Xã Nậm Chua"
+        },
+        {
+            "uid": "4b7886caec2e418e81e0c84f242c91e4",
+            "name": "Xã Nậm Khăn"
+        },
+        {
+            "uid": "716d24eccd8e41b6993fe19a163c4cd7",
+            "name": "Xã Chà Tở"
+        },
+        {
+            "uid": "6c60e3d937ec43b29ad704bb9772be2d",
+            "name": "Xã Vàng Đán"
+        },
+        {
+            "uid": "5ed96833332f4983bc4ba523673f34e3",
+            "name": "Xã Chà Nưa"
+        },
+        {
+            "uid": "cee6c988454d4ef2a5dc55767c43a0d6",
+            "name": "Xã Phìn Hồ"
+        },
+        {
+            "uid": "4d4da3280fd04502948b901f59068d58",
+            "name": "Xã Si Pa Phìn"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "3dd6b0eefffb4a0891246b2552e1adde",
+    "name": "Huyện Ninh Sơn",
+    "wards": [
+        {
+            "uid": "dbaaf11af4bd469d91b457965dffdc9a",
+            "name": "Thị trấn Tân Sơn"
+        },
+        {
+            "uid": "490c103b9d094cbd9fb66c5768b25c29",
+            "name": "Xã Lâm Sơn"
+        },
+        {
+            "uid": "85e4c45968444ab3a714c04803b90b84",
+            "name": "Xã Lương Sơn"
+        },
+        {
+            "uid": "890c29d68eb842c6987245311f68fed8",
+            "name": "Xã Quảng Sơn"
+        },
+        {
+            "uid": "91cca4b48651494084938a0063e79bf8",
+            "name": "Xã Mỹ Sơn"
+        },
+        {
+            "uid": "910a7149908b4c1e9bccba17e867d8ae",
+            "name": "Xã Hòa Sơn"
+        },
+        {
+            "uid": "4391d4f4900443efaf28eb619e2d69a7",
+            "name": "Xã Ma Nới"
+        },
+        {
+            "uid": "d2dc7b834c2e4b7ca595423998de28a0",
+            "name": "Xã Nhơn Sơn"
+        }
+    ]
+}

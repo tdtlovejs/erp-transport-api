@@ -1,0 +1,46 @@
+{
+    "uid": "beda3796ed804742886a3e8eb4270eca",
+    "name": "Huyện Nam Đông",
+    "wards": [
+        {
+            "uid": "192aa04cfae948a7992735b7da6cbc46",
+            "name": "Thị trấn Khe Tre"
+        },
+        {
+            "uid": "b91b9e44a7d84d5d88586227c4bb78d4",
+            "name": "Xã Hương Phú"
+        },
+        {
+            "uid": "6e4a1993bf024297a903f425fe0f1b34",
+            "name": "Xã Hương Sơn"
+        },
+        {
+            "uid": "ac5c165f804244d0ac8622f614341d65",
+            "name": "Xã Hương Lộc"
+        },
+        {
+            "uid": "2939fc525fee4f1094c4d21ea45c24e4",
+            "name": "Xã Thượng Quảng"
+        },
+        {
+            "uid": "ec41a228315944dfa27c44e123541766",
+            "name": "Xã Hương Xuân"
+        },
+        {
+            "uid": "37cdf33171b34b3893a1549066d9cd20",
+            "name": "Xã Hương Hữu"
+        },
+        {
+            "uid": "3af5650ad5474f989fb5e08eb8f9e2af",
+            "name": "Xã Thượng Lộ"
+        },
+        {
+            "uid": "19dfbe6ecee34490b1844481aae1d376",
+            "name": "Xã Thượng Long"
+        },
+        {
+            "uid": "90a11703c4c748129be7b907d1462cdd",
+            "name": "Xã Thượng Nhật"
+        }
+    ]
+}

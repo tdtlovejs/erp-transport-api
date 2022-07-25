@@ -1,0 +1,70 @@
+{
+    "uid": "a9456fdac2444b9287ce62a4c69e3d86",
+    "name": "Thành phố Bắc Giang",
+    "wards": [
+        {
+            "uid": "fe2d32be79be4569bafda23458aa55c5",
+            "name": "Phường Thọ Xương"
+        },
+        {
+            "uid": "ac6a0f3d34f6496da17b8a63e74c73a1",
+            "name": "Phường Trần Nguyên Hãn"
+        },
+        {
+            "uid": "88e2e55ccda84d478dfad5590bc406b5",
+            "name": "Phường Ngô Quyền"
+        },
+        {
+            "uid": "d9ad1aab358847199db7c34798baab64",
+            "name": "Phường Hoàng Văn Thụ"
+        },
+        {
+            "uid": "5f531aedda78437c96fa6f344aa7c734",
+            "name": "Phường Trần Phú"
+        },
+        {
+            "uid": "1725a14ecbb2447497dd61dc0be3afb1",
+            "name": "Phường Mỹ Độ"
+        },
+        {
+            "uid": "63fe0cda0f3f4ef7a276813eaeeced66",
+            "name": "Phường Lê Lợi"
+        },
+        {
+            "uid": "7c968ed5e4c447bea285e6f821856d5b",
+            "name": "Xã Song Mai"
+        },
+        {
+            "uid": "c010d48e26d94d1a9994730451f5d220",
+            "name": "Phường Xương Giang"
+        },
+        {
+            "uid": "afc975b41bf942ccaf702bb686caf2c0",
+            "name": "Phường Đa Mai"
+        },
+        {
+            "uid": "a7338ea8961d45929c224820012f22ba",
+            "name": "Phường Dĩnh Kế"
+        },
+        {
+            "uid": "a3ef20681d9c4ba4948ac9ed7ea687d2",
+            "name": "Xã Dĩnh Trì"
+        },
+        {
+            "uid": "ccbee5736e324275a2b3156c3b33cb60",
+            "name": "Xã Tân Mỹ"
+        },
+        {
+            "uid": "7464c999a80a463a9250848ca32362e2",
+            "name": "Xã Đồng Sơn"
+        },
+        {
+            "uid": "7fe6492af3214a93b8ded8b10aa32445",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "5d4bba30d669423e8f3432b0d2487aed",
+            "name": "Xã Song Khê"
+        }
+    ]
+}

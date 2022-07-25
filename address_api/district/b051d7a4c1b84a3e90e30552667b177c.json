@@ -1,0 +1,86 @@
+{
+    "uid": "b051d7a4c1b84a3e90e30552667b177c",
+    "name": "Huyện Kỳ Anh",
+    "wards": [
+        {
+            "uid": "8e523dd9281c473ea78a09f98ab96640",
+            "name": "Xã Kỳ Xuân"
+        },
+        {
+            "uid": "3e194768f4af4094887779b66fa6524a",
+            "name": "Xã Kỳ Bắc"
+        },
+        {
+            "uid": "c86059a690584ff89e36778ee508d533",
+            "name": "Xã Kỳ Phú"
+        },
+        {
+            "uid": "29c49dd287424bfdba1faa1414359b7e",
+            "name": "Xã Kỳ Phong"
+        },
+        {
+            "uid": "6c82b7f024a5440fb67962df8fdb8234",
+            "name": "Xã Kỳ Tiến"
+        },
+        {
+            "uid": "045db67a8c654a26ba996f5696dd38c4",
+            "name": "Xã Kỳ Giang"
+        },
+        {
+            "uid": "5be5cef1bd7a4bcab8cfcbca0ff9cc69",
+            "name": "Xã Kỳ Đồng"
+        },
+        {
+            "uid": "f8f88596df8d476fb27149a3552ee628",
+            "name": "Xã Kỳ Khang"
+        },
+        {
+            "uid": "49ad3183b43f49e7acda79820de4f26c",
+            "name": "Xã Kỳ Văn"
+        },
+        {
+            "uid": "68c5414dcb6143128124e3f58004d318",
+            "name": "Xã Kỳ Trung"
+        },
+        {
+            "uid": "dad31975ec814fa5a74677e3b3342748",
+            "name": "Xã Kỳ Thọ"
+        },
+        {
+            "uid": "7de9392ae4ff4ee8b45229e893060fee",
+            "name": "Xã Kỳ Tây"
+        },
+        {
+            "uid": "efe58983a4dc4635bcb2fcc9cccd42e9",
+            "name": "Xã Kỳ Thượng"
+        },
+        {
+            "uid": "24aae506a0b644fea9d699f36b6f0e37",
+            "name": "Xã Kỳ Hải"
+        },
+        {
+            "uid": "f817ef623e2e48718e3fd40e63bc19ac",
+            "name": "Xã Kỳ Thư"
+        },
+        {
+            "uid": "101f4af20d1941e9b7af83c5816a2957",
+            "name": "Xã Kỳ Châu"
+        },
+        {
+            "uid": "8847a0db53b04fb4bece5e86e4f16039",
+            "name": "Xã Kỳ Tân"
+        },
+        {
+            "uid": "86f38fcc2812439bbfa59f81bd850997",
+            "name": "Xã Lâm Hợp"
+        },
+        {
+            "uid": "90015b5ed5d44973bd4e61836bf6e481",
+            "name": "Xã Kỳ Sơn"
+        },
+        {
+            "uid": "b8584af70d1041c599fea741fa8d4480",
+            "name": "Xã Kỳ Lạc"
+        }
+    ]
+}

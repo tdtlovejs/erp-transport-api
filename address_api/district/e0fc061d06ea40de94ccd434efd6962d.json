@@ -1,0 +1,70 @@
+{
+    "uid": "e0fc061d06ea40de94ccd434efd6962d",
+    "name": "Huyện Thanh Liêm",
+    "wards": [
+        {
+            "uid": "4f2a397dd0e142999bb0ae7c8eaa50be",
+            "name": "Thị trấn Kiện Khê"
+        },
+        {
+            "uid": "589bd67151584368b06e8a05c3d9859d",
+            "name": "Xã Liêm Phong"
+        },
+        {
+            "uid": "2a30c20fb5f944b8a7bcaa82a49b08d0",
+            "name": "Xã Thanh Hà"
+        },
+        {
+            "uid": "576929ad0aea455eae68d9a0c5557012",
+            "name": "Xã Liêm Cần"
+        },
+        {
+            "uid": "697c9cd85e604131a88ca14854d141e3",
+            "name": "Xã Liêm Thuận"
+        },
+        {
+            "uid": "71cf40c1c7364415b7332634feb46758",
+            "name": "Xã Thanh Thủy"
+        },
+        {
+            "uid": "82f97ce4fa5647378627d7f72d8ebf47",
+            "name": "Xã Thanh Phong"
+        },
+        {
+            "uid": "ccfcefadc2794dd7ab9677c0ca336b70",
+            "name": "Thị trấn Tân Thanh"
+        },
+        {
+            "uid": "be918dd30aa8457aa6a595d53746ee8c",
+            "name": "Xã Thanh Tân"
+        },
+        {
+            "uid": "10125f96239e40e78e465cc470ce70d9",
+            "name": "Xã Liêm Túc"
+        },
+        {
+            "uid": "58c8d6a1569f49c0a1af0e952d7ee992",
+            "name": "Xã Liêm Sơn"
+        },
+        {
+            "uid": "d02bc035d7204327833cfefaf758996a",
+            "name": "Xã Thanh Hương"
+        },
+        {
+            "uid": "c4a75b97db72430ea5a01b68e6025cfa",
+            "name": "Xã Thanh Nghị"
+        },
+        {
+            "uid": "78d96b7c14e94fa683203a0ff9161cb7",
+            "name": "Xã Thanh Tâm"
+        },
+        {
+            "uid": "dc1e51295c9a4e9a984e3487086df0e8",
+            "name": "Xã Thanh Nguyên"
+        },
+        {
+            "uid": "1efd7b79d99c4c1885e2b1902f4efc3b",
+            "name": "Xã Thanh Hải"
+        }
+    ]
+}

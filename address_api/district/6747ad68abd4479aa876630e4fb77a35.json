@@ -1,0 +1,82 @@
+{
+    "uid": "6747ad68abd4479aa876630e4fb77a35",
+    "name": "Thành phố Bắc Ninh",
+    "wards": [
+        {
+            "uid": "b0171a96aeee4d04b70e718c8098d9a6",
+            "name": "Phường Vũ Ninh"
+        },
+        {
+            "uid": "0e9a9679d6124340ac84b9ef912cd4be",
+            "name": "Phường Đáp Cầu"
+        },
+        {
+            "uid": "edb2800fb7a745a18564c3e9a0d8b692",
+            "name": "Phường Thị Cầu"
+        },
+        {
+            "uid": "5eb7aa0849654f129a8920e20c2e1194",
+            "name": "Phường Kinh Bắc"
+        },
+        {
+            "uid": "c61623af49c944c3b67ad72bb3e8cb8a",
+            "name": "Phường Vệ An"
+        },
+        {
+            "uid": "f6a39e9753c2406e8cc4189201fb1b51",
+            "name": "Phường Tiền An"
+        },
+        {
+            "uid": "98fb82a95bc249c3b89643a905e445c8",
+            "name": "Phường Đại Phúc"
+        },
+        {
+            "uid": "79804a8c2d4d4cb9a3356998b82bee7b",
+            "name": "Phường Ninh Xá"
+        },
+        {
+            "uid": "5ab2cffc644f437aa353733db7e4ea88",
+            "name": "Phường Suối Hoa"
+        },
+        {
+            "uid": "c79ec9ba59fc4c798d2eebe5bf8bdd71",
+            "name": "Phường Võ Cường"
+        },
+        {
+            "uid": "35f2c1f22e9640749f127c603e75e845",
+            "name": "Phường Hòa Long"
+        },
+        {
+            "uid": "c99e17bf97eb4ba4b22b13b1b97ea1cf",
+            "name": "Phường Vạn An"
+        },
+        {
+            "uid": "6719f88576d24a48b4d54a3e927e0eda",
+            "name": "Phường Khúc Xuyên"
+        },
+        {
+            "uid": "0c40359667d748c189743f91c176c7b5",
+            "name": "Phường Phong Khê"
+        },
+        {
+            "uid": "80643e8b191d4b9dbcb5afdc53852e13",
+            "name": "Phường Kim Chân"
+        },
+        {
+            "uid": "abc2858ce4084cf3a411c058ca5c7574",
+            "name": "Phường Vân Dương"
+        },
+        {
+            "uid": "ba4b1747bd9c4a349aeb88e976014672",
+            "name": "Phường Nam Sơn"
+        },
+        {
+            "uid": "1c3d0106b271483791a22af12c38629f",
+            "name": "Phường Khắc Niệm"
+        },
+        {
+            "uid": "ec8bde935d7248a38e39c6bc922eb8d9",
+            "name": "Phường Hạp Lĩnh"
+        }
+    ]
+}

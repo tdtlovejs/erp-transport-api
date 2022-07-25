@@ -1,0 +1,62 @@
+{
+    "uid": "e2785867e33847ed991f9556ce165ec7",
+    "name": "Huyện Hòn Đất",
+    "wards": [
+        {
+            "uid": "f363a449d56040d79cacec5a5c0d403f",
+            "name": "Thị trấn Hòn Đất"
+        },
+        {
+            "uid": "8ab1da9830d44258ae1fbac31faf2b8e",
+            "name": "Thị trấn Sóc Sơn"
+        },
+        {
+            "uid": "107953090893487e8ee059a4fb16ab1c",
+            "name": "Xã Bình Sơn"
+        },
+        {
+            "uid": "fe4e3ce806a94eb19fbfd28a6f1ec20e",
+            "name": "Xã Bình Giang"
+        },
+        {
+            "uid": "f977cf064c6a4109a0a4e650dd3f8935",
+            "name": "Xã Mỹ Thái"
+        },
+        {
+            "uid": "41f090afb182464e9cabfe4f97ecdacf",
+            "name": "Xã Nam Thái Sơn"
+        },
+        {
+            "uid": "8c8a69b1dc8449aa946b40db7512cfe9",
+            "name": "Xã Mỹ Hiệp Sơn"
+        },
+        {
+            "uid": "680ea5b100ef45e38fe4d56821b703d5",
+            "name": "Xã Sơn Kiên"
+        },
+        {
+            "uid": "54cdb248bd2d4b3f96aa2cf8a8dc0d34",
+            "name": "Xã Sơn Bình"
+        },
+        {
+            "uid": "b6125082a376434a9572e701546369ad",
+            "name": "Xã Mỹ Thuận"
+        },
+        {
+            "uid": "1e4d961837e846819e5726aad62048ca",
+            "name": "Xã Lình Huỳnh"
+        },
+        {
+            "uid": "adcf97c3ceeb470bac8afd1682393fde",
+            "name": "Xã Thổ Sơn"
+        },
+        {
+            "uid": "a12d8da0fc184aac81d9925f7e2cd270",
+            "name": "Xã Mỹ Lâm"
+        },
+        {
+            "uid": "88638d641e6d499c9cc23a3ab2663cd9",
+            "name": "Xã Mỹ Phước"
+        }
+    ]
+}

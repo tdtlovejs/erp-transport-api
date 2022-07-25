@@ -1,0 +1,86 @@
+{
+    "uid": "f8b136e066ae4c97a6d67160ce7ed7d9",
+    "name": "Quận Bình Thạnh",
+    "wards": [
+        {
+            "uid": "1f80c2712d494b38afb5a8d5af2d8f9c",
+            "name": "Phường 13"
+        },
+        {
+            "uid": "93179d792e7247e9a954bc88dffac1a4",
+            "name": "Phường 11"
+        },
+        {
+            "uid": "19bc56a45ccb4c4781cac6b57270de60",
+            "name": "Phường 27"
+        },
+        {
+            "uid": "1c932f98800740f4bea749742eb68796",
+            "name": "Phường 26"
+        },
+        {
+            "uid": "a0b0603faf9d4600bddb1a50b3bf8998",
+            "name": "Phường 12"
+        },
+        {
+            "uid": "324695140a424e83a3b22998f62c4470",
+            "name": "Phường 25"
+        },
+        {
+            "uid": "a183905544764e7da93e68387e9e71df",
+            "name": "Phường 05"
+        },
+        {
+            "uid": "a0c6148893c24738be4e5915907d7b7b",
+            "name": "Phường 07"
+        },
+        {
+            "uid": "b46294c89a584956824d112e450d11a5",
+            "name": "Phường 24"
+        },
+        {
+            "uid": "fd99d083b2384d4a957413ce91f1d665",
+            "name": "Phường 06"
+        },
+        {
+            "uid": "6c966c24b4b349dbaeb53e5ff6f30bd3",
+            "name": "Phường 14"
+        },
+        {
+            "uid": "8cd45e23da2d42599a61c1cbf3b73bb9",
+            "name": "Phường 15"
+        },
+        {
+            "uid": "7430a0091b87443e99502ff45aad55b9",
+            "name": "Phường 02"
+        },
+        {
+            "uid": "6da1eedfb8a2408598d6ed06a7abd6ef",
+            "name": "Phường 01"
+        },
+        {
+            "uid": "ed846c70257e496399557bd6bf3cb618",
+            "name": "Phường 03"
+        },
+        {
+            "uid": "1d30661bf27c49c2b8d546df87f357c2",
+            "name": "Phường 17"
+        },
+        {
+            "uid": "02369481b37a4e5a8638e74e9d11f0df",
+            "name": "Phường 21"
+        },
+        {
+            "uid": "12c49a5764ce461c904cf87ffd726fb7",
+            "name": "Phường 22"
+        },
+        {
+            "uid": "5f36b57cd9d74b758ef9961cb5ffe56a",
+            "name": "Phường 19"
+        },
+        {
+            "uid": "09f21a113d394ee88e80fe27048faa8e",
+            "name": "Phường 28"
+        }
+    ]
+}

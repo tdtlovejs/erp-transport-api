@@ -1,0 +1,50 @@
+{
+    "uid": "34eb8aed45ca46a2a1d18d5e6502fe08",
+    "name": "Huyện Đồng Phú",
+    "wards": [
+        {
+            "uid": "f907b5f655c44b8b8eb8385f90f1d262",
+            "name": "Thị trấn Tân Phú"
+        },
+        {
+            "uid": "5f4d9113341442889d94885303e126e7",
+            "name": "Xã Thuận Lợi"
+        },
+        {
+            "uid": "817aaafd392a4b3cb3dce2f6af0fd660",
+            "name": "Xã Đồng Tâm"
+        },
+        {
+            "uid": "e9211203c3f7433898ebb5069516ae8f",
+            "name": "Xã Tân Phước"
+        },
+        {
+            "uid": "cf35839342c24d83912767ba0d8433dc",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "b79263384a424247a981ec91f82100a0",
+            "name": "Xã Tân Lợi"
+        },
+        {
+            "uid": "2e904ab35d8d402991fcf7214ab7fb63",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "05c507531d304fc08819085bdf7f1779",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "6af432e4e7814e92a5ec79a3e3984868",
+            "name": "Xã Thuận Phú"
+        },
+        {
+            "uid": "c9a1714c654b4a50820c9f1bf98c7d2d",
+            "name": "Xã Đồng Tiến"
+        },
+        {
+            "uid": "256c843052a74227937c98f444b990e5",
+            "name": "Xã Tân Tiến"
+        }
+    ]
+}

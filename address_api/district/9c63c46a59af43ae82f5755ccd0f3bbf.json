@@ -1,0 +1,34 @@
+{
+    "uid": "9c63c46a59af43ae82f5755ccd0f3bbf",
+    "name": "Huyện Đăk Glong",
+    "wards": [
+        {
+            "uid": "2cfa7829c59447848f671a3b460b22a4",
+            "name": "Xã Quảng Sơn"
+        },
+        {
+            "uid": "98bacef46a4a41fc9212c9afb6887723",
+            "name": "Xã Quảng Hoà"
+        },
+        {
+            "uid": "30a20989fe4d4573a69e5977752ac6a1",
+            "name": "Xã Đắk Ha"
+        },
+        {
+            "uid": "12b1159d70eb4d75a59180db083f3865",
+            "name": "Xã Đắk R'Măng"
+        },
+        {
+            "uid": "e46e00130e374d9ba958547cd047734d",
+            "name": "Xã Quảng Khê"
+        },
+        {
+            "uid": "12fc73c08a0047f380b45ef291a79c33",
+            "name": "Xã Đắk Plao"
+        },
+        {
+            "uid": "ec965a0e76f44a2ca7c7fe38c5a86455",
+            "name": "Xã Đắk Som"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "b9cb5e75494347fcad51f4c3e0a6d158",
+    "name": "Huyện Dương Minh Châu",
+    "wards": [
+        {
+            "uid": "6efdea9b452d4283980ea6b2c65720e7",
+            "name": "Thị trấn Dương Minh Châu"
+        },
+        {
+            "uid": "f251344f73d8485ba7da8eee4be747af",
+            "name": "Xã Suối Đá"
+        },
+        {
+            "uid": "e46e012f31d0474d87346a0a4e94a7a1",
+            "name": "Xã Phan"
+        },
+        {
+            "uid": "cfd91db1fbcc48f4929deaaa14a10ef1",
+            "name": "Xã Phước Ninh"
+        },
+        {
+            "uid": "9c10137a43bb4ffea2fcb560ad203b43",
+            "name": "Xã Phước Minh"
+        },
+        {
+            "uid": "8644a20d6dc54143b9a114cb0a750f27",
+            "name": "Xã Bàu Năng"
+        },
+        {
+            "uid": "5b2e07e5aa4b4f62887519954c4f790d",
+            "name": "Xã Chà Là"
+        },
+        {
+            "uid": "e4afdd9698f0405daf93342380a74121",
+            "name": "Xã Cầu Khởi"
+        },
+        {
+            "uid": "6221db3e39fc4dafaa8637a6f89a712f",
+            "name": "Xã Bến Củi"
+        },
+        {
+            "uid": "190336ab9c2742ac8af8bca1c4b05dea",
+            "name": "Xã Lộc Ninh"
+        },
+        {
+            "uid": "406b06d576e94ce5923d169cf2c6472a",
+            "name": "Xã Truông Mít"
+        }
+    ]
+}

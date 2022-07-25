@@ -1,0 +1,58 @@
+{
+    "uid": "6b48ece82fea46edafa6391280aca704",
+    "name": "Quận Phú Nhuận",
+    "wards": [
+        {
+            "uid": "938c61ac2e124a63af8126c839fa1cf8",
+            "name": "Phường 04"
+        },
+        {
+            "uid": "0b1f875f6d8448859bf6ea9c2947d2c1",
+            "name": "Phường 05"
+        },
+        {
+            "uid": "f103a43f330644299c590a5ca7f83dcc",
+            "name": "Phường 09"
+        },
+        {
+            "uid": "2d96460226434ab38cf3843b0260fe95",
+            "name": "Phường 07"
+        },
+        {
+            "uid": "9249e944ad1f447e81357fa6f53b7895",
+            "name": "Phường 03"
+        },
+        {
+            "uid": "af49d082222f48d09a453c5699ff5dfb",
+            "name": "Phường 01"
+        },
+        {
+            "uid": "1177b3eb36f84b23a78e93d7932e1551",
+            "name": "Phường 02"
+        },
+        {
+            "uid": "1b00485e1e83427a887cfd1baa7b1a25",
+            "name": "Phường 08"
+        },
+        {
+            "uid": "b847acb87f8040ad8d493b06f0e911ba",
+            "name": "Phường 15"
+        },
+        {
+            "uid": "f1bd7a7fd2724009bff1073fff178679",
+            "name": "Phường 10"
+        },
+        {
+            "uid": "c41c18c14acd48fd90a89d1005958e9f",
+            "name": "Phường 11"
+        },
+        {
+            "uid": "62b416e36f754a6bb087a8d238e1d1a7",
+            "name": "Phường 17"
+        },
+        {
+            "uid": "717933c362ec42bf8ed9ef31e957fb7d",
+            "name": "Phường 13"
+        }
+    ]
+}

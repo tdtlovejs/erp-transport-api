@@ -1,0 +1,38 @@
+{
+    "uid": "4f7f9985652345c7a6a6775226d1dd24",
+    "name": "Huyện Vĩnh Lợi",
+    "wards": [
+        {
+            "uid": "9647c69dd85a4177ae5a8a345470c267",
+            "name": "Xã Vĩnh Hưng"
+        },
+        {
+            "uid": "1add64197bbf4c9481ee000d2aac21cd",
+            "name": "Xã Vĩnh Hưng A"
+        },
+        {
+            "uid": "b500739e105d427daf635ba1838e47e3",
+            "name": "Thị trấn Châu Hưng"
+        },
+        {
+            "uid": "fc24508a4647493094688745647d83b8",
+            "name": "Xã Châu Hưng A"
+        },
+        {
+            "uid": "559b893fea9a42dbb8a64df1b954c970",
+            "name": "Xã Hưng Thành"
+        },
+        {
+            "uid": "0fdcc469657c4ff2b8dc2df09671f8e5",
+            "name": "Xã Hưng Hội"
+        },
+        {
+            "uid": "6e8ea27865af49dc913c7129ad9ad844",
+            "name": "Xã Châu Thới"
+        },
+        {
+            "uid": "bfae69d849cc4d5c929d05c87faafc01",
+            "name": "Xã Long Thạnh"
+        }
+    ]
+}

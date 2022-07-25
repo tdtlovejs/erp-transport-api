@@ -1,0 +1,58 @@
+{
+    "uid": "7f6039330df24af1aced534127c204ea",
+    "name": "Huyện Quản Bạ",
+    "wards": [
+        {
+            "uid": "9d174e02e7b746399119bcb8c9f9cbc6",
+            "name": "Thị trấn Tam Sơn"
+        },
+        {
+            "uid": "9de36f2802094429bd9b12cfc57c8c70",
+            "name": "Xã Bát Đại Sơn"
+        },
+        {
+            "uid": "6d2d98e1e7d34186b12e27de9449d1dc",
+            "name": "Xã Nghĩa Thuận"
+        },
+        {
+            "uid": "ec2124b935644543a895de3ead47a0db",
+            "name": "Xã Cán Tỷ"
+        },
+        {
+            "uid": "db90313fe489445a9461085f46d4d124",
+            "name": "Xã Cao Mã Pờ"
+        },
+        {
+            "uid": "65850d1ddd524acc8dd93bae26d46857",
+            "name": "Xã Thanh Vân"
+        },
+        {
+            "uid": "9f041c9ea66d4c9399069edf8fe4c1b8",
+            "name": "Xã Tùng Vài"
+        },
+        {
+            "uid": "a0f84395407f4f57a8a76bd9dd25c264",
+            "name": "Xã Đông Hà"
+        },
+        {
+            "uid": "20f2fa3d30104926bab73e68c8e6e9a0",
+            "name": "Xã Quản Bạ"
+        },
+        {
+            "uid": "40199e7a7d3c4b75bd09aade76c0edca",
+            "name": "Xã Lùng Tám"
+        },
+        {
+            "uid": "85ecca9abef7457894ab013277b204d6",
+            "name": "Xã Quyết Tiến"
+        },
+        {
+            "uid": "faa94bb6957442cdbc2a0499b2bafad8",
+            "name": "Xã Tả Ván"
+        },
+        {
+            "uid": "2d69ea137a274713ad6c44d7418248b5",
+            "name": "Xã Thái An"
+        }
+    ]
+}

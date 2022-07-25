@@ -1,0 +1,122 @@
+{
+    "uid": "12eeaebb9481430baa5b916ebebb9ac3",
+    "name": "Huyện Thường Tín",
+    "wards": [
+        {
+            "uid": "efda3f09982b4c7abd7e113acf22df25",
+            "name": "Thị trấn Thường Tín"
+        },
+        {
+            "uid": "666f590758714230bb5512739ba5285f",
+            "name": "Xã Ninh Sở"
+        },
+        {
+            "uid": "834c50b733504020b6f5c5d14f9d6cb4",
+            "name": "Xã Nhị Khê"
+        },
+        {
+            "uid": "e7b23b029897476aa491e66dd55c0a13",
+            "name": "Xã Duyên Thái"
+        },
+        {
+            "uid": "5e00792ac9144307a844b556e36e43bc",
+            "name": "Xã Khánh Hà"
+        },
+        {
+            "uid": "0b4e2a466646497e969639df87bf0efe",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "bc4bbf3a3838473cb7f96039c28dfd1b",
+            "name": "Xã Văn Bình"
+        },
+        {
+            "uid": "a42685cff3bc4650a7f4a6cbf332a439",
+            "name": "Xã Hiền Giang"
+        },
+        {
+            "uid": "19ffe9f2b95c40ceb531cc9d5f157d39",
+            "name": "Xã Hồng Vân"
+        },
+        {
+            "uid": "e9c8748f6069494ba4e4338ad461a807",
+            "name": "Xã Vân Tảo"
+        },
+        {
+            "uid": "52059de3015b47298e0edf8623b2fec9",
+            "name": "Xã Liên Phương"
+        },
+        {
+            "uid": "37a331be072a457480036f79d472cf73",
+            "name": "Xã Văn Phú"
+        },
+        {
+            "uid": "b6f648bd182a45ebba39f864664b4b1e",
+            "name": "Xã Tự Nhiên"
+        },
+        {
+            "uid": "091e73c3b6444464863e464deff4aa84",
+            "name": "Xã Tiền Phong"
+        },
+        {
+            "uid": "564f6f2a26bd4b758fc49c381c3bd71c",
+            "name": "Xã Hà Hồi"
+        },
+        {
+            "uid": "cd98b46e4f3946ee9c29a98cbe661d63",
+            "name": "Xã Thư Phú"
+        },
+        {
+            "uid": "31e2508850fb49b7ba0fe2b3c6d57c49",
+            "name": "Xã Nguyễn Trãi"
+        },
+        {
+            "uid": "47ebaa8329f946509525a63ea951dd35",
+            "name": "Xã Quất Động"
+        },
+        {
+            "uid": "b76cb4daf2324c289c2abd3e2ec62bbc",
+            "name": "Xã Chương Dương"
+        },
+        {
+            "uid": "aa5d9d04a67f4da4a9c83d6bbb508015",
+            "name": "Xã Tân Minh"
+        },
+        {
+            "uid": "ed76410c92da40b7ae849f3036a0e312",
+            "name": "Xã Lê Lợi"
+        },
+        {
+            "uid": "486b12f380004de1b09b4c1b68ebd251",
+            "name": "Xã Thắng Lợi"
+        },
+        {
+            "uid": "a27bc53223d7431988fc96cee000f8e9",
+            "name": "Xã Dũng Tiến"
+        },
+        {
+            "uid": "a35b35957c154b54ba13a874c63c416c",
+            "name": "Xã Thống Nhất"
+        },
+        {
+            "uid": "648f1ef524464bc0b52ff825be8df0d3",
+            "name": "Xã Nghiêm Xuyên"
+        },
+        {
+            "uid": "b367f613969c440b8c73b9cfb6293abd",
+            "name": "Xã Tô Hiệu"
+        },
+        {
+            "uid": "5f85143a6f2140e9a4ca3a08ac3470c2",
+            "name": "Xã Văn Tự"
+        },
+        {
+            "uid": "3f95b394a1dc4148b20e51a66a1a1d7d",
+            "name": "Xã Vạn Điểm"
+        },
+        {
+            "uid": "28b2ef5816c84c83a22eb7fa9ad16f9a",
+            "name": "Xã Minh Cường"
+        }
+    ]
+}

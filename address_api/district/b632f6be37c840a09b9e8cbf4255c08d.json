@@ -1,0 +1,62 @@
+{
+    "uid": "b632f6be37c840a09b9e8cbf4255c08d",
+    "name": "Quận Ba Đình",
+    "wards": [
+        {
+            "uid": "259916e9d9f44bfaaa9b28f24f2709a0",
+            "name": "Phường Phúc Xá"
+        },
+        {
+            "uid": "0e7de44613fe43d08ed128357d6e18b4",
+            "name": "Phường Trúc Bạch"
+        },
+        {
+            "uid": "b3b5b0929dc74bf387fb4af25bcc7124",
+            "name": "Phường Vĩnh Phúc"
+        },
+        {
+            "uid": "e503ee3c608942ea8620f1a7eca15105",
+            "name": "Phường Cống Vị"
+        },
+        {
+            "uid": "c4329fa599c442b398f9548fc676d98a",
+            "name": "Phường Liễu Giai"
+        },
+        {
+            "uid": "d3ba23933e1d40fca2cc743974e2bb39",
+            "name": "Phường Nguyễn Trung Trực"
+        },
+        {
+            "uid": "b55333b882734184b1d7318972adfd61",
+            "name": "Phường Quán Thánh"
+        },
+        {
+            "uid": "356a0130b5034e8ebb969d1d92c301c5",
+            "name": "Phường Ngọc Hà"
+        },
+        {
+            "uid": "ae0a767ed9d548498b05983fd8e39dc9",
+            "name": "Phường Điện Biên"
+        },
+        {
+            "uid": "a55dbd09de6a4b4caf47942cd9c7f1ab",
+            "name": "Phường Đội Cấn"
+        },
+        {
+            "uid": "46dd560e91174fb58425847a23cd3097",
+            "name": "Phường Ngọc Khánh"
+        },
+        {
+            "uid": "2dce4d1cf0234198a5438c96dafec750",
+            "name": "Phường Kim Mã"
+        },
+        {
+            "uid": "7f552eef96e941a2886c0b0951730406",
+            "name": "Phường Giảng Võ"
+        },
+        {
+            "uid": "2581fdaa2c5c471ca698fb9399a26a09",
+            "name": "Phường Thành Công"
+        }
+    ]
+}

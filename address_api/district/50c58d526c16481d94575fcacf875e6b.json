@@ -1,0 +1,90 @@
+{
+    "uid": "50c58d526c16481d94575fcacf875e6b",
+    "name": "Huyện Lý Nhân",
+    "wards": [
+        {
+            "uid": "597a1361263e4fd9847adb818bf0d922",
+            "name": "Xã Hợp Lý"
+        },
+        {
+            "uid": "6aed4b421bae4e99b5859d47275daab4",
+            "name": "Xã Nguyên Lý"
+        },
+        {
+            "uid": "d8606c6131e64b83aeb9b5402dc39bce",
+            "name": "Xã Chính Lý"
+        },
+        {
+            "uid": "2089f888d7b64f8ea8d38e07f8557bf7",
+            "name": "Xã Chân Lý"
+        },
+        {
+            "uid": "e470bd8b472241c0812f566d93f22f60",
+            "name": "Xã Đạo Lý"
+        },
+        {
+            "uid": "26c79466efb24d8892ad2c4197faa21b",
+            "name": "Xã Công Lý"
+        },
+        {
+            "uid": "a20eb0412a754016af4ab1e3d56f89f5",
+            "name": "Xã Văn Lý"
+        },
+        {
+            "uid": "66171f70460e4944a413472a073ba3fd",
+            "name": "Xã Bắc Lý"
+        },
+        {
+            "uid": "bfba1d87262a48b38f71cc1b46bec4a6",
+            "name": "Xã Đức Lý"
+        },
+        {
+            "uid": "f21be9cc5a4a474cbe9529e2886cf0e9",
+            "name": "Xã Trần Hưng Đạo"
+        },
+        {
+            "uid": "ce7b0a39f1ea4ea88b35cf7becfe6c25",
+            "name": "Thị trấn Vĩnh Trụ"
+        },
+        {
+            "uid": "c2ca2946c12b413a8ce03916ad85b464",
+            "name": "Xã Nhân Thịnh"
+        },
+        {
+            "uid": "a80ac0019b3c4c59b6de5fa759fb3cfb",
+            "name": "Xã Nhân Khang"
+        },
+        {
+            "uid": "6cd493c007e14f079d2825e93ceb83a6",
+            "name": "Xã Nhân Mỹ"
+        },
+        {
+            "uid": "02eaaddb6d9b4cec9ef80b2ce7968e05",
+            "name": "Xã Nhân Nghĩa"
+        },
+        {
+            "uid": "4693ea0d9e204c78b9f5e4f311279866",
+            "name": "Xã Nhân Chính"
+        },
+        {
+            "uid": "5f568a0a4b0f49c480bc64007f1a7af1",
+            "name": "Xã Nhân Bình"
+        },
+        {
+            "uid": "0a986484c2cf47948d1ad26906396302",
+            "name": "Xã Phú Phúc"
+        },
+        {
+            "uid": "215a41b0257045f484635fe9758ce545",
+            "name": "Xã Xuân Khê"
+        },
+        {
+            "uid": "006bfa2f4e7d4251884ca4c68cc1d0a8",
+            "name": "Xã Tiến Thắng"
+        },
+        {
+            "uid": "99cbda5bcac6470497301fdea402eb01",
+            "name": "Xã Hòa Hậu"
+        }
+    ]
+}

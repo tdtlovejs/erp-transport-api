@@ -1,0 +1,154 @@
+{
+    "uid": "bb1b17ff4e2b4eb9bbe3c192f665b151",
+    "name": "Huyện Thuỷ Nguyên",
+    "wards": [
+        {
+            "uid": "35bbec81a72444bebed93c8b771fb15b",
+            "name": "Thị trấn Núi Đèo"
+        },
+        {
+            "uid": "0f4353a5793d4312969ba0252f90f570",
+            "name": "Thị trấn Minh Đức"
+        },
+        {
+            "uid": "37d3b4bf98d246b6902e97a2d1468a2d",
+            "name": "Xã Lại Xuân"
+        },
+        {
+            "uid": "8c109be465c04249a46f86f67defe9b3",
+            "name": "Xã An Sơn"
+        },
+        {
+            "uid": "7f7c21c67e794978ac5f6861d582c6ea",
+            "name": "Xã Kỳ Sơn"
+        },
+        {
+            "uid": "323dad3981124326b3ec0fe4c455f259",
+            "name": "Xã Liên Khê"
+        },
+        {
+            "uid": "f93467cb46be433bbcf6832632aad00b",
+            "name": "Xã Lưu Kiếm"
+        },
+        {
+            "uid": "30c39242893a4a229efc7752d2c794d1",
+            "name": "Xã Lưu Kỳ"
+        },
+        {
+            "uid": "53e29fcc9fa64f97b39b359da55b8307",
+            "name": "Xã Gia Minh"
+        },
+        {
+            "uid": "eca0d46b14ca494da4c48287608adb90",
+            "name": "Xã Gia Đức"
+        },
+        {
+            "uid": "1a9085c0e39847e9a22af8fbfd728c08",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "ebbdb97689ac40158f5e05b42c649ded",
+            "name": "Xã Phù Ninh"
+        },
+        {
+            "uid": "c356bc66d1be4309a9ee71d75b81c35c",
+            "name": "Xã Quảng Thanh"
+        },
+        {
+            "uid": "5c8bfa71ebad46c6b82d9577c73abb68",
+            "name": "Xã Chính Mỹ"
+        },
+        {
+            "uid": "ec884cf2905e4a40824a3f01c30707df",
+            "name": "Xã Kênh Giang"
+        },
+        {
+            "uid": "86edaa33d5024a9f97242df0c8c3c54e",
+            "name": "Xã Hợp Thành"
+        },
+        {
+            "uid": "199ec028590744d292fdf843567d2729",
+            "name": "Xã Cao Nhân"
+        },
+        {
+            "uid": "7b02957b0ff4454a977899e4b5197113",
+            "name": "Xã Mỹ Đồng"
+        },
+        {
+            "uid": "0e54f1b92da843518b547ee31a51743c",
+            "name": "Xã Đông Sơn"
+        },
+        {
+            "uid": "aeb8c6d43bbd40b6ba0142e1d5b92570",
+            "name": "Xã Hoà Bình"
+        },
+        {
+            "uid": "d4e263c114a845c1ab8345c2409d8537",
+            "name": "Xã Trung Hà"
+        },
+        {
+            "uid": "a5762c16f632472fb1b7d482b0bcbe14",
+            "name": "Xã An Lư"
+        },
+        {
+            "uid": "72ffece7a4a74cf19c71184fcc2bfc61",
+            "name": "Xã Thuỷ Triều"
+        },
+        {
+            "uid": "d42071934b424132861c16a45f529a71",
+            "name": "Xã Ngũ Lão"
+        },
+        {
+            "uid": "abcaad8277ab47e7be99b2d6956b2255",
+            "name": "Xã Phục Lễ"
+        },
+        {
+            "uid": "7f84e5e3ce074d9b8be21de3d899e8a8",
+            "name": "Xã Tam Hưng"
+        },
+        {
+            "uid": "07012cc8766a498b8fab6c05aad8d3b0",
+            "name": "Xã Phả Lễ"
+        },
+        {
+            "uid": "5600aa0f68f5475fbc0c906b3c8c22c1",
+            "name": "Xã Lập Lễ"
+        },
+        {
+            "uid": "c3121bc4498340cb8645e9b9120bda5d",
+            "name": "Xã Kiền Bái"
+        },
+        {
+            "uid": "278fd880b0094480889c5d89169d8a60",
+            "name": "Xã Thiên Hương"
+        },
+        {
+            "uid": "a14ff3ba77194ce494daf627fafbd7d5",
+            "name": "Xã Thuỷ Sơn"
+        },
+        {
+            "uid": "b66517b5ca3348c9aa65665e40a07082",
+            "name": "Xã Thuỷ Đường"
+        },
+        {
+            "uid": "0e1adaa17ce3410dbbeae4342bf03fa2",
+            "name": "Xã Hoàng Động"
+        },
+        {
+            "uid": "1a80f5b3de004c2296030025bcf35e37",
+            "name": "Xã Lâm Động"
+        },
+        {
+            "uid": "af6477f5642e48a3a2ce74c5a28c8f1b",
+            "name": "Xã Hoa Động"
+        },
+        {
+            "uid": "56e78fb14098466a89e9c2fcee511995",
+            "name": "Xã Tân Dương"
+        },
+        {
+            "uid": "7e03518a5b2e40c68ae0cb4e1496b04b",
+            "name": "Xã Dương Quan"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "uid": "1a2402c2bf2a409b94fae9f9d362967b",
+    "name": "Thị xã Ba Đồn",
+    "wards": [
+        {
+            "uid": "86755e14216d4a95bb0ecde0fff8010c",
+            "name": "Phường Ba Đồn"
+        },
+        {
+            "uid": "bdb7d641bd9b415b8d0df2e3f6c4ea26",
+            "name": "Phường Quảng Long"
+        },
+        {
+            "uid": "b636722c546a42ffbb5961aae9ba7c0e",
+            "name": "Phường Quảng Thọ"
+        },
+        {
+            "uid": "0ca4df910dd44e3ebf87e4128adec13a",
+            "name": "Xã Quảng Tiên"
+        },
+        {
+            "uid": "f87ac926cad9465093411f4a987104ec",
+            "name": "Xã Quảng Trung"
+        },
+        {
+            "uid": "d99300a346094d50959d14183a38da8c",
+            "name": "Phường Quảng Phong"
+        },
+        {
+            "uid": "dbb6b4b26f134d0583992e6185468e60",
+            "name": "Phường Quảng Thuận"
+        },
+        {
+            "uid": "8cf62a1469fb447da7769c0b7067f097",
+            "name": "Xã Quảng Tân"
+        },
+        {
+            "uid": "c9dedd589ade4500b1c8f1e39a8dff94",
+            "name": "Xã Quảng Hải"
+        },
+        {
+            "uid": "558b55a617bf4143866a554b392cb295",
+            "name": "Xã Quảng Sơn"
+        },
+        {
+            "uid": "eaac911ab1684ff98b9784ac11b73008",
+            "name": "Xã Quảng Lộc"
+        },
+        {
+            "uid": "cbc062b672734166bc4bf5acd22ec55c",
+            "name": "Xã Quảng Thủy"
+        },
+        {
+            "uid": "0672732dd38d40789795b72bba8b135a",
+            "name": "Xã Quảng Văn"
+        },
+        {
+            "uid": "52c27aea316c4adf8c27c1b29da5b0a4",
+            "name": "Phường Quảng Phúc"
+        },
+        {
+            "uid": "79f7430190634d0e8df3a597f3712774",
+            "name": "Xã Quảng Hòa"
+        },
+        {
+            "uid": "317582f7264d4202b803da77eb122f1f",
+            "name": "Xã Quảng Minh"
+        }
+    ]
+}

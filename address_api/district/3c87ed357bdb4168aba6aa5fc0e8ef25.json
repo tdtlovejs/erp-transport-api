@@ -1,0 +1,74 @@
+{
+    "uid": "3c87ed357bdb4168aba6aa5fc0e8ef25",
+    "name": "Huyện Cư M'gar",
+    "wards": [
+        {
+            "uid": "85df5ca7e0e447a8bb73885df11360d5",
+            "name": "Thị trấn Ea Pốk"
+        },
+        {
+            "uid": "a322713caf864111896caa2280595e21",
+            "name": "Thị trấn Quảng Phú"
+        },
+        {
+            "uid": "0eb7afe3e45040cfb47ac6ad27dfc71b",
+            "name": "Xã Quảng Tiến"
+        },
+        {
+            "uid": "86585e2af6a741aa959b5a6ad2fad019",
+            "name": "Xã Ea Kuêh"
+        },
+        {
+            "uid": "c9a3c885886c4d11af2ab0b069b078f0",
+            "name": "Xã Ea Kiết"
+        },
+        {
+            "uid": "d39bf99aefa44a94bca5aabaac9d45da",
+            "name": "Xã Ea Tar"
+        },
+        {
+            "uid": "8c77d00830c94f2c84586165073612e8",
+            "name": "Xã Cư Dliê M'nông"
+        },
+        {
+            "uid": "b11bbf4b28ea4a47aa558f23777e87b1",
+            "name": "Xã Ea H'đinh"
+        },
+        {
+            "uid": "c101855207f748d891385f9093390d0c",
+            "name": "Xã Ea Tul"
+        },
+        {
+            "uid": "68a681b03d954615bab4c36b28da97da",
+            "name": "Xã Ea KPam"
+        },
+        {
+            "uid": "f4a33b8c0eba41be945cb1e6527cb18b",
+            "name": "Xã Ea M'DRóh"
+        },
+        {
+            "uid": "e73c041d0846405ca0e653dff36aadec",
+            "name": "Xã Quảng Hiệp"
+        },
+        {
+            "uid": "ab6d9e1e081d42ea96ca727716803b39",
+            "name": "Xã Cư M'gar"
+        },
+        {
+            "uid": "1826e8e19d9d4aeaa4caacc5c16f0119",
+            "name": "Xã Ea D'Rơng"
+        },
+        {
+            "uid": "cfdef2c4b801488a94d4a54010e60724",
+            "name": "Xã Ea M'nang"
+        },
+        {
+            "uid": "dd3a3633731442959d2f71f2d7f847e9",
+            "name": "Xã Cư Suê"
+        },
+        {
+            "uid": "4703da4788a14234925be1ae6f9ec07f",
+            "name": "Xã Cuor Đăng"
+        }
+    ]
+}

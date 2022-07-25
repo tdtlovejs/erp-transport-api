@@ -1,0 +1,30 @@
+{
+    "uid": "c003af2c8c2a49fc84465b1ff8f15afb",
+    "name": "Thị xã Bình Long",
+    "wards": [
+        {
+            "uid": "dc368c7131674fa7aadceb47f58ba860",
+            "name": "Phường Hưng Chiến"
+        },
+        {
+            "uid": "d96c8e32689a4d7cb1147ef316edd07a",
+            "name": "Phường An Lộc"
+        },
+        {
+            "uid": "473d0fba911b409a97545fb71736444f",
+            "name": "Phường Phú Thịnh"
+        },
+        {
+            "uid": "d62da1078cff4310a6788bb59e405165",
+            "name": "Phường Phú Đức"
+        },
+        {
+            "uid": "92251adc031b4373b697720c44d61faa",
+            "name": "Xã Thanh Lương"
+        },
+        {
+            "uid": "6b0b7f8cb813453faa5e3c38d8c604f0",
+            "name": "Xã Thanh Phú"
+        }
+    ]
+}

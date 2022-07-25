@@ -1,0 +1,46 @@
+{
+    "uid": "66f52d19086d4443838b293bf0586fb5",
+    "name": "Huyện Thạnh Trị",
+    "wards": [
+        {
+            "uid": "62844c67bf6345cb85a1b51587f4d807",
+            "name": "Thị trấn Phú Lộc"
+        },
+        {
+            "uid": "926ff353a43d4dcf8fad86c329862109",
+            "name": "Thị trấn Hưng Lợi"
+        },
+        {
+            "uid": "65f3ef3f01324ea79a1390aa9c393f06",
+            "name": "Xã Lâm Tân"
+        },
+        {
+            "uid": "ce0a8d3a437e4bee907c4387b72742f5",
+            "name": "Xã Thạnh Tân"
+        },
+        {
+            "uid": "4938d27622364e038479a82b7457197b",
+            "name": "Xã Lâm Kiết"
+        },
+        {
+            "uid": "5e047815a32d451a9532ef477844de7a",
+            "name": "Xã Tuân Tức"
+        },
+        {
+            "uid": "d508c6494c56431c9e214d3fb713ff5c",
+            "name": "Xã Vĩnh Thành"
+        },
+        {
+            "uid": "a6c1e1cf14c6481cbcdd8427ad8aa019",
+            "name": "Xã Thạnh Trị"
+        },
+        {
+            "uid": "595f0334da644d6ba5dd4b527a87abd5",
+            "name": "Xã Vĩnh Lợi"
+        },
+        {
+            "uid": "5f8affcff8a4473dae3741a918e05e59",
+            "name": "Xã Châu Hưng"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "uid": "08d8a793cf3e42c28b2e51af24b0639c",
+    "name": "Huyện Thanh Sơn",
+    "wards": [
+        {
+            "uid": "a8832b7b5ff540d5a26950dd418ac609",
+            "name": "Thị trấn Thanh Sơn"
+        },
+        {
+            "uid": "0c3a8ca4ba924552bbb5b3c64db61dea",
+            "name": "Xã Sơn Hùng"
+        },
+        {
+            "uid": "22bbff03b4c0491aa01e2ed9d3336eef",
+            "name": "Xã Địch Quả"
+        },
+        {
+            "uid": "0789b403e9394dd5ae1894695fd1644b",
+            "name": "Xã Giáp Lai"
+        },
+        {
+            "uid": "3f66d2d391dc45ff918f91819dd267a2",
+            "name": "Xã Thục Luyện"
+        },
+        {
+            "uid": "ad0c39ff8263445b9518c953f79f00e1",
+            "name": "Xã Võ Miếu"
+        },
+        {
+            "uid": "bf930e6e7d61495fb4adf10007ee0c31",
+            "name": "Xã Thạch Khoán"
+        },
+        {
+            "uid": "90ec3b6e9a24404c8e0b04d4821d5fcb",
+            "name": "Xã Cự Thắng"
+        },
+        {
+            "uid": "97e6c921a8834a63a2441c4c9540fc28",
+            "name": "Xã Tất Thắng"
+        },
+        {
+            "uid": "23a70477f6694364bb0cf6b73d5a9c62",
+            "name": "Xã Văn Miếu"
+        },
+        {
+            "uid": "279636fea2d74dc48bf45ef0e704f31c",
+            "name": "Xã Cự Đồng"
+        },
+        {
+            "uid": "a4b78d0a651249288d93b82523b877e7",
+            "name": "Xã Thắng Sơn"
+        },
+        {
+            "uid": "0e0558b67ea24eeab535ea82dd2839a6",
+            "name": "Xã Tân Minh"
+        },
+        {
+            "uid": "3ef8eb7a082d442998e7791f1cc5df01",
+            "name": "Xã Hương Cần"
+        },
+        {
+            "uid": "5bc7c001a2f949e7998461423602c497",
+            "name": "Xã Khả Cửu"
+        },
+        {
+            "uid": "e096b0d25045430f993bf80f291ccdd3",
+            "name": "Xã Đông Cửu"
+        },
+        {
+            "uid": "7249caf6c7e5447899cc23a969495d5c",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "7814d8245788410f883c385b28ae41f4",
+            "name": "Xã Yên Lãng"
+        },
+        {
+            "uid": "d8d65eb2b8c143cd9747271dc4293714",
+            "name": "Xã Yên Lương"
+        },
+        {
+            "uid": "d122eed5b8644c96abfff091a1c4045f",
+            "name": "Xã Thượng Cửu"
+        },
+        {
+            "uid": "dd911bf0c3d546d2bca0db37cc36e851",
+            "name": "Xã Lương Nha"
+        },
+        {
+            "uid": "6db5488ee8e248358119f5c6f5e7edf2",
+            "name": "Xã Yên Sơn"
+        },
+        {
+            "uid": "1d4478276200466e8da2afb6f57dffe4",
+            "name": "Xã Tinh Nhuệ"
+        }
+    ]
+}

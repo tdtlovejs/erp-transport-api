@@ -1,0 +1,46 @@
+{
+    "uid": "a93fb42c278e42d693624c7af294c708",
+    "name": "Huyện Đắk Mil",
+    "wards": [
+        {
+            "uid": "8a3495b9886b4605b94839d1fab6815e",
+            "name": "Thị trấn Đắk Mil"
+        },
+        {
+            "uid": "976443136cfb4b9dbb5dc7cc1f475667",
+            "name": "Xã Đắk Lao"
+        },
+        {
+            "uid": "cce253d0b27e4d6e926402e6f89b816c",
+            "name": "Xã Đắk R'La"
+        },
+        {
+            "uid": "78a1da56325c4156a852f02e6871ec6b",
+            "name": "Xã Đắk Gằn"
+        },
+        {
+            "uid": "1dca5fbeefab43e9a4569743d074e705",
+            "name": "Xã Đức Mạnh"
+        },
+        {
+            "uid": "6a38f814ac4f4c16a4c142783702c6c6",
+            "name": "Xã Đắk N'Drót"
+        },
+        {
+            "uid": "7e9a3d96324a4b08abe30671c0be86a3",
+            "name": "Xã Long Sơn"
+        },
+        {
+            "uid": "dac007918d9646d7896d9ae0415b664e",
+            "name": "Xã Đắk Sắk"
+        },
+        {
+            "uid": "aa13a9cacb964419a1d9e585872c76da",
+            "name": "Xã Thuận An"
+        },
+        {
+            "uid": "535a3152c10d434cb05e8cd2974f747c",
+            "name": "Xã Đức Minh"
+        }
+    ]
+}

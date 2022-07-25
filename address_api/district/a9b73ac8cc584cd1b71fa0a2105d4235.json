@@ -1,0 +1,18 @@
+{
+    "uid": "a9b73ac8cc584cd1b71fa0a2105d4235",
+    "name": "Huyện Phú Quí",
+    "wards": [
+        {
+            "uid": "f765650e23f84844812b2fac7fea5634",
+            "name": "Xã Ngũ Phụng"
+        },
+        {
+            "uid": "70e10d095f664e1f99c67fc1ffb0896d",
+            "name": "Xã Long Hải"
+        },
+        {
+            "uid": "8c3ec2708d424c6fb1127d0dec45de75",
+            "name": "Xã Tam Thanh"
+        }
+    ]
+}

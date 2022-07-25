@@ -1,0 +1,50 @@
+{
+    "uid": "a91f52b1f48b47bc905b0166351f6a23",
+    "name": "Huyện Lương Sơn",
+    "wards": [
+        {
+            "uid": "16989f374c2748379d6ddbf235b59b03",
+            "name": "Thị trấn Lương Sơn"
+        },
+        {
+            "uid": "4813f82af7c54c82bba50f7932ce919d",
+            "name": "Xã Lâm Sơn"
+        },
+        {
+            "uid": "2e3b7c7f239b414a9d2a20ea54489c92",
+            "name": "Xã Hòa Sơn"
+        },
+        {
+            "uid": "be2742219c9f4d069f5b228a71ff9d4d",
+            "name": "Xã Tân Vinh"
+        },
+        {
+            "uid": "8625f611a0554db09ac4cf5f5d25101f",
+            "name": "Xã Nhuận Trạch"
+        },
+        {
+            "uid": "4620d64e59234ce0801159ead91366b8",
+            "name": "Xã Cao Sơn"
+        },
+        {
+            "uid": "80d54299eaa64f9c9260095ca4561e9b",
+            "name": "Xã Cư Yên"
+        },
+        {
+            "uid": "7b74186675264873b8bde948c062556b",
+            "name": "Xã Liên Sơn"
+        },
+        {
+            "uid": "cdfd681f00c14e67b99d732dbd586fdf",
+            "name": "Xã Cao Dương"
+        },
+        {
+            "uid": "fcd927bad68b48bfb6171706dc95793c",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "69aadc19ac8c46ba9072c38c2d23fdd8",
+            "name": "Xã Thanh Cao"
+        }
+    ]
+}

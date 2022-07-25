@@ -1,0 +1,58 @@
+{
+    "uid": "3eb1c513e2d6466aabaa936d3200a3b8",
+    "name": "Huyện Thanh Bình",
+    "wards": [
+        {
+            "uid": "00c2ebd772654167aad2f56409056b39",
+            "name": "Thị trấn Thanh Bình"
+        },
+        {
+            "uid": "e596fed7860b44058d2fcf3146653ef9",
+            "name": "Xã Tân Quới"
+        },
+        {
+            "uid": "06b12d2306b6477e99b53d3def2c7efe",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "d85b30fd840547ae866de5a009efb4b2",
+            "name": "Xã An Phong"
+        },
+        {
+            "uid": "6c4e75fcedb745429ccff4090b3308db",
+            "name": "Xã Phú Lợi"
+        },
+        {
+            "uid": "11c9ed3824b24f2c86ab3abfce139bbb",
+            "name": "Xã Tân Mỹ"
+        },
+        {
+            "uid": "c5edd7a8e7c64a12b74b7549ff57f788",
+            "name": "Xã Bình Tấn"
+        },
+        {
+            "uid": "fd877d2f413e4f8fbb963bea97e5d733",
+            "name": "Xã Tân Huề"
+        },
+        {
+            "uid": "f5fce61479c74bfda64590d1210b4dce",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "831937f037ba4d7c85d9aa169b975d2e",
+            "name": "Xã Tân Thạnh"
+        },
+        {
+            "uid": "3dd9495387524b1a9645ffcab027775e",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "0d7ad5c33991404490c78a0064b9c0ec",
+            "name": "Xã Bình Thành"
+        },
+        {
+            "uid": "9d62850e9c5644b69e0ed43e08404a81",
+            "name": "Xã Tân Long"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "uid": "13a0a35812cb4cd682092e51b3339c08",
+    "name": "Huyện Quỳnh Phụ",
+    "wards": [
+        {
+            "uid": "affc7e39ee25429db66cc4a645ee3d73",
+            "name": "Thị trấn Quỳnh Côi"
+        },
+        {
+            "uid": "21767f2a89d24539b4afe501e280d7ab",
+            "name": "Xã An Khê"
+        },
+        {
+            "uid": "afe3826471df4e89b13832cd389a0a1d",
+            "name": "Xã An Đồng"
+        },
+        {
+            "uid": "ffb91e3cbd754321ad7d40d454c844c3",
+            "name": "Xã Quỳnh Hoa"
+        },
+        {
+            "uid": "cf7fe84561044c6e860de7f215ce9c31",
+            "name": "Xã Quỳnh Lâm"
+        },
+        {
+            "uid": "1adeab596756408b9c589a56d4b570e1",
+            "name": "Xã Quỳnh Thọ"
+        },
+        {
+            "uid": "afe46bab578c4e478db0985c081ded0e",
+            "name": "Xã An Hiệp"
+        },
+        {
+            "uid": "a514d18cf381467e8369fd7984e9c75a",
+            "name": "Xã Quỳnh Hoàng"
+        },
+        {
+            "uid": "069842815e72445c8f3f3a272eb8a517",
+            "name": "Xã Quỳnh Giao"
+        },
+        {
+            "uid": "7a8a08cb80ec412f9d0c34da5d82a063",
+            "name": "Xã An Thái"
+        },
+        {
+            "uid": "5df843435444409fbc5ca17848b222c3",
+            "name": "Xã An Cầu"
+        },
+        {
+            "uid": "80ecea1d005d47d1a53a56aea963b6c6",
+            "name": "Xã Quỳnh Hồng"
+        },
+        {
+            "uid": "fd651de6e34c46de93d4d30541c804ee",
+            "name": "Xã Quỳnh Khê"
+        },
+        {
+            "uid": "d743ba289cc347e58c305919ea347d24",
+            "name": "Xã Quỳnh Minh"
+        },
+        {
+            "uid": "8661057798ae407f8062595e841b91e6",
+            "name": "Xã An Ninh"
+        },
+        {
+            "uid": "59682bc06e6840f6b0e8855f82ba2814",
+            "name": "Xã Quỳnh Ngọc"
+        },
+        {
+            "uid": "91aebc0cbe39438798a9ea769e9cf0d2",
+            "name": "Xã Quỳnh Hải"
+        },
+        {
+            "uid": "b07e485977934e3dbee4c32743ced95f",
+            "name": "Thị trấn An Bài"
+        },
+        {
+            "uid": "0dee6e4dc7ec474085c3308b006d2ac5",
+            "name": "Xã An Ấp"
+        },
+        {
+            "uid": "8302943a79f84d7db244f216bd34c773",
+            "name": "Xã Quỳnh Hội"
+        },
+        {
+            "uid": "74dd9ec1d31149a5a9037f25b9369155",
+            "name": "Xã Châu Sơn"
+        },
+        {
+            "uid": "2fb479412e3246ac9332167e194c9bcb",
+            "name": "Xã Quỳnh Mỹ"
+        },
+        {
+            "uid": "646e98fa4d1842be9edefd5eb1d5b7e5",
+            "name": "Xã An Quí"
+        },
+        {
+            "uid": "f712fe2274f14139b042be92e9c96421",
+            "name": "Xã An Thanh"
+        },
+        {
+            "uid": "40ba7e9efc2746948a50fc615d85e39e",
+            "name": "Xã An Vũ"
+        },
+        {
+            "uid": "5f44e4b311c14305992473a46dda838f",
+            "name": "Xã An Lễ"
+        },
+        {
+            "uid": "3647cb81cbe248bb9568ca617d9a0a65",
+            "name": "Xã Quỳnh Hưng"
+        },
+        {
+            "uid": "bef4397c2b014107b80b42f3dce028a3",
+            "name": "Xã Quỳnh Bảo"
+        },
+        {
+            "uid": "d59bab327cc2431690e3b7efe939c034",
+            "name": "Xã An Mỹ"
+        },
+        {
+            "uid": "dc28c6e819bc45e3a06c0befe3500caa",
+            "name": "Xã Quỳnh Nguyên"
+        },
+        {
+            "uid": "3dc96237aaf342d6abdf3959cbd0c1c3",
+            "name": "Xã An Vinh"
+        },
+        {
+            "uid": "980315aad6664038adc2ebedff478fe5",
+            "name": "Xã Quỳnh Xá"
+        },
+        {
+            "uid": "8c91841fa0e8408f9fb35b23c0ba1eaf",
+            "name": "Xã An Dục"
+        },
+        {
+            "uid": "b96e903f78a148508c104c043c1fd49d",
+            "name": "Xã Đông Hải"
+        },
+        {
+            "uid": "601f7cda9fbb4ecc82ff60ac69f4770a",
+            "name": "Xã Quỳnh Trang"
+        },
+        {
+            "uid": "141edde3a42043c0ad328c3d60d3fea7",
+            "name": "Xã An Tràng"
+        },
+        {
+            "uid": "d0884269d90b49c1a203f18120ab7dab",
+            "name": "Xã Đồng Tiến"
+        }
+    ]
+}

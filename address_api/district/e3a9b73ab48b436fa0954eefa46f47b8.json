@@ -1,0 +1,38 @@
+{
+    "uid": "e3a9b73ab48b436fa0954eefa46f47b8",
+    "name": "Huyện Krông A Na",
+    "wards": [
+        {
+            "uid": "39f6014142ba40ad9edd4ca556f63cb4",
+            "name": "Thị trấn Buôn Trấp"
+        },
+        {
+            "uid": "58c4b6f9778f4073b9e86bc8ef8b1a29",
+            "name": "Xã Dray Sáp"
+        },
+        {
+            "uid": "b55d2e800d7741ea9e9f729e87111508",
+            "name": "Xã Ea Na"
+        },
+        {
+            "uid": "50ea910fc53a4da6909238d26625bdb3",
+            "name": "Xã Ea Bông"
+        },
+        {
+            "uid": "7cae0241752e40f8bbab8978ae3a6075",
+            "name": "Xã Băng A Drênh"
+        },
+        {
+            "uid": "4d43fe5b16c64ca9a025dae61f574b7f",
+            "name": "Xã Dur KMăl"
+        },
+        {
+            "uid": "4907415b2c674920b335c0a9c24009b7",
+            "name": "Xã Bình Hòa"
+        },
+        {
+            "uid": "45ac8e1796734a0286c9314685fc7a02",
+            "name": "Xã Quảng Điền"
+        }
+    ]
+}

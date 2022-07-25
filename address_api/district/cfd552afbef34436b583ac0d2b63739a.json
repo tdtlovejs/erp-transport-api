@@ -1,0 +1,66 @@
+{
+    "uid": "cfd552afbef34436b583ac0d2b63739a",
+    "name": "Thành phố Tuyên Quang",
+    "wards": [
+        {
+            "uid": "b1d1b75661ad45d78d6df92684ba7450",
+            "name": "Phường Phan Thiết"
+        },
+        {
+            "uid": "f18906f2cfe94b42951f9d989b7eebe2",
+            "name": "Phường Minh Xuân"
+        },
+        {
+            "uid": "7672ddd475fb40c8a1c5f31ecf4ec21a",
+            "name": "Phường Tân Quang"
+        },
+        {
+            "uid": "d901fcf2423348079d0662e691274d18",
+            "name": "Xã Tràng Đà"
+        },
+        {
+            "uid": "e622a42b80fd42359437941dadd4f533",
+            "name": "Phường Nông Tiến"
+        },
+        {
+            "uid": "0c8592eaa07549af9f96699a6f752233",
+            "name": "Phường Ỷ La"
+        },
+        {
+            "uid": "e4a14a83c2604958b6db6505883b85ed",
+            "name": "Phường Tân Hà"
+        },
+        {
+            "uid": "3f394b4528c04fa9a3a81506f1879a02",
+            "name": "Phường Hưng Thành"
+        },
+        {
+            "uid": "c9111fdb869244fcac07d73b8daa48b4",
+            "name": "Xã Kim Phú"
+        },
+        {
+            "uid": "2bad3c6d0e23435985e19ad5cc8b7dc3",
+            "name": "Xã An Khang"
+        },
+        {
+            "uid": "4e46c35147f04f028a62ba94b06df345",
+            "name": "Phường Mỹ Lâm"
+        },
+        {
+            "uid": "5b77160660824b718cbbbc7a127074a3",
+            "name": "Phường An Tường"
+        },
+        {
+            "uid": "82d071b66edb496799d17d68ea764c2d",
+            "name": "Xã Lưỡng Vượng"
+        },
+        {
+            "uid": "7991491da69645868ff2a063975e7be6",
+            "name": "Xã Thái Long"
+        },
+        {
+            "uid": "dc6b7c1166a94c78b7402768dfc26b8a",
+            "name": "Phường Đội Cấn"
+        }
+    ]
+}

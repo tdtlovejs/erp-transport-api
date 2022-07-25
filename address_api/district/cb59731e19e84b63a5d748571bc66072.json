@@ -1,0 +1,66 @@
+{
+    "uid": "cb59731e19e84b63a5d748571bc66072",
+    "name": "Thành phố Yên Bái",
+    "wards": [
+        {
+            "uid": "b08ec73fa44b42f680b2ae08ec7c8b66",
+            "name": "Phường Yên Thịnh"
+        },
+        {
+            "uid": "1ab0e78bfc144a78b51a2ecb7a99218d",
+            "name": "Phường Yên Ninh"
+        },
+        {
+            "uid": "27159d5e349944a9a562a4e719a7f453",
+            "name": "Phường Minh Tân"
+        },
+        {
+            "uid": "3e9b7c45484c4911a4893b59cd620b59",
+            "name": "Phường Nguyễn Thái Học"
+        },
+        {
+            "uid": "74c0f8f00feb4f4c93d6dd69be76caa7",
+            "name": "Phường Đồng Tâm"
+        },
+        {
+            "uid": "bbe960e1aa5d48d28877e304942a5c73",
+            "name": "Phường Nguyễn Phúc"
+        },
+        {
+            "uid": "8acdab28dc7244929ec99981569e85ce",
+            "name": "Phường Hồng Hà"
+        },
+        {
+            "uid": "f1a851510cff4d2e99daa1b9f7faac64",
+            "name": "Xã Minh Bảo"
+        },
+        {
+            "uid": "d927d30e0fef4b35a107db806ace1f62",
+            "name": "Phường Nam Cường"
+        },
+        {
+            "uid": "1e820c6a16924ca2a168d037a63d795a",
+            "name": "Xã Tuy Lộc"
+        },
+        {
+            "uid": "59faa3a0414e45c99c7109fbdd08a7b0",
+            "name": "Xã Tân Thịnh"
+        },
+        {
+            "uid": "38bcaab83aac409b97b002b2611879db",
+            "name": "Xã Âu Lâu"
+        },
+        {
+            "uid": "e4808d92f67e41329cd1366e8ed74826",
+            "name": "Xã Giới Phiên"
+        },
+        {
+            "uid": "479bc3ebc9f64081aabf4ef89cc6dde3",
+            "name": "Phường Hợp Minh"
+        },
+        {
+            "uid": "d056100603ab4d7ba2a3a7116247f8c9",
+            "name": "Xã Văn Phú"
+        }
+    ]
+}

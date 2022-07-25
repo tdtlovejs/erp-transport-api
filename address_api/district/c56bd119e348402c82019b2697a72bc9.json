@@ -1,0 +1,50 @@
+{
+    "uid": "c56bd119e348402c82019b2697a72bc9",
+    "name": "Huyện Hải Hà",
+    "wards": [
+        {
+            "uid": "daf00a32f69046e4a009e749161d55c9",
+            "name": "Thị trấn Quảng Hà"
+        },
+        {
+            "uid": "f7fa748c5c8c439587bf6f759b8439cb",
+            "name": "Xã Quảng Đức"
+        },
+        {
+            "uid": "5f5eb0bfd14140b0b8a93ab4b27b88a3",
+            "name": "Xã Quảng Sơn"
+        },
+        {
+            "uid": "d12ba99d84184df6b2b2e4f91bfd4a63",
+            "name": "Xã Quảng Thành"
+        },
+        {
+            "uid": "ad7169e91921491693152f782e0fd1a1",
+            "name": "Xã Quảng Thịnh"
+        },
+        {
+            "uid": "533bef3328584fe6a2607e004e289456",
+            "name": "Xã Quảng Minh"
+        },
+        {
+            "uid": "a33ef11dfca0485384d384c044151118",
+            "name": "Xã Quảng Chính"
+        },
+        {
+            "uid": "927f318b0d7a4b7c8af15cbd7e930fda",
+            "name": "Xã Quảng Long"
+        },
+        {
+            "uid": "465abf472ebb49108217a4c2f3822edc",
+            "name": "Xã Đường Hoa"
+        },
+        {
+            "uid": "c0fa9f0419504882a32f087ff7a4860c",
+            "name": "Xã Quảng Phong"
+        },
+        {
+            "uid": "e581cbf868084eeabf932d550a9e6a0a",
+            "name": "Xã Cái Chiên"
+        }
+    ]
+}

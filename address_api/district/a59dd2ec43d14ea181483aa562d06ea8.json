@@ -1,0 +1,50 @@
+{
+    "uid": "a59dd2ec43d14ea181483aa562d06ea8",
+    "name": "Huyện Thanh Thuỷ",
+    "wards": [
+        {
+            "uid": "d27b27f26a8e42a097997bb384636114",
+            "name": "Xã Đào Xá"
+        },
+        {
+            "uid": "de501cde407b46bb816e08547b9d0bb3",
+            "name": "Xã Thạch Đồng"
+        },
+        {
+            "uid": "635be976034d4fa1bf8f37bea15e3409",
+            "name": "Xã Xuân Lộc"
+        },
+        {
+            "uid": "ed591d212078423983ed1fc515a00434",
+            "name": "Xã Tân Phương"
+        },
+        {
+            "uid": "242a87970d08422487c2e91af22ddf80",
+            "name": "Thị trấn Thanh Thủy"
+        },
+        {
+            "uid": "cc02dc0f4add4a72984144529ba0a398",
+            "name": "Xã Sơn Thủy"
+        },
+        {
+            "uid": "7ecfb4ef8df04407b8cd0d19f7fa9e49",
+            "name": "Xã Bảo Yên"
+        },
+        {
+            "uid": "26f64a86a8684f7b87cd38a76ec27e08",
+            "name": "Xã Đoan Hạ"
+        },
+        {
+            "uid": "f8d4e478d2d243d693907ea6cc36cf48",
+            "name": "Xã Đồng Trung"
+        },
+        {
+            "uid": "9c9257b65cd54032b792dfb1fd5613f7",
+            "name": "Xã Hoàng Xá"
+        },
+        {
+            "uid": "7e020d93e85641b298a2528d8f33224d",
+            "name": "Xã Tu Vũ"
+        }
+    ]
+}

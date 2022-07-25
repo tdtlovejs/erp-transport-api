@@ -1,0 +1,106 @@
+{
+    "uid": "30e53667268a429d87354af191c9cadc",
+    "name": "Huyện Khoái Châu",
+    "wards": [
+        {
+            "uid": "386a50c2d92a4dd890c1d907dd913534",
+            "name": "Thị trấn Khoái Châu"
+        },
+        {
+            "uid": "6719f722f85145e99d0081ed4900b34f",
+            "name": "Xã Đông Tảo"
+        },
+        {
+            "uid": "4cf62cb1266c4fdbaff0891dc66c6ee1",
+            "name": "Xã Bình Minh"
+        },
+        {
+            "uid": "336886b8cac24f49a06f35acd714be4b",
+            "name": "Xã Dạ Trạch"
+        },
+        {
+            "uid": "57646cacb3d6407ea112fd40bbdb833d",
+            "name": "Xã Hàm Tử"
+        },
+        {
+            "uid": "8b5e49476e6345c08d6705b074d9b63d",
+            "name": "Xã Ông Đình"
+        },
+        {
+            "uid": "0d2fee54b2034264a697ec3e2f395366",
+            "name": "Xã Tân Dân"
+        },
+        {
+            "uid": "5cbc3d9c6cc442ca89df4159a1b46b12",
+            "name": "Xã Tứ Dân"
+        },
+        {
+            "uid": "0d917dcc30fa492ca1b253cf743fe190",
+            "name": "Xã An Vĩ"
+        },
+        {
+            "uid": "c6833a7fdfc24c33aefaaf6e6ed02012",
+            "name": "Xã Đông Kết"
+        },
+        {
+            "uid": "6e1387c39df14f0b98caa8718c2363fd",
+            "name": "Xã Bình Kiều"
+        },
+        {
+            "uid": "b277e0979a2448eaa99222a2f2136cfd",
+            "name": "Xã Dân Tiến"
+        },
+        {
+            "uid": "fdaf2f1c6f8f45df87426d8f39086eff",
+            "name": "Xã Đồng Tiến"
+        },
+        {
+            "uid": "d360b8965b71499f857dd46efce31a48",
+            "name": "Xã Hồng Tiến"
+        },
+        {
+            "uid": "fcb4b89ec131484584062c0e96504e77",
+            "name": "Xã Tân Châu"
+        },
+        {
+            "uid": "cd177a4c140e4a96b07c91b0d7aca529",
+            "name": "Xã Liên Khê"
+        },
+        {
+            "uid": "99477e7dd08a4e829d2a7a283dfb687e",
+            "name": "Xã Phùng Hưng"
+        },
+        {
+            "uid": "397d3db4766c43b4bb8fcdfd5d5f5406",
+            "name": "Xã Việt Hòa"
+        },
+        {
+            "uid": "5e5ec893fdd9475c90eac2d1a92e9f77",
+            "name": "Xã Đông Ninh"
+        },
+        {
+            "uid": "66fd13e939f34228bb129a7c3522f66e",
+            "name": "Xã Đại Tập"
+        },
+        {
+            "uid": "5c3f391138934f20b78275db8db10c90",
+            "name": "Xã Chí Tân"
+        },
+        {
+            "uid": "c524b30a6e804f3ca2f4f891cb35d32c",
+            "name": "Xã Đại Hưng"
+        },
+        {
+            "uid": "49c44151dec6433ab0efab19320e4611",
+            "name": "Xã Thuần Hưng"
+        },
+        {
+            "uid": "39ce78ab12a84592a33017619b2200f2",
+            "name": "Xã Thành Công"
+        },
+        {
+            "uid": "f5ff7d1b955e42d48ca7d9762512bd11",
+            "name": "Xã Nhuế Dương"
+        }
+    ]
+}

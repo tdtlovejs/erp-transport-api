@@ -1,0 +1,42 @@
+{
+    "uid": "a9260ef467254410b752a444c486f586",
+    "name": "Huyện Cát Tiên",
+    "wards": [
+        {
+            "uid": "fa63e250074d49078dfcfcefa579252d",
+            "name": "Thị trấn Cát Tiên"
+        },
+        {
+            "uid": "2e5969a83b514a2eb702f3985f3877ca",
+            "name": "Xã Tiên Hoàng"
+        },
+        {
+            "uid": "667eaa0ab39f4190bcea6435da6587f2",
+            "name": "Xã Phước Cát 2"
+        },
+        {
+            "uid": "5322be6c53344c029e0d6ce94b3da5fa",
+            "name": "Xã Gia Viễn"
+        },
+        {
+            "uid": "e3a85e6b90084f0eaa6da193d37b64f8",
+            "name": "Xã Nam Ninh"
+        },
+        {
+            "uid": "661af6ba443d498591b9064af1e72e23",
+            "name": "Thị trấn Phước Cát"
+        },
+        {
+            "uid": "11805c921a3840b6a75665654b5745cf",
+            "name": "Xã Đức Phổ"
+        },
+        {
+            "uid": "fba375514fed487b918c14a76bca641f",
+            "name": "Xã Quảng Ngãi"
+        },
+        {
+            "uid": "89f23b4851714fe9828f60f73b830991",
+            "name": "Xã Đồng Nai Thượng"
+        }
+    ]
+}

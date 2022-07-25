@@ -1,0 +1,74 @@
+{
+    "uid": "1ea3b9914b584f7aa3e7f10e5d10a783",
+    "name": "Huyện Cẩm Giàng",
+    "wards": [
+        {
+            "uid": "ea23b1a6b35845ed836507c6c2f052b5",
+            "name": "Thị trấn Cẩm Giang"
+        },
+        {
+            "uid": "71979a08c6834f7194f9cdca1c376295",
+            "name": "Thị trấn Lai Cách"
+        },
+        {
+            "uid": "f8f6a36d4838468eaeaa77abdcb1a978",
+            "name": "Xã Cẩm Hưng"
+        },
+        {
+            "uid": "da324e43a2574dea8c92406800a313e4",
+            "name": "Xã Cẩm Hoàng"
+        },
+        {
+            "uid": "8195b62241ea4e36b3b56f13402b545b",
+            "name": "Xã Cẩm Văn"
+        },
+        {
+            "uid": "e56bb38db59f4bbfaca7d063e810e8c4",
+            "name": "Xã Ngọc Liên"
+        },
+        {
+            "uid": "04978a8c2e1f4f3c8546eb5d8f329243",
+            "name": "Xã Thạch Lỗi"
+        },
+        {
+            "uid": "a7bffbef260c413d9fc774a4f3f4d8f0",
+            "name": "Xã Cẩm Vũ"
+        },
+        {
+            "uid": "33dc2281230e4cd599b950891c843966",
+            "name": "Xã Đức Chính"
+        },
+        {
+            "uid": "5c50922fa7b343a4a3ca3bda6bc530ea",
+            "name": "Xã Định Sơn"
+        },
+        {
+            "uid": "26bd31f72c1248399810de2cf32721b2",
+            "name": "Xã Lương Điền"
+        },
+        {
+            "uid": "05542fec0718455b82cb7d0d6a09284d",
+            "name": "Xã Cao An"
+        },
+        {
+            "uid": "aa537ea30c7948fb9986b73777b2ec67",
+            "name": "Xã Tân Trường"
+        },
+        {
+            "uid": "7a3626e5d5d24917af1a9263bdd09f09",
+            "name": "Xã Cẩm Phúc"
+        },
+        {
+            "uid": "0726b23cd0154bc3ac3a3cc4604845f9",
+            "name": "Xã Cẩm Điền"
+        },
+        {
+            "uid": "15d50b95d8fd46a58d7c707ba9f4e23e",
+            "name": "Xã Cẩm Đông"
+        },
+        {
+            "uid": "c5cda1ed0ea7404fad245f12ae4a3a90",
+            "name": "Xã Cẩm Đoài"
+        }
+    ]
+}

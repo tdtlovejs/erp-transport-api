@@ -1,0 +1,74 @@
+{
+    "uid": "6c5a76cbc3da46eb997f1655ab8a128a",
+    "name": "Huyện Sông Lô",
+    "wards": [
+        {
+            "uid": "d6b5a57e586044b19efbcee1e242030f",
+            "name": "Xã Lãng Công"
+        },
+        {
+            "uid": "70f4f196e0b14f719bec885238511052",
+            "name": "Xã Quang Yên"
+        },
+        {
+            "uid": "fa36288aba6340389729ecf70c86df0e",
+            "name": "Xã Bạch Lưu"
+        },
+        {
+            "uid": "d0b0fa1b6656432b84bb1753123db6d4",
+            "name": "Xã Hải Lựu"
+        },
+        {
+            "uid": "326b2aa30949494d8454c28ce3d25d1c",
+            "name": "Xã Đồng Quế"
+        },
+        {
+            "uid": "10588824aef54e029d783d6a9d07bd35",
+            "name": "Xã Nhân Đạo"
+        },
+        {
+            "uid": "d604be228fe44addbae63c681e3150e8",
+            "name": "Xã Đôn Nhân"
+        },
+        {
+            "uid": "ae1e28c28219480884f2cabd371424a7",
+            "name": "Xã Phương Khoan"
+        },
+        {
+            "uid": "87b9ac02a6dc44a48f3ea5269c84a8ee",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "d2341bca29804ef7aa4d83237ce13f9d",
+            "name": "Xã Nhạo Sơn"
+        },
+        {
+            "uid": "bbf80e6a7eae42758c50a346d31bae64",
+            "name": "Thị trấn Tam Sơn"
+        },
+        {
+            "uid": "0190edd4b08a4682bc083d3e8b613b7d",
+            "name": "Xã Như Thụy"
+        },
+        {
+            "uid": "72aa118b54094338a5476220c62bb850",
+            "name": "Xã Yên Thạch"
+        },
+        {
+            "uid": "aed0f1ac2d6e46e48989188da1d6aa2d",
+            "name": "Xã Đồng Thịnh"
+        },
+        {
+            "uid": "434c463379a84fb9b811f47195c25ea9",
+            "name": "Xã Tứ Yên"
+        },
+        {
+            "uid": "9221fb84b0424a9c8fe09163035ec8ce",
+            "name": "Xã Đức Bác"
+        },
+        {
+            "uid": "91a362a68e0940a58ebd24e61ecb089d",
+            "name": "Xã Cao Phong"
+        }
+    ]
+}

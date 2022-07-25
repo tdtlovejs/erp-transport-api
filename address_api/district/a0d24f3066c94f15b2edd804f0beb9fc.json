@@ -1,0 +1,94 @@
+{
+    "uid": "a0d24f3066c94f15b2edd804f0beb9fc",
+    "name": "Huyện Bình Sơn",
+    "wards": [
+        {
+            "uid": "89a4670b8e7640968011dfbcf1f54131",
+            "name": "Thị Trấn Châu Ổ"
+        },
+        {
+            "uid": "507237e64d3748d89890081b6c8f818f",
+            "name": "Xã Bình Thuận"
+        },
+        {
+            "uid": "1615bc15294a40548d492e8cbf7cc3dd",
+            "name": "Xã Bình Thạnh"
+        },
+        {
+            "uid": "a42bb9529dac4f9ba69bfb9c1e92ccc8",
+            "name": "Xã Bình Đông"
+        },
+        {
+            "uid": "2d7345d6d1554f098d900b0d0448b817",
+            "name": "Xã Bình Chánh"
+        },
+        {
+            "uid": "075d6874e0a047928877dea3af08c2b5",
+            "name": "Xã Bình Nguyên"
+        },
+        {
+            "uid": "ded5ec3b5b634f1c9f5bfd7188dc971e",
+            "name": "Xã Bình Khương"
+        },
+        {
+            "uid": "c6fd3e3246c548349e6feb337b25931f",
+            "name": "Xã Bình Trị"
+        },
+        {
+            "uid": "cc29bd79e55b421ab2c741d2386a1ac6",
+            "name": "Xã Bình An"
+        },
+        {
+            "uid": "dc030180d1d445c28f105e9eecb94e0a",
+            "name": "Xã Bình Hải"
+        },
+        {
+            "uid": "963e865ba0524fbda5fed98be8c5eedc",
+            "name": "Xã Bình Dương"
+        },
+        {
+            "uid": "94923fb7c409450393b69e3e6e568d63",
+            "name": "Xã Bình Phước"
+        },
+        {
+            "uid": "1d424c440a5e4441a81ecf150caf9748",
+            "name": "Xã Bình Hòa"
+        },
+        {
+            "uid": "373c63cb83df4b0095558d0d26b15b73",
+            "name": "Xã Bình Trung"
+        },
+        {
+            "uid": "68fd7c765cf74f7a9e81c001133417f1",
+            "name": "Xã Bình Minh"
+        },
+        {
+            "uid": "010c6106d21043b7bcaa147734c941c6",
+            "name": "Xã Bình Long"
+        },
+        {
+            "uid": "b2851dd433e443e294f43eadc6329a6b",
+            "name": "Xã Bình Thanh"
+        },
+        {
+            "uid": "55cad0688c7d4549bc258fcda1d3dcf3",
+            "name": "Xã Bình Chương"
+        },
+        {
+            "uid": "8da7feab80df4b85b7cbfb2891d49653",
+            "name": "Xã Bình Hiệp"
+        },
+        {
+            "uid": "39db3259803e46dca73e598a1d8da18d",
+            "name": "Xã Bình Mỹ"
+        },
+        {
+            "uid": "66c09cd539fd4c2c9e6d3ec1d16c061e",
+            "name": "Xã Bình Tân Phú"
+        },
+        {
+            "uid": "2eca747c765d4896a9daa75bec252e61",
+            "name": "Xã Bình Châu"
+        }
+    ]
+}

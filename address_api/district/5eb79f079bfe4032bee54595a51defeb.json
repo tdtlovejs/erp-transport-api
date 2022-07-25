@@ -1,0 +1,62 @@
+{
+    "uid": "5eb79f079bfe4032bee54595a51defeb",
+    "name": "Huyện Lương Tài",
+    "wards": [
+        {
+            "uid": "c8eea7d9b3c345ab8f3ff92d977edacc",
+            "name": "Thị trấn Thứa"
+        },
+        {
+            "uid": "57b183c3a3ee4faa9dfeca75202767cc",
+            "name": "Xã An Thịnh"
+        },
+        {
+            "uid": "7cb43277ab7b41089872efd5e3af6922",
+            "name": "Xã Trung Kênh"
+        },
+        {
+            "uid": "9dd6a3057b2a40f8b9979b2e6b29cb22",
+            "name": "Xã Phú Hòa"
+        },
+        {
+            "uid": "883f5dcf67bf421e81de466a3961997e",
+            "name": "Xã Mỹ Hương"
+        },
+        {
+            "uid": "7271fe577326440e849ba1524afddb8b",
+            "name": "Xã Tân Lãng"
+        },
+        {
+            "uid": "5bfc0313da5549369a141737c13ffb5b",
+            "name": "Xã Quảng Phú"
+        },
+        {
+            "uid": "432b5694d1144c6e929de964235b2059",
+            "name": "Xã Trừng Xá"
+        },
+        {
+            "uid": "4290ac7f355443f0aeef34fee1c4c520",
+            "name": "Xã Lai Hạ"
+        },
+        {
+            "uid": "90048da6db1a461f99f8ee170726b518",
+            "name": "Xã Trung Chính"
+        },
+        {
+            "uid": "92a48f9b39ae4b36884cb4b638f78906",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "2e8a99817a04480b8b8ae81ccf68a4e7",
+            "name": "Xã Bình Định"
+        },
+        {
+            "uid": "2cc6cc6f96ba4633af2517cd3c87af79",
+            "name": "Xã Phú Lương"
+        },
+        {
+            "uid": "9d1fda254f8d49c28b6aeee1e649fb87",
+            "name": "Xã Lâm Thao"
+        }
+    ]
+}

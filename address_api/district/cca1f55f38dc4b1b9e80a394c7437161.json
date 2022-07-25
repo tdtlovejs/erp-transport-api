@@ -1,0 +1,66 @@
+{
+    "uid": "cca1f55f38dc4b1b9e80a394c7437161",
+    "name": "Huyện Quan Hóa",
+    "wards": [
+        {
+            "uid": "f4f698783eae478ea6bcd17fa6966d9a",
+            "name": "Thị trấn Hồi Xuân"
+        },
+        {
+            "uid": "034f5f5713b04ee5bd2511fafa23ac14",
+            "name": "Xã Thành Sơn"
+        },
+        {
+            "uid": "d2306a8187274cd886dc837617576f01",
+            "name": "Xã Trung Sơn"
+        },
+        {
+            "uid": "388ad80ae585453781f297c99a2f0eb2",
+            "name": "Xã Phú Thanh"
+        },
+        {
+            "uid": "40b2d35360064764bdf1acc702dbc2a0",
+            "name": "Xã Trung Thành"
+        },
+        {
+            "uid": "b6c8917fde8b46b3a4dd7054426314ed",
+            "name": "Xã Phú Lệ"
+        },
+        {
+            "uid": "b2af9695cd9d49ac8e5c9854a58ff533",
+            "name": "Xã Phú Sơn"
+        },
+        {
+            "uid": "18e42226d0cc474d8783e0fd58891b33",
+            "name": "Xã Phú Xuân"
+        },
+        {
+            "uid": "914ad20dea0f4b968fecf072d411a341",
+            "name": "Xã Hiền Chung"
+        },
+        {
+            "uid": "42a102893e404844b9a2dad359109b7c",
+            "name": "Xã Hiền Kiệt"
+        },
+        {
+            "uid": "06bbad78eeb249c88e81ef0ffc62833a",
+            "name": "Xã Nam Tiến"
+        },
+        {
+            "uid": "9217e35ceb534108bda62f47d11d8c2b",
+            "name": "Xã Thiên Phủ"
+        },
+        {
+            "uid": "faf0aae084a94763910a5d43414a72ba",
+            "name": "Xã Phú Nghiêm"
+        },
+        {
+            "uid": "984b2d8a83944636a323f5ab07914cd6",
+            "name": "Xã Nam Xuân"
+        },
+        {
+            "uid": "9394dc93e01346beaa2014f05d219537",
+            "name": "Xã Nam Động"
+        }
+    ]
+}

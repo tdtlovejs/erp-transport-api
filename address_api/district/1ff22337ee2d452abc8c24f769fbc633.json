@@ -1,0 +1,78 @@
+{
+    "uid": "1ff22337ee2d452abc8c24f769fbc633",
+    "name": "Thành phố Phan Thiết",
+    "wards": [
+        {
+            "uid": "8106e7c487b74d12868ebf0faa5ec75f",
+            "name": "Phường Mũi Né"
+        },
+        {
+            "uid": "34961b42371a472896f9028e2c01c297",
+            "name": "Phường Hàm Tiến"
+        },
+        {
+            "uid": "f9b83d183ad74ab1922960586e71cba0",
+            "name": "Phường Phú Hài"
+        },
+        {
+            "uid": "2945bea826844b2b89a1499d96c70b80",
+            "name": "Phường Phú Thủy"
+        },
+        {
+            "uid": "ac1ddccefac749d8bb63ba0b3665bacb",
+            "name": "Phường Phú Tài"
+        },
+        {
+            "uid": "e4cce1fe5b7c43b6bf6e46550cd00f10",
+            "name": "Phường Phú Trinh"
+        },
+        {
+            "uid": "0659fa5733ab4bfdba77c0e81ecea1a7",
+            "name": "Phường Xuân An"
+        },
+        {
+            "uid": "f968342bf090489d87c102bb33dc4962",
+            "name": "Phường Thanh Hải"
+        },
+        {
+            "uid": "cd60a3947df04f499ec59b2d6b6f51ab",
+            "name": "Phường Bình Hưng"
+        },
+        {
+            "uid": "70dfdd30e919408982701f8d3966387c",
+            "name": "Phường Đức Nghĩa"
+        },
+        {
+            "uid": "973c744d18874fca97a99a7b353f6b6c",
+            "name": "Phường Lạc Đạo"
+        },
+        {
+            "uid": "0e159ce75865451a85a9c45643635073",
+            "name": "Phường Đức Thắng"
+        },
+        {
+            "uid": "c97f31fbae114032b3cbbdaabd1e1909",
+            "name": "Phường Hưng Long"
+        },
+        {
+            "uid": "420e5e03253f462ba199e219b0d376b6",
+            "name": "Phường Đức Long"
+        },
+        {
+            "uid": "fcb4082075224cb48bfd50117c5a93db",
+            "name": "Xã Thiện Nghiệp"
+        },
+        {
+            "uid": "0a9862d231474d25b1d11d88dd98a5c8",
+            "name": "Xã Phong Nẫm"
+        },
+        {
+            "uid": "484bfa82b51b4c86906433467c37a0e1",
+            "name": "Xã Tiến Lợi"
+        },
+        {
+            "uid": "381548b23a7942bf89259438260b7b5c",
+            "name": "Xã Tiến Thành"
+        }
+    ]
+}

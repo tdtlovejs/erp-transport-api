@@ -1,0 +1,134 @@
+{
+    "uid": "0594be8e3604405d96f0000e8abcb6bd",
+    "name": "Huyện Tiền Hải",
+    "wards": [
+        {
+            "uid": "e0f6d1e5d266433780a88bf9aab1e49d",
+            "name": "Thị trấn Tiền Hải"
+        },
+        {
+            "uid": "fe300196860a4831b0c3e8305701f230",
+            "name": "Xã Đông Trà"
+        },
+        {
+            "uid": "6772a72e84884bf5bc5363d21b68c95f",
+            "name": "Xã Đông Long"
+        },
+        {
+            "uid": "c9f7f2a5443c4070a463b43f56473b18",
+            "name": "Xã Đông Quí"
+        },
+        {
+            "uid": "3f23fae112eb41828f05e6830bbedd94",
+            "name": "Xã Vũ Lăng"
+        },
+        {
+            "uid": "1e4ec4e261ac47e0a4e1f2e66cf1a25b",
+            "name": "Xã Đông Xuyên"
+        },
+        {
+            "uid": "3870124ee96541dc9549ec52e28c75db",
+            "name": "Xã Tây Lương"
+        },
+        {
+            "uid": "3c4c7861b5644590b7c12640851c5bfa",
+            "name": "Xã Tây Ninh"
+        },
+        {
+            "uid": "f69f26e343d74f9cb6d4375811dbbf8a",
+            "name": "Xã Đông Trung"
+        },
+        {
+            "uid": "7fbbb63733cc4c62a70958ad76a45078",
+            "name": "Xã Đông Hoàng"
+        },
+        {
+            "uid": "9ffc9d3349b34563aadb3d8f4886dce3",
+            "name": "Xã Đông Minh"
+        },
+        {
+            "uid": "28e390fce8bf4703b7f125a4f3df7bb0",
+            "name": "Xã Đông Phong"
+        },
+        {
+            "uid": "83e0f0f00d084e8bbecdbfa824bc1521",
+            "name": "Xã An Ninh"
+        },
+        {
+            "uid": "bc7e643380954d33a97e1c8acdd7e5b4",
+            "name": "Xã Đông Cơ"
+        },
+        {
+            "uid": "afc1541d52a942088257afed8ddadb4d",
+            "name": "Xã Tây Giang"
+        },
+        {
+            "uid": "da6e3bbee782468faa1e51bc4b9a9612",
+            "name": "Xã Đông Lâm"
+        },
+        {
+            "uid": "6aa549e05f6f4af8bb5b275d230c1263",
+            "name": "Xã Phương Công"
+        },
+        {
+            "uid": "2dd8f958e4304c37b49647737c5c2a5a",
+            "name": "Xã Tây Phong"
+        },
+        {
+            "uid": "8ced688129e6495c8bd40c93ca034f74",
+            "name": "Xã Tây Tiến"
+        },
+        {
+            "uid": "0f891b11912d4e0cadfea3fddcf35852",
+            "name": "Xã Nam Cường"
+        },
+        {
+            "uid": "1d663f3224d04fba818be5570f16a938",
+            "name": "Xã Vân Trường"
+        },
+        {
+            "uid": "e321a57421254239bfccda757b1de8d5",
+            "name": "Xã Nam Thắng"
+        },
+        {
+            "uid": "015d6308cd374a2d80fa120925da862b",
+            "name": "Xã Nam Chính"
+        },
+        {
+            "uid": "130856b380b84becaf043d21cdf387f6",
+            "name": "Xã Bắc Hải"
+        },
+        {
+            "uid": "ea2117a8c141453fad5d876afe377b79",
+            "name": "Xã Nam Thịnh"
+        },
+        {
+            "uid": "60b24f2ce80d4aa4860598d00b2ea35f",
+            "name": "Xã Nam Hà"
+        },
+        {
+            "uid": "b28749d4a9194f01bb609aed602c37f2",
+            "name": "Xã Nam Thanh"
+        },
+        {
+            "uid": "bdc6b992fa4f4044a4548e318e7782a7",
+            "name": "Xã Nam Trung"
+        },
+        {
+            "uid": "d5b4b2776b024ff3b71a53569786a174",
+            "name": "Xã Nam Hồng"
+        },
+        {
+            "uid": "2ac0f5f7f3234dfa97c98c12a8ae1d7f",
+            "name": "Xã Nam Hưng"
+        },
+        {
+            "uid": "3e52835e26e54be28b839008b9c6218f",
+            "name": "Xã Nam Hải"
+        },
+        {
+            "uid": "3eda177d191d4f0cafd97a4b48c41e8b",
+            "name": "Xã Nam Phú"
+        }
+    ]
+}

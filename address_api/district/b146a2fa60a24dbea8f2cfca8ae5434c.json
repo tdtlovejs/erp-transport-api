@@ -1,0 +1,62 @@
+{
+    "uid": "b146a2fa60a24dbea8f2cfca8ae5434c",
+    "name": "Huyện Krông Bông",
+    "wards": [
+        {
+            "uid": "fea4ae3e54bc4859ac80fcec4158d359",
+            "name": "Thị trấn Krông Kmar"
+        },
+        {
+            "uid": "5d2bbb863fc641f684a1f05639abf45b",
+            "name": "Xã Dang Kang"
+        },
+        {
+            "uid": "9f47b26547dd4034ba0644c7014382f3",
+            "name": "Xã Cư KTy"
+        },
+        {
+            "uid": "929721a8401f48d896052eb363e2b8e7",
+            "name": "Xã Hòa Thành"
+        },
+        {
+            "uid": "b76d88564af54f89ae00b608bcacbf85",
+            "name": "Xã Hòa Tân"
+        },
+        {
+            "uid": "d251e7b7a610417799ad1f2ca965adeb",
+            "name": "Xã Hòa Phong"
+        },
+        {
+            "uid": "b7e0e9baeffd4879b37ec607ab289fc7",
+            "name": "Xã Hòa Lễ"
+        },
+        {
+            "uid": "59a133828bcc4f059be7a6606f9cea30",
+            "name": "Xã Yang Reh"
+        },
+        {
+            "uid": "86ccd0b7cda346acac91c85d54931fd5",
+            "name": "Xã Ea Trul"
+        },
+        {
+            "uid": "4747ef45ea054ab4b32657f701421ae8",
+            "name": "Xã Khuê Ngọc Điền"
+        },
+        {
+            "uid": "a5792ad58be549aa9e0b7f9db80efd0b",
+            "name": "Xã Cư Pui"
+        },
+        {
+            "uid": "e9a1e07f9755436f9dc096d49b4101f1",
+            "name": "Xã Hòa Sơn"
+        },
+        {
+            "uid": "aa47b18c7a3c4b8992d3b31069968f88",
+            "name": "Xã Cư Drăm"
+        },
+        {
+            "uid": "8cd4bfd90aa6430aa63cc05f31006c62",
+            "name": "Xã Yang Mao"
+        }
+    ]
+}

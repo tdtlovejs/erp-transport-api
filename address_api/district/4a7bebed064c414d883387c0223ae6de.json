@@ -1,0 +1,106 @@
+{
+    "uid": "4a7bebed064c414d883387c0223ae6de",
+    "name": "Huyện Thiệu Hóa",
+    "wards": [
+        {
+            "uid": "ec1053a7b08b4ee1b17b0182fabb07d7",
+            "name": "Thị trấn Thiệu Hóa"
+        },
+        {
+            "uid": "4b2864d8818845d6a3c38f6fd1d508ef",
+            "name": "Xã Thiệu Ngọc"
+        },
+        {
+            "uid": "68aff5fc34db407e9899649ba4afd723",
+            "name": "Xã Thiệu Vũ"
+        },
+        {
+            "uid": "2f8909873b964f3b84e6ff4f63b35d4a",
+            "name": "Xã Thiệu Phúc"
+        },
+        {
+            "uid": "a760246092024360b28f35608b268966",
+            "name": "Xã Thiệu Tiến"
+        },
+        {
+            "uid": "10533807026b47b29eb139ff20c34034",
+            "name": "Xã Thiệu Công"
+        },
+        {
+            "uid": "282f74efbdc340a29b34bbbde6b13151",
+            "name": "Xã Thiệu Phú"
+        },
+        {
+            "uid": "3a1df58cc817484797793608f68db68b",
+            "name": "Xã Thiệu Long"
+        },
+        {
+            "uid": "65f07a2d667c447490729d407982863c",
+            "name": "Xã Thiệu Giang"
+        },
+        {
+            "uid": "c5d54721d4ac422f8fc1acd66d2718c6",
+            "name": "Xã Thiệu Duy"
+        },
+        {
+            "uid": "fec5f0aa8989481fa2f643ce9daba952",
+            "name": "Xã Thiệu Nguyên"
+        },
+        {
+            "uid": "83eda9a8ec8b4874b9ec6d0f9e717f67",
+            "name": "Xã Thiệu Hợp"
+        },
+        {
+            "uid": "3c34d6512a364297ab00451f6aec6c5f",
+            "name": "Xã Thiệu Thịnh"
+        },
+        {
+            "uid": "88eef35ceab24d56b51c098f906f8e41",
+            "name": "Xã Thiệu Quang"
+        },
+        {
+            "uid": "86c03973d85e40a5a1b6f1a49480c759",
+            "name": "Xã Thiệu Thành"
+        },
+        {
+            "uid": "908d9d0062b247408dd986829b8837db",
+            "name": "Xã Thiệu Toán"
+        },
+        {
+            "uid": "10c91b734a6c4e4fb7b13c7e948ca437",
+            "name": "Xã Thiệu Chính"
+        },
+        {
+            "uid": "0eee61d2e82a4fc8982f0ef2d48cd7d6",
+            "name": "Xã Thiệu Hòa"
+        },
+        {
+            "uid": "e83e84bc88fb42849b1b18f46fcb6c5d",
+            "name": "Xã Minh Tâm"
+        },
+        {
+            "uid": "449758ce5df64f98bfdc9acd1b32d1d6",
+            "name": "Xã Thiệu Viên"
+        },
+        {
+            "uid": "c5d7d253469f474da2fc8fa90eec0a6e",
+            "name": "Xã Thiệu Lý"
+        },
+        {
+            "uid": "b041deb1ba7d4baaa9caae54268ff8ff",
+            "name": "Xã Thiệu Vận"
+        },
+        {
+            "uid": "e6b4cc03d81e4daba396e82e7f26e560",
+            "name": "Xã Thiệu Trung"
+        },
+        {
+            "uid": "cfd56179af974466ad165e03c49cfd3f",
+            "name": "Xã Tân Châu"
+        },
+        {
+            "uid": "70bf85a4133f46bcb2fc493033d3102d",
+            "name": "Xã Thiệu Giao"
+        }
+    ]
+}

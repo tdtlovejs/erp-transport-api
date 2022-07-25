@@ -1,0 +1,114 @@
+{
+    "uid": "8cc9e9624c96430dbb9a61823afef4af",
+    "name": "Huyện Nho Quan",
+    "wards": [
+        {
+            "uid": "0dd661263d6c4ee29889bf9d8a435ccc",
+            "name": "Thị trấn Nho Quan"
+        },
+        {
+            "uid": "2694d03c7ba1451d9ba9ab42ded4fb51",
+            "name": "Xã Xích Thổ"
+        },
+        {
+            "uid": "cd38cb59773645cd9ddfaa64a1dd426a",
+            "name": "Xã Gia Lâm"
+        },
+        {
+            "uid": "bc060f2ab49343f5b035249db57c938c",
+            "name": "Xã Gia Sơn"
+        },
+        {
+            "uid": "5bebf07bf5a54e299c631231ac46f1da",
+            "name": "Xã Thạch Bình"
+        },
+        {
+            "uid": "0a3d44f859b945738500f169fcbbe013",
+            "name": "Xã Gia Thủy"
+        },
+        {
+            "uid": "54ccffd1922c44acb8688ca1bc06729d",
+            "name": "Xã Gia Tường"
+        },
+        {
+            "uid": "48fc8a295a274882bbf1f41edfabe729",
+            "name": "Xã Cúc Phương"
+        },
+        {
+            "uid": "544bbcb42f7e4ed48fd03220c90d9525",
+            "name": "Xã Phú Sơn"
+        },
+        {
+            "uid": "187d84ccfed44d398f5693e273697c63",
+            "name": "Xã Đức Long"
+        },
+        {
+            "uid": "a8f9f0f4da6442379f2d1a9d6518ac2c",
+            "name": "Xã Lạc Vân"
+        },
+        {
+            "uid": "45b132d60d704cfca51075c67e12f153",
+            "name": "Xã Đồng Phong"
+        },
+        {
+            "uid": "1b54358350a940e4973e0bcb5c625ce2",
+            "name": "Xã Yên Quang"
+        },
+        {
+            "uid": "d47b2f77f20f471db2cfb7a27a4a9f89",
+            "name": "Xã Lạng Phong"
+        },
+        {
+            "uid": "dcf23dfc0c914e1aa63df7cf03d1f945",
+            "name": "Xã Thượng Hòa"
+        },
+        {
+            "uid": "1188b4e195404004b07cc74439557725",
+            "name": "Xã Văn Phong"
+        },
+        {
+            "uid": "ab7eba5734c143d18fa7011ea32c1634",
+            "name": "Xã Văn Phương"
+        },
+        {
+            "uid": "a99391059a564ae49cfadbdb0b06ff9c",
+            "name": "Xã Thanh Lạc"
+        },
+        {
+            "uid": "dc4486a3b8a046b698c350ca78c28c08",
+            "name": "Xã Sơn Lai"
+        },
+        {
+            "uid": "dc28e4495bf84682bf4805f88f237d55",
+            "name": "Xã Sơn Thành"
+        },
+        {
+            "uid": "a774a90db91749d59ffc3e7034559243",
+            "name": "Xã Văn Phú"
+        },
+        {
+            "uid": "84c65e65733f4fc582165f84d1754902",
+            "name": "Xã Phú Lộc"
+        },
+        {
+            "uid": "5538539da7364436aec54a41f2bebf10",
+            "name": "Xã Kỳ Phú"
+        },
+        {
+            "uid": "09da4b8bf1a34883bd0a6cebf383f6d6",
+            "name": "Xã Quỳnh Lưu"
+        },
+        {
+            "uid": "029bb99622154a128d87dced0186331e",
+            "name": "Xã Sơn Hà"
+        },
+        {
+            "uid": "5f72e431cffc4cf4ae609d6f69a5355a",
+            "name": "Xã Phú Long"
+        },
+        {
+            "uid": "18d0e7ffec90427c959d4f292bf4ae13",
+            "name": "Xã Quảng Lạc"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "uid": "85cf64ccbb7d4590a1be65127b122e4d",
+    "name": "Huyện Xuân Trường",
+    "wards": [
+        {
+            "uid": "0ecfd3201ccb42748dd004c1cef991e0",
+            "name": "Thị trấn Xuân Trường"
+        },
+        {
+            "uid": "33200f9d95e540a4ae220451a156e9fd",
+            "name": "Xã Xuân Châu"
+        },
+        {
+            "uid": "5d016ed1f90b4ad698be49f648d584b7",
+            "name": "Xã Xuân Hồng"
+        },
+        {
+            "uid": "e8733e3fcc934277b6f58bb4ad6d8b52",
+            "name": "Xã Xuân Thành"
+        },
+        {
+            "uid": "bf8d3f999bf5400999b45ef8643ae68c",
+            "name": "Xã Xuân Thượng"
+        },
+        {
+            "uid": "9d5a8a6edd854398a33bf0275bd8bda5",
+            "name": "Xã Xuân Phong"
+        },
+        {
+            "uid": "effa5c4591b34732a8e2dc9d3b782f69",
+            "name": "Xã Xuân Đài"
+        },
+        {
+            "uid": "24854fb7c6ad4ec584c7eebd5eb97876",
+            "name": "Xã Xuân Tân"
+        },
+        {
+            "uid": "da0ea47d9a0540cc8e326ef948022116",
+            "name": "Xã Xuân Thủy"
+        },
+        {
+            "uid": "f3629bbc67544506881c68bf36a317c3",
+            "name": "Xã Xuân Ngọc"
+        },
+        {
+            "uid": "156e347845044f6cbee7bf26454e0ef1",
+            "name": "Xã Xuân Bắc"
+        },
+        {
+            "uid": "0e8fd510b496442e993f7be3483d9caa",
+            "name": "Xã Xuân Phương"
+        },
+        {
+            "uid": "6ccf18fa99614b6bb4766e25c3cdcabc",
+            "name": "Xã Thọ Nghiệp"
+        },
+        {
+            "uid": "da074a225cfd482b93c792bac83a0b33",
+            "name": "Xã Xuân Phú"
+        },
+        {
+            "uid": "c71c593d4e294509bd6e46fd012c6967",
+            "name": "Xã Xuân Trung"
+        },
+        {
+            "uid": "2243f9db8af04e2a9c508be7b7ad338e",
+            "name": "Xã Xuân Vinh"
+        },
+        {
+            "uid": "8b234531dc3b42619f7f2688aef7dc6f",
+            "name": "Xã Xuân Kiên"
+        },
+        {
+            "uid": "f80b9a42f56544a3aac1ace4dba4e4e5",
+            "name": "Xã Xuân Tiến"
+        },
+        {
+            "uid": "4f578ad968ae4be589d341478ddcb821",
+            "name": "Xã Xuân Ninh"
+        },
+        {
+            "uid": "5c7f49247793473fb52933c4a2fa0020",
+            "name": "Xã Xuân Hòa"
+        }
+    ]
+}

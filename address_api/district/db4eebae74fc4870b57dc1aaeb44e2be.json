@@ -1,0 +1,46 @@
+{
+    "uid": "db4eebae74fc4870b57dc1aaeb44e2be",
+    "name": "Quận 1",
+    "wards": [
+        {
+            "uid": "d382a7e019094e238fad82b4475c59f2",
+            "name": "Phường Tân Định"
+        },
+        {
+            "uid": "6859079c9bd247ff945b692e5e66df7d",
+            "name": "Phường Đa Kao"
+        },
+        {
+            "uid": "82ecdc1d8c0f465bbf407e3f3a3cdb34",
+            "name": "Phường Bến Nghé"
+        },
+        {
+            "uid": "fd3a94bff2d04eaf8c8577d7d667e2cc",
+            "name": "Phường Bến Thành"
+        },
+        {
+            "uid": "a82c73400cf94c378afa038ed19abc5e",
+            "name": "Phường Nguyễn Thái Bình"
+        },
+        {
+            "uid": "20090a69cd23433191a67c50f15fd1f5",
+            "name": "Phường Phạm Ngũ Lão"
+        },
+        {
+            "uid": "764d49963efa455589c85bb5806ceced",
+            "name": "Phường Cầu Ông Lãnh"
+        },
+        {
+            "uid": "8c424d00b2a044faa686e778b9ab5c97",
+            "name": "Phường Cô Giang"
+        },
+        {
+            "uid": "b00a8e59e4304e869f4cae7c5232a57c",
+            "name": "Phường Nguyễn Cư Trinh"
+        },
+        {
+            "uid": "4065a851da5c455ead7ff4354a4e5ebb",
+            "name": "Phường Cầu Kho"
+        }
+    ]
+}

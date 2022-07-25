@@ -1,0 +1,46 @@
+{
+    "uid": "461015914ce84dda9b907d1bb3a3ee99",
+    "name": "Thành phố Uông Bí",
+    "wards": [
+        {
+            "uid": "e2710d45b4b2413da17b6acf3f0e0ac3",
+            "name": "Phường Vàng Danh"
+        },
+        {
+            "uid": "5fd04fae45254c018a11bc57a82ef195",
+            "name": "Phường Thanh Sơn"
+        },
+        {
+            "uid": "e3ec8b5d96024988a46bd26bbec9ff93",
+            "name": "Phường Bắc Sơn"
+        },
+        {
+            "uid": "c8f42d97c48d4ec18f300818e1eec791",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "3d44455922c64cf4ab9529dd4459e7ef",
+            "name": "Phường Trưng Vương"
+        },
+        {
+            "uid": "d9deb4dff54e4a8882370d3246b8cd0b",
+            "name": "Phường Nam Khê"
+        },
+        {
+            "uid": "b56fe9a913894e2f8f46d7b4b535f864",
+            "name": "Phường Yên Thanh"
+        },
+        {
+            "uid": "b2ad237c07b44f7f94a09f9512a4dea4",
+            "name": "Xã Thượng Yên Công"
+        },
+        {
+            "uid": "bfdb7c2b7a904dab936437cf8ea2d923",
+            "name": "Phường Phương Đông"
+        },
+        {
+            "uid": "a882cb65214347d69755e31e4caff0f4",
+            "name": "Phường Phương Nam"
+        }
+    ]
+}

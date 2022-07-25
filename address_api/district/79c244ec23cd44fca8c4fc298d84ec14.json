@@ -1,0 +1,58 @@
+{
+    "uid": "79c244ec23cd44fca8c4fc298d84ec14",
+    "name": "Huyện Bắc Trà My",
+    "wards": [
+        {
+            "uid": "8f7216067f114e7fac3c45dd1a90ba7e",
+            "name": "Thị trấn Trà My"
+        },
+        {
+            "uid": "d73cc581a3dd4b49aea96044f18579dd",
+            "name": "Xã Trà Sơn"
+        },
+        {
+            "uid": "a95f491514c14b42965f2414b9d50b24",
+            "name": "Xã Trà Kót"
+        },
+        {
+            "uid": "6b994a3114fb4da88e00c2fb7d76ec89",
+            "name": "Xã Trà Nú"
+        },
+        {
+            "uid": "e677b7bf9b03492a9a4676e84dcdd66d",
+            "name": "Xã Trà Đông"
+        },
+        {
+            "uid": "0deea226a472439c917bcc39501e21f5",
+            "name": "Xã Trà Dương"
+        },
+        {
+            "uid": "f534fe84b0e1425d95e49463c196c0ab",
+            "name": "Xã Trà Giang"
+        },
+        {
+            "uid": "b4c2e8acab64429d82187f47decc4ae7",
+            "name": "Xã Trà Bui"
+        },
+        {
+            "uid": "3059f41b28584eef9f3b9c90b2c54acd",
+            "name": "Xã Trà Đốc"
+        },
+        {
+            "uid": "a7e81bed332d4399bc553c979cb966ea",
+            "name": "Xã Trà Tân"
+        },
+        {
+            "uid": "3620e044c7b74ed1b7a87e5dc99f3ef7",
+            "name": "Xã Trà Giác"
+        },
+        {
+            "uid": "b041fc4b03ee4d6cb01bb1096a64c034",
+            "name": "Xã Trà Giáp"
+        },
+        {
+            "uid": "59d1068e48e04f659a899f3cd61cff03",
+            "name": "Xã Trà Ka"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "uid": "f433f163edec40ef887e0c149d21b3b3",
+    "name": "Huyện Trần Văn Thời",
+    "wards": [
+        {
+            "uid": "048efc099b28463e9d9f4dc0efca4557",
+            "name": "Thị trấn Trần Văn Thời"
+        },
+        {
+            "uid": "a5616cc12bb747e0885ffbedabaeed53",
+            "name": "Thị trấn Sông Đốc"
+        },
+        {
+            "uid": "3b8ec6a8348243279c2e7bc1ff7600c7",
+            "name": "Xã Khánh Bình Tây Bắc"
+        },
+        {
+            "uid": "f4b9b07e567d4ace883dd78be0f79276",
+            "name": "Xã Khánh Bình Tây"
+        },
+        {
+            "uid": "8ea97e0537c049fdbf74e00d6d6206b7",
+            "name": "Xã Trần Hợi"
+        },
+        {
+            "uid": "04da1fd0c0204a399196436c1d922711",
+            "name": "Xã Khánh Lộc"
+        },
+        {
+            "uid": "f7e88f56c80f452aba5a2ba14a41327c",
+            "name": "Xã Khánh Bình"
+        },
+        {
+            "uid": "093b09aa166f43538f34803115245f7b",
+            "name": "Xã Khánh Hưng"
+        },
+        {
+            "uid": "913776a2569b47fc985ac7247b137179",
+            "name": "Xã Khánh Bình Đông"
+        },
+        {
+            "uid": "4067c62c55fe4cc589a1314f5cf52e89",
+            "name": "Xã Khánh Hải"
+        },
+        {
+            "uid": "307646950f15437f887e5fa3a09cf27b",
+            "name": "Xã Lợi An"
+        },
+        {
+            "uid": "ae9d6f7170e94fafa4ef88f72ada409f",
+            "name": "Xã Phong Điền"
+        },
+        {
+            "uid": "c333351cb0bc4275849bc54a9bd8e6a0",
+            "name": "Xã Phong Lạc"
+        }
+    ]
+}

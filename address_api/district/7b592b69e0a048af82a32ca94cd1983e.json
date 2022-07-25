@@ -1,0 +1,50 @@
+{
+    "uid": "7b592b69e0a048af82a32ca94cd1983e",
+    "name": "Huyện Đắk R'Lấp",
+    "wards": [
+        {
+            "uid": "1f1c94ff24d24d93a86e5f07a7ac8290",
+            "name": "Thị trấn Kiến Đức"
+        },
+        {
+            "uid": "28fd714adb544377a823ba4346c1a59a",
+            "name": "Xã Quảng Tín"
+        },
+        {
+            "uid": "03b8f62eebbe483d9f76aa2013427f57",
+            "name": "Xã Đắk Wer"
+        },
+        {
+            "uid": "2eb8af8457b044a9bbc61a7045dd04ec",
+            "name": "Xã Nhân Cơ"
+        },
+        {
+            "uid": "d4e1c8e2c239413d822a6d0cd8502f79",
+            "name": "Xã Kiến Thành"
+        },
+        {
+            "uid": "a57fdd2bd5134371916bba4c5648514c",
+            "name": "Xã Nghĩa Thắng"
+        },
+        {
+            "uid": "6415b7a4f1294167ac5f151d4df35d3d",
+            "name": "Xã Đạo Nghĩa"
+        },
+        {
+            "uid": "88aa8f39b46a4a128a07df0c86cfde82",
+            "name": "Xã Đắk Sin"
+        },
+        {
+            "uid": "6a60add64e9d4d308c71c629301acf59",
+            "name": "Xã Hưng Bình"
+        },
+        {
+            "uid": "09d7df01d51c4a41bf62481a0aee8def",
+            "name": "Xã Đắk Ru"
+        },
+        {
+            "uid": "901029217ecf4682bbb23f1d6112ffc8",
+            "name": "Xã Nhân Đạo"
+        }
+    ]
+}

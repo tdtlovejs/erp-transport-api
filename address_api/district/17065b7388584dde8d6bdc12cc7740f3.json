@@ -1,0 +1,46 @@
+{
+    "uid": "17065b7388584dde8d6bdc12cc7740f3",
+    "name": "Thành phố Tây Ninh",
+    "wards": [
+        {
+            "uid": "8413f12b8295412185d86437d595858c",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "aec442d24d9d474c914b24baa0ab8e03",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "b68acc7f834644e1b60f9799afbf2c0a",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "f4675144d0794e84ab210825f7fe3703",
+            "name": "Phường Hiệp Ninh"
+        },
+        {
+            "uid": "464c2198e93d4006aa9b51050e7f1213",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "f3b63cd546f24efead4935e91a0f9f8c",
+            "name": "Xã Thạnh Tân"
+        },
+        {
+            "uid": "92e0397a5d7e440095cdf90974c3e631",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "141b2c57d64149d1af75ec13350db211",
+            "name": "Xã Bình Minh"
+        },
+        {
+            "uid": "a5f4299a0b7d459b8c624c4211078473",
+            "name": "Phường Ninh Sơn"
+        },
+        {
+            "uid": "79b4826910ac49319db490ed2bd0e6dc",
+            "name": "Phường Ninh Thạnh"
+        }
+    ]
+}

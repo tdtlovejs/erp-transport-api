@@ -1,0 +1,30 @@
+{
+    "uid": "7f9a74923d9542cfad0ebef1faaacfbe",
+    "name": "Huyện U Minh Thượng",
+    "wards": [
+        {
+            "uid": "7e1ecf14e08a458290db5b67bb8e0a3d",
+            "name": "Xã Thạnh Yên"
+        },
+        {
+            "uid": "29f579839432429ea9e87da88932c6d1",
+            "name": "Xã Thạnh Yên A"
+        },
+        {
+            "uid": "eb2c6196c7134ab9963d05531217b8cb",
+            "name": "Xã An Minh Bắc"
+        },
+        {
+            "uid": "4a1da697569b48d08ebd55b30fcd3aa3",
+            "name": "Xã Vĩnh Hòa"
+        },
+        {
+            "uid": "acc42a47bd92491bb1cbb96e38305d4e",
+            "name": "Xã Hoà Chánh"
+        },
+        {
+            "uid": "3476d8ffc3184be3960bc6b93cb15323",
+            "name": "Xã Minh Thuận"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "uid": "4b88305e53e640d181f66cca9e5a0248",
+    "name": "Huyện Tân Sơn",
+    "wards": [
+        {
+            "uid": "f03ec7873f3f43e7bd0e515dcc4d93f3",
+            "name": "Xã Thu Cúc"
+        },
+        {
+            "uid": "19bebba5dac4413c9f3e6e0045dde0c0",
+            "name": "Xã Thạch Kiệt"
+        },
+        {
+            "uid": "9f74f91fa14c417a99eae2701dee88ea",
+            "name": "Xã Thu Ngạc"
+        },
+        {
+            "uid": "d652fa9246b14781bc44baf426ce28bf",
+            "name": "Xã Kiệt Sơn"
+        },
+        {
+            "uid": "9609f083e4e64c258c387a783e918e74",
+            "name": "Xã Đồng Sơn"
+        },
+        {
+            "uid": "14c6f9736a774c4ebafb7f5e90dabfed",
+            "name": "Xã Lai Đồng"
+        },
+        {
+            "uid": "d2041799235d423a83f41eb6335c8b7f",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "61fb870841774d98b95455fbd6251503",
+            "name": "Xã Mỹ Thuận"
+        },
+        {
+            "uid": "4bc0e0b2443949ddbfeaca102ce1987a",
+            "name": "Xã Tân Sơn"
+        },
+        {
+            "uid": "f68dd80c7dba478d8d4221b408a4e2b8",
+            "name": "Xã Xuân Đài"
+        },
+        {
+            "uid": "be7fd7bea5d842a7844e06a22558142e",
+            "name": "Xã Minh Đài"
+        },
+        {
+            "uid": "d4a1579a72964b4c91db144359bb19d5",
+            "name": "Xã Văn Luông"
+        },
+        {
+            "uid": "c49f257e812c49bba0f5200a11320968",
+            "name": "Xã Xuân Sơn"
+        },
+        {
+            "uid": "fa5209779de6441981d590ecac2707ee",
+            "name": "Xã Long Cốc"
+        },
+        {
+            "uid": "b571cd808ba94a04b8bdbf77903787cb",
+            "name": "Xã Kim Thượng"
+        },
+        {
+            "uid": "d2df26dc24d546fba9c73b6080008e7d",
+            "name": "Xã Tam Thanh"
+        },
+        {
+            "uid": "c84f7d134f4646aba3d44709e3b0757f",
+            "name": "Xã Vinh Tiền"
+        }
+    ]
+}

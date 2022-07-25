@@ -1,0 +1,46 @@
+{
+    "uid": "6a361c7c6d524a59a042a5d648a4f8e3",
+    "name": "Huyện Tân Trụ",
+    "wards": [
+        {
+            "uid": "e2b5cced229740b3afd0c37dcbbdc4c6",
+            "name": "Thị trấn Tân Trụ"
+        },
+        {
+            "uid": "88a042bd4b01463d9e987a8e2e537d13",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "9062a70800284ec69cd6bf9a6355e84f",
+            "name": "Xã Quê Mỹ Thạnh"
+        },
+        {
+            "uid": "627082d5394a44ab91b4e1b348f78011",
+            "name": "Xã Lạc Tấn"
+        },
+        {
+            "uid": "30d79b478621495087290586c9a722d3",
+            "name": "Xã Bình Trinh Đông"
+        },
+        {
+            "uid": "2da5a0a3d41e46698f9824361c652860",
+            "name": "Xã Tân Phước Tây"
+        },
+        {
+            "uid": "d9fc9227b9c949cf8b394b7d76191298",
+            "name": "Xã Bình Lãng"
+        },
+        {
+            "uid": "abed9e8fb74a4fe19a59422040a582bf",
+            "name": "Xã Bình Tịnh"
+        },
+        {
+            "uid": "9ec39c01347248beb3c747736329a749",
+            "name": "Xã Đức Tân"
+        },
+        {
+            "uid": "a75ef606e29444099ccbf6e75c892f6d",
+            "name": "Xã Nhựt Ninh"
+        }
+    ]
+}

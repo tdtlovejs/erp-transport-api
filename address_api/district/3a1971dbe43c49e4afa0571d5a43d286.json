@@ -1,0 +1,50 @@
+{
+    "uid": "3a1971dbe43c49e4afa0571d5a43d286",
+    "name": "Huyện Văn Giang",
+    "wards": [
+        {
+            "uid": "8283817ad3744ea69e288d73cc683c7e",
+            "name": "Thị trấn Văn Giang"
+        },
+        {
+            "uid": "d31eb82ed0f54748a25a33d371dddf38",
+            "name": "Xã Xuân Quan"
+        },
+        {
+            "uid": "34a84b38c7524ce5b3a677caaa6e3458",
+            "name": "Xã Cửu Cao"
+        },
+        {
+            "uid": "b2da7669c0fc4f7894ca235566101e62",
+            "name": "Xã Phụng Công"
+        },
+        {
+            "uid": "79d2340f1ad048b991a86a60d31898a3",
+            "name": "Xã Nghĩa Trụ"
+        },
+        {
+            "uid": "ddd3c48ad04f4f7b962268da479a312c",
+            "name": "Xã Long Hưng"
+        },
+        {
+            "uid": "aa7b3d17e3304542a7306f654c80bf54",
+            "name": "Xã Vĩnh Khúc"
+        },
+        {
+            "uid": "4454c0f54c484f7e9c7f41142aa633f0",
+            "name": "Xã Liên Nghĩa"
+        },
+        {
+            "uid": "90838189cce3438dbcff3f1def646f04",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "e94acf99a5b842268b00644e127b96d6",
+            "name": "Xã Thắng Lợi"
+        },
+        {
+            "uid": "ae25eb734c514616810c3c7f0de19368",
+            "name": "Xã Mễ Sở"
+        }
+    ]
+}

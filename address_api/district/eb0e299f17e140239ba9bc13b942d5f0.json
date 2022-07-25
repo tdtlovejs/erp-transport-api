@@ -1,0 +1,74 @@
+{
+    "uid": "eb0e299f17e140239ba9bc13b942d5f0",
+    "name": "Thành phố Lào Cai",
+    "wards": [
+        {
+            "uid": "aa7cdcdcfbaf415ebfca7115d015e8e5",
+            "name": "Phường Duyên Hải"
+        },
+        {
+            "uid": "825b133a69874c2f96a511739e85d0d3",
+            "name": "Phường Lào Cai"
+        },
+        {
+            "uid": "2a6430db85df455595b6aabcecb25d9f",
+            "name": "Phường Cốc Lếu"
+        },
+        {
+            "uid": "23502075b853404b84603bd89e4c31e5",
+            "name": "Phường Kim Tân"
+        },
+        {
+            "uid": "61a9305efd724a5e8b04fad3965ba7c5",
+            "name": "Phường Bắc Lệnh"
+        },
+        {
+            "uid": "567a69ce607f418cb23e98ff8d0ef710",
+            "name": "Phường Pom Hán"
+        },
+        {
+            "uid": "7a49d75d8fbb46bf993efcb2a82d22db",
+            "name": "Phường Xuân Tăng"
+        },
+        {
+            "uid": "862d2fb386fa40afbc85e4aa2e353414",
+            "name": "Phường Bình Minh"
+        },
+        {
+            "uid": "263fb235c83f4f44808252b81d2c0a16",
+            "name": "Xã Thống Nhất"
+        },
+        {
+            "uid": "21006684a6e843c0ad9b5b64d51f6c1f",
+            "name": "Xã Đồng Tuyển"
+        },
+        {
+            "uid": "16e3abf3fe36497eb6c5f9ab3d1187a9",
+            "name": "Xã Vạn Hoà"
+        },
+        {
+            "uid": "209d5747e48441d99c782ac5a7dcf02d",
+            "name": "Phường Bắc Cường"
+        },
+        {
+            "uid": "8c255c950f3745be92a9b875d4c64dcf",
+            "name": "Phường Nam Cường"
+        },
+        {
+            "uid": "2d4460a7f3184bc39baf55d539824fde",
+            "name": "Xã Cam Đường"
+        },
+        {
+            "uid": "790d25903a394c388dbe0a0f6aadce39",
+            "name": "Xã Tả Phời"
+        },
+        {
+            "uid": "d6619c32d3b948bbaf02556db258e94f",
+            "name": "Xã Hợp Thành"
+        },
+        {
+            "uid": "f4fcdd25bc134d50b2db46cce3315739",
+            "name": "Xã Cốc San"
+        }
+    ]
+}

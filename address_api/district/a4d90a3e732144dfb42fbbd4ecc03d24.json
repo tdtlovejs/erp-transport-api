@@ -1,0 +1,106 @@
+{
+    "uid": "a4d90a3e732144dfb42fbbd4ecc03d24",
+    "name": "Huyện Hiệp Hòa",
+    "wards": [
+        {
+            "uid": "736aa3907d5c40ba96a9582a7870a9f3",
+            "name": "Xã Đồng Tân"
+        },
+        {
+            "uid": "70364e6302f54f6ea4db0e912ef2e1ae",
+            "name": "Xã Thanh Vân"
+        },
+        {
+            "uid": "5c439777610e43e0a005c719c0409f6f",
+            "name": "Xã Hoàng Lương"
+        },
+        {
+            "uid": "798ded9dda084ab7b0de8ed44f0c1c7f",
+            "name": "Xã Hoàng Vân"
+        },
+        {
+            "uid": "b4575239ef754aefa6fee76c20ed93ae",
+            "name": "Xã Hoàng Thanh"
+        },
+        {
+            "uid": "f42b801c32794edb8e97afe878bdfffa",
+            "name": "Xã Hoàng An"
+        },
+        {
+            "uid": "bf3638bf3e8049b89122a5a1d57c9956",
+            "name": "Xã Ngọc Sơn"
+        },
+        {
+            "uid": "55d8fcb697b040e1838f366d5b395ccb",
+            "name": "Xã Thái Sơn"
+        },
+        {
+            "uid": "442bea45e95b4dc997b505f516b61e56",
+            "name": "Xã Hòa Sơn"
+        },
+        {
+            "uid": "5ac17853b92540f380560349e577a28b",
+            "name": "Thị trấn Thắng"
+        },
+        {
+            "uid": "a50757f7059c4ffa8ed0a362b2f4931f",
+            "name": "Xã Quang Minh"
+        },
+        {
+            "uid": "14a8e93fcae946db860099a424d762d2",
+            "name": "Xã Lương Phong"
+        },
+        {
+            "uid": "19a0c3b4b9c644b69c3669bb705cd114",
+            "name": "Xã Hùng Sơn"
+        },
+        {
+            "uid": "24f67bc1faca47f98e6d3006e19c3755",
+            "name": "Xã Đại Thành"
+        },
+        {
+            "uid": "f577eef04c704ffb8838cde8d5e9e987",
+            "name": "Xã Thường Thắng"
+        },
+        {
+            "uid": "7837ca9726c740ad8cf5316279ddd11f",
+            "name": "Xã Hợp Thịnh"
+        },
+        {
+            "uid": "2a2b45cf08f24acd82c63fc3f07f52d6",
+            "name": "Xã Danh Thắng"
+        },
+        {
+            "uid": "56d4aac35dd54dc7a27e20d3633dd41a",
+            "name": "Xã Mai Trung"
+        },
+        {
+            "uid": "a8b7cb31c1aa432ab74a46ad138ad698",
+            "name": "Xã Đoan Bái"
+        },
+        {
+            "uid": "e8b64a336c7e405aa4623d2ad24fa337",
+            "name": "Xã Bắc Lý"
+        },
+        {
+            "uid": "70339194becc4762bb7ff68fc757c94f",
+            "name": "Xã Xuân Cẩm"
+        },
+        {
+            "uid": "5db214a37f8d486c9d63ee00cd5c10ba",
+            "name": "Xã Hương Lâm"
+        },
+        {
+            "uid": "f16b24eac4f946f4a5fc4bc0262c6b29",
+            "name": "Xã Đông Lỗ"
+        },
+        {
+            "uid": "a9daa19b54984d72b675b0c1d0e5f2f3",
+            "name": "Xã Châu Minh"
+        },
+        {
+            "uid": "6485b4f9070e4aab99a9e29dc6d921b0",
+            "name": "Xã Mai Đình"
+        }
+    ]
+}

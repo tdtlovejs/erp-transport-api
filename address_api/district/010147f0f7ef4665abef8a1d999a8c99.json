@@ -1,0 +1,42 @@
+{
+    "uid": "010147f0f7ef4665abef8a1d999a8c99",
+    "name": "Huyện Chư Pưh",
+    "wards": [
+        {
+            "uid": "8c2af72b512f498e8b1174279edc8610",
+            "name": "Thị trấn Nhơn Hoà"
+        },
+        {
+            "uid": "d0d867c1ca3d4c81866f07ee6e0f6e0e",
+            "name": "Xã Ia Hrú"
+        },
+        {
+            "uid": "445e58b36f6348c585d89f61fbcc683a",
+            "name": "Xã Ia Rong"
+        },
+        {
+            "uid": "385cba0fdfe1459d961fec8bbe4cafc3",
+            "name": "Xã Ia Dreng"
+        },
+        {
+            "uid": "ba7f489c76324b9fa4acdeacd57e7ed8",
+            "name": "Xã Ia Hla"
+        },
+        {
+            "uid": "63cdc48d3c4e43fc93a0688707ee0196",
+            "name": "Xã Chư Don"
+        },
+        {
+            "uid": "2835cda000aa4329a44821d233c53f82",
+            "name": "Xã Ia Phang"
+        },
+        {
+            "uid": "cffcb3eba76c40fda44b4bc34b892cff",
+            "name": "Xã Ia Le"
+        },
+        {
+            "uid": "10011469bcb442bc9305defadfd75cba",
+            "name": "Xã Ia BLứ"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "uid": "f08601e038a541e8bd9ddafa4e7e46af",
+    "name": "Thành phố Bến Tre",
+    "wards": [
+        {
+            "uid": "f3a4a35482b54e1c84d50ac47d289b28",
+            "name": "Phường Phú Khương"
+        },
+        {
+            "uid": "68ae6e3f80a0414fac1522ad36203acf",
+            "name": "Phường Phú Tân"
+        },
+        {
+            "uid": "58d9630453494be2994b606961aa4e64",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "ff1d113e4cdb4b719c872907f9258673",
+            "name": "Phường 6"
+        },
+        {
+            "uid": "70ca3215868f4150871deb3149ae2008",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "bfe95799d7514c0fb9914565001d4c0c",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "817b662ce2cb44619b50554e14c5e9d7",
+            "name": "Phường An Hội"
+        },
+        {
+            "uid": "d5f54594ac54484f9c32060e102ea630",
+            "name": "Phường 7"
+        },
+        {
+            "uid": "09f12c2ca48d4fe3a74774ae47ba8d3f",
+            "name": "Xã Sơn Đông"
+        },
+        {
+            "uid": "1b6ae2540e3c4032a6b73b861f7e3b62",
+            "name": "Xã Phú Hưng"
+        },
+        {
+            "uid": "3c4c2f9fb39f40b0928b83ce49f5060e",
+            "name": "Xã Bình Phú"
+        },
+        {
+            "uid": "960daecae06d43a092fc0554d71e1d55",
+            "name": "Xã Mỹ Thạnh An"
+        },
+        {
+            "uid": "1d9548c729ce47a398930bf912bcfd96",
+            "name": "Xã Nhơn Thạnh"
+        },
+        {
+            "uid": "b6b6024c0aef40b88b37141fb58a2190",
+            "name": "Xã Phú Nhuận"
+        }
+    ]
+}

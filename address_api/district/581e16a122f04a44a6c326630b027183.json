@@ -1,0 +1,46 @@
+{
+    "uid": "581e16a122f04a44a6c326630b027183",
+    "name": "Thị xã Trảng Bàng",
+    "wards": [
+        {
+            "uid": "278d8cd87c3f428bb1f92089b4b08277",
+            "name": "Phường Trảng Bàng"
+        },
+        {
+            "uid": "ad1d47cb5db7489683a22883ee228312",
+            "name": "Xã Đôn Thuận"
+        },
+        {
+            "uid": "442709a0390d48fdb7923fc0dcaa5ff9",
+            "name": "Xã Hưng Thuận"
+        },
+        {
+            "uid": "e4dcd891541b4c9d8e18731a92043621",
+            "name": "Phường Lộc Hưng"
+        },
+        {
+            "uid": "378a8fa87b8944e78076cc96a4c27cbd",
+            "name": "Phường Gia Lộc"
+        },
+        {
+            "uid": "aa950adc11ee4e44abc5c4b57c9bcee2",
+            "name": "Phường Gia Bình"
+        },
+        {
+            "uid": "d660df003d77498e8c7071c55d3f2cb8",
+            "name": "Xã Phước Bình"
+        },
+        {
+            "uid": "ac4478b5eac24f75a097e23f71cb5844",
+            "name": "Phường An Tịnh"
+        },
+        {
+            "uid": "f1bb6813e24b4688ac9c03e237b5b2ee",
+            "name": "Phường An Hòa"
+        },
+        {
+            "uid": "a3f58282335b4adba24d61d63874d393",
+            "name": "Xã Phước Chỉ"
+        }
+    ]
+}

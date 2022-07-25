@@ -1,0 +1,42 @@
+{
+    "uid": "9f66175f0b7a4339911011ffc701cd89",
+    "name": "Huyện Ia Pa",
+    "wards": [
+        {
+            "uid": "8db9b265939b49cc872a7c7e1bc326b9",
+            "name": "Xã Pờ Tó"
+        },
+        {
+            "uid": "a63df10b03184316ac004fdb7d8bebf3",
+            "name": "Xã Chư Răng"
+        },
+        {
+            "uid": "1df70abb69bc4f80a165ed943e7149ff",
+            "name": "Xã Ia KDăm"
+        },
+        {
+            "uid": "f0325f183f104e9bb78c6f75e3dddbcc",
+            "name": "Xã Kim Tân"
+        },
+        {
+            "uid": "aa81155b09b04c0fb20684babf89f172",
+            "name": "Xã Chư Mố"
+        },
+        {
+            "uid": "99dd3e809dfd44a6a0bdab8d3de3717f",
+            "name": "Xã Ia Tul"
+        },
+        {
+            "uid": "f6e3361811464704a22b84444050bf05",
+            "name": "Xã Ia Ma Rơn"
+        },
+        {
+            "uid": "d2675553f5db4a3bb4bf9a91cc7f44b6",
+            "name": "Xã Ia Broăi"
+        },
+        {
+            "uid": "ebec09d9c8ed405ebd3f338387dbc8fa",
+            "name": "Xã Ia Trok"
+        }
+    ]
+}

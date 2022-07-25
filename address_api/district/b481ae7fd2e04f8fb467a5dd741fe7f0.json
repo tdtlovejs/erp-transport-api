@@ -1,0 +1,54 @@
+{
+    "uid": "b481ae7fd2e04f8fb467a5dd741fe7f0",
+    "name": "Huyện Thới Bình",
+    "wards": [
+        {
+            "uid": "e56690e1560748d3b15767f52bd03c64",
+            "name": "Thị trấn Thới Bình"
+        },
+        {
+            "uid": "5e6c3938138a4859be576640d3b920f8",
+            "name": "Xã Biển Bạch"
+        },
+        {
+            "uid": "26d99df691bf493190f413a59d147f17",
+            "name": "Xã Tân Bằng"
+        },
+        {
+            "uid": "67f3b962fd5e40998e9f5f02648aea2d",
+            "name": "Xã Trí Phải"
+        },
+        {
+            "uid": "a341b6ecccb74ce98aa1769ab311dac5",
+            "name": "Xã Trí Lực"
+        },
+        {
+            "uid": "fe7cf197eecf4f6ca84d264ee695329a",
+            "name": "Xã Biển Bạch Đông"
+        },
+        {
+            "uid": "a2d1061db185404b9c313aa8268f77ff",
+            "name": "Xã Thới Bình"
+        },
+        {
+            "uid": "a63722adb9d74f2aa026f638f19685e5",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "9c16fa6f73f34813b8223f0b1223350a",
+            "name": "Xã Tân Lộc Bắc"
+        },
+        {
+            "uid": "6cc238797659402a9751e3579b5e3074",
+            "name": "Xã Tân Lộc"
+        },
+        {
+            "uid": "db73a9a1b20d4936b168e9dddf7d4d9a",
+            "name": "Xã Tân Lộc Đông"
+        },
+        {
+            "uid": "7f31124fca5b407bb4db26ee83e6ace4",
+            "name": "Xã Hồ Thị Kỷ"
+        }
+    ]
+}

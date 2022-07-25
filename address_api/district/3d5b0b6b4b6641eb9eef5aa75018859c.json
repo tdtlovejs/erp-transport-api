@@ -1,0 +1,114 @@
+{
+    "uid": "3d5b0b6b4b6641eb9eef5aa75018859c",
+    "name": "Thành phố Huế",
+    "wards": [
+        {
+            "uid": "a6d2a92222364f70a7325d97248154a0",
+            "name": "Phường Phú Thuận"
+        },
+        {
+            "uid": "29db885ec2b041c2861fd8d610f8051c",
+            "name": "Phường Phú Bình"
+        },
+        {
+            "uid": "eda079f1b8084966a18c243848737bb2",
+            "name": "Phường Tây Lộc"
+        },
+        {
+            "uid": "540ad9a47c454e0d8e314d5b34a2e78a",
+            "name": "Phường Thuận Lộc"
+        },
+        {
+            "uid": "89bdbcc3fd484f1380c46bb638834b50",
+            "name": "Phường Phú Hiệp"
+        },
+        {
+            "uid": "78c88deb8cc449c3b3512732123ca8b1",
+            "name": "Phường Phú Hậu"
+        },
+        {
+            "uid": "bced75cc6fdf452099e26c89bbda6542",
+            "name": "Phường Thuận Hòa"
+        },
+        {
+            "uid": "fb33f5254ca34f7c9785209ef2712cf8",
+            "name": "Phường Thuận Thành"
+        },
+        {
+            "uid": "01217d9938314bb2aa54187e302943c4",
+            "name": "Phường Phú Hòa"
+        },
+        {
+            "uid": "7bb774cb55084bb69db916330de2269c",
+            "name": "Phường Phú Cát"
+        },
+        {
+            "uid": "ddd2a851ab724fd18b83e18e3491f722",
+            "name": "Phường Kim Long"
+        },
+        {
+            "uid": "aaa18d4f74e84d598170a07ed77e00c5",
+            "name": "Phường Vỹ Dạ"
+        },
+        {
+            "uid": "c2c4316145d945de95ae94c89e88e710",
+            "name": "Phường Phường Đúc"
+        },
+        {
+            "uid": "7ab3a29b30164bff85d86c8c930a3ae9",
+            "name": "Phường Vĩnh Ninh"
+        },
+        {
+            "uid": "864723fbfc294ee98cd7d21c8e525b32",
+            "name": "Phường Phú Hội"
+        },
+        {
+            "uid": "7920eea9e5a0494abf3ef3e4e203a530",
+            "name": "Phường Phú Nhuận"
+        },
+        {
+            "uid": "11b104b54af6437fa21f7fa19add200f",
+            "name": "Phường Xuân Phú"
+        },
+        {
+            "uid": "939d074b5898435384ec39aa246d6ec8",
+            "name": "Phường Trường An"
+        },
+        {
+            "uid": "0e50d07381bb4ab3ba328ecde60a21de",
+            "name": "Phường Phước Vĩnh"
+        },
+        {
+            "uid": "1a58d0e2ed0347879b5db2228c0852fc",
+            "name": "Phường An Cựu"
+        },
+        {
+            "uid": "fad15607f32a45e4af58546610897438",
+            "name": "Phường An Hòa"
+        },
+        {
+            "uid": "a3295293518548d1bc95b529696f7773",
+            "name": "Phường Hương Sơ"
+        },
+        {
+            "uid": "0b23cc7c59f547b28ecce3df50dc61f7",
+            "name": "Phường Thuỷ Biều"
+        },
+        {
+            "uid": "a057a46296cb45fc862da8a3c012bcc8",
+            "name": "Phường Hương Long"
+        },
+        {
+            "uid": "80ca054ea30e41798757b332e3f29f63",
+            "name": "Phường Thuỷ Xuân"
+        },
+        {
+            "uid": "21122101df9f49b1b4dba0676dc3ad92",
+            "name": "Phường An Đông"
+        },
+        {
+            "uid": "55d985cb1d024e89a0f6056a95fadda3",
+            "name": "Phường An Tây"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "uid": "08deaa75ecf44dbc97b835c721c6f3f2",
+    "name": "Huyện Châu Thành",
+    "wards": [
+        {
+            "uid": "55ea020770e248b0bd18e89226afe076",
+            "name": "Thị trấn Tân Hiệp"
+        },
+        {
+            "uid": "b7fddfaa40e142ce90d18ff6aa68ba4f",
+            "name": "Xã Tân Hội Đông"
+        },
+        {
+            "uid": "e4f4b806f0294793b9f01b5a7f64f385",
+            "name": "Xã Tân Hương"
+        },
+        {
+            "uid": "c8230c56ecad43668eeebe9fda181b13",
+            "name": "Xã Tân Lý Đông"
+        },
+        {
+            "uid": "770ac43f335044b7b3bb05bcfcb29f44",
+            "name": "Xã Tân Lý Tây"
+        },
+        {
+            "uid": "9361837308a54200862fc55f0991f5af",
+            "name": "Xã Thân Cửu Nghĩa"
+        },
+        {
+            "uid": "f8589ad7212d4738985ca447116c19e3",
+            "name": "Xã Tam Hiệp"
+        },
+        {
+            "uid": "4fa8f5a1cce24980950218c26c49eaf0",
+            "name": "Xã Điềm Hy"
+        },
+        {
+            "uid": "c09d14b14bcb410c8b959dff75096534",
+            "name": "Xã Nhị Bình"
+        },
+        {
+            "uid": "8f7fd0396f6f4ce3890c228ee9e6742b",
+            "name": "Xã Dưỡng Điềm"
+        },
+        {
+            "uid": "1ee2d08062664e718a014fe8d9c3550c",
+            "name": "Xã Đông Hòa"
+        },
+        {
+            "uid": "0c5c8121625b4065a2838be9543bb10d",
+            "name": "Xã Long Định"
+        },
+        {
+            "uid": "a499467af2054638bad9166b569e958d",
+            "name": "Xã Hữu Đạo"
+        },
+        {
+            "uid": "39187eb707cb46a8a50da9cb0af0ea63",
+            "name": "Xã Long An"
+        },
+        {
+            "uid": "3d0d0b530da04dae9c956575b6ed90a8",
+            "name": "Xã Long Hưng"
+        },
+        {
+            "uid": "4c1f9b57368e4f188a1955841528b13e",
+            "name": "Xã Bình Trưng"
+        },
+        {
+            "uid": "d283fd2d77964d62bd8de16ebce28f3c",
+            "name": "Xã Thạnh Phú"
+        },
+        {
+            "uid": "38e1356e97984c0f890fe287ddf4b64b",
+            "name": "Xã Bàn Long"
+        },
+        {
+            "uid": "916d3673617b485591dab811904b1b8a",
+            "name": "Xã Vĩnh Kim"
+        },
+        {
+            "uid": "c88859cdd41a4541aedcab83ee6ab473",
+            "name": "Xã Bình Đức"
+        },
+        {
+            "uid": "5f76295e12234dd9b2dcdaac40723abe",
+            "name": "Xã Song Thuận"
+        },
+        {
+            "uid": "ab24b894eba444b787a372252a0c5c59",
+            "name": "Xã Kim Sơn"
+        },
+        {
+            "uid": "47b21c30c5b747a38935db88aa05829e",
+            "name": "Xã Phú Phong"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "uid": "49d4b6fce9ee4574a7c5b5b14c135ca6",
+    "name": "Huyện Vân Hồ",
+    "wards": [
+        {
+            "uid": "4989cdd6fad94e259a94fd3b92ac20be",
+            "name": "Xã Suối Bàng"
+        },
+        {
+            "uid": "8bd3eb3d1aef4200b8dec7f4054482cf",
+            "name": "Xã Song Khủa"
+        },
+        {
+            "uid": "44dc660ad7d84227b7411fafe4c6092f",
+            "name": "Xã Liên Hoà"
+        },
+        {
+            "uid": "3b5f81b452c44aaf8001033d6b2a14d5",
+            "name": "Xã Tô Múa"
+        },
+        {
+            "uid": "51cff6f3ca154312b702ccbfe061bc90",
+            "name": "Xã Mường Tè"
+        },
+        {
+            "uid": "714b31d04eab49cab9cf3e710e68966c",
+            "name": "Xã Chiềng Khoa"
+        },
+        {
+            "uid": "195719fc3c5b4f83a7079956b46a2eaa",
+            "name": "Xã Mường Men"
+        },
+        {
+            "uid": "f1f15d2394d8404994b020ad12eebf82",
+            "name": "Xã Quang Minh"
+        },
+        {
+            "uid": "d4801ba93f93465080002cefecdc3b7e",
+            "name": "Xã Vân Hồ"
+        },
+        {
+            "uid": "b3bd2f1da7094cfea627a601050f6b65",
+            "name": "Xã Lóng Luông"
+        },
+        {
+            "uid": "cd1a3c73cd504a609aee0af06e9b8ac7",
+            "name": "Xã Chiềng Yên"
+        },
+        {
+            "uid": "d3fe988e864d41a29c42f7781f9aee6a",
+            "name": "Xã Chiềng Xuân"
+        },
+        {
+            "uid": "51bedeb204354e3da2792d5d87829436",
+            "name": "Xã Xuân Nha"
+        },
+        {
+            "uid": "f14695266c194d59afc067537ef8a5d6",
+            "name": "Xã Tân Xuân"
+        }
+    ]
+}

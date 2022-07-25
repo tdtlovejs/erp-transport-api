@@ -1,0 +1,66 @@
+{
+    "uid": "ecfda731f76e42ab8acb4e73b3b62fad",
+    "name": "Quận Tân Bình",
+    "wards": [
+        {
+            "uid": "9bbe070884d44a9795ec25745fb96f18",
+            "name": "Phường 02"
+        },
+        {
+            "uid": "658a240a6b9c490c96203770a866ce69",
+            "name": "Phường 04"
+        },
+        {
+            "uid": "c20e77bdc6064a4fbf07498a94ec5dad",
+            "name": "Phường 12"
+        },
+        {
+            "uid": "f1fe9ebdf80b45709a506d48965576e7",
+            "name": "Phường 13"
+        },
+        {
+            "uid": "63109e61e9d14b00ae4369f16c7ea4e7",
+            "name": "Phường 01"
+        },
+        {
+            "uid": "93085d34963140538ebe0bbb553d2ce2",
+            "name": "Phường 03"
+        },
+        {
+            "uid": "405144dc66e44b4c9ee7ed4bed6db01e",
+            "name": "Phường 11"
+        },
+        {
+            "uid": "8553f1c8d43c4c8b8a5e0d64c0e175d8",
+            "name": "Phường 07"
+        },
+        {
+            "uid": "a35b42019c364bb3b7d0e028be04dbca",
+            "name": "Phường 05"
+        },
+        {
+            "uid": "26265a41d7c749bca3d066224e1df465",
+            "name": "Phường 10"
+        },
+        {
+            "uid": "2ba5dbe2ceee43fcb8aa8d1d9e12414f",
+            "name": "Phường 06"
+        },
+        {
+            "uid": "4ee66f7a79bc42f9a4a3921526da15b1",
+            "name": "Phường 08"
+        },
+        {
+            "uid": "c9c70687db92407aaa3ed6c1716476c1",
+            "name": "Phường 09"
+        },
+        {
+            "uid": "bd42833e600a47d4b1568a91a3a105b2",
+            "name": "Phường 14"
+        },
+        {
+            "uid": "de6e22c3c62143a5ba5d3177d069c464",
+            "name": "Phường 15"
+        }
+    ]
+}

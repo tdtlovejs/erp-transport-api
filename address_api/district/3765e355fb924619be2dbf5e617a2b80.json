@@ -1,0 +1,54 @@
+{
+    "uid": "3765e355fb924619be2dbf5e617a2b80",
+    "name": "Huyện Tân Hưng",
+    "wards": [
+        {
+            "uid": "51b2bae6dbd94773baed0fdf79840b01",
+            "name": "Thị trấn Tân Hưng"
+        },
+        {
+            "uid": "a1312c489d7b4d768450f7de19155c1b",
+            "name": "Xã Hưng Hà"
+        },
+        {
+            "uid": "cd3e40ea3ce24b7aa54256c9aa6ecca1",
+            "name": "Xã Hưng Điền B"
+        },
+        {
+            "uid": "6f76c40c7f114636b25985f09c4cf0b5",
+            "name": "Xã Hưng Điền"
+        },
+        {
+            "uid": "a5478cd094a741b59340beab91ec4c0a",
+            "name": "Xã Thạnh Hưng"
+        },
+        {
+            "uid": "e6f888ae193f4f63b4fafdf2e7359789",
+            "name": "Xã Hưng Thạnh"
+        },
+        {
+            "uid": "70bb3da2e2c04f529efbbed348ec64af",
+            "name": "Xã Vĩnh Thạnh"
+        },
+        {
+            "uid": "89f13d00f52d4bb0a6349bcc58be9eb6",
+            "name": "Xã Vĩnh Châu B"
+        },
+        {
+            "uid": "e1badf52ae004daca962bf248ca9c8ad",
+            "name": "Xã Vĩnh Lợi"
+        },
+        {
+            "uid": "ce35170f317c42089b380a42e72d5c8c",
+            "name": "Xã Vĩnh Đại"
+        },
+        {
+            "uid": "f8a5c2e603a9418691902df4891e9fee",
+            "name": "Xã Vĩnh Châu A"
+        },
+        {
+            "uid": "2618b61892ac40cd8d28897cb83bbea9",
+            "name": "Xã Vĩnh Bửu"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "62f4c6a4aeb54d14b49f46f9a1c4a722",
+    "name": "Huyện Đức Huệ",
+    "wards": [
+        {
+            "uid": "978b11300f214d048775f6e7473e369a",
+            "name": "Thị trấn Đông Thành"
+        },
+        {
+            "uid": "fc263fbfdf2d472da6925899746662a7",
+            "name": "Xã Mỹ Quý Đông"
+        },
+        {
+            "uid": "a2415866f5d54a96899b1ad3f90982fe",
+            "name": "Xã Mỹ Thạnh Bắc"
+        },
+        {
+            "uid": "23d5f28849264793abf519bd48f75bbe",
+            "name": "Xã Mỹ Quý Tây"
+        },
+        {
+            "uid": "85f39c4d6ee04e6b81803af63d64eea2",
+            "name": "Xã Mỹ Thạnh Tây"
+        },
+        {
+            "uid": "55f37e559aec485695618bfcd60da4c0",
+            "name": "Xã Mỹ Thạnh Đông"
+        },
+        {
+            "uid": "49df77a539f743509d8a40f6ecc3db6a",
+            "name": "Xã Bình Thành"
+        },
+        {
+            "uid": "28698c084a3348cc9ae7cdec55de19cf",
+            "name": "Xã Bình Hòa Bắc"
+        },
+        {
+            "uid": "35740476f24b48c2b63457c9ba1fa51a",
+            "name": "Xã Bình Hòa Hưng"
+        },
+        {
+            "uid": "a08eec97622541f69f6916329d0de0dc",
+            "name": "Xã Bình Hòa Nam"
+        },
+        {
+            "uid": "8815ec5c12cb41509f74134cffc05aac",
+            "name": "Xã Mỹ Bình"
+        }
+    ]
+}

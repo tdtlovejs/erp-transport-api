@@ -1,0 +1,86 @@
+{
+    "uid": "d67f16f1de904510830957fea79f9162",
+    "name": "Huyện Hoài Đức",
+    "wards": [
+        {
+            "uid": "1d2431031a7b4e7598fc6ec496c289af",
+            "name": "Thị trấn Trạm Trôi"
+        },
+        {
+            "uid": "9e20f89ef97845b6834b7f72003fb7be",
+            "name": "Xã Đức Thượng"
+        },
+        {
+            "uid": "8659c256e1b54249a641943833e98dd7",
+            "name": "Xã Minh Khai"
+        },
+        {
+            "uid": "c6c7358e51de4c9b8308ea6173b72ce8",
+            "name": "Xã Dương Liễu"
+        },
+        {
+            "uid": "1b0d0a413ed04a32928731bc133d1d8e",
+            "name": "Xã Di Trạch"
+        },
+        {
+            "uid": "f7afbd1ba12d4ffc9d45eadc7d7f05c1",
+            "name": "Xã Đức Giang"
+        },
+        {
+            "uid": "10ff2c970100427a9e302c5086956014",
+            "name": "Xã Cát Quế"
+        },
+        {
+            "uid": "0f03f64d92b74dfebb06a48d2177ef21",
+            "name": "Xã Kim Chung"
+        },
+        {
+            "uid": "ca97f673a7cb4f5ab0299ef8b551db14",
+            "name": "Xã Yên Sở"
+        },
+        {
+            "uid": "88a7d0812f1c436aa505206909025985",
+            "name": "Xã Sơn Đồng"
+        },
+        {
+            "uid": "9da48d6b3ba948e581dc1115588f58e8",
+            "name": "Xã Vân Canh"
+        },
+        {
+            "uid": "e24781a7961343b5be15546f66d13cde",
+            "name": "Xã Đắc Sở"
+        },
+        {
+            "uid": "35ea3b844ed541738561d5eff8e0e58c",
+            "name": "Xã Lại Yên"
+        },
+        {
+            "uid": "2818571ccae94994bb612ed5325a6b77",
+            "name": "Xã Tiền Yên"
+        },
+        {
+            "uid": "c4661484be074535878b8a66979796f6",
+            "name": "Xã Song Phương"
+        },
+        {
+            "uid": "95a2d356216547cbacbf90a701a843b1",
+            "name": "Xã An Khánh"
+        },
+        {
+            "uid": "79755e93b00d4d7082f930810f3dc8c9",
+            "name": "Xã An Thượng"
+        },
+        {
+            "uid": "dd109abf2e67417f8c2f137bea0d1ed4",
+            "name": "Xã Vân Côn"
+        },
+        {
+            "uid": "3e47de997993411abfc2abf1e34608df",
+            "name": "Xã La Phù"
+        },
+        {
+            "uid": "65d7fc3964b749c792692ad53819678e",
+            "name": "Xã Đông La"
+        }
+    ]
+}

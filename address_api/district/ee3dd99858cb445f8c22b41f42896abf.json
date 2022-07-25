@@ -1,0 +1,46 @@
+{
+    "uid": "ee3dd99858cb445f8c22b41f42896abf",
+    "name": "Thị xã Đông Hòa",
+    "wards": [
+        {
+            "uid": "c4668242f4a248f2a88cd0615f5394df",
+            "name": "Xã Hòa Thành"
+        },
+        {
+            "uid": "2e973fde64e6478791fe77ec27bc68c5",
+            "name": "Phường Hòa Hiệp Bắc"
+        },
+        {
+            "uid": "07adeb8bb88d48ddbd70b4f6e03840d0",
+            "name": "Phường Hoà Vinh"
+        },
+        {
+            "uid": "554479665e2b420097a0431fe2693719",
+            "name": "Phường Hoà Hiệp Trung"
+        },
+        {
+            "uid": "26726060d8b645afab1f662b0ee6ea80",
+            "name": "Xã Hòa Tân Đông"
+        },
+        {
+            "uid": "c6fe607197044b90b322556076b4085e",
+            "name": "Phường Hòa Xuân Tây"
+        },
+        {
+            "uid": "1edd9365793e439a91a299eead0bcea9",
+            "name": "Phường Hòa Hiệp Nam"
+        },
+        {
+            "uid": "38b1b1b641314defba1cade69e90abd6",
+            "name": "Xã Hòa Xuân Đông"
+        },
+        {
+            "uid": "7592b375387a4e008446cd8ec9b47915",
+            "name": "Xã Hòa Tâm"
+        },
+        {
+            "uid": "6fe8fe8c763944de8fad555b65293f18",
+            "name": "Xã Hòa Xuân Nam"
+        }
+    ]
+}

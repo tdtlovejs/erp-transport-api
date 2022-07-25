@@ -1,0 +1,86 @@
+{
+    "uid": "5f13e1b1be3d41a081b25a90905eb1e5",
+    "name": "Huyện Chư Prông",
+    "wards": [
+        {
+            "uid": "bd946f9205dd46a8a5e531eae133d33a",
+            "name": "Thị trấn Chư Prông"
+        },
+        {
+            "uid": "f3aefe2ec07b40eca3180786edf94786",
+            "name": "Xã Ia Kly"
+        },
+        {
+            "uid": "788437401334403aaf300fa288fa4144",
+            "name": "Xã Bình Giáo"
+        },
+        {
+            "uid": "2ca0de69ed574b21a7d6b472a06b7d14",
+            "name": "Xã Ia Drăng"
+        },
+        {
+            "uid": "dbb13d08390d4677a3116d9ca224f06f",
+            "name": "Xã Thăng Hưng"
+        },
+        {
+            "uid": "e9e1198f39c3451d916e25992904c509",
+            "name": "Xã Bàu Cạn"
+        },
+        {
+            "uid": "25c5cd3b87f44e2b99af9a69bc68ac04",
+            "name": "Xã Ia Phìn"
+        },
+        {
+            "uid": "77a7202c39b64768adf12bd7c0a6cf1b",
+            "name": "Xã Ia Băng"
+        },
+        {
+            "uid": "71a8e822a3974f1eaea6c2efd701f8e3",
+            "name": "Xã Ia Tôr"
+        },
+        {
+            "uid": "6c8d438226a746928d6e3d0e415ab4a0",
+            "name": "Xã Ia Boòng"
+        },
+        {
+            "uid": "1059b8161dca480eb84b9af946e5f727",
+            "name": "Xã Ia O"
+        },
+        {
+            "uid": "7a231fba205e440185359cba60d1b42a",
+            "name": "Xã Ia Púch"
+        },
+        {
+            "uid": "fd9ca7fa380e46f6b95087caeb94c4ea",
+            "name": "Xã Ia Me"
+        },
+        {
+            "uid": "259b8411a70445e0a31e78fbb4cd60a3",
+            "name": "Xã Ia Vê"
+        },
+        {
+            "uid": "a6863fc580db47368766db0479062575",
+            "name": "Xã Ia Bang"
+        },
+        {
+            "uid": "64a1b7486fc04382b3b4fe3f2e7620b0",
+            "name": "Xã Ia Pia"
+        },
+        {
+            "uid": "e96552e3966d4f6dbcd65928863c35af",
+            "name": "Xã Ia Ga"
+        },
+        {
+            "uid": "1c74220f319944368afab480fa9ed724",
+            "name": "Xã Ia Lâu"
+        },
+        {
+            "uid": "281658a2975d4fc6b8da0a30d6d8ecb0",
+            "name": "Xã Ia Piơr"
+        },
+        {
+            "uid": "e0b0344ffbf9435f9b64a46265450691",
+            "name": "Xã Ia Mơ"
+        }
+    ]
+}

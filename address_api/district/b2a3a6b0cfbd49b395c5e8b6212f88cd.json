@@ -1,0 +1,74 @@
+{
+    "uid": "b2a3a6b0cfbd49b395c5e8b6212f88cd",
+    "name": "Huyện Phong Thổ",
+    "wards": [
+        {
+            "uid": "9e44ba9d0e964f1da6ec9a1e6bd86f6d",
+            "name": "Xã Lả Nhì Thàng"
+        },
+        {
+            "uid": "73c4ae9332d74d0da7b97bf8771202ad",
+            "name": "Xã Huổi Luông"
+        },
+        {
+            "uid": "24738cd456bb40d9a9fe22b4d26ee57b",
+            "name": "Thị trấn Phong Thổ"
+        },
+        {
+            "uid": "5358be343c9c4a2e8ec68a9a090fa090",
+            "name": "Xã Sì Lở Lầu"
+        },
+        {
+            "uid": "d4684a4b1ee6433ca3b0d2df4b98c1bc",
+            "name": "Xã Mồ Sì San"
+        },
+        {
+            "uid": "3e768cf1496140978b24b437d342bccc",
+            "name": "Xã Pa Vây Sử"
+        },
+        {
+            "uid": "11589252a85841bf949e026ffcd65173",
+            "name": "Xã Vàng Ma Chải"
+        },
+        {
+            "uid": "8d15a5e6574d414dba23740989aa40b4",
+            "name": "Xã Tông Qua Lìn"
+        },
+        {
+            "uid": "cd72cf72d01a4f81a56fc4b9abdf6407",
+            "name": "Xã Mù Sang"
+        },
+        {
+            "uid": "0f8ba506d6a14308a14d56c139952ffb",
+            "name": "Xã Dào San"
+        },
+        {
+            "uid": "709f5387d83f4b73af2890e077fc3924",
+            "name": "Xã Ma Ly Pho"
+        },
+        {
+            "uid": "a9903fc71cdb4d80ad6c550ebbb721a5",
+            "name": "Xã Bản Lang"
+        },
+        {
+            "uid": "12e706c7927d4798998bd8c13411679f",
+            "name": "Xã Hoang Thèn"
+        },
+        {
+            "uid": "169ead8ef53f4ab291792eae68e80e96",
+            "name": "Xã Khổng Lào"
+        },
+        {
+            "uid": "f42b3ccbad8f47f9b87ce207705fb972",
+            "name": "Xã Nậm Xe"
+        },
+        {
+            "uid": "4c0835b492d343c7b389b485ba1ec0aa",
+            "name": "Xã Mường So"
+        },
+        {
+            "uid": "344242ad12a54a14b2a8107f3696206a",
+            "name": "Xã Sin Suối Hồ"
+        }
+    ]
+}

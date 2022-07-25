@@ -1,0 +1,90 @@
+{
+    "uid": "101a259a23914d5a8da6f91344747b23",
+    "name": "Huyện Điện Biên",
+    "wards": [
+        {
+            "uid": "8c6c9c158f054de286e1cb464c0d26e3",
+            "name": "Xã Mường Pồn"
+        },
+        {
+            "uid": "8270cbc766f54ab79ac08a954421851a",
+            "name": "Xã Thanh Nưa"
+        },
+        {
+            "uid": "eafb013360884e9283f7843e927fb70f",
+            "name": "Xã Hua Thanh"
+        },
+        {
+            "uid": "4b214fdfc513416eb6b9275a483c5e71",
+            "name": "Xã Thanh Luông"
+        },
+        {
+            "uid": "b468ca571c1c42ec994eff46999b53e8",
+            "name": "Xã Thanh Hưng"
+        },
+        {
+            "uid": "0833a2ea707a483e9c4da906ad2ef087",
+            "name": "Xã Thanh Xương"
+        },
+        {
+            "uid": "9711d326e191460cacf84ede110bf79b",
+            "name": "Xã Thanh Chăn"
+        },
+        {
+            "uid": "24cb2276fdab429db3a710792c20fb40",
+            "name": "Xã Pa Thơm"
+        },
+        {
+            "uid": "061e000744064264a6067faa411e273d",
+            "name": "Xã Thanh An"
+        },
+        {
+            "uid": "02bb91f9f9ef484e975178d3f0932070",
+            "name": "Xã Thanh Yên"
+        },
+        {
+            "uid": "c89116dc1c724590869fb6e949d53bfb",
+            "name": "Xã Noong Luống"
+        },
+        {
+            "uid": "24badb2c2c734b4f916cf1c74c6757c3",
+            "name": "Xã Noọng Hẹt"
+        },
+        {
+            "uid": "cfee6005097744778e422cb2bd4a4318",
+            "name": "Xã Sam Mứn"
+        },
+        {
+            "uid": "b34af2980a1c4e5fa6d37ed507cb8474",
+            "name": "Xã Pom Lót"
+        },
+        {
+            "uid": "773a6a4ffda846f7b68bffd1b88db343",
+            "name": "Xã Núa Ngam"
+        },
+        {
+            "uid": "776f8c3ba0774492b35505a1b24a4e0e",
+            "name": "Xã Hẹ Muông"
+        },
+        {
+            "uid": "56a29c3502f84893b9a1df3d0acdd7df",
+            "name": "Xã Na Ư"
+        },
+        {
+            "uid": "72ccddc4ea924115ab939a90e8ad603a",
+            "name": "Xã Mường Nhà"
+        },
+        {
+            "uid": "dfbed7e099ae4546a0639ad3c063f910",
+            "name": "Xã Na Tông"
+        },
+        {
+            "uid": "a63aae8b391c4513b8b3fdd5148da657",
+            "name": "Xã Mường Lói"
+        },
+        {
+            "uid": "1748e4eadf7b46d2a59927f5c94bb0e6",
+            "name": "Xã Phu Luông"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uid": "2706d42dce03440fb8f46857a8ae46f6",
+    "name": "Quận Hai Bà Trưng",
+    "wards": [
+        {
+            "uid": "70198d65d97844759d253975c96daa10",
+            "name": "Phường Nguyễn Du"
+        },
+        {
+            "uid": "11cca04ba19d40abac2417e162901075",
+            "name": "Phường Bạch Đằng"
+        },
+        {
+            "uid": "811f4494239f4e6fab73fd2cfaa74e8a",
+            "name": "Phường Phạm Đình Hổ"
+        },
+        {
+            "uid": "c64e35da10a4419e9219d401d86e7051",
+            "name": "Phường Lê Đại Hành"
+        },
+        {
+            "uid": "6e74c8b8237b4f5299b49cb3cdbe1401",
+            "name": "Phường Đồng Nhân"
+        },
+        {
+            "uid": "565df697d85748efb3be63533bea95a8",
+            "name": "Phường Phố Huế"
+        },
+        {
+            "uid": "c74e619d33cb4411bf3d5a62d7e5c49b",
+            "name": "Phường Đống Mác"
+        },
+        {
+            "uid": "f6cd010a89c14cbda952dcefffa2ca6d",
+            "name": "Phường Thanh Lương"
+        },
+        {
+            "uid": "b2487f829e804c908f5f39e4a86cfa13",
+            "name": "Phường Thanh Nhàn"
+        },
+        {
+            "uid": "78e11fb6532c4a30b7a8c002da00ce9b",
+            "name": "Phường Cầu Dền"
+        },
+        {
+            "uid": "93f166222a8b4e33973237f43bd8e017",
+            "name": "Phường Bách Khoa"
+        },
+        {
+            "uid": "56cd04cfc5ee4837a46f435ab332b0da",
+            "name": "Phường Đồng Tâm"
+        },
+        {
+            "uid": "7dd2bbe48d2d4ed09a648161a62d90f9",
+            "name": "Phường Vĩnh Tuy"
+        },
+        {
+            "uid": "b75f39aa14744604adfeb3b43de99757",
+            "name": "Phường Bạch Mai"
+        },
+        {
+            "uid": "5a3adeb52b36434fb6c24dac7b193ac5",
+            "name": "Phường Quỳnh Mai"
+        },
+        {
+            "uid": "06efa006c9b74611b3dd0cd58dccc7f8",
+            "name": "Phường Quỳnh Lôi"
+        },
+        {
+            "uid": "a0bc850edac64370ac58c0790d12456c",
+            "name": "Phường Minh Khai"
+        },
+        {
+            "uid": "e8ad76166b6a43dca84801a519a43840",
+            "name": "Phường Trương Định"
+        }
+    ]
+}

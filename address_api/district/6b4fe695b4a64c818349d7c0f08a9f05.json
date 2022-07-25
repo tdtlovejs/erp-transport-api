@@ -1,0 +1,30 @@
+{
+    "uid": "6b4fe695b4a64c818349d7c0f08a9f05",
+    "name": "Huyện Thuận Bắc",
+    "wards": [
+        {
+            "uid": "bc87b0281ff04554b1d6816f87e4dcfd",
+            "name": "Xã Phước Chiến"
+        },
+        {
+            "uid": "a39b91fa52c54c738555e3337c8c9016",
+            "name": "Xã Công Hải"
+        },
+        {
+            "uid": "f497c196e5de4a6a84fe0976b001899e",
+            "name": "Xã Phước Kháng"
+        },
+        {
+            "uid": "408485d86f3144a0a04a63d3cb268065",
+            "name": "Xã Lợi Hải"
+        },
+        {
+            "uid": "14b8d26be16d44a484392aa30eaba7a9",
+            "name": "Xã Bắc Sơn"
+        },
+        {
+            "uid": "adefb1fce9d544918762244f51ad4896",
+            "name": "Xã Bắc Phong"
+        }
+    ]
+}

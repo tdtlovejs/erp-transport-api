@@ -1,0 +1,62 @@
+{
+    "uid": "e1653bb49f104c108d196a2c81370677",
+    "name": "Huyện Mường Tè",
+    "wards": [
+        {
+            "uid": "cf293b5674ca447f8a03794e9e067751",
+            "name": "Thị trấn Mường Tè"
+        },
+        {
+            "uid": "4cda4688090c433c95bd45c834eda41a",
+            "name": "Xã Thu Lũm"
+        },
+        {
+            "uid": "6c7eb97b9d5749018694fa99216794a0",
+            "name": "Xã Ka Lăng"
+        },
+        {
+            "uid": "68110820495a433b804cf6f28e575983",
+            "name": "Xã Tá Bạ"
+        },
+        {
+            "uid": "1bd23c42256d4c0aa9ea9751bc4c7c6c",
+            "name": "Xã Pa ủ"
+        },
+        {
+            "uid": "9ed03fcf125f4a1791fadaf0d8407d57",
+            "name": "Xã Mường Tè"
+        },
+        {
+            "uid": "684d914415e94f128938e6d01ba1c8b3",
+            "name": "Xã Pa Vệ Sử"
+        },
+        {
+            "uid": "ebb5afa450ec442da5a70b67269a6635",
+            "name": "Xã Mù Cả"
+        },
+        {
+            "uid": "00227b967dd7418bba5387c27b01bb7a",
+            "name": "Xã Bum Tở"
+        },
+        {
+            "uid": "19c3c82aff2b4273a7d11e39fe675dfc",
+            "name": "Xã Nậm Khao"
+        },
+        {
+            "uid": "51766197ab7249c78042d0c9788630c0",
+            "name": "Xã Tà Tổng"
+        },
+        {
+            "uid": "7f4144f1d8b642c18b534177f6bd575f",
+            "name": "Xã Bum Nưa"
+        },
+        {
+            "uid": "3e37b9ec7129418e9c8b195fbcc51a36",
+            "name": "Xã Vàng San"
+        },
+        {
+            "uid": "97acfb751c9e4cef8846f756c40029fe",
+            "name": "Xã Kan Hồ"
+        }
+    ]
+}

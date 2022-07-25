@@ -1,0 +1,54 @@
+{
+    "uid": "7da0ec72c4464b22a66818909d9b0e70",
+    "name": "Huyện Mang Thít",
+    "wards": [
+        {
+            "uid": "428400e383d247409c5e2e3d03ce1530",
+            "name": "Xã Mỹ An"
+        },
+        {
+            "uid": "cfe9104c5c9e40f5a2071f2ed148dd39",
+            "name": "Xã Mỹ Phước"
+        },
+        {
+            "uid": "ba11088f415b4eab8632c71a238df7f7",
+            "name": "Xã An Phước"
+        },
+        {
+            "uid": "d1a7472d3c2d4e599014f1fe63c1b67c",
+            "name": "Xã Nhơn Phú"
+        },
+        {
+            "uid": "9e79dba5efba4cb4acc30ae4a86e66b6",
+            "name": "Xã Long Mỹ"
+        },
+        {
+            "uid": "4b3892f0a1db4a7bbaf978dc55fa3a88",
+            "name": "Xã Hòa Tịnh"
+        },
+        {
+            "uid": "f5831b2e45e44a6299a7344b73951ed8",
+            "name": "Thị trấn Cái Nhum"
+        },
+        {
+            "uid": "5db19af4cb1444af8b891ad71fb65f65",
+            "name": "Xã Bình Phước"
+        },
+        {
+            "uid": "0766f65500284cbd91b5d4789488f75d",
+            "name": "Xã Chánh An"
+        },
+        {
+            "uid": "cca9edbf36c64f9a83a8a3eb2a4b475c",
+            "name": "Xã Tân An Hội"
+        },
+        {
+            "uid": "cfe32e7f0e2d4befbddaba330ba361b4",
+            "name": "Xã Tân Long"
+        },
+        {
+            "uid": "e65fd1e3a6b444e68943459a8bdca7bc",
+            "name": "Xã Tân Long Hội"
+        }
+    ]
+}

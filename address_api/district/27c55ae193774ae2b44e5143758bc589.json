@@ -1,0 +1,58 @@
+{
+    "uid": "27c55ae193774ae2b44e5143758bc589",
+    "name": "Huyện Tánh Linh",
+    "wards": [
+        {
+            "uid": "defc3c6ed22542df85bc7e50a2038b4f",
+            "name": "Thị trấn Lạc Tánh"
+        },
+        {
+            "uid": "6171fac4b12b4d5ca384f9697f5a79c7",
+            "name": "Xã Bắc Ruộng"
+        },
+        {
+            "uid": "dc79d3e2c7c74118a78d00ccadbf8dfb",
+            "name": "Xã Nghị Đức"
+        },
+        {
+            "uid": "b01cb26fe8d34aa8baf369027498b48d",
+            "name": "Xã La Ngâu"
+        },
+        {
+            "uid": "9440b48090bb46bd8c259382b1917854",
+            "name": "Xã Huy Khiêm"
+        },
+        {
+            "uid": "7d8858ff6c944d1e8f1bb118176b7a69",
+            "name": "Xã Măng Tố"
+        },
+        {
+            "uid": "7b896523c8944b1fa9cff800fcb49218",
+            "name": "Xã Đức Phú"
+        },
+        {
+            "uid": "af972215822f4466917a11d2f9f271cb",
+            "name": "Xã Đồng Kho"
+        },
+        {
+            "uid": "301e192739d043369fe9f0ebdcfa907d",
+            "name": "Xã Gia An"
+        },
+        {
+            "uid": "ccf1ed0accd44eb49998566f8c5d3b39",
+            "name": "Xã Đức Bình"
+        },
+        {
+            "uid": "2c44be10d1bc4de18e50f43ace906740",
+            "name": "Xã Gia Huynh"
+        },
+        {
+            "uid": "a8cd8f15fae64463a39c1f753b64eff9",
+            "name": "Xã Đức Thuận"
+        },
+        {
+            "uid": "a81960fd748f407f90600ab5609f0b4b",
+            "name": "Xã Suối Kiết"
+        }
+    ]
+}

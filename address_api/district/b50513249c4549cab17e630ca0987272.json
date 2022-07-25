@@ -1,0 +1,86 @@
+{
+    "uid": "b50513249c4549cab17e630ca0987272",
+    "name": "Huyện Ninh Giang",
+    "wards": [
+        {
+            "uid": "f0649ba8aee048bea49491ee121b3eb9",
+            "name": "Thị trấn Ninh Giang"
+        },
+        {
+            "uid": "ce9fceee0aaa49759c4d24e6025041f8",
+            "name": "Xã Ứng Hoè"
+        },
+        {
+            "uid": "4d1df09327b84c82adfd1a59600b69f4",
+            "name": "Xã Nghĩa An"
+        },
+        {
+            "uid": "df8b1bf17eda4407bdabd5a5fe482b30",
+            "name": "Xã Hồng Đức"
+        },
+        {
+            "uid": "17951c751c8448ed8f13aa20af80936a",
+            "name": "Xã An Đức"
+        },
+        {
+            "uid": "4f044412e0e84417b05d674704133bb8",
+            "name": "Xã Vạn Phúc"
+        },
+        {
+            "uid": "7aef372009e5488e9beb6e044872bd56",
+            "name": "Xã Tân Hương"
+        },
+        {
+            "uid": "6cb573deb4d54832a9cf350da06d7084",
+            "name": "Xã Vĩnh Hòa"
+        },
+        {
+            "uid": "a84f3a24dd3745af95ce17e7e1fe8b61",
+            "name": "Xã Đông Xuyên"
+        },
+        {
+            "uid": "83141836caed46388d50df48d96d9e81",
+            "name": "Xã Tân Phong"
+        },
+        {
+            "uid": "5d802b0a07614721bfd3ead913659cd6",
+            "name": "Xã Ninh Hải"
+        },
+        {
+            "uid": "855ae23b389249e58d97dabdb9700d91",
+            "name": "Xã Đồng Tâm"
+        },
+        {
+            "uid": "1d579562350744fba70578e8511d6787",
+            "name": "Xã Tân Quang"
+        },
+        {
+            "uid": "96fde32ee38c4d0f9ee97c04442e103f",
+            "name": "Xã Kiến Quốc"
+        },
+        {
+            "uid": "453281ef29e14705bd63157754796e36",
+            "name": "Xã Hồng Dụ"
+        },
+        {
+            "uid": "ba284a42ae2e4114bdebd5599c79c87f",
+            "name": "Xã Văn Hội"
+        },
+        {
+            "uid": "f72d4c48162546879246be97e0df38a4",
+            "name": "Xã Hồng Phong"
+        },
+        {
+            "uid": "501f68b44be24f87bc69c1d97b57b4cf",
+            "name": "Xã Hiệp Lực"
+        },
+        {
+            "uid": "ad5583339e274ea098ff658f97b16e36",
+            "name": "Xã Hồng Phúc"
+        },
+        {
+            "uid": "73b046e4bad5408688fc1150c9d20856",
+            "name": "Xã Hưng Long"
+        }
+    ]
+}

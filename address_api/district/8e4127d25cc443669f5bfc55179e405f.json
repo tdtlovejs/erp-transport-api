@@ -1,0 +1,70 @@
+{
+    "uid": "8e4127d25cc443669f5bfc55179e405f",
+    "name": "Huyện Bù Đăng",
+    "wards": [
+        {
+            "uid": "4771bac733d9482abe4952380de44c76",
+            "name": "Thị trấn Đức Phong"
+        },
+        {
+            "uid": "3139172984e145ff9a87215f58d65818",
+            "name": "Xã Đường 10"
+        },
+        {
+            "uid": "5c4bb50c1d364a63b1d369eefb699dc6",
+            "name": "Xã Đak Nhau"
+        },
+        {
+            "uid": "b85e8dc745a14ea48d5a44fe75d53934",
+            "name": "Xã Phú Sơn"
+        },
+        {
+            "uid": "cc8218f9caa2401e9061a3b8a70a0e83",
+            "name": "Xã Thọ Sơn"
+        },
+        {
+            "uid": "ab1f521104464f28957a116ad983541e",
+            "name": "Xã Bình Minh"
+        },
+        {
+            "uid": "ab8ac5aec9a549b8902f718e38a736b9",
+            "name": "Xã Bom Bo"
+        },
+        {
+            "uid": "adc91f21f3fb418fbd8b977187519309",
+            "name": "Xã Minh Hưng"
+        },
+        {
+            "uid": "fa06901c4cb64a9e92c92f39b7306004",
+            "name": "Xã Đoàn Kết"
+        },
+        {
+            "uid": "cd10ea50a0ec41b78d62769316d1bbc0",
+            "name": "Xã Đồng Nai"
+        },
+        {
+            "uid": "679de529730b40dcb423542dab8102f9",
+            "name": "Xã Đức Liễu"
+        },
+        {
+            "uid": "101de5a6d24c4c9ba73b25f36b034cd7",
+            "name": "Xã Thống Nhất"
+        },
+        {
+            "uid": "ec8e0c3febf1498e814b06ab413c76c6",
+            "name": "Xã Nghĩa Trung"
+        },
+        {
+            "uid": "e75ac91490fc446fb6f88bfed64437bb",
+            "name": "Xã Nghĩa Bình"
+        },
+        {
+            "uid": "31f18dea0e10434bb9d9afe0015ca021",
+            "name": "Xã Đăng Hà"
+        },
+        {
+            "uid": "c1e98a9fdb9b41d08592261ed32bba0b",
+            "name": "Xã Phước Sơn"
+        }
+    ]
+}

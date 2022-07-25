@@ -1,0 +1,34 @@
+{
+    "uid": "25e6ba12aef046b09374aa7a72d9b6e3",
+    "name": "Huyện Vân Canh",
+    "wards": [
+        {
+            "uid": "548cc664b5514a55b252afbd068eeb6f",
+            "name": "Thị trấn Vân Canh"
+        },
+        {
+            "uid": "e0c9716fa9ac433099c7a1949235d609",
+            "name": "Xã Canh Liên"
+        },
+        {
+            "uid": "715913dd71f24c518e8bef6a5af40fac",
+            "name": "Xã Canh Hiệp"
+        },
+        {
+            "uid": "c1340041f3c842fe9cac67ce58ed6f57",
+            "name": "Xã Canh Vinh"
+        },
+        {
+            "uid": "856c3cce2a7a4447931dbb684321e897",
+            "name": "Xã Canh Hiển"
+        },
+        {
+            "uid": "e9cea9664aa14d0a902cefcfc1c6d15f",
+            "name": "Xã Canh Thuận"
+        },
+        {
+            "uid": "a78bc9f1de1743e7adf9e3c3bacdb804",
+            "name": "Xã Canh Hòa"
+        }
+    ]
+}

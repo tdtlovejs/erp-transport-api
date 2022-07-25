@@ -1,0 +1,82 @@
+{
+    "uid": "a117105b0ec44d778cabbb63c88e44af",
+    "name": "Huyện Thanh Ba",
+    "wards": [
+        {
+            "uid": "f201bb4e33154220b25053c40d652bd7",
+            "name": "Thị trấn Thanh Ba"
+        },
+        {
+            "uid": "5c63a18ef551441eb556e1514c315730",
+            "name": "Xã Vân Lĩnh"
+        },
+        {
+            "uid": "5a16fd65ea114e0fbd31955d38c8a414",
+            "name": "Xã Đông Lĩnh"
+        },
+        {
+            "uid": "e529ca8a4c1446e6b1bb43507c7b3605",
+            "name": "Xã Đại An"
+        },
+        {
+            "uid": "4b8da3c4ff3340fcafbaf2cc4dd4d976",
+            "name": "Xã Hanh Cù"
+        },
+        {
+            "uid": "36870103a9d143409f736144775146f3",
+            "name": "Xã Đồng Xuân"
+        },
+        {
+            "uid": "fb7db79c9f0b4759883dd4faca6b5fb3",
+            "name": "Xã Quảng Yên"
+        },
+        {
+            "uid": "2290e74f64f1425294f55f43ca893ee9",
+            "name": "Xã Ninh Dân"
+        },
+        {
+            "uid": "97b3003156ee447390f26840daf51807",
+            "name": "Xã Võ Lao"
+        },
+        {
+            "uid": "c6cdc705b8e14a179fbe3a0a93e50166",
+            "name": "Xã Khải Xuân"
+        },
+        {
+            "uid": "31c81fd8b6e44fc0b6dd7cd8aca30dac",
+            "name": "Xã Mạn Lạn"
+        },
+        {
+            "uid": "ddb73282939046f0a07ecd40b322ce03",
+            "name": "Xã Hoàng Cương"
+        },
+        {
+            "uid": "e0b443541d9f42f69f9b2f4ea76163fa",
+            "name": "Xã Chí Tiên"
+        },
+        {
+            "uid": "9bdb6a990dc9483eaec7946ad1f58c10",
+            "name": "Xã Đông Thành"
+        },
+        {
+            "uid": "95a88972c63b46a38fd332fdeb34e1d0",
+            "name": "Xã Sơn Cương"
+        },
+        {
+            "uid": "dd2234e7100f4e4294192feeacd2baef",
+            "name": "Xã Thanh Hà"
+        },
+        {
+            "uid": "550a5d26250b4585a8a5cd73543a63a7",
+            "name": "Xã Đỗ Sơn"
+        },
+        {
+            "uid": "1c928ca3e26846069c26a22d7eec33ca",
+            "name": "Xã Đỗ Xuyên"
+        },
+        {
+            "uid": "6f2dfe967de94c6d9ce9025648c66a69",
+            "name": "Xã Lương Lỗ"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "uid": "d12ad47d788a433ca9febf5809f09225",
+    "name": "Huyện Tuyên Hóa",
+    "wards": [
+        {
+            "uid": "4a80ca555b304325b3eefe24fbee265b",
+            "name": "Thị trấn Đồng Lê"
+        },
+        {
+            "uid": "b1c0a26a05704862aaab4691ed86542f",
+            "name": "Xã Hương Hóa"
+        },
+        {
+            "uid": "35c2fd886a434f36976160a96dc6e58a",
+            "name": "Xã Kim Hóa"
+        },
+        {
+            "uid": "c5bddfaf95a5424999d4bb6a32acd1c1",
+            "name": "Xã Thanh Hóa"
+        },
+        {
+            "uid": "0ded060071334b9088c0490eb2281e72",
+            "name": "Xã Thanh Thạch"
+        },
+        {
+            "uid": "d42959adb4bb4f7cad3291622d72aa10",
+            "name": "Xã Thuận Hóa"
+        },
+        {
+            "uid": "fdec5137041444d79d622cbb81e18fa4",
+            "name": "Xã Lâm Hóa"
+        },
+        {
+            "uid": "47f1a2d3b9b34c9886709c8bfbfe3cbc",
+            "name": "Xã Lê Hóa"
+        },
+        {
+            "uid": "f0fcde5d11ba49668fa8c810fba783b1",
+            "name": "Xã Sơn Hóa"
+        },
+        {
+            "uid": "495b60e03b384c46a2fdbaff9334a842",
+            "name": "Xã Đồng Hóa"
+        },
+        {
+            "uid": "9d5e045afab2405fbc363f32063bee1f",
+            "name": "Xã Ngư Hóa"
+        },
+        {
+            "uid": "6d937b44d5af4935bea16ffa76e49a0c",
+            "name": "Xã Thạch Hóa"
+        },
+        {
+            "uid": "d2da666396b2445d944130bade47e5c0",
+            "name": "Xã Đức Hóa"
+        },
+        {
+            "uid": "7ea378fbf8054d52956516169c0fa647",
+            "name": "Xã Phong Hóa"
+        },
+        {
+            "uid": "c96a01e377694b4684bbe9e7d8db5912",
+            "name": "Xã Mai Hóa"
+        },
+        {
+            "uid": "b0231529fbc64344b283d5158cfb5713",
+            "name": "Xã Tiến Hóa"
+        },
+        {
+            "uid": "aa43082a29a14a0996e0b7e62c61e35a",
+            "name": "Xã Châu Hóa"
+        },
+        {
+            "uid": "ff728ef690a947ebb22f12efc65050c8",
+            "name": "Xã Cao Quảng"
+        },
+        {
+            "uid": "8e633e555d04494aab6efc8335bc394a",
+            "name": "Xã Văn Hóa"
+        }
+    ]
+}

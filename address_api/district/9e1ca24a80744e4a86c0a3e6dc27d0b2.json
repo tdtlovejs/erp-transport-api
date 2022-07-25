@@ -1,0 +1,142 @@
+{
+    "uid": "9e1ca24a80744e4a86c0a3e6dc27d0b2",
+    "name": "Huyện Triệu Sơn",
+    "wards": [
+        {
+            "uid": "1e42308373c3489bb7ee24ab9ea0708a",
+            "name": "Thị trấn Triệu Sơn"
+        },
+        {
+            "uid": "e4491c804d6841e497f2b0e086efeee8",
+            "name": "Xã Thọ Sơn"
+        },
+        {
+            "uid": "eaabe5e0f3434a608c8ac6ddbcdaf3ae",
+            "name": "Xã Thọ Bình"
+        },
+        {
+            "uid": "27bbfe381e3d4f06afb5f2549964d0b7",
+            "name": "Xã Thọ Tiến"
+        },
+        {
+            "uid": "a36fa4051932466da0ccfcac0a59138f",
+            "name": "Xã Hợp Lý"
+        },
+        {
+            "uid": "8ccc3625a16e45ab83085f9b807c2d51",
+            "name": "Xã Hợp Tiến"
+        },
+        {
+            "uid": "250d3cf65b5f4eadbe2d868efa8bc22e",
+            "name": "Xã Hợp Thành"
+        },
+        {
+            "uid": "684074bdb9e9458fb4b7e49272b03f57",
+            "name": "Xã Triệu Thành"
+        },
+        {
+            "uid": "24a6fba85c0944feafcaf6a0a10bdc04",
+            "name": "Xã Hợp Thắng"
+        },
+        {
+            "uid": "3e769754a9934d61a4390bea0db01cd6",
+            "name": "Xã Minh Sơn"
+        },
+        {
+            "uid": "2faf8f71d8ae440fb8a297e3756dc841",
+            "name": "Xã Dân Lực"
+        },
+        {
+            "uid": "fcf1f8aa89cb495598df7d692f2147c7",
+            "name": "Xã Dân Lý"
+        },
+        {
+            "uid": "8b468a7cbdf54a42ac761a220b62fe30",
+            "name": "Xã Dân Quyền"
+        },
+        {
+            "uid": "8c749e66ba2947dca3bd3a7311cd867d",
+            "name": "Xã An Nông"
+        },
+        {
+            "uid": "6eea2fe395c240ad8a284af1ebe589c2",
+            "name": "Xã Văn Sơn"
+        },
+        {
+            "uid": "7aa4b15f475e495ab0c989c563de58a6",
+            "name": "Xã Thái Hòa"
+        },
+        {
+            "uid": "15f2cf381aec41beb989067d2ac23410",
+            "name": "Thị trấn Nưa"
+        },
+        {
+            "uid": "e4b6293ce80145fbbcb7213ff3c7f6a5",
+            "name": "Xã Đồng Lợi"
+        },
+        {
+            "uid": "3592ebbf6f9740d59737c20714c68e0f",
+            "name": "Xã Đồng Tiến"
+        },
+        {
+            "uid": "bf3d920f826a4bfe982258caf468bb43",
+            "name": "Xã Đồng Thắng"
+        },
+        {
+            "uid": "07edeb624cda4f87bdec311d363c5b1b",
+            "name": "Xã Tiến Nông"
+        },
+        {
+            "uid": "ca7ac8732dd746a08aa472aeedd3d7cc",
+            "name": "Xã Khuyến Nông"
+        },
+        {
+            "uid": "854d649d4c8a44c9b40bffbf373812a6",
+            "name": "Xã Xuân Thịnh"
+        },
+        {
+            "uid": "8c66bdcf635e4092a78ab9e30e67bdb7",
+            "name": "Xã Xuân Lộc"
+        },
+        {
+            "uid": "3afb0f368e8c46cd9544d1bee9915808",
+            "name": "Xã Thọ Dân"
+        },
+        {
+            "uid": "abd3de0215a74602ab51ddb8f783b1c3",
+            "name": "Xã Xuân Thọ"
+        },
+        {
+            "uid": "ee0e87eba40c4056b4df5ad63a6ea73a",
+            "name": "Xã Thọ Tân"
+        },
+        {
+            "uid": "3f685c679bd84adaafb1a068f57bd75a",
+            "name": "Xã Thọ Ngọc"
+        },
+        {
+            "uid": "0ad9c5065a71463291a9f06bf6a25bf4",
+            "name": "Xã Thọ Cường"
+        },
+        {
+            "uid": "34cc144f3da84f57b2c7bf0086879535",
+            "name": "Xã Thọ Phú"
+        },
+        {
+            "uid": "74fc879211ef4fd3945dca321418a000",
+            "name": "Xã Thọ Vực"
+        },
+        {
+            "uid": "79b91801f5494db19ceb5970ad6fcfcf",
+            "name": "Xã Thọ Thế"
+        },
+        {
+            "uid": "702c369b8c8e450281d5ccc9946128e9",
+            "name": "Xã Nông Trường"
+        },
+        {
+            "uid": "9f64abbf9cb84fcbbf1f9c5d2ab47927",
+            "name": "Xã Bình Sơn"
+        }
+    ]
+}

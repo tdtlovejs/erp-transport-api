@@ -1,0 +1,90 @@
+{
+    "uid": "12268a13568643da968b02c5422a7040",
+    "name": "Huyện Tiên Lãng",
+    "wards": [
+        {
+            "uid": "27f3606858c84d5499b83f52f3425b31",
+            "name": "Thị trấn Tiên Lãng"
+        },
+        {
+            "uid": "0f915fcb5fb74183a304e6312b1844cc",
+            "name": "Xã Đại Thắng"
+        },
+        {
+            "uid": "88e7c44c95bb4d968a9c5487bf41cabe",
+            "name": "Xã Tiên Cường"
+        },
+        {
+            "uid": "5c1e8d0b81154d14bc7706118e28f917",
+            "name": "Xã Tự Cường"
+        },
+        {
+            "uid": "df812309ce944d0aab2422938ec557d2",
+            "name": "Xã Quyết Tiến"
+        },
+        {
+            "uid": "1c93ee5e2edd4d08adbd3c9cc34fe38a",
+            "name": "Xã Khởi Nghĩa"
+        },
+        {
+            "uid": "6717767315f54da6b198600b7e5e59de",
+            "name": "Xã Tiên Thanh"
+        },
+        {
+            "uid": "0f5d5988497f4911bfd3986b4b14a94b",
+            "name": "Xã Cấp Tiến"
+        },
+        {
+            "uid": "1c9e2c020a8e4abe91e95e34d31f19d6",
+            "name": "Xã Kiến Thiết"
+        },
+        {
+            "uid": "65f77008346a4109b6991db3a7470aaf",
+            "name": "Xã Đoàn Lập"
+        },
+        {
+            "uid": "4e19ebe7a95642bfbb58cb68f487893b",
+            "name": "Xã Bạch Đằng"
+        },
+        {
+            "uid": "37c2c675c7874ccb913faac83d7751da",
+            "name": "Xã Quang Phục"
+        },
+        {
+            "uid": "b85cadcd17df4e11ac569129116774bc",
+            "name": "Xã Toàn Thắng"
+        },
+        {
+            "uid": "c330c98326ee4ead864616aafd4d3217",
+            "name": "Xã Tiên Thắng"
+        },
+        {
+            "uid": "e8c3e1047daa44ba8919c175a450b08d",
+            "name": "Xã Tiên Minh"
+        },
+        {
+            "uid": "d274e0dc51ec4ad49809acdf18f334f0",
+            "name": "Xã Bắc Hưng"
+        },
+        {
+            "uid": "061bd30046ce4e109e3275ec37b6d59c",
+            "name": "Xã Nam Hưng"
+        },
+        {
+            "uid": "21104c95ce6d41cfa047d5ba3c4b336a",
+            "name": "Xã Hùng Thắng"
+        },
+        {
+            "uid": "5d39f730746049cb8c8d28b109568641",
+            "name": "Xã Tây Hưng"
+        },
+        {
+            "uid": "f923e76967854499882db0e0774186ef",
+            "name": "Xã Đông Hưng"
+        },
+        {
+            "uid": "ec0c0c677b60466690b97eb634d4f0f8",
+            "name": "Xã Vinh Quang"
+        }
+    ]
+}

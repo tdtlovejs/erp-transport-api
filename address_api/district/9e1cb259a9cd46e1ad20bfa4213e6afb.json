@@ -1,0 +1,90 @@
+{
+    "uid": "9e1cb259a9cd46e1ad20bfa4213e6afb",
+    "name": "Thành phố Kon Tum",
+    "wards": [
+        {
+            "uid": "913ee26e79c54eccbce089c5676ce8b5",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "d7bee9024915484fa7b77f23773f9786",
+            "name": "Phường Duy Tân"
+        },
+        {
+            "uid": "d9faf85174be4683b12add18d93dca12",
+            "name": "Phường Quyết Thắng"
+        },
+        {
+            "uid": "eeb7c0cc16bc4075b3ff928381d6ce24",
+            "name": "Phường Trường Chinh"
+        },
+        {
+            "uid": "e4b855b4a2d2480d9a08c573ff3056dd",
+            "name": "Phường Thắng Lợi"
+        },
+        {
+            "uid": "2fe356b180e24290bfd5b8ad2abfa07d",
+            "name": "Phường Ngô Mây"
+        },
+        {
+            "uid": "099ce02a6fb34e80a0fe7c0cb45ff11a",
+            "name": "Phường Thống Nhất"
+        },
+        {
+            "uid": "d46c6efcb28544c6ab5ea48f47f75a55",
+            "name": "Phường Lê Lợi"
+        },
+        {
+            "uid": "20dcfb4f8ada41cbad580cbc90f97ab4",
+            "name": "Phường Nguyễn Trãi"
+        },
+        {
+            "uid": "eb0dfca058594bec9fb7403a38e93ecb",
+            "name": "Phường Trần Hưng Đạo"
+        },
+        {
+            "uid": "a9bac16b89c84a33ace9ac51125acca2",
+            "name": "Xã Đắk Cấm"
+        },
+        {
+            "uid": "1f8bc5b20f204a3a929ff7faeb4bbfac",
+            "name": "Xã Kroong"
+        },
+        {
+            "uid": "6f24a13a33e84324bacc26bcaac2e5a0",
+            "name": "Xã Ngọk Bay"
+        },
+        {
+            "uid": "90e1b151c14841ec8b8e32e60486e56d",
+            "name": "Xã Vinh Quang"
+        },
+        {
+            "uid": "85b27aadf1274a64bfed315d41dc9806",
+            "name": "Xã Đắk Blà"
+        },
+        {
+            "uid": "a7208284bf0e4aea93200d85623d26f7",
+            "name": "Xã Ia Chim"
+        },
+        {
+            "uid": "1da8f0d85fd24585aee33bddd3987b7d",
+            "name": "Xã Đăk Năng"
+        },
+        {
+            "uid": "776bc5a8b1ae4f96bf827a09b45ee58c",
+            "name": "Xã Đoàn Kết"
+        },
+        {
+            "uid": "edc955cefa5d4542961ef8ef9c407325",
+            "name": "Xã Chư Hreng"
+        },
+        {
+            "uid": "132230bca3524a7d854413833e585f31",
+            "name": "Xã Đắk Rơ Wa"
+        },
+        {
+            "uid": "1cfc7b8980b649ab8df3bb0a7083ac9e",
+            "name": "Xã Hòa Bình"
+        }
+    ]
+}

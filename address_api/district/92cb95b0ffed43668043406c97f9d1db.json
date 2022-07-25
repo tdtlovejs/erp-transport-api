@@ -1,0 +1,58 @@
+{
+    "uid": "92cb95b0ffed43668043406c97f9d1db",
+    "name": "Huyện Quế Sơn",
+    "wards": [
+        {
+            "uid": "a1f2f88933114cf5b57a099ad52edb34",
+            "name": "Thị trấn Đông Phú"
+        },
+        {
+            "uid": "41d51e6623ae478cb63b8e2154802efb",
+            "name": "Xã Quế Xuân 1"
+        },
+        {
+            "uid": "c1b19ba18cb145b4af6b6ed84fedfca4",
+            "name": "Xã Quế Xuân 2"
+        },
+        {
+            "uid": "c973964f03d24b0491fcabd623622245",
+            "name": "Xã Quế Phú"
+        },
+        {
+            "uid": "e269b6a5d7bd494c958aa958e8beb1bb",
+            "name": "Thị trấn Hương An"
+        },
+        {
+            "uid": "46e571f23a3a4bf982f659e4e317432a",
+            "name": "Xã Quế Hiệp"
+        },
+        {
+            "uid": "7e0071b42b4f45feb96bb54fdd0ec039",
+            "name": "Xã Quế Thuận"
+        },
+        {
+            "uid": "47d7cb18547f49fca6240bb9996a6a5c",
+            "name": "Xã Quế Mỹ"
+        },
+        {
+            "uid": "245371818afa4fca9bf924c9e617c5dc",
+            "name": "Xã Quế Long"
+        },
+        {
+            "uid": "08e5c73bcb724c57b20c69488a5a8281",
+            "name": "Xã Quế Châu"
+        },
+        {
+            "uid": "67ae1ab8ef8048608bd1e640883043b0",
+            "name": "Xã Quế Phong"
+        },
+        {
+            "uid": "49c5e4760fb740e7997af6fbf5211856",
+            "name": "Xã Quế An"
+        },
+        {
+            "uid": "7c903f31dd244cb7b9d013773e9eb87b",
+            "name": "Xã Quế Minh"
+        }
+    ]
+}

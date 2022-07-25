@@ -1,0 +1,46 @@
+{
+    "uid": "9cc6b1833f3e4f0e9bbb35552afd31a3",
+    "name": "Huyện Bắc Tân Uyên",
+    "wards": [
+        {
+            "uid": "8161ebbab531485b827bf2242a94f880",
+            "name": "Xã Tân Định"
+        },
+        {
+            "uid": "44b5c4db50ad45fa9811fe41c7cb7c52",
+            "name": "Xã Bình Mỹ"
+        },
+        {
+            "uid": "5666fff3d8ad49a89723140cda03c850",
+            "name": "Thị trấn Tân Bình"
+        },
+        {
+            "uid": "3a096ba7a1cc41c09926d52a2bfbfc57",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "f74458a827b049e38ad198406919996c",
+            "name": "Thị trấn Tân Thành"
+        },
+        {
+            "uid": "3f7377f5b9134610aa1ab29db17e9e13",
+            "name": "Xã Đất Cuốc"
+        },
+        {
+            "uid": "883f6e7ee00d48e0a647a82adfafd48d",
+            "name": "Xã Hiếu Liêm"
+        },
+        {
+            "uid": "c48b4efbdd85453faa5d249a0ed50ec0",
+            "name": "Xã Lạc An"
+        },
+        {
+            "uid": "ef455c4828fa413c9fda5d1b86d9021d",
+            "name": "Xã Tân Mỹ"
+        },
+        {
+            "uid": "c46e118bfeed4f9984b795824ce0cf3d",
+            "name": "Xã Thường Tân"
+        }
+    ]
+}

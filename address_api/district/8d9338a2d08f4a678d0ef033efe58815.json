@@ -1,0 +1,90 @@
+{
+    "uid": "8d9338a2d08f4a678d0ef033efe58815",
+    "name": "Huyện Bát Xát",
+    "wards": [
+        {
+            "uid": "0f6c5b400dee4e68a78cf0fd4fc0254f",
+            "name": "Thị trấn Bát Xát"
+        },
+        {
+            "uid": "e311bc0bc5e84c75988875ac884fa348",
+            "name": "Xã A Mú Sung"
+        },
+        {
+            "uid": "58de779728d647308a780ce79e43042e",
+            "name": "Xã Nậm Chạc"
+        },
+        {
+            "uid": "1374c5bedf5e43fcb26b97e5b861f9ea",
+            "name": "Xã A Lù"
+        },
+        {
+            "uid": "143c45da4ba94eb9b2466c1e685a0602",
+            "name": "Xã Trịnh Tường"
+        },
+        {
+            "uid": "a87993d05535466eb3000f320c161c04",
+            "name": "Xã Y Tý"
+        },
+        {
+            "uid": "da6462adea2f460782cddda5eb8cc729",
+            "name": "Xã Cốc Mỳ"
+        },
+        {
+            "uid": "4a341636f9c84585b6e0d7282f2d7f49",
+            "name": "Xã Dền Sáng"
+        },
+        {
+            "uid": "91d04e80b8704d66bb8f50be9b8d59e1",
+            "name": "Xã Bản Vược"
+        },
+        {
+            "uid": "0744c14bbd26411c8f2890eec564e22b",
+            "name": "Xã Sàng Ma Sáo"
+        },
+        {
+            "uid": "8eb2348870a04f9d8b3324e3b51fe949",
+            "name": "Xã Bản Qua"
+        },
+        {
+            "uid": "94ef0842dce9457cb9f9cd32fa7c9504",
+            "name": "Xã Mường Vi"
+        },
+        {
+            "uid": "82903e28d61c4370bf539f5d8ffb2601",
+            "name": "Xã Dền Thàng"
+        },
+        {
+            "uid": "208b287f48cb429182d1e71a4c15dcff",
+            "name": "Xã Bản Xèo"
+        },
+        {
+            "uid": "7aad7970b0a244feb5c7480de1038d2a",
+            "name": "Xã Mường Hum"
+        },
+        {
+            "uid": "ed8131b149ae450bbc5f0cfd8a8e1632",
+            "name": "Xã Trung Lèng Hồ"
+        },
+        {
+            "uid": "cbbbc39eb14a475fab090e7d917362c6",
+            "name": "Xã Quang Kim"
+        },
+        {
+            "uid": "5421eb61e40a4dc1b9b690bdd5501fa5",
+            "name": "Xã Pa Cheo"
+        },
+        {
+            "uid": "11edb658fe214960b2c5ee344aa54848",
+            "name": "Xã Nậm Pung"
+        },
+        {
+            "uid": "0ae90798654d4b7e97525cbe7a2536ad",
+            "name": "Xã Phìn Ngan"
+        },
+        {
+            "uid": "b3b3923a20e845158c5708b7c326ba58",
+            "name": "Xã Tòng Sành"
+        }
+    ]
+}

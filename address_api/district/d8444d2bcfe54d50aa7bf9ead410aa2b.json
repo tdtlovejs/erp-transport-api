@@ -1,0 +1,42 @@
+{
+    "uid": "d8444d2bcfe54d50aa7bf9ead410aa2b",
+    "name": "Thành phố Vĩnh Yên",
+    "wards": [
+        {
+            "uid": "69edebd0c5b14ab488e5393cdceb494c",
+            "name": "Phường Tích Sơn"
+        },
+        {
+            "uid": "52f605515c714d1c8be066a3a0f57f50",
+            "name": "Phường Liên Bảo"
+        },
+        {
+            "uid": "6c07f9d7053c446783f98270d4492d86",
+            "name": "Phường Hội Hợp"
+        },
+        {
+            "uid": "067413e4d0394b66b942a272bce2cc12",
+            "name": "Phường Đống Đa"
+        },
+        {
+            "uid": "d2b37781b4a34f0b8ce26869c2d59d45",
+            "name": "Phường Ngô Quyền"
+        },
+        {
+            "uid": "2ab0fc5c0c6e434591533dc988e6199f",
+            "name": "Phường Đồng Tâm"
+        },
+        {
+            "uid": "ecfda11aa23e4f9db9211d32341b6600",
+            "name": "Xã Định Trung"
+        },
+        {
+            "uid": "e6305a97af2947bfa696022be49f87a1",
+            "name": "Phường Khai Quang"
+        },
+        {
+            "uid": "d23a70b885a048e78067a9570fd6b011",
+            "name": "Xã Thanh Trù"
+        }
+    ]
+}

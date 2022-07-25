@@ -1,0 +1,46 @@
+{
+    "uid": "1b929424fb024bcc963622a6763ed873",
+    "name": "Huyện Châu Thành A",
+    "wards": [
+        {
+            "uid": "32ff8055d5384910bff60a22786ca197",
+            "name": "Thị trấn Một Ngàn"
+        },
+        {
+            "uid": "315571b0294542ac8ee6aa12c37072ee",
+            "name": "Xã Tân Hoà"
+        },
+        {
+            "uid": "aa44518b73604b6fbfea9942ee2b3bd9",
+            "name": "Thị trấn Bảy Ngàn"
+        },
+        {
+            "uid": "d639fb7c7bfc44b88ae6f509220057e1",
+            "name": "Xã Trường Long Tây"
+        },
+        {
+            "uid": "1353df69ff8f4eee89c293ceb2040c68",
+            "name": "Xã Trường Long A"
+        },
+        {
+            "uid": "5584663997d94604b9714c4d98102411",
+            "name": "Xã Nhơn Nghĩa A"
+        },
+        {
+            "uid": "f556f5f7ee6b4d479d767cd2941c805b",
+            "name": "Thị trấn Rạch Gòi"
+        },
+        {
+            "uid": "695cbca39fc44538945ce70b5a80538b",
+            "name": "Xã Thạnh Xuân"
+        },
+        {
+            "uid": "a91357c3c8134935a626d72ec883590f",
+            "name": "Thị trấn Cái Tắc"
+        },
+        {
+            "uid": "c9c7b4b0f13148fd8ba3355f46df89d7",
+            "name": "Xã Tân Phú Thạnh"
+        }
+    ]
+}

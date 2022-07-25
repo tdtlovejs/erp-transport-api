@@ -1,0 +1,46 @@
+{
+    "uid": "5ceaec8372574f20b66a4e05a8771d80",
+    "name": "Thị xã Hoàng Mai",
+    "wards": [
+        {
+            "uid": "a530a3d103d240ff8f9977e59ffe1a12",
+            "name": "Xã Quỳnh Vinh"
+        },
+        {
+            "uid": "27c2f13243fe4caa8fe1cc1af99962d6",
+            "name": "Xã Quỳnh Lộc"
+        },
+        {
+            "uid": "7e6e7aa16db741de893d9660f3f9d523",
+            "name": "Phường Quỳnh Thiện"
+        },
+        {
+            "uid": "887c6435a92f4606a976ad7854158e9c",
+            "name": "Xã Quỳnh Lập"
+        },
+        {
+            "uid": "b5b907ba891c4447a76cc1ebd2ef9b62",
+            "name": "Xã Quỳnh Trang"
+        },
+        {
+            "uid": "e6f81586381d449cad17d4266d1e2fb7",
+            "name": "Phường Mai Hùng"
+        },
+        {
+            "uid": "481906c8f72944e69fd8c8f0f979fdd3",
+            "name": "Phường Quỳnh Dị"
+        },
+        {
+            "uid": "fb6c5bfa4e0644e9aff512413278f758",
+            "name": "Phường Quỳnh Xuân"
+        },
+        {
+            "uid": "798d28cfa68c495a992354dd89b364fc",
+            "name": "Phường Quỳnh Phương"
+        },
+        {
+            "uid": "5cf90a6fae2d4a1c942ed36265d760a1",
+            "name": "Xã Quỳnh Liên"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "uid": "dcda9e63eb1449608cc0f59678b94863",
+    "name": "Huyện Pác Nặm",
+    "wards": [
+        {
+            "uid": "cfdf4448d26344e092f9d37aedc19afa",
+            "name": "Xã Bằng Thành"
+        },
+        {
+            "uid": "ddd6a158c9fe4ac2a54edd261e03953e",
+            "name": "Xã Nhạn Môn"
+        },
+        {
+            "uid": "65b3070a004e4eaebf919d477cc1f16b",
+            "name": "Xã Bộc Bố"
+        },
+        {
+            "uid": "e21a6a9eb18540459f09c88b680b5d95",
+            "name": "Xã Công Bằng"
+        },
+        {
+            "uid": "43c60374225348e985407125e4651c6c",
+            "name": "Xã Giáo Hiệu"
+        },
+        {
+            "uid": "5ccd741b438c480994b9b36d83fee278",
+            "name": "Xã Xuân La"
+        },
+        {
+            "uid": "9706d03aa3ca454bbd57960cc32f65c3",
+            "name": "Xã An Thắng"
+        },
+        {
+            "uid": "dc096221669049edae8142a43927318b",
+            "name": "Xã Cổ Linh"
+        },
+        {
+            "uid": "8d6631e28c224b0e8a42a29d01bfd054",
+            "name": "Xã Nghiên Loan"
+        },
+        {
+            "uid": "1453de10f76449c7a1e3a8f73f32f7b8",
+            "name": "Xã Cao Tân"
+        }
+    ]
+}

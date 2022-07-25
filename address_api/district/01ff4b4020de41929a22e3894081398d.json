@@ -1,0 +1,70 @@
+{
+    "uid": "01ff4b4020de41929a22e3894081398d",
+    "name": "Huyện Đan Phượng",
+    "wards": [
+        {
+            "uid": "dc331ba0bde74b74bb865a5418c33c82",
+            "name": "Thị trấn Phùng"
+        },
+        {
+            "uid": "2d0d143ccc8c44b38fbdcdac9f0262dd",
+            "name": "Xã Trung Châu"
+        },
+        {
+            "uid": "b54a001fee4242348042583d19e0f7dd",
+            "name": "Xã Thọ An"
+        },
+        {
+            "uid": "59edd0ac2d414388a7adfbd5a550ad93",
+            "name": "Xã Thọ Xuân"
+        },
+        {
+            "uid": "c2e4cb466a804ee18b088f81383d512f",
+            "name": "Xã Hồng Hà"
+        },
+        {
+            "uid": "0f3abd210c1b4950b69491f2ca98bf23",
+            "name": "Xã Liên Hồng"
+        },
+        {
+            "uid": "0a17340656704f8caa5b4b89a7a62db6",
+            "name": "Xã Liên Hà"
+        },
+        {
+            "uid": "5c895b1ea3af4dcea8797bcea1a8a262",
+            "name": "Xã Hạ Mỗ"
+        },
+        {
+            "uid": "7efc3dbb2eb543a28882a78df2d9d28a",
+            "name": "Xã Liên Trung"
+        },
+        {
+            "uid": "e5638eee843945dca07e55a0d5c33a91",
+            "name": "Xã Phương Đình"
+        },
+        {
+            "uid": "b1507de7d91c47958fa565f1dc70b4c0",
+            "name": "Xã Thượng Mỗ"
+        },
+        {
+            "uid": "b8613825d3d64f4bbe798dbce06da6cc",
+            "name": "Xã Tân Hội"
+        },
+        {
+            "uid": "712d44139f44448ba50a543a25e2304c",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "75480f51628b4b8991dd47cc5c79da6b",
+            "name": "Xã Đan Phượng"
+        },
+        {
+            "uid": "c708a893e80542a38dbdf241b0bc9273",
+            "name": "Xã Đồng Tháp"
+        },
+        {
+            "uid": "18de589ce06143c3b89b7e6857a1a2a2",
+            "name": "Xã Song Phượng"
+        }
+    ]
+}

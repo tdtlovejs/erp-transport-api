@@ -1,0 +1,46 @@
+{
+    "uid": "063820633300478f8e87d3467bed5f82",
+    "name": "Huyện Ngân Sơn",
+    "wards": [
+        {
+            "uid": "d08ea29f4f4448ac9ee8cd9548cec085",
+            "name": "Thị trấn Nà Phặc"
+        },
+        {
+            "uid": "27510d7c8cd64e7a94fa0fdb88623b14",
+            "name": "Xã Thượng Ân"
+        },
+        {
+            "uid": "7e9bf35b972b4056ae216685275447ad",
+            "name": "Xã Bằng Vân"
+        },
+        {
+            "uid": "2157c6d0525e4a8e922520a78e5dbb4b",
+            "name": "Xã Cốc Đán"
+        },
+        {
+            "uid": "8d56a0b1504d4ee28afdd9bf7cb60cea",
+            "name": "Xã Trung Hoà"
+        },
+        {
+            "uid": "614de53f5d124f6699762fd02d333212",
+            "name": "Xã Đức Vân"
+        },
+        {
+            "uid": "bfd6f0e502e044d8a253d7388c931d54",
+            "name": "Xã Vân Tùng"
+        },
+        {
+            "uid": "c4c78fc07d524ec3b8e4d0aa80140c41",
+            "name": "Xã Thượng Quan"
+        },
+        {
+            "uid": "64adba095ac64e10812e576216ed4ec9",
+            "name": "Xã Hiệp Lực"
+        },
+        {
+            "uid": "25fbc9a7d18d481ba8c2cfe02e66fe8b",
+            "name": "Xã Thuần Mang"
+        }
+    ]
+}

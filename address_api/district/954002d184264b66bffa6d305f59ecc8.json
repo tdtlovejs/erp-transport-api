@@ -1,0 +1,42 @@
+{
+    "uid": "954002d184264b66bffa6d305f59ecc8",
+    "name": "Huyện Đầm Hà",
+    "wards": [
+        {
+            "uid": "c4aa8b62626f46f3a70ab6c354d6fe1e",
+            "name": "Thị trấn Đầm Hà"
+        },
+        {
+            "uid": "a6a0964f5814442ebcf75fd1a2ee324e",
+            "name": "Xã Quảng Lâm"
+        },
+        {
+            "uid": "c6f2c12becd34ba08a4b96b5377eaefd",
+            "name": "Xã Quảng An"
+        },
+        {
+            "uid": "16085e8c92ea47bc9690589510d4bfaa",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "0e763a56c5e84ff580769a2649f10e35",
+            "name": "Xã Dực Yên"
+        },
+        {
+            "uid": "ac3816755d374eac8382b909f3493ae6",
+            "name": "Xã Quảng Tân"
+        },
+        {
+            "uid": "eaabe9ed415f4639a832ed7bcad1e058",
+            "name": "Xã Đầm Hà"
+        },
+        {
+            "uid": "342c6677b4bc4ce38200789238aeebf7",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "71324fe22f3e47d9934c0691dc0e0951",
+            "name": "Xã Đại Bình"
+        }
+    ]
+}

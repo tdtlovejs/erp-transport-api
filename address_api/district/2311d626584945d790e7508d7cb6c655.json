@@ -1,0 +1,54 @@
+{
+    "uid": "2311d626584945d790e7508d7cb6c655",
+    "name": "Huyện Ea H'leo",
+    "wards": [
+        {
+            "uid": "87735be1782f4aa590ba8a80a0731707",
+            "name": "Thị trấn Ea Drăng"
+        },
+        {
+            "uid": "a7bf122bc12d426f8ec17b05c24813c4",
+            "name": "Xã Ea H'leo"
+        },
+        {
+            "uid": "1654ee1ccb4b4ce299fbf03d24a40be1",
+            "name": "Xã Ea Sol"
+        },
+        {
+            "uid": "4577df8c066b4be9824ede2a06f6ee59",
+            "name": "Xã Ea Ral"
+        },
+        {
+            "uid": "d3d85cf0f4da4c05aeb65c835b7df708",
+            "name": "Xã Ea Wy"
+        },
+        {
+            "uid": "4698b991db9947d09e1648ba21fec159",
+            "name": "Xã Cư A Mung"
+        },
+        {
+            "uid": "2f8257c8e1a74c9093e0e9a6f33e4ba5",
+            "name": "Xã Cư Mốt"
+        },
+        {
+            "uid": "dc0fad000a6541acb4ebed28a67ac63a",
+            "name": "Xã Ea Hiao"
+        },
+        {
+            "uid": "2a61c2c4a0914c6ab39f6f7f9c7b4879",
+            "name": "Xã Ea Khal"
+        },
+        {
+            "uid": "1388b120b74644dba2329348822f35a8",
+            "name": "Xã Dliê Yang"
+        },
+        {
+            "uid": "2f489b6dae6a47aab33a7cb83c6bd108",
+            "name": "Xã Ea Tir"
+        },
+        {
+            "uid": "88d9cab9fcc64d32918dcc6b58a4cb36",
+            "name": "Xã Ea Nam"
+        }
+    ]
+}

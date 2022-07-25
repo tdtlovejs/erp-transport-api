@@ -1,0 +1,34 @@
+{
+    "uid": "c675698a951a4fee8a960879a3ce98bf",
+    "name": "Quận Sơn Trà",
+    "wards": [
+        {
+            "uid": "4b14bf8179bf440e87e4efb3700bde39",
+            "name": "Phường Thọ Quang"
+        },
+        {
+            "uid": "05091acea9344a369052b079ccbb5482",
+            "name": "Phường Nại Hiên Đông"
+        },
+        {
+            "uid": "5443c187ec47495f9f5d366ffb104810",
+            "name": "Phường Mân Thái"
+        },
+        {
+            "uid": "6a6f781ba71d4310b0dec63377f0e521",
+            "name": "Phường An Hải Bắc"
+        },
+        {
+            "uid": "2ce9be589cef461388b65a95b96212d9",
+            "name": "Phường Phước Mỹ"
+        },
+        {
+            "uid": "c693bf0332f446bd8cae7272ff858e09",
+            "name": "Phường An Hải Tây"
+        },
+        {
+            "uid": "4736774677c74170bc6c874dcd09567e",
+            "name": "Phường An Hải Đông"
+        }
+    ]
+}

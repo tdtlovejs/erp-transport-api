@@ -1,0 +1,78 @@
+{
+    "uid": "ee918eef31884d539b3449e5bb442c5a",
+    "name": "Huyện Yên Dũng",
+    "wards": [
+        {
+            "uid": "20568e02b48a4c178be7b82d221aa2e8",
+            "name": "Thị trấn Nham Biền"
+        },
+        {
+            "uid": "e3515566fc68406b934144587227af8d",
+            "name": "Thị trấn Tân An"
+        },
+        {
+            "uid": "082b7d1a55574d03be5c4ff81f5dd2bc",
+            "name": "Xã Lão Hộ"
+        },
+        {
+            "uid": "9cb2c28a880f4c3185bb18fda531d446",
+            "name": "Xã Hương Gián"
+        },
+        {
+            "uid": "5caa1bd47bad45699c174d2224e2499d",
+            "name": "Xã Quỳnh Sơn"
+        },
+        {
+            "uid": "e8686b0eca994530885b3992f2c99762",
+            "name": "Xã Nội Hoàng"
+        },
+        {
+            "uid": "65b4ddd496d14da094246ce47297445e",
+            "name": "Xã Tiền Phong"
+        },
+        {
+            "uid": "6d43cb349968452cbd36ce13688e8edb",
+            "name": "Xã Xuân Phú"
+        },
+        {
+            "uid": "9309048de60c4cd298211a760d0b47ec",
+            "name": "Xã Tân Liễu"
+        },
+        {
+            "uid": "0c1349802035434ca5a52ab326c49494",
+            "name": "Xã Trí Yên"
+        },
+        {
+            "uid": "930b283fae4e4adcb9b655ab399c57f0",
+            "name": "Xã Lãng Sơn"
+        },
+        {
+            "uid": "459d31dfc5ca4553aa2f89fb9b899a22",
+            "name": "Xã Yên Lư"
+        },
+        {
+            "uid": "cf61ba5cb2aa464cbb0fd6a527847521",
+            "name": "Xã Tiến Dũng"
+        },
+        {
+            "uid": "b3344781fcf84e4dacedeeb11331f67f",
+            "name": "Xã Đức Giang"
+        },
+        {
+            "uid": "76618f031fa24205abe396971e16be9e",
+            "name": "Xã Cảnh Thụy"
+        },
+        {
+            "uid": "b499066c6ae8416c837a196ed98cf848",
+            "name": "Xã Tư Mại"
+        },
+        {
+            "uid": "2c681451598c4efda6b18bd47dd5f595",
+            "name": "Xã Đồng Việt"
+        },
+        {
+            "uid": "671248f38cc54a1799420cb833eabad2",
+            "name": "Xã Đồng Phúc"
+        }
+    ]
+}

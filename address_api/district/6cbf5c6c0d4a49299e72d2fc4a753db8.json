@@ -1,0 +1,82 @@
+{
+    "uid": "6cbf5c6c0d4a49299e72d2fc4a753db8",
+    "name": "Huyện Giồng Riềng",
+    "wards": [
+        {
+            "uid": "ce38e9645f6447a9bf2a3c635e70356a",
+            "name": "Thị Trấn Giồng Riềng"
+        },
+        {
+            "uid": "022551d6e86d4474974970764e3979d6",
+            "name": "Xã Thạnh Hưng"
+        },
+        {
+            "uid": "a42dbfac22464abdbcced12609e42ddb",
+            "name": "Xã Thạnh Phước"
+        },
+        {
+            "uid": "2d8fdc8e71194d2fb607e863ff35bd15",
+            "name": "Xã Thạnh Lộc"
+        },
+        {
+            "uid": "fca67076cd5d44c2b2738c3f44b807f8",
+            "name": "Xã Thạnh Hòa"
+        },
+        {
+            "uid": "fccf7bd05f59483ea8895f230047f72d",
+            "name": "Xã Thạnh Bình"
+        },
+        {
+            "uid": "49488f8ea5b14d33b34829ea6d0f1619",
+            "name": "Xã Bàn Thạch"
+        },
+        {
+            "uid": "e0271d92f9674a458da497654ac8ebfa",
+            "name": "Xã Bàn Tân Định"
+        },
+        {
+            "uid": "1c3e863a04c641aa9364659845d04cea",
+            "name": "Xã Ngọc Thành"
+        },
+        {
+            "uid": "1e3706e62ec743b892474955b2aada02",
+            "name": "Xã Ngọc Chúc"
+        },
+        {
+            "uid": "56dd6307b56148f5951ea385854d9eb3",
+            "name": "Xã Ngọc Thuận"
+        },
+        {
+            "uid": "f92ef624a5714e3e92ae91e1b7235016",
+            "name": "Xã Hòa Hưng"
+        },
+        {
+            "uid": "c231906c6a944eedbaedf4eac9d08d9e",
+            "name": "Xã Hoà Lợi"
+        },
+        {
+            "uid": "b7c397232a694a5eb62ccbbb7b3832c7",
+            "name": "Xã Hoà An"
+        },
+        {
+            "uid": "eb8eb30a557245dea3ab6f2c682178d3",
+            "name": "Xã Long Thạnh"
+        },
+        {
+            "uid": "97bd499fb7ed43dabee06472801621fc",
+            "name": "Xã Vĩnh Thạnh"
+        },
+        {
+            "uid": "3d0c3723cb664b78a1922e09db8fd5c5",
+            "name": "Xã Vĩnh Phú"
+        },
+        {
+            "uid": "f18adccd7fc6469ea6791f88dbc25c44",
+            "name": "Xã Hòa Thuận"
+        },
+        {
+            "uid": "0689478a8482423fb295ded07b57043e",
+            "name": "Xã Ngọc Hoà"
+        }
+    ]
+}

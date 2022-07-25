@@ -1,0 +1,42 @@
+{
+    "uid": "aebaa87cfc334ea4b849372bc71ac002",
+    "name": "Huyện Đạ Tẻh",
+    "wards": [
+        {
+            "uid": "cce308edd8f341d3a4e467cc06cbb47e",
+            "name": "Thị trấn Đạ Tẻh"
+        },
+        {
+            "uid": "bdace00f8f784bbebc0717a6be7aaa83",
+            "name": "Xã An Nhơn"
+        },
+        {
+            "uid": "835c6dda3c594e25a9510dbcf392b91f",
+            "name": "Xã Quốc Oai"
+        },
+        {
+            "uid": "ac45609e4cae4a8995bc52237af5f5ff",
+            "name": "Xã Mỹ Đức"
+        },
+        {
+            "uid": "6ef46c1196114c85b31dbbea7ff2901d",
+            "name": "Xã Quảng Trị"
+        },
+        {
+            "uid": "7e8cefd5f45f4354b4cfde3406899254",
+            "name": "Xã Đạ Lây"
+        },
+        {
+            "uid": "ee3f6418aaad4327bddd6db212bb2aed",
+            "name": "Xã Triệu Hải"
+        },
+        {
+            "uid": "3c4902540a8d4d24a4947ed883307740",
+            "name": "Xã Đạ Kho"
+        },
+        {
+            "uid": "3be22bfe96ea4c6daa6fa38210c140b4",
+            "name": "Xã Đạ Pal"
+        }
+    ]
+}

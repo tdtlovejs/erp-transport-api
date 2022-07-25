@@ -1,0 +1,86 @@
+{
+    "uid": "4a74d9ee0fa24cbf8b85c35e70208297",
+    "name": "Thị xã Điện Bàn",
+    "wards": [
+        {
+            "uid": "bb736b1425bc4d5489ba2c2b7084732c",
+            "name": "Phường Vĩnh Điện"
+        },
+        {
+            "uid": "77280fbbc35d48028596d21b36a05b2f",
+            "name": "Xã Điện Tiến"
+        },
+        {
+            "uid": "41fbfb938b4c41809c9427c1c42d83dc",
+            "name": "Xã Điện Hòa"
+        },
+        {
+            "uid": "2111eccd86e643f6b1a9607f92ba7a7c",
+            "name": "Xã Điện Thắng Bắc"
+        },
+        {
+            "uid": "453e84a330cd47cf9b77a8406baffab8",
+            "name": "Xã Điện Thắng Trung"
+        },
+        {
+            "uid": "46fd4489a1eb4aab8f500f600a51b23e",
+            "name": "Xã Điện Thắng Nam"
+        },
+        {
+            "uid": "79eb401bd2c744c0a12426c17923a2ce",
+            "name": "Phường Điện Ngọc"
+        },
+        {
+            "uid": "79166599b6364303aa879e00d79126a8",
+            "name": "Xã Điện Hồng"
+        },
+        {
+            "uid": "ade8565659414496b533db95570499f9",
+            "name": "Xã Điện Thọ"
+        },
+        {
+            "uid": "1b94336ec8cc4675bd3b2a947368391e",
+            "name": "Xã Điện Phước"
+        },
+        {
+            "uid": "0574c4b6273a4950aa38c9fb0d56ebd3",
+            "name": "Phường Điện An"
+        },
+        {
+            "uid": "c091bf5807474047bea605b0ebce196c",
+            "name": "Phường Điện Nam Bắc"
+        },
+        {
+            "uid": "bf4873e319964bf1affdac6a6a8907b8",
+            "name": "Phường Điện Nam Trung"
+        },
+        {
+            "uid": "609cacba153e47c280a1fb17296e08f7",
+            "name": "Phường Điện Nam Đông"
+        },
+        {
+            "uid": "bc4410b0e69e4e9b9f878fa838c2cf18",
+            "name": "Phường Điện Dương"
+        },
+        {
+            "uid": "f3b36450f3f24dcf98be965a7c589482",
+            "name": "Xã Điện Quang"
+        },
+        {
+            "uid": "660e47111173487599bd237946f7b359",
+            "name": "Xã Điện Trung"
+        },
+        {
+            "uid": "d5aa6580cc90475184246b4915f96f7a",
+            "name": "Xã Điện Phong"
+        },
+        {
+            "uid": "8971f3b7f40b46e2b9a25dbcdd5da1a7",
+            "name": "Xã Điện Minh"
+        },
+        {
+            "uid": "4c028a7f8ade4812b1c5e74712a37c46",
+            "name": "Xã Điện Phương"
+        }
+    ]
+}

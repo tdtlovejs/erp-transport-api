@@ -1,0 +1,90 @@
+{
+    "uid": "8fae9265ecff40ebbd7795b6bdba560e",
+    "name": "Quận Đống Đa",
+    "wards": [
+        {
+            "uid": "f68ee45f664947a5947adc0d2bf4fc65",
+            "name": "Phường Cát Linh"
+        },
+        {
+            "uid": "d93dcbb0d7564059a133487b2a7a8108",
+            "name": "Phường Văn Miếu"
+        },
+        {
+            "uid": "d51e7b75656449d2ad17f2ea8c665511",
+            "name": "Phường Quốc Tử Giám"
+        },
+        {
+            "uid": "53bef0cb301b468790a1d48f04a6f87d",
+            "name": "Phường Láng Thượng"
+        },
+        {
+            "uid": "2da895f096244a4488367b586d14772b",
+            "name": "Phường Ô Chợ Dừa"
+        },
+        {
+            "uid": "312ab93280c042d0a022f1421107d50c",
+            "name": "Phường Văn Chương"
+        },
+        {
+            "uid": "70bb4d795c4946d38e3895c2154591dd",
+            "name": "Phường Hàng Bột"
+        },
+        {
+            "uid": "ca3982173b9e43cf82e8649f2e054884",
+            "name": "Phường Láng Hạ"
+        },
+        {
+            "uid": "c21c133ea82c4c9c8c6507eecf02577a",
+            "name": "Phường Khâm Thiên"
+        },
+        {
+            "uid": "cdf76a9960ac4b41aa6b77aa8a8d7d19",
+            "name": "Phường Thổ Quan"
+        },
+        {
+            "uid": "acf4092add5d4593bf6f24945a3fb589",
+            "name": "Phường Nam Đồng"
+        },
+        {
+            "uid": "cf0506c689fe44949ea6c6bf9baf2a4c",
+            "name": "Phường Trung Phụng"
+        },
+        {
+            "uid": "767a244349eb4a028472abd367e36f9c",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "54e9010302ce49febff769b0ef437ec4",
+            "name": "Phường Trung Liệt"
+        },
+        {
+            "uid": "0606135b812c47198d4fde111651e598",
+            "name": "Phường Phương Liên"
+        },
+        {
+            "uid": "872e33f392654b3ca63caadee4630fc5",
+            "name": "Phường Thịnh Quang"
+        },
+        {
+            "uid": "2704c196af85470e8eba29d26fa55d16",
+            "name": "Phường Trung Tự"
+        },
+        {
+            "uid": "22596145416648539e8f16182a9c40ee",
+            "name": "Phường Kim Liên"
+        },
+        {
+            "uid": "1ebbf6bc31f34df4ba9ee9337991902b",
+            "name": "Phường Phương Mai"
+        },
+        {
+            "uid": "5479ae92dd924f4983d2de6adb0a18d8",
+            "name": "Phường Ngã Tư Sở"
+        },
+        {
+            "uid": "87a816cde50f44e09ba932860b1b94b4",
+            "name": "Phường Khương Thượng"
+        }
+    ]
+}

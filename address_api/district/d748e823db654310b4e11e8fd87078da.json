@@ -1,0 +1,58 @@
+{
+    "uid": "d748e823db654310b4e11e8fd87078da",
+    "name": "Huyện Ia Grai",
+    "wards": [
+        {
+            "uid": "7f6182ee9e1f4fa8b74e193a89c431c4",
+            "name": "Thị trấn Ia Kha"
+        },
+        {
+            "uid": "96c1aa1543644b34a6ebdcbcd13a9cb0",
+            "name": "Xã Ia Sao"
+        },
+        {
+            "uid": "d8d9a12bcc02402f9565e274c9d3c416",
+            "name": "Xã Ia Yok"
+        },
+        {
+            "uid": "34fcc865e8e44818b9425fb05b45f441",
+            "name": "Xã Ia Hrung"
+        },
+        {
+            "uid": "8ea15fb99d18434480687b2ec396f795",
+            "name": "Xã Ia Bă"
+        },
+        {
+            "uid": "085e05cee50e4c18892bb6e2a89b0beb",
+            "name": "Xã Ia Khai"
+        },
+        {
+            "uid": "c0f0f467e66244138ec1ee50b0439626",
+            "name": "Xã Ia KRai"
+        },
+        {
+            "uid": "02908153d0a14dd3af8ebba4c42bfee6",
+            "name": "Xã Ia Grăng"
+        },
+        {
+            "uid": "4bc5ae2e668b4306b4ea30fad432b1c8",
+            "name": "Xã Ia Tô"
+        },
+        {
+            "uid": "8f4f4ebc7ac4450e93838f479efcd3db",
+            "name": "Xã Ia O"
+        },
+        {
+            "uid": "dc404de26d694b9b970ef32caf7c56dc",
+            "name": "Xã Ia Dêr"
+        },
+        {
+            "uid": "ed38a8d40c4446fe9da2d53be705a067",
+            "name": "Xã Ia Chia"
+        },
+        {
+            "uid": "4d69c517b83f45b7b959254bf3518c61",
+            "name": "Xã Ia Pếch"
+        }
+    ]
+}

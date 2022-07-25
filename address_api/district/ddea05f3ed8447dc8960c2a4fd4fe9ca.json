@@ -1,0 +1,38 @@
+{
+    "uid": "ddea05f3ed8447dc8960c2a4fd4fe9ca",
+    "name": "Thành phố Lạng Sơn",
+    "wards": [
+        {
+            "uid": "d43163032e6645f7b8b9d4b03792426b",
+            "name": "Phường Hoàng Văn Thụ"
+        },
+        {
+            "uid": "32811d04f55147748bb8793e9d5716fb",
+            "name": "Phường Tam Thanh"
+        },
+        {
+            "uid": "c268bdb55cb4450e829d52bbb0d2bac7",
+            "name": "Phường Vĩnh Trại"
+        },
+        {
+            "uid": "4f21cd7955c84237848234b2ae84b922",
+            "name": "Phường Đông Kinh"
+        },
+        {
+            "uid": "0881c98e8ac04f038a21b804b16a9948",
+            "name": "Phường Chi Lăng"
+        },
+        {
+            "uid": "3d66b403051e47a99f9dd10db93f9683",
+            "name": "Xã Hoàng Đồng"
+        },
+        {
+            "uid": "a3e0a8abc7f84433bec00e0457ed34fb",
+            "name": "Xã Quảng Lạc"
+        },
+        {
+            "uid": "a26fbc5308b04415b589ccb1dba27e34",
+            "name": "Xã Mai Pha"
+        }
+    ]
+}

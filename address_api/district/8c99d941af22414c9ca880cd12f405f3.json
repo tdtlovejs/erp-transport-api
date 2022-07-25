@@ -1,0 +1,46 @@
+{
+    "uid": "8c99d941af22414c9ca880cd12f405f3",
+    "name": "Thành phố Sóc Trăng",
+    "wards": [
+        {
+            "uid": "84849328af004461994711701868c579",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "9aadfd69cd7e492a81e3e22ca9e1a8f3",
+            "name": "Phường 7"
+        },
+        {
+            "uid": "bf19cb773698478a807376aaf23184a3",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "0f79254356b6499998c0463d51d6128b",
+            "name": "Phường 6"
+        },
+        {
+            "uid": "9610de15284a48879781bc9f388b9ec1",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "db1cf2581957479698440409ac59f7f5",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "be63d5df5fe9458290f79c11c2fb618a",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "96bb33ef662d49869df072e5328486c1",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "94c3bd622d0544818206414bab105ffd",
+            "name": "Phường 9"
+        },
+        {
+            "uid": "75505cc86c304c4c82f312c5b1c6bf12",
+            "name": "Phường 10"
+        }
+    ]
+}

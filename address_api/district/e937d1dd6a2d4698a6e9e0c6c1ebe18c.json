@@ -1,0 +1,50 @@
+{
+    "uid": "e937d1dd6a2d4698a6e9e0c6c1ebe18c",
+    "name": "Huyện Sơn Tịnh",
+    "wards": [
+        {
+            "uid": "13b5e08e9cc348b69419ba0d89eea8b1",
+            "name": "Xã Tịnh Thọ"
+        },
+        {
+            "uid": "3a6a3f45c98845cc9cf17b84160bc6bc",
+            "name": "Xã Tịnh Trà"
+        },
+        {
+            "uid": "8d581e4929c7463a9ade20e042c98e47",
+            "name": "Xã Tịnh Phong"
+        },
+        {
+            "uid": "3919eab07490460c88284d7a641ab3b7",
+            "name": "Xã Tịnh Hiệp"
+        },
+        {
+            "uid": "5551e218f0dd4940bc628f2e6a81d01c",
+            "name": "Xã Tịnh Bình"
+        },
+        {
+            "uid": "568121c57ff64084be872acbc5a964bf",
+            "name": "Xã Tịnh Đông"
+        },
+        {
+            "uid": "33bf6b227bbd45729be699930df7ffab",
+            "name": "Xã Tịnh Bắc"
+        },
+        {
+            "uid": "fe941048d35a4c77879f17dcf09b300e",
+            "name": "Xã Tịnh Sơn"
+        },
+        {
+            "uid": "c8177ff24a0940eaa7caf8bedbd2f4d7",
+            "name": "Xã Tịnh Hà"
+        },
+        {
+            "uid": "d09e9610a6924a70807b7543d5fff45e",
+            "name": "Xã Tịnh Giang"
+        },
+        {
+            "uid": "c3cb339b32ef4c348370a73d7aa417eb",
+            "name": "Xã Tịnh Minh"
+        }
+    ]
+}

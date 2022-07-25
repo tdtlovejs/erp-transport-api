@@ -1,0 +1,114 @@
+{
+    "uid": "1ba4db6937764acb9683bcc23c7bf965",
+    "name": "Thị xã Ninh Hòa",
+    "wards": [
+        {
+            "uid": "9197eaf6e69544e8a6707758a7ae2418",
+            "name": "Phường Ninh Hiệp"
+        },
+        {
+            "uid": "8b65c533be8442bc8ef29de86f8578ca",
+            "name": "Xã Ninh Sơn"
+        },
+        {
+            "uid": "1671ebada5944b38b9841c17a542bb4c",
+            "name": "Xã Ninh Tây"
+        },
+        {
+            "uid": "1de6b9ab4d054b21b56f62f8b3cfae6b",
+            "name": "Xã Ninh Thượng"
+        },
+        {
+            "uid": "9c7ee07288994b38b43bb21dc662dcb6",
+            "name": "Xã Ninh An"
+        },
+        {
+            "uid": "c927057b86be47d0b4b56b5229630bb3",
+            "name": "Phường Ninh Hải"
+        },
+        {
+            "uid": "e152ad1f0b6d4deaacad7a3af255269c",
+            "name": "Xã Ninh Thọ"
+        },
+        {
+            "uid": "76c4ff3f340d42649ee75eda0394a585",
+            "name": "Xã Ninh Trung"
+        },
+        {
+            "uid": "855e359114074d02ac2aa114dcf8f3de",
+            "name": "Xã Ninh Sim"
+        },
+        {
+            "uid": "947f878176d642e8b14a846511ea5fcd",
+            "name": "Xã Ninh Xuân"
+        },
+        {
+            "uid": "bc71777315774ef48a534825771b0de2",
+            "name": "Xã Ninh Thân"
+        },
+        {
+            "uid": "eb9488a339e5497abb85c004e5562c42",
+            "name": "Phường Ninh Diêm"
+        },
+        {
+            "uid": "bd2b095e785649f99ed6a5a1578f6933",
+            "name": "Xã Ninh Đông"
+        },
+        {
+            "uid": "1b044787125e4db8906fb2c63ce977ad",
+            "name": "Phường Ninh Thủy"
+        },
+        {
+            "uid": "0e0efac3583e4a50b6756cefa36b64d7",
+            "name": "Phường Ninh Đa"
+        },
+        {
+            "uid": "02d6492f63bb48948366e62339546266",
+            "name": "Xã Ninh Phụng"
+        },
+        {
+            "uid": "80fd8e63500a4eccbbe4b68134804370",
+            "name": "Xã Ninh Bình"
+        },
+        {
+            "uid": "359514c32101497d8ed7786a3c36c979",
+            "name": "Xã Ninh Phước"
+        },
+        {
+            "uid": "0b3bef67425543039c0162b06192396b",
+            "name": "Xã Ninh Phú"
+        },
+        {
+            "uid": "99ccb594c1cd466fb42be7ec602103b6",
+            "name": "Xã Ninh Tân"
+        },
+        {
+            "uid": "3c59b4916dec469996f99c2ac3b4ab6d",
+            "name": "Xã Ninh Quang"
+        },
+        {
+            "uid": "b97c11633bb2411288d35aad51f7484e",
+            "name": "Phường Ninh Giang"
+        },
+        {
+            "uid": "54a3e65986f14fa68796ba0b9f4e6b0c",
+            "name": "Phường Ninh Hà"
+        },
+        {
+            "uid": "3f78b028b75f4fb5b078342514dd3e5f",
+            "name": "Xã Ninh Hưng"
+        },
+        {
+            "uid": "31309f8a1d0a409c9c2a046c60e42403",
+            "name": "Xã Ninh Lộc"
+        },
+        {
+            "uid": "46e6afe7099042799cec696a236f6513",
+            "name": "Xã Ninh Ích"
+        },
+        {
+            "uid": "c5bb0da88cf447b18adfdaa73e3f147d",
+            "name": "Xã Ninh Vân"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "uid": "bc8dd09f27084adf87ee8dc3a28146cf",
+    "name": "Thành phố Long Khánh",
+    "wards": [
+        {
+            "uid": "a2e5355e8b4d4bf8a84f5906632aed38",
+            "name": "Phường Xuân Trung"
+        },
+        {
+            "uid": "cccd0a6d5a0241d891fb2cfa29a693c1",
+            "name": "Phường Xuân Thanh"
+        },
+        {
+            "uid": "00bd3e348bfa4e0099062e31683d0170",
+            "name": "Phường Xuân Bình"
+        },
+        {
+            "uid": "b20262ba95bb4f49b53004dc88961e02",
+            "name": "Phường Xuân An"
+        },
+        {
+            "uid": "34cc4bc618fb44a0b4b682ab155df6a4",
+            "name": "Phường Xuân Hoà"
+        },
+        {
+            "uid": "a11082074aea42a4a1dbf487aa27f39e",
+            "name": "Phường Phú Bình"
+        },
+        {
+            "uid": "02f5c17cb4544701a756a8abb0795ec8",
+            "name": "Xã Bình Lộc"
+        },
+        {
+            "uid": "3bd69be52cb345939fec2f84e7a61c51",
+            "name": "Xã Bảo Quang"
+        },
+        {
+            "uid": "a8cb7921ce8541018bfb538fa239927b",
+            "name": "Phường Suối Tre"
+        },
+        {
+            "uid": "21570bf1fb95424cb4f96105104876d6",
+            "name": "Phường Bảo Vinh"
+        },
+        {
+            "uid": "1ea9b98e51764610987f97b9c0d611fa",
+            "name": "Phường Xuân Lập"
+        },
+        {
+            "uid": "c85fa6f281b14b4380da359f19efb8ca",
+            "name": "Phường Bàu Sen"
+        },
+        {
+            "uid": "9663297e277f4ecb9cc759fcd71ac3ba",
+            "name": "Xã Bàu Trâm"
+        },
+        {
+            "uid": "2c69feeb4295463aa27bf21f0d966434",
+            "name": "Phường Xuân Tân"
+        },
+        {
+            "uid": "f28d825b2489462c8bc8f093f401b57d",
+            "name": "Xã Hàng Gòn"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "uid": "274ce807db084a00a74832cca05b90ac",
+    "name": "Huyện Hàm Thuận Bắc",
+    "wards": [
+        {
+            "uid": "41b3e5ccece74556a51d6440dd0cdbd5",
+            "name": "Thị trấn Ma Lâm"
+        },
+        {
+            "uid": "3a51df3d6bf8470ebd80bc8d6b035844",
+            "name": "Thị trấn Phú Long"
+        },
+        {
+            "uid": "aee5d47660504fb4a1502acd25690782",
+            "name": "Xã La Dạ"
+        },
+        {
+            "uid": "54ea0ca3c0964b758b8d444e6d9e5456",
+            "name": "Xã Đông Tiến"
+        },
+        {
+            "uid": "72d2a5099d28445a9c5d33c158713ccc",
+            "name": "Xã Thuận Hòa"
+        },
+        {
+            "uid": "83604373065c4f64ad056b52fee062c4",
+            "name": "Xã Đông Giang"
+        },
+        {
+            "uid": "04582ba1786a429a957a79916ff8f019",
+            "name": "Xã Hàm Phú"
+        },
+        {
+            "uid": "5ebec559891b4b378896265fb9a21e47",
+            "name": "Xã Hồng Liêm"
+        },
+        {
+            "uid": "91a36a2b5e71455cb9d8f1c68dbe129b",
+            "name": "Xã Thuận Minh"
+        },
+        {
+            "uid": "5ab2a662c728462095b1bf1d0dc571c2",
+            "name": "Xã Hồng Sơn"
+        },
+        {
+            "uid": "6988eba21fae46a3a969d738c8ee4282",
+            "name": "Xã Hàm Trí"
+        },
+        {
+            "uid": "6b2ebece0e054893bbe3bc27fe4f18bf",
+            "name": "Xã Hàm Đức"
+        },
+        {
+            "uid": "c74f2dfce9fd4c51b4edc303b96d97a9",
+            "name": "Xã Hàm Liêm"
+        },
+        {
+            "uid": "185a49636e474242b2b1da5485cb9e35",
+            "name": "Xã Hàm Chính"
+        },
+        {
+            "uid": "c18942534f654becb454ac014b7f17f2",
+            "name": "Xã Hàm Hiệp"
+        },
+        {
+            "uid": "f997aa475037434b97324f843720565c",
+            "name": "Xã Hàm Thắng"
+        },
+        {
+            "uid": "b36eee361d5d45729f210c79317d182c",
+            "name": "Xã Đa Mi"
+        }
+    ]
+}

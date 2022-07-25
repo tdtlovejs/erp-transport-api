@@ -1,0 +1,90 @@
+{
+    "uid": "871791ba87f9470d8330a1fb1bf59853",
+    "name": "Huyện Giồng Trôm",
+    "wards": [
+        {
+            "uid": "140c1a725e0c457081a051023809e4e3",
+            "name": "Thị trấn Giồng Trôm"
+        },
+        {
+            "uid": "bed9f4cd4fcd4f06948d9f6610ec7a80",
+            "name": "Xã Phong Nẫm"
+        },
+        {
+            "uid": "a681a1b13ef54b7ea4565e296f0326c8",
+            "name": "Xã Mỹ Thạnh"
+        },
+        {
+            "uid": "2df0aff469b94628833435eafd347ec5",
+            "name": "Xã Châu Hòa"
+        },
+        {
+            "uid": "55084486eb7a44958d830420fb7ed710",
+            "name": "Xã Lương Hòa"
+        },
+        {
+            "uid": "81c4cf0e22414e85976c6bb3c148606e",
+            "name": "Xã Lương Quới"
+        },
+        {
+            "uid": "1d8f8d972689443da7c4c36c8897a9a9",
+            "name": "Xã Lương Phú"
+        },
+        {
+            "uid": "1d125f40fe24461188d0ea7a455786ae",
+            "name": "Xã Châu Bình"
+        },
+        {
+            "uid": "1a5e1846f2174221965ee6e2cf93001c",
+            "name": "Xã Thuận Điền"
+        },
+        {
+            "uid": "57cd1174c4e94af186ec1fbaf98aa780",
+            "name": "Xã Sơn Phú"
+        },
+        {
+            "uid": "325e4897c6aa450b9602900721d684fd",
+            "name": "Xã Bình Hoà"
+        },
+        {
+            "uid": "11b35af2bbfb41e797d5ca6767187f64",
+            "name": "Xã Phước Long"
+        },
+        {
+            "uid": "3de111aeda614a3288c76275af501a5c",
+            "name": "Xã Hưng Phong"
+        },
+        {
+            "uid": "2c56166871c940eb831d561948bbd207",
+            "name": "Xã Long Mỹ"
+        },
+        {
+            "uid": "0f13c82e00084bb5adc1a25a069d36fe",
+            "name": "Xã Tân Hào"
+        },
+        {
+            "uid": "a2a05ca9b0de4b5ebb3211997f82a2db",
+            "name": "Xã Bình Thành"
+        },
+        {
+            "uid": "1a7c6cd7bbf241c5a5c4c26592db37f5",
+            "name": "Xã Tân Thanh"
+        },
+        {
+            "uid": "51dab7215f684904acf4397979c2e8c0",
+            "name": "Xã Tân Lợi Thạnh"
+        },
+        {
+            "uid": "49460c5d6f1342df809084a55ee00706",
+            "name": "Xã Thạnh Phú Đông"
+        },
+        {
+            "uid": "6e473438d99c45a2970b2e1917661281",
+            "name": "Xã Hưng Nhượng"
+        },
+        {
+            "uid": "0ce0468a118646f89fce9c011f23b12b",
+            "name": "Xã Hưng Lễ"
+        }
+    ]
+}

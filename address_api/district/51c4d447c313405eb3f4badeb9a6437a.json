@@ -1,0 +1,46 @@
+{
+    "uid": "51c4d447c313405eb3f4badeb9a6437a",
+    "name": "Huyện Tân Uyên",
+    "wards": [
+        {
+            "uid": "aecad0a3450043adbafeabcb296bfee2",
+            "name": "Thị trấn Tân Uyên"
+        },
+        {
+            "uid": "73ad72a71eb049eaad710fedce9a1316",
+            "name": "Xã Mường Khoa"
+        },
+        {
+            "uid": "e4abd3bea8c64d6e8c9bfe4164f933c3",
+            "name": "Xã Phúc Khoa"
+        },
+        {
+            "uid": "033fb05a3bda4477a5c9599a64a228ed",
+            "name": "Xã Thân Thuộc"
+        },
+        {
+            "uid": "63d419fb21224101809f5da16e28a494",
+            "name": "Xã Trung Đồng"
+        },
+        {
+            "uid": "7ab329fcab6945608cf274dc597f40cf",
+            "name": "Xã Hố Mít"
+        },
+        {
+            "uid": "daa85257cc6c49d4bbdc33fed42ba09f",
+            "name": "Xã Nậm Cần"
+        },
+        {
+            "uid": "ea4bfa11968347c9b2cb1fbece9d3dbd",
+            "name": "Xã Nậm Sỏ"
+        },
+        {
+            "uid": "ba83cf6ed51649158d0a0609d645604d",
+            "name": "Xã Pắc Ta"
+        },
+        {
+            "uid": "52323156b2084027bd2ed260f0aab22c",
+            "name": "Xã Tà Mít"
+        }
+    ]
+}

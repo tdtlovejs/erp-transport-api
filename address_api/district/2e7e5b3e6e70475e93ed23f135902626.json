@@ -1,0 +1,50 @@
+{
+    "uid": "2e7e5b3e6e70475e93ed23f135902626",
+    "name": "Huyện Đông Hải",
+    "wards": [
+        {
+            "uid": "71d24bf12ff34f8a9cb6d18751696895",
+            "name": "Thị trấn Gành Hào"
+        },
+        {
+            "uid": "8da36fae8de042e4ab41d62146fe3b37",
+            "name": "Xã Long Điền Đông"
+        },
+        {
+            "uid": "4d8163a7ab294ab99511445e2a6c5368",
+            "name": "Xã Long Điền Đông A"
+        },
+        {
+            "uid": "a7b48daadd6441b186f0a48ae17a4bb7",
+            "name": "Xã Long Điền"
+        },
+        {
+            "uid": "a96f48156f2342f7a5bf446dc5a06c6e",
+            "name": "Xã Long Điền Tây"
+        },
+        {
+            "uid": "35986e7e8a6446bd8da2b19770939869",
+            "name": "Xã Điền Hải"
+        },
+        {
+            "uid": "b80e37d520944d45a857616cbfe75a51",
+            "name": "Xã An Trạch"
+        },
+        {
+            "uid": "aad0edfdc6394e34bc5a48f91fb604e4",
+            "name": "Xã An Trạch A"
+        },
+        {
+            "uid": "01bc362cae654acba1f2675d8a411d3d",
+            "name": "Xã An Phúc"
+        },
+        {
+            "uid": "0067a4d2cbc9442c821131ded5490845",
+            "name": "Xã Định Thành"
+        },
+        {
+            "uid": "7253d857c9384be084c8d69e54b85262",
+            "name": "Xã Định Thành A"
+        }
+    ]
+}

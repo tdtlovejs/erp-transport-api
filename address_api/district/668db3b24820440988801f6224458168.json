@@ -1,0 +1,38 @@
+{
+    "uid": "668db3b24820440988801f6224458168",
+    "name": "Huyện U Minh",
+    "wards": [
+        {
+            "uid": "5b19d01e2f0543e2bdaab81139fbd079",
+            "name": "Thị trấn U Minh"
+        },
+        {
+            "uid": "d9dc800a409d452699b85ecfa473ac33",
+            "name": "Xã Khánh Hòa"
+        },
+        {
+            "uid": "7c41077143cb49b194b535118acb8867",
+            "name": "Xã Khánh Thuận"
+        },
+        {
+            "uid": "0d1b416fab9c4506ae93b55e1a23dfaa",
+            "name": "Xã Khánh Tiến"
+        },
+        {
+            "uid": "029cd654c87c46febe9463ddf86f3fd2",
+            "name": "Xã Nguyễn Phích"
+        },
+        {
+            "uid": "c0c730b983c042b38c62a3bdb5dc06ea",
+            "name": "Xã Khánh Lâm"
+        },
+        {
+            "uid": "26301aedbaf44f20a048eed720f1e8d9",
+            "name": "Xã Khánh An"
+        },
+        {
+            "uid": "470766c58f2b4c75b59acaffeb912d92",
+            "name": "Xã Khánh Hội"
+        }
+    ]
+}

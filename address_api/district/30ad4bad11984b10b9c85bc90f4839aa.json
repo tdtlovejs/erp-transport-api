@@ -1,0 +1,38 @@
+{
+    "uid": "30ad4bad11984b10b9c85bc90f4839aa",
+    "name": "Huyện Cư Jút",
+    "wards": [
+        {
+            "uid": "2b2a7874fe4c4a6dac91eaaebdb05c30",
+            "name": "Thị trấn Ea T'Ling"
+        },
+        {
+            "uid": "7e92bd67694e4ad48ab928aee12485cf",
+            "name": "Xã Đắk Wil"
+        },
+        {
+            "uid": "6f8ae72023854b899fd92a6f0f34a20c",
+            "name": "Xã Ea Pô"
+        },
+        {
+            "uid": "593047f64a954c65af45ae48578a0db6",
+            "name": "Xã Nam Dong"
+        },
+        {
+            "uid": "e549d67c0a3943a58639ca5eb570667f",
+            "name": "Xã Đắk DRông"
+        },
+        {
+            "uid": "ef164e7680b74f4491684ffba85cc47f",
+            "name": "Xã Tâm Thắng"
+        },
+        {
+            "uid": "e6a07ce44c8b4ec1984d55289f7422cf",
+            "name": "Xã Cư Knia"
+        },
+        {
+            "uid": "22354a2fe53c4213a5c64c3bbf4136aa",
+            "name": "Xã Trúc Sơn"
+        }
+    ]
+}

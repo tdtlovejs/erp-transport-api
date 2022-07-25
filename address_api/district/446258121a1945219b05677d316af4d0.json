@@ -1,0 +1,86 @@
+{
+    "uid": "446258121a1945219b05677d316af4d0",
+    "name": "Huyện Chi Lăng",
+    "wards": [
+        {
+            "uid": "c8360042e73c4431b113ef47cbece3cc",
+            "name": "Thị trấn Đồng Mỏ"
+        },
+        {
+            "uid": "dbb3f1b78d1940e686575364feccd2aa",
+            "name": "Thị trấn Chi Lăng"
+        },
+        {
+            "uid": "02fa8171a8a74de3ba2d59029485b18b",
+            "name": "Xã Vân An"
+        },
+        {
+            "uid": "49a9723937264d6981f0438404180b09",
+            "name": "Xã Vân Thủy"
+        },
+        {
+            "uid": "fab87ca114da4ff797ae1a2c12594cd3",
+            "name": "Xã Gia Lộc"
+        },
+        {
+            "uid": "19bcf24fa5d14673a6e105f8413f9d2d",
+            "name": "Xã Bắc Thủy"
+        },
+        {
+            "uid": "7417d230e8314310b3dced756eb28e30",
+            "name": "Xã Chiến Thắng"
+        },
+        {
+            "uid": "c45b0051b398497b906a2d45e01f7cc0",
+            "name": "Xã Mai Sao"
+        },
+        {
+            "uid": "9a07739590d4497dae8e3cc2adaf0fec",
+            "name": "Xã Bằng Hữu"
+        },
+        {
+            "uid": "95c5ddc70bc7459fba9dc6c0cf7d4c1e",
+            "name": "Xã Thượng Cường"
+        },
+        {
+            "uid": "8ae302a297e6484c83b669824d1fddf7",
+            "name": "Xã Bằng Mạc"
+        },
+        {
+            "uid": "08c02368360a4bb1b34695ed9c81f2c6",
+            "name": "Xã Nhân Lý"
+        },
+        {
+            "uid": "9f5ddfb133d04f519aa0c947bbbaaf87",
+            "name": "Xã Lâm Sơn"
+        },
+        {
+            "uid": "8ddfb55b26b740839f61e36377fb894c",
+            "name": "Xã Liên Sơn"
+        },
+        {
+            "uid": "a8f3a97a677e4e449a46b69c8e99f562",
+            "name": "Xã Vạn Linh"
+        },
+        {
+            "uid": "6e9d27f638524905ada8406d923bd2a8",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "8edf2405cece456383a7b07f0b6b19bc",
+            "name": "Xã Hữu Kiên"
+        },
+        {
+            "uid": "284c40dcea044f10a7e43ade3fff31c1",
+            "name": "Xã Quan Sơn"
+        },
+        {
+            "uid": "cc3b4ad9275f48d7b2e514b999d663f4",
+            "name": "Xã Y Tịch"
+        },
+        {
+            "uid": "9a2ff759b54f44ecb35224dff8db547e",
+            "name": "Xã Chi Lăng"
+        }
+    ]
+}

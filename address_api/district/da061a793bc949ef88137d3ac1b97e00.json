@@ -1,0 +1,138 @@
+{
+    "uid": "da061a793bc949ef88137d3ac1b97e00",
+    "name": "Huyện Kiến Xương",
+    "wards": [
+        {
+            "uid": "ae2a2f34ca6341e6a4a964cb6878d6d4",
+            "name": "Thị trấn Kiến Xương"
+        },
+        {
+            "uid": "b1facac08a524492abccd7c3854c3d8c",
+            "name": "Xã Trà Giang"
+        },
+        {
+            "uid": "1cc0b1b2ca8d47ac87004ef65841ca9b",
+            "name": "Xã Quốc Tuấn"
+        },
+        {
+            "uid": "3d6b93a85c1f4b70962b520ca16c6bae",
+            "name": "Xã An Bình"
+        },
+        {
+            "uid": "5a2ed90b7ecf448b9551358eb4d73346",
+            "name": "Xã Tây Sơn"
+        },
+        {
+            "uid": "84cba379096d4910b940090bf78804b9",
+            "name": "Xã Hồng Thái"
+        },
+        {
+            "uid": "5d1f70deccb0480a8ed24ca5450d1078",
+            "name": "Xã Bình Nguyên"
+        },
+        {
+            "uid": "bf2a4fc1937e457eac3a9fa93bb2ca2a",
+            "name": "Xã Lê Lợi"
+        },
+        {
+            "uid": "c4406e1905a34a6aa9e18284aa198d81",
+            "name": "Xã Vũ Lễ"
+        },
+        {
+            "uid": "102e96c574f346558860359d2a91d969",
+            "name": "Xã Thanh Tân"
+        },
+        {
+            "uid": "9abe089e4a124178aef9d92d1ccd3630",
+            "name": "Xã Thượng Hiền"
+        },
+        {
+            "uid": "04758f635c80465187d795e496d5a2d8",
+            "name": "Xã Nam Cao"
+        },
+        {
+            "uid": "99f34495c4054124948f3324800a3f3d",
+            "name": "Xã Đình Phùng"
+        },
+        {
+            "uid": "1cda89bc5ec847aa843e6ec1ff5372e6",
+            "name": "Xã Vũ Ninh"
+        },
+        {
+            "uid": "1bb08d29ada445c08b2a98df4c430170",
+            "name": "Xã Vũ An"
+        },
+        {
+            "uid": "6e905ade93b644ce920b3ccef891469b",
+            "name": "Xã Quang Lịch"
+        },
+        {
+            "uid": "71f3e457882d43ada03c0f16d35c3afa",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "3325cec807764c42847d8a50763cc45a",
+            "name": "Xã Bình Minh"
+        },
+        {
+            "uid": "85aa38753c6b46afb16023bdd2c595f0",
+            "name": "Xã Vũ Quí"
+        },
+        {
+            "uid": "648e4c56fe834fba8558f11eb4ad42cc",
+            "name": "Xã Quang Bình"
+        },
+        {
+            "uid": "a9df02838f124013bc933715a86b2097",
+            "name": "Xã Vũ Trung"
+        },
+        {
+            "uid": "1514bab498cc4eda81d10ced157d5e88",
+            "name": "Xã Vũ Thắng"
+        },
+        {
+            "uid": "17a75ca0722e4505bf465b528e545b99",
+            "name": "Xã Vũ Công"
+        },
+        {
+            "uid": "9d6ed2a58277468d888308cf4f2424a2",
+            "name": "Xã Vũ Hòa"
+        },
+        {
+            "uid": "00a55e023eda4c6780559e335487d1db",
+            "name": "Xã Quang Minh"
+        },
+        {
+            "uid": "16dd093838e04056a5abbb823e52b79b",
+            "name": "Xã Quang Trung"
+        },
+        {
+            "uid": "238e41f3d63145558af38d0da5ebb490",
+            "name": "Xã Minh Quang"
+        },
+        {
+            "uid": "eb6a1b77918e4c9d84f23c201b7055c3",
+            "name": "Xã Vũ Bình"
+        },
+        {
+            "uid": "4a668034aa764ba78096887d7ee6324b",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "c0d18b802d4242d09a9d10584e2d2a46",
+            "name": "Xã Nam Bình"
+        },
+        {
+            "uid": "d8568a053d3445adbfca81afffc4a545",
+            "name": "Xã Bình Thanh"
+        },
+        {
+            "uid": "ab7841f34e5e4fd8a923c7e26f0bc557",
+            "name": "Xã Bình Định"
+        },
+        {
+            "uid": "3a918b4f2b7f45098db1aaa040da0820",
+            "name": "Xã Hồng Tiến"
+        }
+    ]
+}

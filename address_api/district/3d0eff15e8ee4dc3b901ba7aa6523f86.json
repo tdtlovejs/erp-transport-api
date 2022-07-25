@@ -1,0 +1,46 @@
+{
+    "uid": "3d0eff15e8ee4dc3b901ba7aa6523f86",
+    "name": "Huyện Si Ma Cai",
+    "wards": [
+        {
+            "uid": "b84e0061c6c84a4da44ead31f6a3192b",
+            "name": "Xã Nàn Sán"
+        },
+        {
+            "uid": "78dc690c94744371a7d9896e4dd46dff",
+            "name": "Xã Thào Chư Phìn"
+        },
+        {
+            "uid": "fd07263c213640a2b6cc14169965501d",
+            "name": "Xã Bản Mế"
+        },
+        {
+            "uid": "c585053170814c8ba1e1b69737e62326",
+            "name": "Thị trấn Si Ma Cai"
+        },
+        {
+            "uid": "bcf61d54802d42179b7c942e7e3084a7",
+            "name": "Xã Sán Chải"
+        },
+        {
+            "uid": "617e08c867ee456e893de33861d71390",
+            "name": "Xã Lùng Thẩn"
+        },
+        {
+            "uid": "91f3e6c7f7eb43efade24243ae96abb7",
+            "name": "Xã Cán Cấu"
+        },
+        {
+            "uid": "4d37b00368cd450bac39c18b11bb1f54",
+            "name": "Xã Sín Chéng"
+        },
+        {
+            "uid": "1187a21cbae94eba9773ed42ba7ba9c6",
+            "name": "Xã Quan Hồ Thẩn"
+        },
+        {
+            "uid": "c304a4831e1b4541baa5569467c0f918",
+            "name": "Xã Nàn Xín"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "uid": "395e6c248e744b2c95ea5f8419767331",
+    "name": "Huyện Lấp Vò",
+    "wards": [
+        {
+            "uid": "a6471c5cfe714f03a24d0c02ed462a54",
+            "name": "Thị trấn Lấp Vò"
+        },
+        {
+            "uid": "4a2445f5d5a4445c989174a8c68537f6",
+            "name": "Xã Mỹ An Hưng A"
+        },
+        {
+            "uid": "1ea9dfd983744446a97e75393676cd16",
+            "name": "Xã Tân Mỹ"
+        },
+        {
+            "uid": "2debdb8819dc4b67b6cce6da739ca59a",
+            "name": "Xã Mỹ An Hưng B"
+        },
+        {
+            "uid": "00f6351dc27740fcab3f3421de6f00dd",
+            "name": "Xã Tân Khánh Trung"
+        },
+        {
+            "uid": "3b5b657c431f4e2097119571184de774",
+            "name": "Xã Long Hưng A"
+        },
+        {
+            "uid": "1c1f4953ba504a1588c275cfae2b9282",
+            "name": "Xã Vĩnh Thạnh"
+        },
+        {
+            "uid": "c05677e032bf45e8966d018193557941",
+            "name": "Xã Long Hưng B"
+        },
+        {
+            "uid": "9d7f5d3d05444e30884315d64e5b2b51",
+            "name": "Xã Bình Thành"
+        },
+        {
+            "uid": "09533c7a28664cd2b43f79ea71ca6553",
+            "name": "Xã Định An"
+        },
+        {
+            "uid": "8fe95dcc6ec149b8af93c76abd51402c",
+            "name": "Xã Định Yên"
+        },
+        {
+            "uid": "8c016df4aaf34e1395b32dc3ab43b9d1",
+            "name": "Xã Hội An Đông"
+        },
+        {
+            "uid": "4d63b5dd861f4e258758341db84c30a9",
+            "name": "Xã Bình Thạnh Trung"
+        }
+    ]
+}

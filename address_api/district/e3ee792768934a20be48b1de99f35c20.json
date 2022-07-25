@@ -1,0 +1,66 @@
+{
+    "uid": "e3ee792768934a20be48b1de99f35c20",
+    "name": "Huyện Tuy An",
+    "wards": [
+        {
+            "uid": "2624bd8716a2400c94930377198d99d4",
+            "name": "Thị trấn Chí Thạnh"
+        },
+        {
+            "uid": "1c961d61f45248e7a487619d148b682e",
+            "name": "Xã An Dân"
+        },
+        {
+            "uid": "b7bd470deacd4f949fb4d446bdab0c8c",
+            "name": "Xã An Ninh Tây"
+        },
+        {
+            "uid": "29d6bd00cda04e64a435564eeea93f3e",
+            "name": "Xã An Ninh Đông"
+        },
+        {
+            "uid": "d93f38ceea394daa80369976ecd08a06",
+            "name": "Xã An Thạch"
+        },
+        {
+            "uid": "9db6cbe9bdc34e889a4c485a189b2462",
+            "name": "Xã An Định"
+        },
+        {
+            "uid": "7e880f4a293640c9b854271501046352",
+            "name": "Xã An Nghiệp"
+        },
+        {
+            "uid": "61fd169deb584fbc93dc21e5b800b1a9",
+            "name": "Xã An Cư"
+        },
+        {
+            "uid": "3dbc48ae797c4eab9dbbcc676ad907fa",
+            "name": "Xã An Xuân"
+        },
+        {
+            "uid": "6550ab593f6f4769b901f5dc1370808b",
+            "name": "Xã An Lĩnh"
+        },
+        {
+            "uid": "6eb078ddbdd44eb696d04fa2ef42ee57",
+            "name": "Xã An Hòa Hải"
+        },
+        {
+            "uid": "f5c0dd560d424878872e63c3d1e24f69",
+            "name": "Xã An Hiệp"
+        },
+        {
+            "uid": "d08ec516512f4b45bbac0e850c80dd14",
+            "name": "Xã An Mỹ"
+        },
+        {
+            "uid": "cc044019a5b641aab509e36e9a5f59ff",
+            "name": "Xã An Chấn"
+        },
+        {
+            "uid": "b1b65388f3e94e44b8f4e29f645fe691",
+            "name": "Xã An Thọ"
+        }
+    ]
+}

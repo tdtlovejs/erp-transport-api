@@ -1,0 +1,74 @@
+{
+    "uid": "b409f4c194264093ab25d0a525838a18",
+    "name": "Huyện Sơn Động",
+    "wards": [
+        {
+            "uid": "fb18c8c0445542d894bb8fa372c59c93",
+            "name": "Thị trấn An Châu"
+        },
+        {
+            "uid": "3fda3c912d45464fa4c1e9e96c3a705e",
+            "name": "Thị trấn Tây Yên Tử"
+        },
+        {
+            "uid": "7c054b3dbf6a4cb19b49b187c22c58af",
+            "name": "Xã Vân Sơn"
+        },
+        {
+            "uid": "a58298825f584a24bd1a5c7dfa38f056",
+            "name": "Xã Hữu Sản"
+        },
+        {
+            "uid": "9d5c1006683f4333b2be393f6b88d157",
+            "name": "Xã Đại Sơn"
+        },
+        {
+            "uid": "38314d74323f464f81289a41cd29e7c9",
+            "name": "Xã Phúc Sơn"
+        },
+        {
+            "uid": "346d1d087c8a448e85acd0ec3557b57f",
+            "name": "Xã Giáo Liêm"
+        },
+        {
+            "uid": "f36d2a29b5b34be5929060c03a83e8e7",
+            "name": "Xã Cẩm Đàn"
+        },
+        {
+            "uid": "ff79c06358be4172b31d0c2a8ab4631c",
+            "name": "Xã An Lạc"
+        },
+        {
+            "uid": "69e1ad32797a4aed91bb4103273e6583",
+            "name": "Xã Vĩnh An"
+        },
+        {
+            "uid": "6119bb1a420145978d8db0fd18a1a435",
+            "name": "Xã Yên Định"
+        },
+        {
+            "uid": "ccb66eed386342689b09290e97c9ce15",
+            "name": "Xã Lệ Viễn"
+        },
+        {
+            "uid": "6f1c97b0dc92480c95b03e4bf630c1d4",
+            "name": "Xã An Bá"
+        },
+        {
+            "uid": "8f5cadda9fce4498baef177d693c5323",
+            "name": "Xã Tuấn Đạo"
+        },
+        {
+            "uid": "38ea99d820594a9285c30648bb20543a",
+            "name": "Xã Dương Hưu"
+        },
+        {
+            "uid": "e990ae1451554704bb19ee8d9411caec",
+            "name": "Xã Long Sơn"
+        },
+        {
+            "uid": "d877f2935b674ca89173753fe3fe37f3",
+            "name": "Xã Thanh Luận"
+        }
+    ]
+}

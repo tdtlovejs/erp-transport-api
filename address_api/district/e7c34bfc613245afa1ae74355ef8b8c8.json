@@ -1,0 +1,70 @@
+{
+    "uid": "e7c34bfc613245afa1ae74355ef8b8c8",
+    "name": "Huyện Thường Xuân",
+    "wards": [
+        {
+            "uid": "9405a0fdee1f4bd3be0a605a3c2b1e97",
+            "name": "Xã Bát Mọt"
+        },
+        {
+            "uid": "e01e221c1002442ab1f38715a288162a",
+            "name": "Xã Yên Nhân"
+        },
+        {
+            "uid": "3574e7cfc0bb4945875dba01155665fe",
+            "name": "Xã Xuân Lẹ"
+        },
+        {
+            "uid": "f093093aa5204289b426eecf76b8c2de",
+            "name": "Xã Vạn Xuân"
+        },
+        {
+            "uid": "b3d38700cbaf42aeba958da6da864c5d",
+            "name": "Xã Lương Sơn"
+        },
+        {
+            "uid": "ddfebea153b34637af5ce891e99ac388",
+            "name": "Xã Xuân Cao"
+        },
+        {
+            "uid": "2e8750cd2f3e4446a3c841195e2b25b7",
+            "name": "Xã Luận Thành"
+        },
+        {
+            "uid": "a4d698c0ae2748bea78436c1fd7b27d1",
+            "name": "Xã Luận Khê"
+        },
+        {
+            "uid": "283794b430ec43be8d6cd86a6214695e",
+            "name": "Xã Xuân Thắng"
+        },
+        {
+            "uid": "119e0d52b5d7490d8b7a9eca29c427a7",
+            "name": "Xã Xuân Lộc"
+        },
+        {
+            "uid": "221e0e2921334fe39a83394f3ccec615",
+            "name": "Thị trấn Thường Xuân"
+        },
+        {
+            "uid": "4aa88929d35d49259db87f6f8dfe8e3f",
+            "name": "Xã Xuân Dương"
+        },
+        {
+            "uid": "a1176f7e4c19468b84edbb90196806e3",
+            "name": "Xã Thọ Thanh"
+        },
+        {
+            "uid": "ac43dd553bc64701a0ea09cdd144fadf",
+            "name": "Xã Ngọc Phụng"
+        },
+        {
+            "uid": "47861abc14b7463fb931ce02c0b2d48b",
+            "name": "Xã Xuân Chinh"
+        },
+        {
+            "uid": "1b9d7e2796e140ffbea902ce6b92482d",
+            "name": "Xã Tân Thành"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "uid": "cc59bde7fef7411ca545bfe25634fa48",
+    "name": "Quận Bình Tân",
+    "wards": [
+        {
+            "uid": "f653449edeeb4eee9744c627b2a022ad",
+            "name": "Phường Bình Hưng Hòa"
+        },
+        {
+            "uid": "50bdd174542e4aa3a33a1f52871d1bcd",
+            "name": "Phường Bình Hưng Hoà A"
+        },
+        {
+            "uid": "7794351cfa4a4ea2a484267793dab5ba",
+            "name": "Phường Bình Hưng Hoà B"
+        },
+        {
+            "uid": "a84efee3018049ed88cc6f190a86220f",
+            "name": "Phường Bình Trị Đông"
+        },
+        {
+            "uid": "8634e4a7f1ee4854b4c8eb892038df5d",
+            "name": "Phường Bình Trị Đông A"
+        },
+        {
+            "uid": "35c0b4cedac94b21b0540d69cff73d04",
+            "name": "Phường Bình Trị Đông B"
+        },
+        {
+            "uid": "5d0b31ff82884e6bbe056a2deccdf6d5",
+            "name": "Phường Tân Tạo"
+        },
+        {
+            "uid": "8ff121bdfab64a6d8272bdc63305ebeb",
+            "name": "Phường Tân Tạo A"
+        },
+        {
+            "uid": "5439d268c0094f37a77ff18207920fe3",
+            "name": "Phường An Lạc"
+        },
+        {
+            "uid": "e5b381b279ee4a929c5fa74005cf535c",
+            "name": "Phường An Lạc A"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "uid": "20ed20f4a55b423d9e4f4e6412754504",
+    "name": "Huyện Nam Trà My",
+    "wards": [
+        {
+            "uid": "9954461bd7254ed0a345fee46e742d97",
+            "name": "Xã Trà Leng"
+        },
+        {
+            "uid": "99ebe1e87397498b8c836c5c65ad4dfc",
+            "name": "Xã Trà Dơn"
+        },
+        {
+            "uid": "1830e7301f114a368c78fabef581f2b0",
+            "name": "Xã Trà Tập"
+        },
+        {
+            "uid": "715fe10c5e6342618027b4054310adff",
+            "name": "Xã Trà Mai"
+        },
+        {
+            "uid": "e437ba42bd3b41d8929d85742d1a098e",
+            "name": "Xã Trà Cang"
+        },
+        {
+            "uid": "2ede600a56cc49f2a066275921fb77b4",
+            "name": "Xã Trà Linh"
+        },
+        {
+            "uid": "109e7f4bfdaf4e7aaa0281fca35de288",
+            "name": "Xã Trà Nam"
+        },
+        {
+            "uid": "018bed67918e42d780c4e689c110214e",
+            "name": "Xã Trà Don"
+        },
+        {
+            "uid": "474a3b533a3e4baeb40b00eb84e4903f",
+            "name": "Xã Trà Vân"
+        },
+        {
+            "uid": "a13af198ae924d398899b7d8ed4ee6aa",
+            "name": "Xã Trà Vinh"
+        }
+    ]
+}

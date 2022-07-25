@@ -1,0 +1,42 @@
+{
+    "uid": "97c65cb666cf4c44b00f622f0cc7f0da",
+    "name": "Huyện Bác Ái",
+    "wards": [
+        {
+            "uid": "148160f7dcfd4c48971840c57a1dd058",
+            "name": "Xã Phước Bình"
+        },
+        {
+            "uid": "62a116a260564f59909621204c1d441e",
+            "name": "Xã Phước Hòa"
+        },
+        {
+            "uid": "20ed6842960f4c909f8461fc981b4e03",
+            "name": "Xã Phước Tân"
+        },
+        {
+            "uid": "2df24105162346858d515b03de1dd55a",
+            "name": "Xã Phước Tiến"
+        },
+        {
+            "uid": "81e8fe7dcbf447ab8b0b7868812d37b1",
+            "name": "Xã Phước Thắng"
+        },
+        {
+            "uid": "09b0f270111d4ab687adce790c82ab1a",
+            "name": "Xã Phước Thành"
+        },
+        {
+            "uid": "f36efbf1d03748f58c54a62077fec5c2",
+            "name": "Xã Phước Đại"
+        },
+        {
+            "uid": "97882bed31d247e3b5915997663a911c",
+            "name": "Xã Phước Chính"
+        },
+        {
+            "uid": "6fa4320e555841cba2ad62682085c02a",
+            "name": "Xã Phước Trung"
+        }
+    ]
+}

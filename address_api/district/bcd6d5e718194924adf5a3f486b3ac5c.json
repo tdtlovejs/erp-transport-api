@@ -1,0 +1,66 @@
+{
+    "uid": "bcd6d5e718194924adf5a3f486b3ac5c",
+    "name": "Huyện Đồng Hỷ",
+    "wards": [
+        {
+            "uid": "7b30f8a38351447dbaf14672dc7351ac",
+            "name": "Thị trấn Sông Cầu"
+        },
+        {
+            "uid": "3cb3be0c49af4b8dba03a532dce0e67e",
+            "name": "Thị trấn Trại Cau"
+        },
+        {
+            "uid": "fe73bd0ddb1b4f9abed900053ea76762",
+            "name": "Xã Văn Lăng"
+        },
+        {
+            "uid": "8460a22b5a40489681e4fc9201db7f40",
+            "name": "Xã Tân Long"
+        },
+        {
+            "uid": "c2b498cce107496f82642234c64df7c3",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "e3ca4e8af3844cb5a13c4ef6b17f6762",
+            "name": "Xã Quang Sơn"
+        },
+        {
+            "uid": "ae61826199e546e99c238d85f9a714c7",
+            "name": "Xã Minh Lập"
+        },
+        {
+            "uid": "43e02c0a65614926a6c13e77ba35f74f",
+            "name": "Xã Văn Hán"
+        },
+        {
+            "uid": "cad45c86b1aa479c99aeda87fe6f64c5",
+            "name": "Xã Hóa Trung"
+        },
+        {
+            "uid": "25c7c68b38a24b2eb64ae4365d70f3c8",
+            "name": "Xã Khe Mo"
+        },
+        {
+            "uid": "45afadd199b14aa296cf4ca6cadc3b97",
+            "name": "Xã Cây Thị"
+        },
+        {
+            "uid": "8c5159d6bd504edab2c5de365c678c4f",
+            "name": "Xã Hóa Thượng"
+        },
+        {
+            "uid": "63ee41e4b7e4449c894b4db2d81509a8",
+            "name": "Xã Hợp Tiến"
+        },
+        {
+            "uid": "13ec6bb39b4f49bba2d14038ae827a5e",
+            "name": "Xã Tân Lợi"
+        },
+        {
+            "uid": "cf39e959507b48348fbc0bd0a11f294f",
+            "name": "Xã Nam Hòa"
+        }
+    ]
+}

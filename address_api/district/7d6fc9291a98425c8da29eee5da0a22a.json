@@ -1,0 +1,98 @@
+{
+    "uid": "7d6fc9291a98425c8da29eee5da0a22a",
+    "name": "Thành phố Quảng Ngãi",
+    "wards": [
+        {
+            "uid": "b0fb49084db14be2954598c937015fec",
+            "name": "Phường Lê Hồng Phong"
+        },
+        {
+            "uid": "3beaffb2a956495bbbe62d5d5cd714c7",
+            "name": "Phường Trần Phú"
+        },
+        {
+            "uid": "90ef20396c604359a6033e6d8513bfa2",
+            "name": "Phường Quảng Phú"
+        },
+        {
+            "uid": "508554138bd44a49b2a41d9ddc70afa2",
+            "name": "Phường Nghĩa Chánh"
+        },
+        {
+            "uid": "b69790c12dd047ffb2708e2c2a3ad906",
+            "name": "Phường Trần Hưng Đạo"
+        },
+        {
+            "uid": "23a5e879482546baa006259ec0b6db36",
+            "name": "Phường Nguyễn Nghiêm"
+        },
+        {
+            "uid": "0dd105e152334f1baa25582e65cca1d9",
+            "name": "Phường Nghĩa Lộ"
+        },
+        {
+            "uid": "ce11b1232e144415beebf6f24c032f10",
+            "name": "Phường Chánh Lộ"
+        },
+        {
+            "uid": "af604c4da30548afb77c729d57945847",
+            "name": "Xã Nghĩa Dũng"
+        },
+        {
+            "uid": "241f18fc6f5b4de283bf05102585070b",
+            "name": "Xã Nghĩa Dõng"
+        },
+        {
+            "uid": "9e8523d905234d7a8c8b1dfc06b8ffac",
+            "name": "Phường Trương Quang Trọng"
+        },
+        {
+            "uid": "31a04e65568e49e39825498146c53610",
+            "name": "Xã Tịnh Hòa"
+        },
+        {
+            "uid": "b8eceb4e1bbc47eaa6a475612d3ff8ed",
+            "name": "Xã Tịnh Kỳ"
+        },
+        {
+            "uid": "be3346e5a0004aff93d610582f2caded",
+            "name": "Xã Tịnh Thiện"
+        },
+        {
+            "uid": "270beb28060f47818b5c66dc87a5b055",
+            "name": "Xã Tịnh Ấn Đông"
+        },
+        {
+            "uid": "d717026600484614b43da0a3d8e75f55",
+            "name": "Xã Tịnh Châu"
+        },
+        {
+            "uid": "e4e158e9a25f4036b38379e0b19ab53c",
+            "name": "Xã Tịnh Khê"
+        },
+        {
+            "uid": "63755bbf4f5842298a6187e2f907dba4",
+            "name": "Xã Tịnh Long"
+        },
+        {
+            "uid": "19a9e48b466e4030a2ce78604743587f",
+            "name": "Xã Tịnh Ấn Tây"
+        },
+        {
+            "uid": "cfabf171ffde411b9589e849fd6698e6",
+            "name": "Xã Tịnh An"
+        },
+        {
+            "uid": "113be636c92c420d9cae88cc4c8cc927",
+            "name": "Xã Nghĩa Phú"
+        },
+        {
+            "uid": "96ae347a306042e2be07d3cf42607eb7",
+            "name": "Xã Nghĩa Hà"
+        },
+        {
+            "uid": "eaed09dffe6443d2877512021bac586b",
+            "name": "Xã Nghĩa An"
+        }
+    ]
+}

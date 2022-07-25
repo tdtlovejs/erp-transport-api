@@ -1,0 +1,50 @@
+{
+    "uid": "4fa6d240c4754cffa4723173c6481e16",
+    "name": "Huyện Yên Thủy",
+    "wards": [
+        {
+            "uid": "00250e00242243cba1b139b14f80ad1b",
+            "name": "Thị trấn Hàng Trạm"
+        },
+        {
+            "uid": "d71a9ccdd6b6471eb8fb2ebaecaaaf55",
+            "name": "Xã Lạc Sỹ"
+        },
+        {
+            "uid": "ada47e8fb29e425aa0b0c1f59c736d25",
+            "name": "Xã Lạc Lương"
+        },
+        {
+            "uid": "048070851fbc4c77b08eaee13c143fa6",
+            "name": "Xã Bảo Hiệu"
+        },
+        {
+            "uid": "8fa9db1150d24073b73e0a6e84c623d7",
+            "name": "Xã Đa Phúc"
+        },
+        {
+            "uid": "a0fb4b6a757642c6832e4d77db84009a",
+            "name": "Xã Hữu Lợi"
+        },
+        {
+            "uid": "ab4d33b9951546fb902e896b68076b1d",
+            "name": "Xã Lạc Thịnh"
+        },
+        {
+            "uid": "d82790d007ff4541b78c58e0eefb1a5c",
+            "name": "Xã Đoàn Kết"
+        },
+        {
+            "uid": "90db4030bcb743e2983ca60e6775ae1c",
+            "name": "Xã Phú Lai"
+        },
+        {
+            "uid": "de2ec2e9c76b42a9bb51c223ba46bc9d",
+            "name": "Xã Yên Trị"
+        },
+        {
+            "uid": "eb17c1f2af2b4e2b9c071ef90bd1d606",
+            "name": "Xã Ngọc Lương"
+        }
+    ]
+}

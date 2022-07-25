@@ -1,0 +1,50 @@
+{
+    "uid": "6cbc99ddb59f49feaa93eb18fc6b0e8e",
+    "name": "Huyện Sông Hinh",
+    "wards": [
+        {
+            "uid": "afbc75c31e3c473f95f525d80a48b6d9",
+            "name": "Thị trấn Hai Riêng"
+        },
+        {
+            "uid": "16b3ab90ec5b438f95d20422aa848a82",
+            "name": "Xã Ea Lâm"
+        },
+        {
+            "uid": "35acdab0be6b423b8d2be35d346a530f",
+            "name": "Xã Đức Bình Tây"
+        },
+        {
+            "uid": "a7d760347960493ab2fc4496db12a427",
+            "name": "Xã Ea Bá"
+        },
+        {
+            "uid": "92a1f09bb1ac419ba4d1e6762cd57668",
+            "name": "Xã Sơn Giang"
+        },
+        {
+            "uid": "0610c9ef698c4faa917ff5b964c090cb",
+            "name": "Xã Đức Bình Đông"
+        },
+        {
+            "uid": "da5ac63437d642abafa1a88c2a8af449",
+            "name": "Xã EaBar"
+        },
+        {
+            "uid": "9fe922265919419aaae06ecbf9ff709a",
+            "name": "Xã EaBia"
+        },
+        {
+            "uid": "8d0a166eed3e4cb4ad039d2630f7890f",
+            "name": "Xã EaTrol"
+        },
+        {
+            "uid": "aa00ff02244746459051be363fdf009b",
+            "name": "Xã Sông Hinh"
+        },
+        {
+            "uid": "10f3384643914a43b21b62fcc948233e",
+            "name": "Xã Ealy"
+        }
+    ]
+}

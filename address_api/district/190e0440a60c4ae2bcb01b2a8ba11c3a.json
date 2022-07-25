@@ -1,0 +1,66 @@
+{
+    "uid": "190e0440a60c4ae2bcb01b2a8ba11c3a",
+    "name": "Huyện Cầu Ngang",
+    "wards": [
+        {
+            "uid": "33300e9b6384407f888c86a28881c6e3",
+            "name": "Thị trấn Cầu Ngang"
+        },
+        {
+            "uid": "23ee144fedb2401bb43e0d0e9b280742",
+            "name": "Thị trấn Mỹ Long"
+        },
+        {
+            "uid": "98a3b32f8f9d4440b23d899cca46518d",
+            "name": "Xã Mỹ Long Bắc"
+        },
+        {
+            "uid": "3364eee250444b1fb9650bf81452d2cf",
+            "name": "Xã Mỹ Long Nam"
+        },
+        {
+            "uid": "e93c162e722043359b6faf50b490d2a9",
+            "name": "Xã Mỹ Hòa"
+        },
+        {
+            "uid": "1aa4c35db3a946319c9321545439f996",
+            "name": "Xã Vĩnh Kim"
+        },
+        {
+            "uid": "20bd565681a54bbbb38b69d185dfe86d",
+            "name": "Xã Kim Hòa"
+        },
+        {
+            "uid": "8845fc560b3348bcb1fa9cc50a5f7dcd",
+            "name": "Xã Hiệp Hòa"
+        },
+        {
+            "uid": "cf9ad0b15e7d4ddb92223d290526b352",
+            "name": "Xã Thuận Hòa"
+        },
+        {
+            "uid": "ce8c55b347944382bb6d867d2708509c",
+            "name": "Xã Long Sơn"
+        },
+        {
+            "uid": "1cb01536e6c64319b84b6a2ec2bb548d",
+            "name": "Xã Nhị Trường"
+        },
+        {
+            "uid": "98ff2eaac66040d6a8c194787ada40d7",
+            "name": "Xã Trường Thọ"
+        },
+        {
+            "uid": "9afc28735a4e483f8c041c6926f1a8f1",
+            "name": "Xã Hiệp Mỹ Đông"
+        },
+        {
+            "uid": "ea10882973ef40888731c4b3320d1b19",
+            "name": "Xã Hiệp Mỹ Tây"
+        },
+        {
+            "uid": "5edb841fb0024ee2a572d4bf8c138d05",
+            "name": "Xã Thạnh Hòa Sơn"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "uid": "56c9e540e70744cab9baef720a1b6d61",
+    "name": "Huyện Di Linh",
+    "wards": [
+        {
+            "uid": "af553ed5e0dd41c5a8b8d3dc1f0b4e73",
+            "name": "Thị trấn Di Linh"
+        },
+        {
+            "uid": "ea771be9c8da45c08503e4bdd3d4c3a1",
+            "name": "Xã Đinh Trang Thượng"
+        },
+        {
+            "uid": "e5896fa62e6b4175a68db99f4889e3bc",
+            "name": "Xã Tân Thượng"
+        },
+        {
+            "uid": "9ca7ed4c05424404b750d25b9f4db773",
+            "name": "Xã Tân Lâm"
+        },
+        {
+            "uid": "d7659d07ccc24e39b01469e389210140",
+            "name": "Xã Tân Châu"
+        },
+        {
+            "uid": "9c1645c331d7463e9b751003823d1ad9",
+            "name": "Xã Tân Nghĩa"
+        },
+        {
+            "uid": "4fe17ac54ffe4218acadfaaee0602dfb",
+            "name": "Xã Gia Hiệp"
+        },
+        {
+            "uid": "40e25702f111443bb460a43de3eaa3fa",
+            "name": "Xã Đinh Lạc"
+        },
+        {
+            "uid": "d6bbe84d4d614db1be671400a1465291",
+            "name": "Xã Tam Bố"
+        },
+        {
+            "uid": "99b0eac2ab97490f804c56648960afeb",
+            "name": "Xã Đinh Trang Hòa"
+        },
+        {
+            "uid": "fbbc138271734ac2937f703dffd21d4d",
+            "name": "Xã Liên Đầm"
+        },
+        {
+            "uid": "4c0966c697fa4e93b8dcbab4799113f8",
+            "name": "Xã Gung Ré"
+        },
+        {
+            "uid": "7185107eca3a4a2dbd706e0bad2138cc",
+            "name": "Xã Bảo Thuận"
+        },
+        {
+            "uid": "ab16e8b1671b40e9919b1ba627be4048",
+            "name": "Xã Hòa Ninh"
+        },
+        {
+            "uid": "fc916cd0292b4bbdbe7be3d17548d62a",
+            "name": "Xã Hòa Trung"
+        },
+        {
+            "uid": "e97a48381a284f31b79015fc8fa8a647",
+            "name": "Xã Hòa Nam"
+        },
+        {
+            "uid": "fc94a1e4875d48b1a92d235b70af77a9",
+            "name": "Xã Hòa Bắc"
+        },
+        {
+            "uid": "d5451e7decda44218c0e14c7035787f3",
+            "name": "Xã Sơn Điền"
+        },
+        {
+            "uid": "f53e91176e664ce0aafd127bcb605baa",
+            "name": "Xã Gia Bắc"
+        }
+    ]
+}

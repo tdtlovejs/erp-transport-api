@@ -1,0 +1,70 @@
+{
+    "uid": "0cca54c7143b40a69f18488c7098c4e0",
+    "name": "Huyện Bắc Yên",
+    "wards": [
+        {
+            "uid": "29849ce7455c4616b91ac47da011b10a",
+            "name": "Thị trấn Bắc Yên"
+        },
+        {
+            "uid": "82665210a6374a40ad1b48ef9ffc9945",
+            "name": "Xã Phiêng Ban"
+        },
+        {
+            "uid": "c2ca188e838540c38fd0a850b26fd009",
+            "name": "Xã Hang Chú"
+        },
+        {
+            "uid": "77269f4b3ace443abe721a27dc02ce1c",
+            "name": "Xã Xím Vàng"
+        },
+        {
+            "uid": "8b4a24e50fc846959e8f8f8cd5be3369",
+            "name": "Xã Tà Xùa"
+        },
+        {
+            "uid": "f2504555df1347ba8786b9963afcf647",
+            "name": "Xã Háng Đồng"
+        },
+        {
+            "uid": "b720d7aa77154479b1e3742acce6171e",
+            "name": "Xã Pắc Ngà"
+        },
+        {
+            "uid": "a0578b81f10f40768d6de5e54c56db6b",
+            "name": "Xã Làng Chếu"
+        },
+        {
+            "uid": "d65aa83f19df497db2c3d9b8bdb67f4f",
+            "name": "Xã Chim Vàn"
+        },
+        {
+            "uid": "c2d25f9f1b7944698e34f031d56c84bf",
+            "name": "Xã Mường Khoa"
+        },
+        {
+            "uid": "dc76e9dd950d483c99e8055ad0067e9f",
+            "name": "Xã Song Pe"
+        },
+        {
+            "uid": "6209bd63d6f140d1a3664f6ed0e00f52",
+            "name": "Xã Hồng Ngài"
+        },
+        {
+            "uid": "96a19d51e72e419e8cb01d8869b01620",
+            "name": "Xã Tạ Khoa"
+        },
+        {
+            "uid": "ca2a86ed1a1d4408bfbf4166e31c9d52",
+            "name": "Xã Hua Nhàn"
+        },
+        {
+            "uid": "99fc58e5dfeb4f2ab200bc73a4cf2aab",
+            "name": "Xã Phiêng Côn"
+        },
+        {
+            "uid": "8368e35b0f394c6b925428798a9c8944",
+            "name": "Xã Chiềng Sại"
+        }
+    ]
+}

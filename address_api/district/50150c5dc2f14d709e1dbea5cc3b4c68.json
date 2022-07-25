@@ -1,0 +1,30 @@
+{
+    "uid": "50150c5dc2f14d709e1dbea5cc3b4c68",
+    "name": "Quận Dương Kinh",
+    "wards": [
+        {
+            "uid": "4ed3e695e8544ec6b7721c5eb21f09b8",
+            "name": "Phường Đa Phúc"
+        },
+        {
+            "uid": "634514d5d2324c278e44f79a377168cb",
+            "name": "Phường Hưng Đạo"
+        },
+        {
+            "uid": "7526e2507d9e40508b2fc9d79804f045",
+            "name": "Phường Anh Dũng"
+        },
+        {
+            "uid": "aec94f8d4d4448358c6dea3cb7595b78",
+            "name": "Phường Hải Thành"
+        },
+        {
+            "uid": "e9f82494989f429b8b80c05a4f5ea479",
+            "name": "Phường Hoà Nghĩa"
+        },
+        {
+            "uid": "558264594729469685c0ccaaaa0f7b83",
+            "name": "Phường Tân Thành"
+        }
+    ]
+}

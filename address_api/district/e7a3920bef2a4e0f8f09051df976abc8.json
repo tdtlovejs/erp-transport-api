@@ -1,0 +1,122 @@
+{
+    "uid": "e7a3920bef2a4e0f8f09051df976abc8",
+    "name": "Huyện Lục Ngạn",
+    "wards": [
+        {
+            "uid": "c234ecce20f54bbd9cb6a3dd64430549",
+            "name": "Thị trấn Chũ"
+        },
+        {
+            "uid": "db0264b87b354264bda86c4464677c02",
+            "name": "Xã Cấm Sơn"
+        },
+        {
+            "uid": "2f525e85b4fa47979169b1a19647c903",
+            "name": "Xã Tân Sơn"
+        },
+        {
+            "uid": "c9fe203cd6d649b1a6c1f7985b6e1da4",
+            "name": "Xã Phong Minh"
+        },
+        {
+            "uid": "c47ca05588474505ada21995da9f5f4b",
+            "name": "Xã Phong Vân"
+        },
+        {
+            "uid": "751c843d2a6d4537a0d3c811d280d1fc",
+            "name": "Xã Xa Lý"
+        },
+        {
+            "uid": "5875e2c0f79448cf8feee77a4caceeb2",
+            "name": "Xã Hộ Đáp"
+        },
+        {
+            "uid": "2c461e7084d14ec09a15cdc6286cd240",
+            "name": "Xã Sơn Hải"
+        },
+        {
+            "uid": "fb8a87563bb64c899041675c0933b380",
+            "name": "Xã Thanh Hải"
+        },
+        {
+            "uid": "893eff19aff64038ad76c8e61a667936",
+            "name": "Xã Kiên Lao"
+        },
+        {
+            "uid": "8b16f396230c4836ae017d338ae786e6",
+            "name": "Xã Biên Sơn"
+        },
+        {
+            "uid": "d18ab5712eab4b94b484ded2bac2a84e",
+            "name": "Xã Kiên Thành"
+        },
+        {
+            "uid": "d3f4caaf95584873893694235ec0f9c0",
+            "name": "Xã Hồng Giang"
+        },
+        {
+            "uid": "202710d68fec4cfa82dcbde0fba2c124",
+            "name": "Xã Kim Sơn"
+        },
+        {
+            "uid": "f751f06ff42e4c7ba3aae2dc31ee5a86",
+            "name": "Xã Tân Hoa"
+        },
+        {
+            "uid": "eac7dd0448834103b0cb2269c8363a82",
+            "name": "Xã Giáp Sơn"
+        },
+        {
+            "uid": "64a625acbd404b299f5ff0549cea5fae",
+            "name": "Xã Biển Động"
+        },
+        {
+            "uid": "919de14e506f49e0bad8bf04acab469a",
+            "name": "Xã Quý Sơn"
+        },
+        {
+            "uid": "865f13339c2849bb95c617de34dcd9cc",
+            "name": "Xã Trù Hựu"
+        },
+        {
+            "uid": "451f19a4af754debb89ca9f96a296401",
+            "name": "Xã Phì Điền"
+        },
+        {
+            "uid": "be35c9a3d4ab4735b92b016a4ca27778",
+            "name": "Xã Tân Quang"
+        },
+        {
+            "uid": "44d8fc5810234e2ca24b347eccfc18f0",
+            "name": "Xã Đồng Cốc"
+        },
+        {
+            "uid": "d9d0af9666e24872830e7030db01f5b2",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "24c8c8da49f14ce3a23629ebd2d3c1f9",
+            "name": "Xã Phú Nhuận"
+        },
+        {
+            "uid": "cbbd447b3f0b4b3a80750b0619a8178b",
+            "name": "Xã Mỹ An"
+        },
+        {
+            "uid": "69e00275409e4bee85a7bf6625edf1d3",
+            "name": "Xã Nam Dương"
+        },
+        {
+            "uid": "f88fb35c0fec4e529ce2856c751f8f50",
+            "name": "Xã Tân Mộc"
+        },
+        {
+            "uid": "b833a0d936184198825cffbd448161ca",
+            "name": "Xã Đèo Gia"
+        },
+        {
+            "uid": "cb7ca6e435e943e5baa982aaf8538212",
+            "name": "Xã Phượng Sơn"
+        }
+    ]
+}

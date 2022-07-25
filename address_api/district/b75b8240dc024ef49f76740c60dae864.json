@@ -1,0 +1,58 @@
+{
+    "uid": "b75b8240dc024ef49f76740c60dae864",
+    "name": "Huyện Con Cuông",
+    "wards": [
+        {
+            "uid": "677f3f16cf6540e1a3bdd7fe222268ad",
+            "name": "Thị trấn Con Cuông"
+        },
+        {
+            "uid": "e3f5c952e36c470ca039d7da12df5381",
+            "name": "Xã Bình Chuẩn"
+        },
+        {
+            "uid": "880b7c1fa6aa4dc8b43c4b322480178a",
+            "name": "Xã Lạng Khê"
+        },
+        {
+            "uid": "c1b0930d9db74e67b9fdac77f9287fd5",
+            "name": "Xã Cam Lâm"
+        },
+        {
+            "uid": "f49c6846c40040f6a68e24c9c1d99606",
+            "name": "Xã Thạch Ngàn"
+        },
+        {
+            "uid": "d0062f7498a6491cbaf376921e608aa1",
+            "name": "Xã Đôn Phục"
+        },
+        {
+            "uid": "87b586525ca14b82a75f61197e0e85d4",
+            "name": "Xã Mậu Đức"
+        },
+        {
+            "uid": "7a831cda37464328b02d5b375c30974d",
+            "name": "Xã Châu Khê"
+        },
+        {
+            "uid": "eafeafdba05749b1a923c89cc0dc9fb0",
+            "name": "Xã Chi Khê"
+        },
+        {
+            "uid": "c03f4041d0ae45e89d107ff94625eda7",
+            "name": "Xã Bồng Khê"
+        },
+        {
+            "uid": "0c6126b6dcc946a0b9c1fa7d1a4c1015",
+            "name": "Xã Yên Khê"
+        },
+        {
+            "uid": "816c342a87de4189adcb9bbb7ba06e6a",
+            "name": "Xã Lục Dạ"
+        },
+        {
+            "uid": "a795d4dcdfbd4de2bc12dc830dc55d3b",
+            "name": "Xã Môn Sơn"
+        }
+    ]
+}

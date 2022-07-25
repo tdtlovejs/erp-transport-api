@@ -1,0 +1,62 @@
+{
+    "uid": "16169d1a26cd4482a7d8c00196dd5d33",
+    "name": "Huyện Tư Nghĩa",
+    "wards": [
+        {
+            "uid": "19a4485625194763bc6895c8a39488f5",
+            "name": "Thị trấn La Hà"
+        },
+        {
+            "uid": "3d4ef40115d84b7b93b5bf8ba43f2fb3",
+            "name": "Thị trấn Sông Vệ"
+        },
+        {
+            "uid": "8b93a1a2d3064cdc8b3e8b8bb89e7c27",
+            "name": "Xã Nghĩa Lâm"
+        },
+        {
+            "uid": "d5d85d9af39047f68a1cc02b4d25601b",
+            "name": "Xã Nghĩa Thắng"
+        },
+        {
+            "uid": "f9319b791eb84692b62cc8bfd1d6de50",
+            "name": "Xã Nghĩa Thuận"
+        },
+        {
+            "uid": "abe8d955dbd542bfac78054db951b8a9",
+            "name": "Xã Nghĩa Kỳ"
+        },
+        {
+            "uid": "2c70a510936844ee9c2aa0b7aa53b0fb",
+            "name": "Xã Nghĩa Sơn"
+        },
+        {
+            "uid": "7a6dcc6b10244071a2a0243099744d62",
+            "name": "Xã Nghĩa Hòa"
+        },
+        {
+            "uid": "8a5d27450c1e486ba1d23bdbcff1a416",
+            "name": "Xã Nghĩa Điền"
+        },
+        {
+            "uid": "c4256bec31574e3fa14cb7f51053c63a",
+            "name": "Xã Nghĩa Thương"
+        },
+        {
+            "uid": "84d75381952e4e62b18cb7cf49344a3a",
+            "name": "Xã Nghĩa Trung"
+        },
+        {
+            "uid": "f973ee3a357d401ab9f89f715c8d2205",
+            "name": "Xã Nghĩa Hiệp"
+        },
+        {
+            "uid": "c3d73d513dfa41c891d00cefa99c8e14",
+            "name": "Xã Nghĩa Phương"
+        },
+        {
+            "uid": "a26ab3585cb5492a864e47d55df5113f",
+            "name": "Xã Nghĩa Mỹ"
+        }
+    ]
+}

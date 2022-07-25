@@ -1,0 +1,54 @@
+{
+    "uid": "a5e08fc4a55244d0ade7e14a1cfd0912",
+    "name": "Huyện Châu Thành",
+    "wards": [
+        {
+            "uid": "5eb8ea7760c2438cb96d79865e9e56e0",
+            "name": "Thị trấn Cái Tàu Hạ"
+        },
+        {
+            "uid": "46708b09702649c28691abd00864ee17",
+            "name": "Xã An Hiệp"
+        },
+        {
+            "uid": "0a679f3811374f92a1f5c22484096839",
+            "name": "Xã An Nhơn"
+        },
+        {
+            "uid": "4861ca488200417ca3799736ad56575b",
+            "name": "Xã Tân Nhuận Đông"
+        },
+        {
+            "uid": "29f82025213e49c5bab1111030f10e5a",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "4a6ce5a900994951ad37b9ecb8b0a37e",
+            "name": "Xã Tân Phú Trung"
+        },
+        {
+            "uid": "210773edce7b43a4aef751e8b6de9711",
+            "name": "Xã Phú Long"
+        },
+        {
+            "uid": "8896713e7feb456eb4fdd8b671debec2",
+            "name": "Xã An Phú Thuận"
+        },
+        {
+            "uid": "df0d6ecd81e2452ba25562bef6e362ba",
+            "name": "Xã Phú Hựu"
+        },
+        {
+            "uid": "bcc6c8174e0b4e92b73b961fe957a626",
+            "name": "Xã An Khánh"
+        },
+        {
+            "uid": "6d0403ca83c44c04b2adf0de25ef090d",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "14c8589d2c934e6993ad8ef98a7e50c0",
+            "name": "Xã Hòa Tân"
+        }
+    ]
+}

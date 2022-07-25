@@ -1,0 +1,34 @@
+{
+    "uid": "134c8f9c7c8b41c7b18731fa354bc807",
+    "name": "Huyện Phong Điền",
+    "wards": [
+        {
+            "uid": "31f52255b685489b8c74d7ad4aa1f848",
+            "name": "Thị trấn Phong Điền"
+        },
+        {
+            "uid": "a471358c532c46189e7e11407fa223ea",
+            "name": "Xã Nhơn Ái"
+        },
+        {
+            "uid": "5dfbae78552749938def85df746c7566",
+            "name": "Xã Giai Xuân"
+        },
+        {
+            "uid": "bbb9ec1e41814d708475d8a5380ce3ff",
+            "name": "Xã Tân Thới"
+        },
+        {
+            "uid": "fc59e46b101a401d904eac31de5e0012",
+            "name": "Xã Trường Long"
+        },
+        {
+            "uid": "569d8da64b404a358da01619885a7eba",
+            "name": "Xã Mỹ Khánh"
+        },
+        {
+            "uid": "3c9f594265a84b9db5136ddac95e1496",
+            "name": "Xã Nhơn Nghĩa"
+        }
+    ]
+}

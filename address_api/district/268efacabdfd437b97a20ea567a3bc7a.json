@@ -1,0 +1,38 @@
+{
+    "uid": "268efacabdfd437b97a20ea567a3bc7a",
+    "name": "Thị xã Bình Minh",
+    "wards": [
+        {
+            "uid": "4e8776df7e7b4f5088cfce82b3845d4e",
+            "name": "Phường Cái Vồn"
+        },
+        {
+            "uid": "7e3c5f877e89412289159474e2b3aa8a",
+            "name": "Phường Thành Phước"
+        },
+        {
+            "uid": "c553a9ecb7c046239fcf646911342127",
+            "name": "Xã Thuận An"
+        },
+        {
+            "uid": "3353f05aad73490da492ebf83c889ad0",
+            "name": "Xã Đông Thạnh"
+        },
+        {
+            "uid": "fc9d389c99cb44fab260daaa6e682e8a",
+            "name": "Xã Đông Bình"
+        },
+        {
+            "uid": "428dc63448b44c6593bc17e8a42b8605",
+            "name": "Phường Đông Thuận"
+        },
+        {
+            "uid": "dc16a24962434c3f842763883922450c",
+            "name": "Xã Mỹ Hòa"
+        },
+        {
+            "uid": "97ee192e9cdb41f9ae4630832f142622",
+            "name": "Xã Đông Thành"
+        }
+    ]
+}

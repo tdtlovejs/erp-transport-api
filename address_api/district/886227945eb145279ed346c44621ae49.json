@@ -1,0 +1,54 @@
+{
+    "uid": "886227945eb145279ed346c44621ae49",
+    "name": "Huyện Krông Nô",
+    "wards": [
+        {
+            "uid": "20c1b269c9e64464a5bfe4e4070ffd2f",
+            "name": "Thị trấn Đắk Mâm"
+        },
+        {
+            "uid": "17736de53b6244f68db8ce2344d8baab",
+            "name": "Xã Đắk Sôr"
+        },
+        {
+            "uid": "2fb7713121e642a0934780b1164a39ea",
+            "name": "Xã Nam Xuân"
+        },
+        {
+            "uid": "c1067c374cc740b199f3d875f2ec28d4",
+            "name": "Xã Buôn Choah"
+        },
+        {
+            "uid": "36365577ae8d42d69ddb01d2855d64ad",
+            "name": "Xã Nam Đà"
+        },
+        {
+            "uid": "5c582a2b949349548db4fae632c2f193",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "26502e361ffe433288df7d4ee38b56a5",
+            "name": "Xã Đắk Drô"
+        },
+        {
+            "uid": "2ae7dc4e03f1453dab99fc42a9eee464",
+            "name": "Xã Nâm Nung"
+        },
+        {
+            "uid": "2a81ea2d70b843a0ba8aa83c6014074c",
+            "name": "Xã Đức Xuyên"
+        },
+        {
+            "uid": "9fd9b60032d74a3f94b989b37af1e7ee",
+            "name": "Xã Đắk Nang"
+        },
+        {
+            "uid": "89dddabf69de49138ef2ef19018fe055",
+            "name": "Xã Quảng Phú"
+        },
+        {
+            "uid": "4ce5a01503674f359744934b5321e574",
+            "name": "Xã Nâm N'Đir"
+        }
+    ]
+}

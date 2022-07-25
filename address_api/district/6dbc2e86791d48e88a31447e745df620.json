@@ -1,0 +1,74 @@
+{
+    "uid": "6dbc2e86791d48e88a31447e745df620",
+    "name": "Huyện Việt Yên",
+    "wards": [
+        {
+            "uid": "33f35b50564b437891ab3125db857c88",
+            "name": "Xã Thượng Lan"
+        },
+        {
+            "uid": "2939235fb7094457a6fe4e0fabdb5a68",
+            "name": "Xã Việt Tiến"
+        },
+        {
+            "uid": "67018c3e8c734c85b92408e983f83efe",
+            "name": "Xã Nghĩa Trung"
+        },
+        {
+            "uid": "bdf3e40a03b04eea954109c064652d0b",
+            "name": "Xã Minh Đức"
+        },
+        {
+            "uid": "aac31a4f7a06450abe05093e8211bd6a",
+            "name": "Xã Hương Mai"
+        },
+        {
+            "uid": "1e89b450e03142808a9472b7b7cd500b",
+            "name": "Xã Tự Lạn"
+        },
+        {
+            "uid": "c77c0118d6d2457d9bfd7a9b4bda8dba",
+            "name": "Thị trấn Bích Động"
+        },
+        {
+            "uid": "9a9365e974234878979696454e2a7f95",
+            "name": "Xã Trung Sơn"
+        },
+        {
+            "uid": "0f0416136298432489f7bee81aa51f65",
+            "name": "Xã Hồng Thái"
+        },
+        {
+            "uid": "791db646278242deb8d09250f29591b4",
+            "name": "Xã Tiên Sơn"
+        },
+        {
+            "uid": "77cce7aff22f4d96a5f1176052bd77aa",
+            "name": "Xã Tăng Tiến"
+        },
+        {
+            "uid": "71d747d6a90d4051bc6bffc5b6a93c30",
+            "name": "Xã Quảng Minh"
+        },
+        {
+            "uid": "b9cd17e08fb54bb08cf5a841c99c5ad6",
+            "name": "Thị trấn Nếnh"
+        },
+        {
+            "uid": "fcc1e062da584810adeb49a9b2523bd1",
+            "name": "Xã Ninh Sơn"
+        },
+        {
+            "uid": "a512983c4742468ca89e220eab2b8119",
+            "name": "Xã Vân Trung"
+        },
+        {
+            "uid": "191877b648954cedaa2629faf58f2c6c",
+            "name": "Xã Vân Hà"
+        },
+        {
+            "uid": "9b1d17fcfbc14f4e88752f1ad86422e5",
+            "name": "Xã Quang Châu"
+        }
+    ]
+}

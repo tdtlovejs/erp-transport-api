@@ -1,0 +1,62 @@
+{
+    "uid": "9bd0e60048db48d8adb6349ce5677371",
+    "name": "Huyện Bảo Thắng",
+    "wards": [
+        {
+            "uid": "4e314a55a7114a50a065acd4a0d1ed72",
+            "name": "Thị trấn N.T Phong Hải"
+        },
+        {
+            "uid": "6d6f7289495547bab36cad22cff34665",
+            "name": "Thị trấn Phố Lu"
+        },
+        {
+            "uid": "bc1a93a0f53441ab8d4d12a9d7f6b90c",
+            "name": "Thị trấn Tằng Loỏng"
+        },
+        {
+            "uid": "e081c79906e0430f80ca7baba9122524",
+            "name": "Xã Bản Phiệt"
+        },
+        {
+            "uid": "9f241166aa304882998d5672bcfd24c0",
+            "name": "Xã Bản Cầm"
+        },
+        {
+            "uid": "cb043a5e41ed4f8c944ee2f7d26f06fa",
+            "name": "Xã Thái Niên"
+        },
+        {
+            "uid": "70491991a3a9498298292d16f8f8b7b8",
+            "name": "Xã Phong Niên"
+        },
+        {
+            "uid": "b4610ffa38f74ee1a0f2c101dd3ecc84",
+            "name": "Xã Gia Phú"
+        },
+        {
+            "uid": "e0efa06a38904bfd88be6a69dbebcf5f",
+            "name": "Xã Xuân Quang"
+        },
+        {
+            "uid": "deaaf9cae9124f8286c503b00c119010",
+            "name": "Xã Sơn Hải"
+        },
+        {
+            "uid": "b0722414f5d646b995c2e11271ce0974",
+            "name": "Xã Xuân Giao"
+        },
+        {
+            "uid": "8f6b3921c01c447fb0bb69b220f5b4f9",
+            "name": "Xã Trì Quang"
+        },
+        {
+            "uid": "e994fd2952fb4fdba50c8f014f01f65d",
+            "name": "Xã Sơn Hà"
+        },
+        {
+            "uid": "519ea5f405db4813b0473883e4e96964",
+            "name": "Xã Phú Nhuận"
+        }
+    ]
+}

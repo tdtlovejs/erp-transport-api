@@ -1,0 +1,46 @@
+{
+    "uid": "51fef0998cde494899cc7f46113c6dbc",
+    "name": "Huyện Lang Chánh",
+    "wards": [
+        {
+            "uid": "feb741fe8d964392ad374aef11ae1ab9",
+            "name": "Xã Yên Khương"
+        },
+        {
+            "uid": "bea272ecd9a64799b7778528e01bf8f4",
+            "name": "Xã Yên Thắng"
+        },
+        {
+            "uid": "f8eb00571cfc4f7cba35b7573bb67e28",
+            "name": "Xã Trí Nang"
+        },
+        {
+            "uid": "55eaedeac2914e4594d4ed5aad3e6645",
+            "name": "Xã Giao An"
+        },
+        {
+            "uid": "fcf1c7e6beef473298b54ba29c05d664",
+            "name": "Xã Giao Thiện"
+        },
+        {
+            "uid": "d9e9bcb674cf4677aceec4cdf025befd",
+            "name": "Xã Tân Phúc"
+        },
+        {
+            "uid": "33eae6fff40040d6bf684a401fdadc5f",
+            "name": "Xã Tam Văn"
+        },
+        {
+            "uid": "00e9ca81a5bf4d8ba3cafbef2f1d405b",
+            "name": "Xã Lâm Phú"
+        },
+        {
+            "uid": "c39ac8e86c684ed5a602bb57d57d3e4b",
+            "name": "Thị trấn Lang Chánh"
+        },
+        {
+            "uid": "5f6558d87176421faeb325be4680c163",
+            "name": "Xã Đồng Lương"
+        }
+    ]
+}

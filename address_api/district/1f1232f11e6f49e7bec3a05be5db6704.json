@@ -1,0 +1,62 @@
+{
+    "uid": "1f1232f11e6f49e7bec3a05be5db6704",
+    "name": "Huyện KBang",
+    "wards": [
+        {
+            "uid": "7728fc4535ad4f9f84f249d491538a99",
+            "name": "Thị trấn KBang"
+        },
+        {
+            "uid": "f02749a065664e3385048694a29248a1",
+            "name": "Xã Kon Pne"
+        },
+        {
+            "uid": "5471de33c9854b8b9c921d6e45f18fd4",
+            "name": "Xã Đăk Roong"
+        },
+        {
+            "uid": "3bb6c70eecb54aa6b9ced5660cf6ab36",
+            "name": "Xã Sơn Lang"
+        },
+        {
+            "uid": "b91f30e154364650bb892ab36d206339",
+            "name": "Xã KRong"
+        },
+        {
+            "uid": "b7b4baec43de494884175603990d166d",
+            "name": "Xã Sơ Pai"
+        },
+        {
+            "uid": "1e51ece34872492ab22643b32d6c6bc1",
+            "name": "Xã Lơ Ku"
+        },
+        {
+            "uid": "91922e382c874fc89c1301e515e011e9",
+            "name": "Xã Đông"
+        },
+        {
+            "uid": "07258cca63284f819754d0416f3dee3e",
+            "name": "Xã Đak SMar"
+        },
+        {
+            "uid": "3ebfaed74be3440b8cddcce84da18a62",
+            "name": "Xã Nghĩa An"
+        },
+        {
+            "uid": "accd115ab28041809b2093494bab6309",
+            "name": "Xã Tơ Tung"
+        },
+        {
+            "uid": "c4f91c052ff3498abb1f9b4b8730529d",
+            "name": "Xã Kông Lơng Khơng"
+        },
+        {
+            "uid": "64d18561e1cd487d804c3167fece92dc",
+            "name": "Xã Kông Pla"
+        },
+        {
+            "uid": "eee163be8775497f8d12ae426bd4886f",
+            "name": "Xã Đăk HLơ"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "uid": "7bcd85a42e3c4e038b3f17c964e4eab9",
+    "name": "Huyện Nga Sơn",
+    "wards": [
+        {
+            "uid": "c40afacd988a4b7d90b9330a4ea5768a",
+            "name": "Thị trấn Nga Sơn"
+        },
+        {
+            "uid": "b09f5470eac342fd972a3928eb07ff42",
+            "name": "Xã Ba Đình"
+        },
+        {
+            "uid": "0dd1729bfdaf4d6ba7dde3ea867c097b",
+            "name": "Xã Nga Vịnh"
+        },
+        {
+            "uid": "d8338136c3c94be0bafaa7a06146ce22",
+            "name": "Xã Nga Văn"
+        },
+        {
+            "uid": "dbd12859566f46e08666d099bc5d6fc9",
+            "name": "Xã Nga Thiện"
+        },
+        {
+            "uid": "ab371c8c61674befb4df1a8bd5d93ff9",
+            "name": "Xã Nga Tiến"
+        },
+        {
+            "uid": "bf3b90454aaf4689ad3594f4e85f077d",
+            "name": "Xã Nga Phượng"
+        },
+        {
+            "uid": "5b22534626584360afd192326fe0cb3b",
+            "name": "Xã Nga Trung"
+        },
+        {
+            "uid": "3b39bfc3f19247fab07626ee527c6d38",
+            "name": "Xã Nga Bạch"
+        },
+        {
+            "uid": "519b770632c44c85b010887f34ce9e04",
+            "name": "Xã Nga Thanh"
+        },
+        {
+            "uid": "332880c453e34b34a5fd1c094a8843dc",
+            "name": "Xã Nga Yên"
+        },
+        {
+            "uid": "e346145062884afca42bff821cbd251d",
+            "name": "Xã Nga Giáp"
+        },
+        {
+            "uid": "e09694779dfd48948b04774d215b1143",
+            "name": "Xã Nga Hải"
+        },
+        {
+            "uid": "9511563579ef4fa7bc2cb04239088e3d",
+            "name": "Xã Nga Thành"
+        },
+        {
+            "uid": "dd88624aafc64c2991fd6aea488491bc",
+            "name": "Xã Nga An"
+        },
+        {
+            "uid": "bb5d79890106446d8f123e3a90a428c9",
+            "name": "Xã Nga Phú"
+        },
+        {
+            "uid": "84f0be61a1a34910b1aca4c3fd8c6669",
+            "name": "Xã Nga Điền"
+        },
+        {
+            "uid": "9973e53c8aa34d8d917e510d75cdd345",
+            "name": "Xã Nga Tân"
+        },
+        {
+            "uid": "e9df5fa98d7743dfbf9e59fa747e7642",
+            "name": "Xã Nga Thủy"
+        },
+        {
+            "uid": "d7da51d151d74602a2501a1e92105597",
+            "name": "Xã Nga Liên"
+        },
+        {
+            "uid": "b22bd41cb5f54d1cbe260fc102d62f33",
+            "name": "Xã Nga Thái"
+        },
+        {
+            "uid": "2cd3cc5b7b1445a5bf6ffb4c90ba50bf",
+            "name": "Xã Nga Thạch"
+        },
+        {
+            "uid": "7a1508ae92f3492484153ca5679d19b2",
+            "name": "Xã Nga Thắng"
+        },
+        {
+            "uid": "d02db3050bcb42c59c6e6d7a1a30051e",
+            "name": "Xã Nga Trường"
+        }
+    ]
+}

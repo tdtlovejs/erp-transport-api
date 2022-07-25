@@ -1,0 +1,50 @@
+{
+    "uid": "32f5a0e9f97a43339bc70737e931c9dc",
+    "name": "Huyện Quỳnh Nhai",
+    "wards": [
+        {
+            "uid": "9b089d2ff8e44369b92011c88745259f",
+            "name": "Xã Mường Chiên"
+        },
+        {
+            "uid": "a8baa374118140dd9f992a5f88d8932e",
+            "name": "Xã Cà Nàng"
+        },
+        {
+            "uid": "b332074be2144b1a9283426884489292",
+            "name": "Xã Chiềng Khay"
+        },
+        {
+            "uid": "fcf70d17f56a440a822ee7803e268c55",
+            "name": "Xã Mường Giôn"
+        },
+        {
+            "uid": "695bbec68e5d4da0b63a87ae5c36da57",
+            "name": "Xã Pá Ma Pha Khinh"
+        },
+        {
+            "uid": "7037b6b390824006bb8b460a3fa0ec82",
+            "name": "Xã Chiềng Ơn"
+        },
+        {
+            "uid": "c0d0254567f046739727c3afd1a99c97",
+            "name": "Xã Mường Giàng"
+        },
+        {
+            "uid": "c6e10155990847e8a5a29831989121c4",
+            "name": "Xã Chiềng Bằng"
+        },
+        {
+            "uid": "d1dd944cf1dc43ac9cfb1d23b6d84cb9",
+            "name": "Xã Mường Sại"
+        },
+        {
+            "uid": "8921447457e742f5a303da548834b7a8",
+            "name": "Xã Nậm ét"
+        },
+        {
+            "uid": "bf13601e3d56479b86480dd67cd8753f",
+            "name": "Xã Chiềng Khoang"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "uid": "fdd62e78158c4c21bdb5dcb4431cbf90",
+    "name": "Huyện Trà Bồng",
+    "wards": [
+        {
+            "uid": "cf716cd6caed40c8847cbb62c9959d7d",
+            "name": "Thị trấn Trà Xuân"
+        },
+        {
+            "uid": "2f09037a890e403a980bae5d533c7016",
+            "name": "Xã Trà Giang"
+        },
+        {
+            "uid": "ab580ab457784606bb18896d8cb18506",
+            "name": "Xã Trà Thủy"
+        },
+        {
+            "uid": "219b787eba8044539d160888bb16b1e1",
+            "name": "Xã Trà Hiệp"
+        },
+        {
+            "uid": "06d68cc1a515470292daa84deef4a381",
+            "name": "Xã Trà Bình"
+        },
+        {
+            "uid": "7d88dbc6b9154c1f92e954a18691d45d",
+            "name": "Xã Trà Phú"
+        },
+        {
+            "uid": "138a28e3144d42de949fc0053544d02f",
+            "name": "Xã Trà Lâm"
+        },
+        {
+            "uid": "03d6c9e950d5474282d60adcbd8b8f66",
+            "name": "Xã Trà Tân"
+        },
+        {
+            "uid": "78f04fcb824340c4ba045cd6dbc6f589",
+            "name": "Xã Trà Sơn"
+        },
+        {
+            "uid": "85fa85b27413461baa09cc59b8ea1b22",
+            "name": "Xã Trà Bùi"
+        },
+        {
+            "uid": "49d85a0881584431a7dff0ba3a246b3d",
+            "name": "Xã Trà Thanh"
+        },
+        {
+            "uid": "fccbf2a0da9c4b429c03ff59320fd137",
+            "name": "Xã Sơn Trà"
+        },
+        {
+            "uid": "c4f72743daf94111aa8cf749c29a206d",
+            "name": "Xã Trà Phong"
+        },
+        {
+            "uid": "0281590a4dc84036b4ba99590fee7092",
+            "name": "Xã Hương Trà"
+        },
+        {
+            "uid": "cba8f746cd39494489b016c27b42173a",
+            "name": "Xã Trà Xinh"
+        },
+        {
+            "uid": "00b69c22e27947f7a663502a27f1e8c3",
+            "name": "Xã Trà Tây"
+        }
+    ]
+}

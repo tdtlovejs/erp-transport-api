@@ -1,0 +1,54 @@
+{
+    "uid": "fab572cd2fc8414b8a83e7b8b953b457",
+    "name": "Huyện Phước Sơn",
+    "wards": [
+        {
+            "uid": "b162329a785048e09d4b452d07c8dbce",
+            "name": "Thị trấn Khâm Đức"
+        },
+        {
+            "uid": "9be7ecc800914e1ca32362a8e1bceafb",
+            "name": "Xã Phước Xuân"
+        },
+        {
+            "uid": "ee035d32553b4c5eb80114563f0254d3",
+            "name": "Xã Phước Hiệp"
+        },
+        {
+            "uid": "5f6a2ddb5a64473c916ea4e08f2ea154",
+            "name": "Xã Phước Hoà"
+        },
+        {
+            "uid": "fdfc816b7ea542da8c584ae5ede7c39d",
+            "name": "Xã Phước Đức"
+        },
+        {
+            "uid": "2a4d05d19a8d4b209b9869d23f0b4c30",
+            "name": "Xã Phước Năng"
+        },
+        {
+            "uid": "218d66393a904d4399b7afda993a7d90",
+            "name": "Xã Phước Mỹ"
+        },
+        {
+            "uid": "0b72dea5b06841c9a37cf930103cfb0f",
+            "name": "Xã Phước Chánh"
+        },
+        {
+            "uid": "3f93a1a75ba64e9081fdbc818e0a73df",
+            "name": "Xã Phước Công"
+        },
+        {
+            "uid": "096214c7053e43f5af42969c93b821db",
+            "name": "Xã Phước Kim"
+        },
+        {
+            "uid": "790adc3964db4502864619a46f48b213",
+            "name": "Xã Phước Lộc"
+        },
+        {
+            "uid": "b5064b1877a84d5db535c7601ea7f747",
+            "name": "Xã Phước Thành"
+        }
+    ]
+}

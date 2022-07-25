@@ -1,0 +1,70 @@
+{
+    "uid": "858854c4f77a44abbc5b346b952f993c",
+    "name": "Thành phố Cẩm Phả",
+    "wards": [
+        {
+            "uid": "dd965bef61964239ae857e874bb54371",
+            "name": "Phường Mông Dương"
+        },
+        {
+            "uid": "d3ee657b68fd48d98fba2b6dad22f443",
+            "name": "Phường Cửa Ông"
+        },
+        {
+            "uid": "0402a3c8a9fd4c77a4fd0601ea22d194",
+            "name": "Phường Cẩm Sơn"
+        },
+        {
+            "uid": "9eb419e617a141caaf94a3155813ce6d",
+            "name": "Phường Cẩm Đông"
+        },
+        {
+            "uid": "515f526aee054d36abcd6f36e88cf05d",
+            "name": "Phường Cẩm Phú"
+        },
+        {
+            "uid": "561b772f27bc431a8c405bfd12a90db2",
+            "name": "Phường Cẩm Tây"
+        },
+        {
+            "uid": "637efd99b7914e5ebfea1b25ddf712f5",
+            "name": "Phường Quang Hanh"
+        },
+        {
+            "uid": "4cf090f8f8b745fd9bc269b6404bee37",
+            "name": "Phường Cẩm Thịnh"
+        },
+        {
+            "uid": "d29aa998836043969c86adca9ab0bcb5",
+            "name": "Phường Cẩm Thủy"
+        },
+        {
+            "uid": "274e1d0e10a64739b8d8c4ccf10c9daa",
+            "name": "Phường Cẩm Thạch"
+        },
+        {
+            "uid": "4b847d4b3ad24c5fa0918eb72be55cab",
+            "name": "Phường Cẩm Thành"
+        },
+        {
+            "uid": "d92627ceaa4e4332aa2c60be639c3ee0",
+            "name": "Phường Cẩm Trung"
+        },
+        {
+            "uid": "1d664c8be9dd46a497ad9bdbb7e24357",
+            "name": "Phường Cẩm Bình"
+        },
+        {
+            "uid": "5cdb3366af21496c82bb7ac500bbbfb6",
+            "name": "Xã Cộng Hòa"
+        },
+        {
+            "uid": "46b0ddeefcff47fdaca5a822684c7443",
+            "name": "Xã Cẩm Hải"
+        },
+        {
+            "uid": "1c1a60a1070e42ab8d38346edbada218",
+            "name": "Xã Dương Huy"
+        }
+    ]
+}

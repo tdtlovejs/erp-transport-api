@@ -1,0 +1,78 @@
+{
+    "uid": "fc63df0578584b7a825688a478cfcd69",
+    "name": "Thị xã Phổ Yên",
+    "wards": [
+        {
+            "uid": "b9a83295cce54644a11cf6871b2c52e1",
+            "name": "Phường Bãi Bông"
+        },
+        {
+            "uid": "081b238711c840799f6b02e67fbb03ad",
+            "name": "Phường Bắc Sơn"
+        },
+        {
+            "uid": "0a8b61cda8274978b6f17e3e6260dc47",
+            "name": "Phường Ba Hàng"
+        },
+        {
+            "uid": "5e500e9dab6b4d5587b2c58e65dd6e02",
+            "name": "Xã Phúc Tân"
+        },
+        {
+            "uid": "720062ab09c642b3a00efff065a7154c",
+            "name": "Xã Phúc Thuận"
+        },
+        {
+            "uid": "9ea06384e67243f9903b1b9c508c8e87",
+            "name": "Xã Hồng Tiến"
+        },
+        {
+            "uid": "63fe98a2021042d5bc1641439b93a013",
+            "name": "Xã Minh Đức"
+        },
+        {
+            "uid": "9591593ead10479594f7de8071b7bfaa",
+            "name": "Xã Đắc Sơn"
+        },
+        {
+            "uid": "cd8dfa141ef945f0a462a1cc177308ca",
+            "name": "Phường Đồng Tiến"
+        },
+        {
+            "uid": "4f4f735307764ab98a13c47250b46ba4",
+            "name": "Xã Thành Công"
+        },
+        {
+            "uid": "4e2f5718bd8446638dba232948fd7843",
+            "name": "Xã Tiên Phong"
+        },
+        {
+            "uid": "189b4fa338f449e29fbb671f4bf99a99",
+            "name": "Xã Vạn Phái"
+        },
+        {
+            "uid": "1799831ad94640af9acf7434fd045529",
+            "name": "Xã Nam Tiến"
+        },
+        {
+            "uid": "329d448202264e90aa261a585109331c",
+            "name": "Xã Tân Hương"
+        },
+        {
+            "uid": "572b4aaefc574f6aad23e2ae7da5191e",
+            "name": "Xã Đông Cao"
+        },
+        {
+            "uid": "e46ba7920c424c68bc7926a0dd0f9253",
+            "name": "Xã Trung Thành"
+        },
+        {
+            "uid": "fab2b903d6944c3ca8342ee211fbdf13",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "56e56063e46f4e3b96df12269277b509",
+            "name": "Xã Thuận Thành"
+        }
+    ]
+}

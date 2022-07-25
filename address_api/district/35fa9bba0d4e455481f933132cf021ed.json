@@ -1,0 +1,38 @@
+{
+    "uid": "35fa9bba0d4e455481f933132cf021ed",
+    "name": "Huyện Mường Lát",
+    "wards": [
+        {
+            "uid": "08e9f4e49e6345f4a258266c6fceb1f6",
+            "name": "Thị trấn Mường Lát"
+        },
+        {
+            "uid": "0e1790ede8d14964ade4204bc85d344c",
+            "name": "Xã Tam Chung"
+        },
+        {
+            "uid": "2d911150e42b4b08a5f3ca4f6f3d4b26",
+            "name": "Xã Mường Lý"
+        },
+        {
+            "uid": "f04b9ad53c8d4f7c93dec34883b16c13",
+            "name": "Xã Trung Lý"
+        },
+        {
+            "uid": "1a626b07340d458f9e6175205afffcfd",
+            "name": "Xã Quang Chiểu"
+        },
+        {
+            "uid": "14df970c45714d67a7ec8ab2f7af2d02",
+            "name": "Xã Pù Nhi"
+        },
+        {
+            "uid": "552fbdb770e049c79a0114eb69502744",
+            "name": "Xã Nhi Sơn"
+        },
+        {
+            "uid": "89471d4526744f83a99c3effeec30e4f",
+            "name": "Xã Mường Chanh"
+        }
+    ]
+}

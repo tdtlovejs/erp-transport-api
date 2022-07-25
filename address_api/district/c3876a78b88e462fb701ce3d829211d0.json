@@ -1,0 +1,54 @@
+{
+    "uid": "c3876a78b88e462fb701ce3d829211d0",
+    "name": "Huyện Than Uyên",
+    "wards": [
+        {
+            "uid": "025baed56fc6433c9ab821845a59fb88",
+            "name": "Thị trấn Than Uyên"
+        },
+        {
+            "uid": "a7d2d89dfbfd4e27ba062554f1d35e8e",
+            "name": "Xã Phúc Than"
+        },
+        {
+            "uid": "dcb9a3a5bb30419b9191bc6ef2448e7d",
+            "name": "Xã Mường Than"
+        },
+        {
+            "uid": "885fbca9eaf044948f5568dfdb48b47f",
+            "name": "Xã Mường Mít"
+        },
+        {
+            "uid": "db8f807e84304728acb6416ff01af7e3",
+            "name": "Xã Pha Mu"
+        },
+        {
+            "uid": "02706c0a33e0446e833836ed2c5e126a",
+            "name": "Xã Mường Cang"
+        },
+        {
+            "uid": "8996912aadde41479fd135941abbcddc",
+            "name": "Xã Hua Nà"
+        },
+        {
+            "uid": "442afd9eb2554ee3b0a25627c8b1a164",
+            "name": "Xã Tà Hừa"
+        },
+        {
+            "uid": "1639e6000e074b409bac6f0cf26e73e8",
+            "name": "Xã Mường Kim"
+        },
+        {
+            "uid": "bd11c410884d43a0a70ce768201809d3",
+            "name": "Xã Tà Mung"
+        },
+        {
+            "uid": "2dabb956f5344f32aba83aa71030cbf9",
+            "name": "Xã Tà Gia"
+        },
+        {
+            "uid": "cf97b45753134bbaa2a15ff27a77a1c0",
+            "name": "Xã Khoen On"
+        }
+    ]
+}

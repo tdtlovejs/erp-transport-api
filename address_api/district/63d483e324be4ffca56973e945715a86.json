@@ -1,0 +1,34 @@
+{
+    "uid": "63d483e324be4ffca56973e945715a86",
+    "name": "Thành phố Hồng Ngự",
+    "wards": [
+        {
+            "uid": "65a2195b5fd141b9beda43e9b52abd74",
+            "name": "Phường An Lộc"
+        },
+        {
+            "uid": "c013943f422f4f4dae5c26d459053e01",
+            "name": "Phường An Thạnh"
+        },
+        {
+            "uid": "507202f6a1854f22bc1108a35a9863b3",
+            "name": "Xã Bình Thạnh"
+        },
+        {
+            "uid": "a1bf21abac1846ad996f3ea807386135",
+            "name": "Xã Tân Hội"
+        },
+        {
+            "uid": "85594aa9cffa4bb592d0b3fda25e864c",
+            "name": "Phường An Lạc"
+        },
+        {
+            "uid": "c780328aa2a64512b81d0d0e2a590b99",
+            "name": "Phường An Bình B"
+        },
+        {
+            "uid": "e1f103c7481c4be0b3979ce2417e32e0",
+            "name": "Phường An Bình A"
+        }
+    ]
+}

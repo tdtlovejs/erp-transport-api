@@ -1,0 +1,58 @@
+{
+    "uid": "d3c673febb7249ae957069aeaadcf6a0",
+    "name": "Huyện Kế Sách",
+    "wards": [
+        {
+            "uid": "d45311835fee4e12bed0a1ee9c51ffc3",
+            "name": "Thị trấn Kế Sách"
+        },
+        {
+            "uid": "ce03a6dd77b24b94ad7b38c3ddb8fb3f",
+            "name": "Thị trấn An Lạc Thôn"
+        },
+        {
+            "uid": "0c4aab2cb10a42d5979a5092d05f84ce",
+            "name": "Xã Xuân Hòa"
+        },
+        {
+            "uid": "28137f5a101649d0a5d7e8c08eb6ee86",
+            "name": "Xã Phong Nẫm"
+        },
+        {
+            "uid": "24383220299341938d8dc60bbc1f421a",
+            "name": "Xã An Lạc Tây"
+        },
+        {
+            "uid": "464bfe9be22a4ef888e6da0df63f31fb",
+            "name": "Xã Trinh Phú"
+        },
+        {
+            "uid": "19d08879ad9e451898e362de47fc4c3b",
+            "name": "Xã Ba Trinh"
+        },
+        {
+            "uid": "9faddef916ac4e32a796931e729dc5f8",
+            "name": "Xã Thới An Hội"
+        },
+        {
+            "uid": "04a754f67484492c812c4464941ac262",
+            "name": "Xã Nhơn Mỹ"
+        },
+        {
+            "uid": "6260bbfd7f3c4c028ffcb1d484ced4e0",
+            "name": "Xã Kế Thành"
+        },
+        {
+            "uid": "c007cc5bdaac46dba6bf56aee7493df0",
+            "name": "Xã Kế An"
+        },
+        {
+            "uid": "9c7f7ccadb6740c38aede275f3e206c1",
+            "name": "Xã Đại Hải"
+        },
+        {
+            "uid": "6448d356a477491fa4ad65e6ad24ec75",
+            "name": "Xã An Mỹ"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "uid": "a38b6bdf75744647b6487fe4b2a00523",
+    "name": "Thị xã Kinh Môn",
+    "wards": [
+        {
+            "uid": "9f09fac7cdd14bb79c4aee7490254456",
+            "name": "Phường An Lưu"
+        },
+        {
+            "uid": "4e360035c0b64092b6ee2e240c5ecb59",
+            "name": "Xã Bạch Đằng"
+        },
+        {
+            "uid": "0190481b00a347219be64596ef7b7b87",
+            "name": "Phường Thất Hùng"
+        },
+        {
+            "uid": "2d0eef7f01e7423d88498271dca1cb68",
+            "name": "Xã Lê Ninh"
+        },
+        {
+            "uid": "5db23bfd3e094f36ad333d7f52d3191c",
+            "name": "Xã Hoành Sơn"
+        },
+        {
+            "uid": "97e413eedfff4ae4830927f76306ea3d",
+            "name": "Phường Phạm Thái"
+        },
+        {
+            "uid": "dd095adf1e2f4754b05205557912f945",
+            "name": "Phường Duy Tân"
+        },
+        {
+            "uid": "163c610cb33648a3bb260ae81fd10363",
+            "name": "Phường Tân Dân"
+        },
+        {
+            "uid": "eea51986a73e438a857dc983cbde0cfd",
+            "name": "Phường Minh Tân"
+        },
+        {
+            "uid": "9a21b72f01704f2e886e3ac6f31444a6",
+            "name": "Xã Quang Thành"
+        },
+        {
+            "uid": "4c50c6780d59467dbfc11dab5322daa1",
+            "name": "Xã Hiệp Hòa"
+        },
+        {
+            "uid": "dd69e68a614145ff98124360bd79d7e8",
+            "name": "Phường Phú Thứ"
+        },
+        {
+            "uid": "bcfde3a2f3624e349620bf7da25b37b0",
+            "name": "Xã Thăng Long"
+        },
+        {
+            "uid": "150bbbcb2bfa4b458c8261fc56498609",
+            "name": "Xã Lạc Long"
+        },
+        {
+            "uid": "c35ff28c60e245989be55f24bbc80e25",
+            "name": "Phường An Sinh"
+        },
+        {
+            "uid": "92dc6d66faca4158b42e82cd8a719e80",
+            "name": "Phường Hiệp Sơn"
+        },
+        {
+            "uid": "b340828c66bb4829a3d179e2f82900d4",
+            "name": "Xã Thượng Quận"
+        },
+        {
+            "uid": "a91b9b0bde074f2f871f635ada841a2d",
+            "name": "Phường An Phụ"
+        },
+        {
+            "uid": "d7e9a03019944c9a817f6cfe0d7ac273",
+            "name": "Phường Hiệp An"
+        },
+        {
+            "uid": "3bae9123cb30408fb173fba30753f5b8",
+            "name": "Phường Long Xuyên"
+        },
+        {
+            "uid": "fec08c661dc8454cb1fb8dd56a75edea",
+            "name": "Phường Thái Thịnh"
+        },
+        {
+            "uid": "f5100bbb3a0b4fc7be67b1e538cfdb14",
+            "name": "Phường Hiến Thành"
+        },
+        {
+            "uid": "947b5d19a14346ce954e1709a83ce81a",
+            "name": "Xã Minh Hòa"
+        }
+    ]
+}

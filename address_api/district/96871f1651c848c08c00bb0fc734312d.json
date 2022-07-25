@@ -1,0 +1,90 @@
+{
+    "uid": "96871f1651c848c08c00bb0fc734312d",
+    "name": "Huyện Trùng Khánh",
+    "wards": [
+        {
+            "uid": "ba428d092d45434c80054d28f8b9a3be",
+            "name": "Thị trấn Trà Lĩnh"
+        },
+        {
+            "uid": "e388bb3b0abb4fd29f7c090f707a5834",
+            "name": "Xã Tri Phương"
+        },
+        {
+            "uid": "5bdeba87cc734300ae75d0662c074520",
+            "name": "Xã Quang Hán"
+        },
+        {
+            "uid": "280e5fd315c740abbaab8fa310828cd9",
+            "name": "Xã Xuân Nội"
+        },
+        {
+            "uid": "4086da90be184c99a49866a5a5fd1381",
+            "name": "Xã Quang Trung"
+        },
+        {
+            "uid": "f3690e10f7b749239a1fd216ed5ffaa3",
+            "name": "Xã Quang Vinh"
+        },
+        {
+            "uid": "2f8a9cf19176449abaf92247eaf09e61",
+            "name": "Xã Cao Chương"
+        },
+        {
+            "uid": "d8dea37e31b049a09645257450bf2d09",
+            "name": "Thị trấn Trùng Khánh"
+        },
+        {
+            "uid": "7195b4d66b0941dcbeb94cea883417db",
+            "name": "Xã Ngọc Khê"
+        },
+        {
+            "uid": "f8b887d32589412286321df583e4768f",
+            "name": "Xã Ngọc Côn"
+        },
+        {
+            "uid": "1966a9b52e554a7ba52aeb885fb39cad",
+            "name": "Xã Phong Nậm"
+        },
+        {
+            "uid": "bec1001766ca45848250cf5d9b3839f6",
+            "name": "Xã Đình Phong"
+        },
+        {
+            "uid": "801710f8c6c94a22b51beca50749d984",
+            "name": "Xã Đàm Thuỷ"
+        },
+        {
+            "uid": "839ff900b28c447682785b444e82a1ff",
+            "name": "Xã Khâm Thành"
+        },
+        {
+            "uid": "4d4062f0da734d8ebeb3455088b016bb",
+            "name": "Xã Chí Viễn"
+        },
+        {
+            "uid": "7267e305909d4bd89919b44f96a079f1",
+            "name": "Xã Lăng Hiếu"
+        },
+        {
+            "uid": "30aad906b0134769b717a5f98bd3b089",
+            "name": "Xã Phong Châu"
+        },
+        {
+            "uid": "a6daa3769be14ecfbd8a7c17992fa61b",
+            "name": "Xã Trung Phúc"
+        },
+        {
+            "uid": "9caa2513efdd43c8b4bf7a1aee472602",
+            "name": "Xã Cao Thăng"
+        },
+        {
+            "uid": "6b95c09d1cfa4715888bc553b5fc6aef",
+            "name": "Xã Đức Hồng"
+        },
+        {
+            "uid": "1965245595d743e885c8d96409374772",
+            "name": "Xã Đoài Dương"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "373f138249b9473b9e4e624d0c34b235",
+    "name": "Thành phố Gia Nghĩa",
+    "wards": [
+        {
+            "uid": "8acedd57a6564fb894b3a991ecb2698f",
+            "name": "Phường Nghĩa Đức"
+        },
+        {
+            "uid": "d581c18ef106408c97468c8703ab0dc2",
+            "name": "Phường Nghĩa Thành"
+        },
+        {
+            "uid": "ef26e5a9809d4068ac1490e0cb45777d",
+            "name": "Phường Nghĩa Phú"
+        },
+        {
+            "uid": "741a680919bc41afbf8595974f982d26",
+            "name": "Phường Nghĩa Tân"
+        },
+        {
+            "uid": "6ee83f20c58e48dc91019dbb9148aed2",
+            "name": "Phường Nghĩa Trung"
+        },
+        {
+            "uid": "b272d3a12f3949ee89fba6316b000988",
+            "name": "Xã Đăk R'Moan"
+        },
+        {
+            "uid": "1480aed3d2b24437af3ade091ca059c6",
+            "name": "Phường Quảng Thành"
+        },
+        {
+            "uid": "4a91bcdd4a8b4872b0ece0a883e8335c",
+            "name": "Xã Đắk Nia"
+        }
+    ]
+}

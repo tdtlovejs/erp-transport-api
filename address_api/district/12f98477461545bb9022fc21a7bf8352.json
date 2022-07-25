@@ -1,0 +1,86 @@
+{
+    "uid": "12f98477461545bb9022fc21a7bf8352",
+    "name": "Huyện Vũng Liêm",
+    "wards": [
+        {
+            "uid": "2acbfc1f36fd4625a8781f7b242e1523",
+            "name": "Thị trấn Vũng Liêm"
+        },
+        {
+            "uid": "4ebde4955af84d7da3520d1a45c3115c",
+            "name": "Xã Tân Quới Trung"
+        },
+        {
+            "uid": "f3ee3b55193d4469ac34850e1b99f946",
+            "name": "Xã Quới Thiện"
+        },
+        {
+            "uid": "89a6147bb5be4ba3b14e37ec9596dbc2",
+            "name": "Xã Quới An"
+        },
+        {
+            "uid": "62035924089d44a78477b271eafe838c",
+            "name": "Xã Trung Chánh"
+        },
+        {
+            "uid": "08aa1cbaa8a54cfa94de5227fd51a530",
+            "name": "Xã Tân An Luông"
+        },
+        {
+            "uid": "59b3be53ac5d4c6b8a028690adf13db3",
+            "name": "Xã Thanh Bình"
+        },
+        {
+            "uid": "46afe001903046cf9c084a40b918eba4",
+            "name": "Xã Trung Thành Tây"
+        },
+        {
+            "uid": "6d194746ee0743d186ed97971b87ccb0",
+            "name": "Xã Trung Hiệp"
+        },
+        {
+            "uid": "fa75721d5782419cb31a15fb0b879d7b",
+            "name": "Xã Hiếu Phụng"
+        },
+        {
+            "uid": "3124a4eabe924a5cb547b2ba786eb9a0",
+            "name": "Xã Trung Thành Đông"
+        },
+        {
+            "uid": "cffd17c416a74363b9eaee1d21d978ff",
+            "name": "Xã Trung Thành"
+        },
+        {
+            "uid": "cf137fab4b204576a16001bcb61f00d3",
+            "name": "Xã Trung Hiếu"
+        },
+        {
+            "uid": "880c0d0a0c9c469c83421d11d039a6fd",
+            "name": "Xã Trung Ngãi"
+        },
+        {
+            "uid": "4ab7da0e9185402cb00fbb079f67503e",
+            "name": "Xã Hiếu Thuận"
+        },
+        {
+            "uid": "c9b34136b9db4381bfe8188ca7bebc8a",
+            "name": "Xã Trung Nghĩa"
+        },
+        {
+            "uid": "9dbad5cf74e948d49425ffc69efb6a1a",
+            "name": "Xã Trung An"
+        },
+        {
+            "uid": "28fbd20cb8464ab292d12a870406a0bb",
+            "name": "Xã Hiếu Nhơn"
+        },
+        {
+            "uid": "a10a38de1ade4eabae0e8dea18811f2c",
+            "name": "Xã Hiếu Thành"
+        },
+        {
+            "uid": "c8e06fe6d32a42c68bdd148b6b593e09",
+            "name": "Xã Hiếu Nghĩa"
+        }
+    ]
+}

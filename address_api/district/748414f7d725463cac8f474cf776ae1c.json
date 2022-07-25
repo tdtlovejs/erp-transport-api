@@ -1,0 +1,26 @@
+{
+    "uid": "748414f7d725463cac8f474cf776ae1c",
+    "name": "Huyện Giang Thành",
+    "wards": [
+        {
+            "uid": "1c18b4107bf44a7ca3b8e07113b8af4d",
+            "name": "Xã Vĩnh Phú"
+        },
+        {
+            "uid": "62371614ad9840f89d447b84cba4b572",
+            "name": "Xã Vĩnh Điều"
+        },
+        {
+            "uid": "d0c897d476024f1caf29f4cd4cbb2748",
+            "name": "Xã Tân Khánh Hòa"
+        },
+        {
+            "uid": "c71f3483d9764a9d9c5188ec9540bf87",
+            "name": "Xã Phú Lợi"
+        },
+        {
+            "uid": "394861bf189e46729847b182aa03e650",
+            "name": "Xã Phú Mỹ"
+        }
+    ]
+}

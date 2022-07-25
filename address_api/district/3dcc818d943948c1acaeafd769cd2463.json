@@ -1,0 +1,50 @@
+{
+    "uid": "3dcc818d943948c1acaeafd769cd2463",
+    "name": "Huyện Đông Giang",
+    "wards": [
+        {
+            "uid": "bbf1f0557a10489b89693c9c3429d544",
+            "name": "Thị trấn P Rao"
+        },
+        {
+            "uid": "0e1a54dee454445dabbcedbfc47b3185",
+            "name": "Xã Tà Lu"
+        },
+        {
+            "uid": "4ede25cba53e473aae10359946958755",
+            "name": "Xã Sông Kôn"
+        },
+        {
+            "uid": "14bb49fd89ea4567818c1f64b2d237d6",
+            "name": "Xã Jơ Ngây"
+        },
+        {
+            "uid": "077060e44fcb433c92a0f3a73e5f2112",
+            "name": "Xã A Ting"
+        },
+        {
+            "uid": "7d373af3ae6e4ce096ee8576583a9608",
+            "name": "Xã Tư"
+        },
+        {
+            "uid": "e694dc8f23da4b4cb3152e7cb394fa6b",
+            "name": "Xã Ba"
+        },
+        {
+            "uid": "21573c8314634568bc49d680d76019ee",
+            "name": "Xã A Rooi"
+        },
+        {
+            "uid": "b76a82b43a8941da8af5f96b90a8d6ef",
+            "name": "Xã Za Hung"
+        },
+        {
+            "uid": "9cb7d8b63a6a465ba3012f2c0dcf40bd",
+            "name": "Xã Mà Cooi"
+        },
+        {
+            "uid": "d761dd4796544bf2947dcf61ba3df200",
+            "name": "Xã Ka Dăng"
+        }
+    ]
+}

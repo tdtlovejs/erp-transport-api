@@ -1,0 +1,54 @@
+{
+    "uid": "de943eebec294593ab5d8bd99656fb5f",
+    "name": "Quận Ngô Quyền",
+    "wards": [
+        {
+            "uid": "d62df5d9263948069086977468229d33",
+            "name": "Phường Máy Chai"
+        },
+        {
+            "uid": "58d6ac20a55b48ee8e6628051bcaaed1",
+            "name": "Phường Máy Tơ"
+        },
+        {
+            "uid": "a8786b6276a747d3b0af6cf9874e0be8",
+            "name": "Phường Vạn Mỹ"
+        },
+        {
+            "uid": "a6c448da6dfe454a933ed5373a7a336d",
+            "name": "Phường Cầu Tre"
+        },
+        {
+            "uid": "a3385aa4725e47ff926aff3176308f84",
+            "name": "Phường Lạc Viên"
+        },
+        {
+            "uid": "036720767cde4269bba8caef653f3baa",
+            "name": "Phường Gia Viên"
+        },
+        {
+            "uid": "c896ad757d6c49528d55527558bb6281",
+            "name": "Phường Đông Khê"
+        },
+        {
+            "uid": "31a6423c117a4f54be721ffe7b9a28bf",
+            "name": "Phường Cầu Đất"
+        },
+        {
+            "uid": "8f857c3706b24e3fad1bfbf9e64c5ce2",
+            "name": "Phường Lê Lợi"
+        },
+        {
+            "uid": "2f0219ce156b4ad7aabb0476470eedb9",
+            "name": "Phường Đằng Giang"
+        },
+        {
+            "uid": "2acc1c8c29404a35ae6c06a957823733",
+            "name": "Phường Lạch Tray"
+        },
+        {
+            "uid": "7d9a1cd576ff47f18dd03e9ed703e6f2",
+            "name": "Phường Đổng Quốc Bình"
+        }
+    ]
+}

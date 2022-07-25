@@ -1,0 +1,46 @@
+{
+    "uid": "655e3120ad3c47c7b3583795f5282fa8",
+    "name": "Huyện Bình Tân",
+    "wards": [
+        {
+            "uid": "8acaebd5ccac4314984a1a29c345f72f",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "46980c1581f142e6b55d9ab835fe0e63",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "89df1741cffe4308800eda7bd633c94f",
+            "name": "Xã Thành Trung"
+        },
+        {
+            "uid": "d1f5d5c0844a4cc0988a1d46d03ca392",
+            "name": "Xã Tân An Thạnh"
+        },
+        {
+            "uid": "3033e2e0df794ab786ba2fbddcf8146b",
+            "name": "Xã Tân Lược"
+        },
+        {
+            "uid": "9e2334bd321d46dc8d0d9820f84e3efc",
+            "name": "Xã Nguyễn Văn Thảnh"
+        },
+        {
+            "uid": "ed9e46315c8844c896756e58854b2a0f",
+            "name": "Xã Thành Lợi"
+        },
+        {
+            "uid": "523205f2606844c6b9f543755aafebad",
+            "name": "Xã Mỹ Thuận"
+        },
+        {
+            "uid": "fac417cf107b4784bc9160765bac3732",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "4894760e5c4a4dacaebf9db89e727492",
+            "name": "Thị trấn Tân Quới"
+        }
+    ]
+}

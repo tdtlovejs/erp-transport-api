@@ -1,0 +1,58 @@
+{
+    "uid": "21974d6786034e5cb775695f8d119daf",
+    "name": "Huyện Cẩm Mỹ",
+    "wards": [
+        {
+            "uid": "cc1ce68ba5384e0399c9603d28a484f1",
+            "name": "Xã Sông Nhạn"
+        },
+        {
+            "uid": "4630cdbd32464761b51460061cc23b93",
+            "name": "Xã Xuân Quế"
+        },
+        {
+            "uid": "6533dbcb18b14f3b8e0e99c5bbc04461",
+            "name": "Xã Nhân Nghĩa"
+        },
+        {
+            "uid": "9539a6ead8344fddb4b0732732e7d43e",
+            "name": "Xã Xuân Đường"
+        },
+        {
+            "uid": "6418b3f6125d497bab582e7b772aa303",
+            "name": "Xã Long Giao"
+        },
+        {
+            "uid": "10cf4b7511f948379ae7f9b6bf25f591",
+            "name": "Xã Xuân Mỹ"
+        },
+        {
+            "uid": "2c95ecb323534bf68822311279a91a1c",
+            "name": "Xã Thừa Đức"
+        },
+        {
+            "uid": "17958ec3d89b47809df8bc184bf5e26d",
+            "name": "Xã Bảo Bình"
+        },
+        {
+            "uid": "ed9d7372911a43639fbfb18d35b73484",
+            "name": "Xã Xuân Bảo"
+        },
+        {
+            "uid": "580470660b084e76b1695df9346c7f57",
+            "name": "Xã Xuân Tây"
+        },
+        {
+            "uid": "a8285a020adf4ab298036907a8e568a1",
+            "name": "Xã Xuân Đông"
+        },
+        {
+            "uid": "82b3731811ea48f1a645382e3e9620f2",
+            "name": "Xã Sông Ray"
+        },
+        {
+            "uid": "ef2c248ebd1b42d3be977398c2e0382e",
+            "name": "Xã Lâm San"
+        }
+    ]
+}

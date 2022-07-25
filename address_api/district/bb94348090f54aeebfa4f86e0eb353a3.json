@@ -1,0 +1,94 @@
+{
+    "uid": "bb94348090f54aeebfa4f86e0eb353a3",
+    "name": "Huyện Giao Thủy",
+    "wards": [
+        {
+            "uid": "361ec2861a92486e8f53257f967b25a4",
+            "name": "Thị trấn Ngô Đồng"
+        },
+        {
+            "uid": "3887a8a7941541e488ded3c7d5d1030c",
+            "name": "Thị trấn Quất Lâm"
+        },
+        {
+            "uid": "dc8c817acfb84e47b0d931a819f39f2c",
+            "name": "Xã Giao Hương"
+        },
+        {
+            "uid": "e1d6e2b07edf46d8a9c1cfcaef4a6d55",
+            "name": "Xã Hồng Thuận"
+        },
+        {
+            "uid": "f6c8c6fbcfd24d1c93ef8d9f4cba134c",
+            "name": "Xã Giao Thiện"
+        },
+        {
+            "uid": "cda2a74c7b554b2cab067401eb8657ec",
+            "name": "Xã Giao Thanh"
+        },
+        {
+            "uid": "0fd8810077804b47a46080b4ba1eb4e4",
+            "name": "Xã Hoành Sơn"
+        },
+        {
+            "uid": "dab3728553924cdfad5c2d3682942559",
+            "name": "Xã Bình Hòa"
+        },
+        {
+            "uid": "14f111886ca346db8296833ee2d71837",
+            "name": "Xã Giao Tiến"
+        },
+        {
+            "uid": "a1bda5c9fc384ce59604252383e449f1",
+            "name": "Xã Giao Hà"
+        },
+        {
+            "uid": "9eced8c6d97148b7aa167812ec34015a",
+            "name": "Xã Giao Nhân"
+        },
+        {
+            "uid": "4dbffd5cd52c4887a40aeba65322313d",
+            "name": "Xã Giao An"
+        },
+        {
+            "uid": "0df34c969a8546509d21f68163d89ea5",
+            "name": "Xã Giao Lạc"
+        },
+        {
+            "uid": "42c02debb48a4361a751b22accdd3436",
+            "name": "Xã Giao Châu"
+        },
+        {
+            "uid": "abad704706564531b721187f2a512c38",
+            "name": "Xã Giao Tân"
+        },
+        {
+            "uid": "580cf737ecfa4013b356f096bd09047a",
+            "name": "Xã Giao Yến"
+        },
+        {
+            "uid": "df9974d068514579a6a0ef977bece31a",
+            "name": "Xã Giao Xuân"
+        },
+        {
+            "uid": "f35015f1bb3847068d2981e3efe6dd06",
+            "name": "Xã Giao Thịnh"
+        },
+        {
+            "uid": "b39438f05a7947ce88bf22bb046f0398",
+            "name": "Xã Giao Hải"
+        },
+        {
+            "uid": "1ff5ee82cc174b5796e4480115326f4f",
+            "name": "Xã Bạch Long"
+        },
+        {
+            "uid": "511d119393584a078a001ebd12d4657e",
+            "name": "Xã Giao Long"
+        },
+        {
+            "uid": "62193b1b21c94f8aaa6674a3f418be2a",
+            "name": "Xã Giao Phong"
+        }
+    ]
+}

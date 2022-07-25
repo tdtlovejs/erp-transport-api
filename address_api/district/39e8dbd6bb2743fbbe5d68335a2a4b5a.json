@@ -1,0 +1,50 @@
+{
+    "uid": "39e8dbd6bb2743fbbe5d68335a2a4b5a",
+    "name": "Huyện Long Phú",
+    "wards": [
+        {
+            "uid": "a7ab66d0e3f04e549b7a35b9f9d1ba96",
+            "name": "Thị trấn Long Phú"
+        },
+        {
+            "uid": "aaa9483700df487989cbb07b4edcedec",
+            "name": "Xã Song Phụng"
+        },
+        {
+            "uid": "783a26edfa5b4bc9b82e88b7bc50ca47",
+            "name": "Thị trấn Đại Ngãi"
+        },
+        {
+            "uid": "1990fbae31054b5fb5a791fcca41ff20",
+            "name": "Xã Hậu Thạnh"
+        },
+        {
+            "uid": "41c953ee33a84d8e8311fb5f53828253",
+            "name": "Xã Long Đức"
+        },
+        {
+            "uid": "dbd048c896f344669c0e6392c210202b",
+            "name": "Xã Trường Khánh"
+        },
+        {
+            "uid": "a07311dfd6d741ab80eb5af955199612",
+            "name": "Xã Phú Hữu"
+        },
+        {
+            "uid": "cc950c01792841af847ed332cea6afaf",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "283670a59cf84d60a3c778cc8f0512e0",
+            "name": "Xã Châu Khánh"
+        },
+        {
+            "uid": "7cad639988374f18a20d9d3a6a73ac6b",
+            "name": "Xã Tân Thạnh"
+        },
+        {
+            "uid": "a055a7c6c18b4dbb8ed7fd043f1214b5",
+            "name": "Xã Long Phú"
+        }
+    ]
+}

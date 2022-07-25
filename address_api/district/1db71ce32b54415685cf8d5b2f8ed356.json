@@ -1,0 +1,62 @@
+{
+    "uid": "1db71ce32b54415685cf8d5b2f8ed356",
+    "name": "Thành phố Thủ Dầu Một",
+    "wards": [
+        {
+            "uid": "281a26bda7ee4f6e94d2bd4ebc245f2f",
+            "name": "Phường Hiệp Thành"
+        },
+        {
+            "uid": "3727748317cf4a3ab23012a2429350e6",
+            "name": "Phường Phú Lợi"
+        },
+        {
+            "uid": "1f0f2e973c584f0dac569f44b1fd29cb",
+            "name": "Phường Phú Cường"
+        },
+        {
+            "uid": "1566d4d41b6d4de7a0c2041fa3b96341",
+            "name": "Phường Phú Hòa"
+        },
+        {
+            "uid": "d792abac5c2940eb972a94acd6ffd925",
+            "name": "Phường Phú Thọ"
+        },
+        {
+            "uid": "2de778365d1749bbb4636d31c249255a",
+            "name": "Phường Chánh Nghĩa"
+        },
+        {
+            "uid": "edb985859ed54e398c8ab2ca015490cd",
+            "name": "Phường Định Hoà"
+        },
+        {
+            "uid": "a4d20a0cdeb7434184874f7d42d443ed",
+            "name": "Phường Hoà Phú"
+        },
+        {
+            "uid": "a3376b52ec9544d4bb8e28ca76942248",
+            "name": "Phường Phú Mỹ"
+        },
+        {
+            "uid": "38302f64b66b48ad9ac64789484f61e8",
+            "name": "Phường Phú Tân"
+        },
+        {
+            "uid": "1f356042a7bf4248ad125d3827505256",
+            "name": "Phường Tân An"
+        },
+        {
+            "uid": "d339fd8077af48a0aacb162308a76019",
+            "name": "Phường Hiệp An"
+        },
+        {
+            "uid": "cf1cb5933e0a4d36a0f82245072e07ae",
+            "name": "Phường Tương Bình Hiệp"
+        },
+        {
+            "uid": "7adbfbe1242c437f82e9dc4c15a13d0d",
+            "name": "Phường Chánh Mỹ"
+        }
+    ]
+}

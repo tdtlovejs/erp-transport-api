@@ -1,0 +1,46 @@
+{
+    "uid": "91ddff2cf6644581b8554091b87a4bf6",
+    "name": "Thị xã Vĩnh Châu",
+    "wards": [
+        {
+            "uid": "30a30ba068104de4967d9ed6febca98e",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "b984c37b6d4d481fa6807151f9bdd573",
+            "name": "Xã Hòa Đông"
+        },
+        {
+            "uid": "0f9d41a589d24ca4aed136ab91e0e25c",
+            "name": "Phường Khánh Hòa"
+        },
+        {
+            "uid": "8256e474482a4f92ad6e905d4ce48534",
+            "name": "Xã Vĩnh Hiệp"
+        },
+        {
+            "uid": "3232a37033084c6ab3ea4e284f896a96",
+            "name": "Xã Vĩnh Hải"
+        },
+        {
+            "uid": "582be8991fa34a8295f89da9c9a5987c",
+            "name": "Xã Lạc Hòa"
+        },
+        {
+            "uid": "45af6f76bf7b4a278329ebebd0687763",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "bab9ae38fb0a42269d8b04b9d3ee1723",
+            "name": "Phường Vĩnh Phước"
+        },
+        {
+            "uid": "45c9ff4f018241fcbd6830f193ee1a83",
+            "name": "Xã Vĩnh Tân"
+        },
+        {
+            "uid": "cafc81e6b95c488b92731f240dfc0ca0",
+            "name": "Xã Lai Hòa"
+        }
+    ]
+}

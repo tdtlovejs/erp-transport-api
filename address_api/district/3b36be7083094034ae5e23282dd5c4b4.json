@@ -1,0 +1,90 @@
+{
+    "uid": "3b36be7083094034ae5e23282dd5c4b4",
+    "name": "Huyện Quốc Oai",
+    "wards": [
+        {
+            "uid": "329c969959e346d5a624266aa7b9971a",
+            "name": "Xã Đông Xuân"
+        },
+        {
+            "uid": "7f8ea0d0956b4055afc66d9ad3d2001f",
+            "name": "Thị trấn Quốc Oai"
+        },
+        {
+            "uid": "62796b9c871749bca89a3dc6824bcd85",
+            "name": "Xã Sài Sơn"
+        },
+        {
+            "uid": "70e67d935b334698ba47fdada367d342",
+            "name": "Xã Phượng Cách"
+        },
+        {
+            "uid": "6280374d06fb478f8cfb64b08d3629d9",
+            "name": "Xã Yên Sơn"
+        },
+        {
+            "uid": "72092a2b143f4600be4b10cf084f0d38",
+            "name": "Xã Ngọc Liệp"
+        },
+        {
+            "uid": "c63972d894044af7b084782c2abc533b",
+            "name": "Xã Ngọc Mỹ"
+        },
+        {
+            "uid": "dc84f6bd9a7945468ec4aa101d7958f9",
+            "name": "Xã Liệp Tuyết"
+        },
+        {
+            "uid": "b8d96a343e07460f84282c4d3143b8cd",
+            "name": "Xã Thạch Thán"
+        },
+        {
+            "uid": "5a35262452274438b07e0178c959829a",
+            "name": "Xã Đồng Quang"
+        },
+        {
+            "uid": "18522d75171e45fea557ccbc553dce34",
+            "name": "Xã Phú Cát"
+        },
+        {
+            "uid": "3c52addf206a4ba5a1e80f632cea030d",
+            "name": "Xã Tuyết Nghĩa"
+        },
+        {
+            "uid": "ed999eacac8d49b8adcfd372690fa607",
+            "name": "Xã Nghĩa Hương"
+        },
+        {
+            "uid": "2b39d9099e994efdb4be12ffa9850700",
+            "name": "Xã Cộng Hòa"
+        },
+        {
+            "uid": "cb91fc7944cb4c52a03683329ee99df2",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "48abd53de48d4aa48a9e123a59ebf61b",
+            "name": "Xã Đại Thành"
+        },
+        {
+            "uid": "a63dabc01fd847bca8b86ac9f89b2e94",
+            "name": "Xã Phú Mãn"
+        },
+        {
+            "uid": "8bec722beb224d77b2dbf5fdefc3daec",
+            "name": "Xã Cấn Hữu"
+        },
+        {
+            "uid": "66f33d746d9d42809f74c5e36711b554",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "1e3067cf1bcb4c3c93af37cf9c83d2c4",
+            "name": "Xã Hòa Thạch"
+        },
+        {
+            "uid": "16a29fbbdc3f45beb8364bac5ea28e59",
+            "name": "Xã Đông Yên"
+        }
+    ]
+}

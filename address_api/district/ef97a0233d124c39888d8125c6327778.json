@@ -1,0 +1,50 @@
+{
+    "uid": "ef97a0233d124c39888d8125c6327778",
+    "name": "Huyện Sa Thầy",
+    "wards": [
+        {
+            "uid": "77539c20beae44be87b249f50fcd5bc5",
+            "name": "Thị trấn Sa Thầy"
+        },
+        {
+            "uid": "aeffe8421dc6405f8905a848c58e8dda",
+            "name": "Xã Rơ Kơi"
+        },
+        {
+            "uid": "39861c32c90f455eb8fe23223741594d",
+            "name": "Xã Sa Nhơn"
+        },
+        {
+            "uid": "072386201ee74f1aa4a2797063209229",
+            "name": "Xã Hơ Moong"
+        },
+        {
+            "uid": "ca876dc829ce4ee291ce0d89128eec83",
+            "name": "Xã Mô Rai"
+        },
+        {
+            "uid": "3d646cddb40942a0bf53d2f140403c87",
+            "name": "Xã Sa Sơn"
+        },
+        {
+            "uid": "7f575f36cdb949d7b542f52f16240725",
+            "name": "Xã Sa Nghĩa"
+        },
+        {
+            "uid": "0248bb4a59fb4261844fc13fcad5c8b3",
+            "name": "Xã Sa Bình"
+        },
+        {
+            "uid": "2522384dc2ff4cf193ec015bfb484582",
+            "name": "Xã Ya Xiêr"
+        },
+        {
+            "uid": "7d2db6b0a74846eaa930c09cff64205c",
+            "name": "Xã Ya Tăng"
+        },
+        {
+            "uid": "5a3c6233be414cf0a7c3c1be9c41be4e",
+            "name": "Xã Ya ly"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "uid": "47c3addc6d8c4bf68fe59a399c55ac9e",
+    "name": "Huyện Vân Đồn",
+    "wards": [
+        {
+            "uid": "b808faa0c18d4c32be1c61b27b75b81b",
+            "name": "Thị trấn Cái Rồng"
+        },
+        {
+            "uid": "e4faaa11d58f43fe89d7d4a6c7afbd96",
+            "name": "Xã Đài Xuyên"
+        },
+        {
+            "uid": "d3163b629ccc4bf4b6f470e42ebdc605",
+            "name": "Xã Bình Dân"
+        },
+        {
+            "uid": "f72239320f8945899f6fc0709dfb3815",
+            "name": "Xã Vạn Yên"
+        },
+        {
+            "uid": "8458eb3162f94a2ab6be7b8ae9afab9f",
+            "name": "Xã Minh Châu"
+        },
+        {
+            "uid": "a7f55146953142869f4061edd8334174",
+            "name": "Xã Đoàn Kết"
+        },
+        {
+            "uid": "94ad4cf4bcfb4d5295a276c7a165c65a",
+            "name": "Xã Hạ Long"
+        },
+        {
+            "uid": "f56f667a048041c3a459b91fa2c75ac7",
+            "name": "Xã Đông Xá"
+        },
+        {
+            "uid": "94d2120f780848539534e9ce80b83608",
+            "name": "Xã Bản Sen"
+        },
+        {
+            "uid": "da624189449445dead898327163b99c6",
+            "name": "Xã Thắng Lợi"
+        },
+        {
+            "uid": "670bea77f6c74b54a9178fd7149e1bcb",
+            "name": "Xã Quan Lạn"
+        },
+        {
+            "uid": "80fb5b2a3bcc4861a709ec57a9274a0d",
+            "name": "Xã Ngọc Vừng"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "uid": "9cc9b968e373443781d6c477fd634510",
+    "name": "Huyện Tuần Giáo",
+    "wards": [
+        {
+            "uid": "8060d26eda114c50875c4c7d95c852b4",
+            "name": "Thị trấn Tuần Giáo"
+        },
+        {
+            "uid": "5fcdb279368047529e007cc10865a836",
+            "name": "Xã Phình Sáng"
+        },
+        {
+            "uid": "999a700764e24df3a1fc9d50401318f2",
+            "name": "Xã Rạng Đông"
+        },
+        {
+            "uid": "1d0ae54cce854d1582225077ce143428",
+            "name": "Xã Mùn Chung"
+        },
+        {
+            "uid": "cdf813453f0b4ba5b6f3f06b226d84ac",
+            "name": "Xã Nà Tòng"
+        },
+        {
+            "uid": "bd6c4c997b3c43aab151f5a883361d7b",
+            "name": "Xã Ta Ma"
+        },
+        {
+            "uid": "f83bb7849a534f8298ece7e765579e52",
+            "name": "Xã Mường Mùn"
+        },
+        {
+            "uid": "0e059b147651410ab95781e584e07964",
+            "name": "Xã Pú Xi"
+        },
+        {
+            "uid": "01b964bbe4234162acfd7a2713f4e2ba",
+            "name": "Xã Pú Nhung"
+        },
+        {
+            "uid": "9380b28d379445ac86eae54286ecce1d",
+            "name": "Xã Quài Nưa"
+        },
+        {
+            "uid": "988b887661e94db2b7e95ef5ec3203ad",
+            "name": "Xã Mường Thín"
+        },
+        {
+            "uid": "bb4f3b7151084b5bb5d4a1c473b7fd1f",
+            "name": "Xã Tỏa Tình"
+        },
+        {
+            "uid": "504c5ad93f4f4d5392cf4ee0321c46e1",
+            "name": "Xã Nà Sáy"
+        },
+        {
+            "uid": "03d025ba92eb4907befd81978e9c1f7c",
+            "name": "Xã Mường Khong"
+        },
+        {
+            "uid": "db0e3d87496149e58b5d1d66387c9f57",
+            "name": "Xã Quài Cang"
+        },
+        {
+            "uid": "34de3e3416d04c96852cc53fcb4d742c",
+            "name": "Xã Quài Tở"
+        },
+        {
+            "uid": "ba97ddc2abe245909e8a7d92c0e9ab9e",
+            "name": "Xã Chiềng Sinh"
+        },
+        {
+            "uid": "30e097cdd2bf420bbb88026d829cb1b4",
+            "name": "Xã Chiềng Đông"
+        },
+        {
+            "uid": "7ee47d6394be43d5992e5ebc2d0bd82f",
+            "name": "Xã Tênh Phông"
+        }
+    ]
+}

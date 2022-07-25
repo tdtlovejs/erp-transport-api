@@ -1,0 +1,90 @@
+{
+    "uid": "46859dc35433492d9954492fb76a8abb",
+    "name": "Thành phố Buôn Ma Thuột",
+    "wards": [
+        {
+            "uid": "6f78885a2f6248558e78af0640156621",
+            "name": "Phường Tân Lập"
+        },
+        {
+            "uid": "dee257b69fa242d888e3ca0d016bac41",
+            "name": "Phường Tân Hòa"
+        },
+        {
+            "uid": "dfd3e7cda58d4d9cade553ab406279bc",
+            "name": "Phường Tân An"
+        },
+        {
+            "uid": "80a6e05cfac54af7adbf600c4052f2fa",
+            "name": "Phường Thống Nhất"
+        },
+        {
+            "uid": "1571b02d9be04d699625d8ac8f38fce5",
+            "name": "Phường Thành Nhất"
+        },
+        {
+            "uid": "5f5765ea3472490eb965eb41c5eb9b95",
+            "name": "Phường Thắng Lợi"
+        },
+        {
+            "uid": "cb51b6f00ee8456f831905d3ca9dac74",
+            "name": "Phường Tân Lợi"
+        },
+        {
+            "uid": "def3788b41b84a2a8c7a808d38c180eb",
+            "name": "Phường Thành Công"
+        },
+        {
+            "uid": "39f11c67237546ffbfdca36728240265",
+            "name": "Phường Tân Thành"
+        },
+        {
+            "uid": "823cb3157ceb4e17899954658934f05f",
+            "name": "Phường Tân Tiến"
+        },
+        {
+            "uid": "c0ac7eaf82704033bde753cfb42eb2eb",
+            "name": "Phường Tự An"
+        },
+        {
+            "uid": "0d4d33a43d6649f5864bf9af9a4f707a",
+            "name": "Phường Ea Tam"
+        },
+        {
+            "uid": "b533e19848a0476b9868a90af7f85c27",
+            "name": "Phường Khánh Xuân"
+        },
+        {
+            "uid": "52fbbfac10ff473094ab35e6eb04236c",
+            "name": "Xã Hòa Thuận"
+        },
+        {
+            "uid": "65a3b222e575425fa30ad8d43ab9977c",
+            "name": "Xã Cư ÊBur"
+        },
+        {
+            "uid": "dc81311ebc84405cb396d9099322313a",
+            "name": "Xã Ea Tu"
+        },
+        {
+            "uid": "a34e6fad209940c288c440c721025837",
+            "name": "Xã Hòa Thắng"
+        },
+        {
+            "uid": "bd68347b44bc4bbc80de489c18733a25",
+            "name": "Xã Ea Kao"
+        },
+        {
+            "uid": "34b2b91bfa5247eebc5b04cfa81da2cf",
+            "name": "Xã Hòa Phú"
+        },
+        {
+            "uid": "5dbe3a6455a24d81a8070519bd76fc07",
+            "name": "Xã Hòa Khánh"
+        },
+        {
+            "uid": "0ff027ec482e48dfb1161c58cbd06bdb",
+            "name": "Xã Hòa Xuân"
+        }
+    ]
+}

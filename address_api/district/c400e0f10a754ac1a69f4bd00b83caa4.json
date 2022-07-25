@@ -1,0 +1,30 @@
+{
+    "uid": "c400e0f10a754ac1a69f4bd00b83caa4",
+    "name": "Thành phố Ngã Bảy",
+    "wards": [
+        {
+            "uid": "f9abda53c3f94bde980a640e29a8b6a1",
+            "name": "Phường Ngã Bảy"
+        },
+        {
+            "uid": "5361f68a8f71423694464dbad7040b23",
+            "name": "Phường Lái Hiếu"
+        },
+        {
+            "uid": "ee89985174ab48e1ae5cdf78f8b3a48b",
+            "name": "Phường Hiệp Thành"
+        },
+        {
+            "uid": "c3bb8d16594849799bebdbc5fb7a4d71",
+            "name": "Phường Hiệp Lợi"
+        },
+        {
+            "uid": "42a3e8acb70a4506a50b472ab2020d2d",
+            "name": "Xã Đại Thành"
+        },
+        {
+            "uid": "a45b688bda424a4e80189cfbc8ed397e",
+            "name": "Xã Tân Thành"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "uid": "c5be5f5cb69f4cdb9556f6f46903d7dc",
+    "name": "Huyện Ba Tri",
+    "wards": [
+        {
+            "uid": "2b55d740186e4526ba1e03767e78811a",
+            "name": "Thị trấn Ba Tri"
+        },
+        {
+            "uid": "ba9bee2cc2ab45788da67319e45eeb85",
+            "name": "Xã Tân Mỹ"
+        },
+        {
+            "uid": "0f8b865718714845b1d85c7b7b4b8870",
+            "name": "Xã Mỹ Hòa"
+        },
+        {
+            "uid": "ee1076c57200426984508dc6f2f98f36",
+            "name": "Xã Tân Xuân"
+        },
+        {
+            "uid": "170fe668a0ee4a4c8232522b83d4d8bc",
+            "name": "Xã Mỹ Chánh"
+        },
+        {
+            "uid": "638c5057ae6c49359d94ed5edf55d0d5",
+            "name": "Xã Bảo Thạnh"
+        },
+        {
+            "uid": "a0b088d511a04322ada6e3eb85952253",
+            "name": "Xã An Phú Trung"
+        },
+        {
+            "uid": "00db8741e33f42cc879497f4e7729d8e",
+            "name": "Xã Mỹ Thạnh"
+        },
+        {
+            "uid": "5af0d12f2dd1425385617ab48e5211f0",
+            "name": "Xã Mỹ Nhơn"
+        },
+        {
+            "uid": "78c481cc0f2e425f9f700d0d05bafbce",
+            "name": "Xã Phước Ngãi"
+        },
+        {
+            "uid": "5f67661aad4f4809bd8fde480b618ceb",
+            "name": "Xã An Ngãi Trung"
+        },
+        {
+            "uid": "f4f660176f004197a6cac070340d4275",
+            "name": "Xã Phú Lễ"
+        },
+        {
+            "uid": "6ba52b17bf154d978137c5ccba8f9796",
+            "name": "Xã An Bình Tây"
+        },
+        {
+            "uid": "97e723936a254dc986ee1d6bbcdeae77",
+            "name": "Xã Bảo Thuận"
+        },
+        {
+            "uid": "1e5b097c048a4c048ecdfe414d95215b",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "c91d7bba84b8422d83429611bb332caf",
+            "name": "Xã An Ngãi Tây"
+        },
+        {
+            "uid": "6bd154f5ccae4cfa9646059e7d44368c",
+            "name": "Xã An Hiệp"
+        },
+        {
+            "uid": "bf8ed4a06fc64f3e99d384c3af2ee1f7",
+            "name": "Xã Vĩnh Hòa"
+        },
+        {
+            "uid": "cf5e518b130c43a3aef22e85f9924e26",
+            "name": "Xã Tân Thủy"
+        },
+        {
+            "uid": "751b5b6ab844400e977afbd63a50d226",
+            "name": "Xã Vĩnh An"
+        },
+        {
+            "uid": "a3afcf83ef224c56b021b292e4623796",
+            "name": "Xã An Đức"
+        },
+        {
+            "uid": "43f139c234814acc91b6760322e01702",
+            "name": "Xã An Hòa Tây"
+        },
+        {
+            "uid": "8f81321317bb4d81b2b8d4cf3d813882",
+            "name": "Xã An Thủy"
+        }
+    ]
+}

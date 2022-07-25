@@ -1,0 +1,42 @@
+{
+    "uid": "103fd8b5492444078be094bb7aabb976",
+    "name": "Huyện Kon Plông",
+    "wards": [
+        {
+            "uid": "1df3365fb28f44f196c51eaa7c208972",
+            "name": "Xã Đắk Nên"
+        },
+        {
+            "uid": "d0eeece74e8842a7ac6255db5aa771da",
+            "name": "Xã Đắk Ring"
+        },
+        {
+            "uid": "db73c3b9e9284b2fbe68a248f9aa4bec",
+            "name": "Xã Măng Buk"
+        },
+        {
+            "uid": "3308b199da4442179d9639cd0ec54e36",
+            "name": "Xã Đắk Tăng"
+        },
+        {
+            "uid": "3400d598c863454e9a3cddb853eea7e4",
+            "name": "Xã Ngok Tem"
+        },
+        {
+            "uid": "642b062920a0486db0dcdd9421a849e0",
+            "name": "Xã Pờ Ê"
+        },
+        {
+            "uid": "1fc2ab2230694cf1bb0e116e07b548da",
+            "name": "Xã Măng Cành"
+        },
+        {
+            "uid": "486b815dd8194e70a42847c8141564cc",
+            "name": "Thị trấn Măng Đen"
+        },
+        {
+            "uid": "b97ea1a942ac4fe0a5c631af4ecc7f69",
+            "name": "Xã Hiếu"
+        }
+    ]
+}

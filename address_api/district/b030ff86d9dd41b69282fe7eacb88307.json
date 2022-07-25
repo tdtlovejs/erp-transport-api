@@ -1,0 +1,46 @@
+{
+    "uid": "b030ff86d9dd41b69282fe7eacb88307",
+    "name": "Quận Nam Từ Liêm",
+    "wards": [
+        {
+            "uid": "9427ad6d7c05410e9a9e9e035dc42e26",
+            "name": "Phường Cầu Diễn"
+        },
+        {
+            "uid": "7324bc6f7fc2465180e688b940e24ce2",
+            "name": "Phường Xuân Phương"
+        },
+        {
+            "uid": "8434618211a045ccbb0d623dcfa8a869",
+            "name": "Phường Phương Canh"
+        },
+        {
+            "uid": "9ae67c7705214affad65a103888185c8",
+            "name": "Phường Mỹ Đình 1"
+        },
+        {
+            "uid": "563e5dba3d89485e827a078546f9df54",
+            "name": "Phường Mỹ Đình 2"
+        },
+        {
+            "uid": "03c057e5ff4a4d49b0fb19847c4c493c",
+            "name": "Phường Tây Mỗ"
+        },
+        {
+            "uid": "fb866b4a6f7047eeaa13a2567d5f890b",
+            "name": "Phường Mễ Trì"
+        },
+        {
+            "uid": "500f0bf77bf949d98edcbd3ecdea1636",
+            "name": "Phường Phú Đô"
+        },
+        {
+            "uid": "4d1ad5848dad48e2bfd5155fb2b83571",
+            "name": "Phường Đại Mỗ"
+        },
+        {
+            "uid": "c7c43b1384954f29804ef1c628108ec0",
+            "name": "Phường Trung Văn"
+        }
+    ]
+}

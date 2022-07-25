@@ -1,0 +1,38 @@
+{
+    "uid": "a383ac21e8d34e0ba38f3906c37985aa",
+    "name": "Thị xã Hòa Thành",
+    "wards": [
+        {
+            "uid": "e00dcbb839094c02bb2b182f288a0ee3",
+            "name": "Phường Long Hoa"
+        },
+        {
+            "uid": "97c5a01f6d7e4852ad863a52fb406d30",
+            "name": "Phường Hiệp Tân"
+        },
+        {
+            "uid": "7ceddbd3468448b08f10a0ded6fd2fcb",
+            "name": "Phường Long Thành Bắc"
+        },
+        {
+            "uid": "cae5469bddac4d67bb0bd92a69ea5f8f",
+            "name": "Xã Trường Hòa"
+        },
+        {
+            "uid": "c3c8323d52234b7ab7515d70cbf59b3a",
+            "name": "Xã Trường Đông"
+        },
+        {
+            "uid": "a59211012e934b9da8a23ac8e14f293c",
+            "name": "Phường Long Thành Trung"
+        },
+        {
+            "uid": "432b4dfcdd6543c4a678d891e3302905",
+            "name": "Xã Trường Tây"
+        },
+        {
+            "uid": "be5c91bc39a242aeba88d5d0545bb520",
+            "name": "Xã Long Thành Nam"
+        }
+    ]
+}

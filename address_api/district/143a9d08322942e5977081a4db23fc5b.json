@@ -1,0 +1,18 @@
+{
+    "uid": "143a9d08322942e5977081a4db23fc5b",
+    "name": "Huyện Ia H' Drai",
+    "wards": [
+        {
+            "uid": "735c9505e33e41019ca0d0b2ffc8e6b5",
+            "name": "Xã Ia Đal"
+        },
+        {
+            "uid": "fd8d2f8c872645f1bb68c4b69163f875",
+            "name": "Xã Ia Dom"
+        },
+        {
+            "uid": "30a982c7142c41db9ad103deb463e5a7",
+            "name": "Xã Ia Tơi"
+        }
+    ]
+}

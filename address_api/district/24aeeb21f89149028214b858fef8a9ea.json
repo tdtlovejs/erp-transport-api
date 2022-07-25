@@ -1,0 +1,70 @@
+{
+    "uid": "24aeeb21f89149028214b858fef8a9ea",
+    "name": "Thành phố Đà Lạt",
+    "wards": [
+        {
+            "uid": "f0ceccee284b40619083dce1df9313af",
+            "name": "Phường 7"
+        },
+        {
+            "uid": "429d4746bb97428ba10afa9b9bbdbe5b",
+            "name": "Phường 8"
+        },
+        {
+            "uid": "9c12b742df564abfbbea40082bd13820",
+            "name": "Phường 12"
+        },
+        {
+            "uid": "2951bb2ab0eb4c7c82f59f52d9e034b7",
+            "name": "Phường 9"
+        },
+        {
+            "uid": "d7737bdb06d94dbcbe9bfd08d3e52cb5",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "9b06f16876f84e93b405a9049876eaf3",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "3bae4841ca824180b847781fa62a3d99",
+            "name": "Phường 6"
+        },
+        {
+            "uid": "df0141dbc7234edaa14d5ced56e345de",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "626db28620c8472b893fd69185f02c2b",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "058e5966c4d741ee99b2cee477a68754",
+            "name": "Phường 10"
+        },
+        {
+            "uid": "3f6f58e3955c4e88a8e3814754c960b5",
+            "name": "Phường 11"
+        },
+        {
+            "uid": "4f720893cbee46a9b1cacfe413b9bb05",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "987991a4e60c4c78867998770f42db4e",
+            "name": "Xã Xuân Thọ"
+        },
+        {
+            "uid": "ba86a01cb08b40bfa1857c3b22e3791c",
+            "name": "Xã Tà Nung"
+        },
+        {
+            "uid": "59ebe26f2ea24542a58edf2e3f47d6a9",
+            "name": "Xã Trạm Hành"
+        },
+        {
+            "uid": "b3608c881cf44e7da996fb80ca791d79",
+            "name": "Xã Xuân Trường"
+        }
+    ]
+}

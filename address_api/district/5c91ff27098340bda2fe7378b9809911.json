@@ -1,0 +1,62 @@
+{
+    "uid": "5c91ff27098340bda2fe7378b9809911",
+    "name": "Huyện Gia Bình",
+    "wards": [
+        {
+            "uid": "eb2b14a4eb8944e3bd497c1add5710af",
+            "name": "Thị trấn Gia Bình"
+        },
+        {
+            "uid": "e885ea0124a946ba8d434165636c9928",
+            "name": "Xã Vạn Ninh"
+        },
+        {
+            "uid": "6daaa057b80648d685de0abe5e0b9499",
+            "name": "Xã Thái Bảo"
+        },
+        {
+            "uid": "1451d91f097247ea82555d67d017b0e4",
+            "name": "Xã Giang Sơn"
+        },
+        {
+            "uid": "baf2cea26483430883c837d30f1f9eca",
+            "name": "Xã Cao Đức"
+        },
+        {
+            "uid": "b944857e113348c2a7723f51ba8647fb",
+            "name": "Xã Đại Lai"
+        },
+        {
+            "uid": "43234d8a919c491badee1b065cb22b44",
+            "name": "Xã Song Giang"
+        },
+        {
+            "uid": "60abf0f9c22746209eaaca9bbd399ee7",
+            "name": "Xã Bình Dương"
+        },
+        {
+            "uid": "b694121c0d3347d180f9f197aa8d4ac8",
+            "name": "Xã Lãng Ngâm"
+        },
+        {
+            "uid": "ffd138abe0364e01843dc2227b410f7e",
+            "name": "Xã Nhân Thắng"
+        },
+        {
+            "uid": "a5d681affcb74a5ea1ac340606ea61d0",
+            "name": "Xã Xuân Lai"
+        },
+        {
+            "uid": "a2d3868d8f554b64a9fb1031e22206ef",
+            "name": "Xã Đông Cứu"
+        },
+        {
+            "uid": "1d5bd0d89f1041a487bf5d658f662748",
+            "name": "Xã Đại Bái"
+        },
+        {
+            "uid": "d6b0cfbfb48441769adbe83958d3ac8f",
+            "name": "Xã Quỳnh Phú"
+        }
+    ]
+}

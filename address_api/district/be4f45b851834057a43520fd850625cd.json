@@ -1,0 +1,106 @@
+{
+    "uid": "be4f45b851834057a43520fd850625cd",
+    "name": "Huyện Cái Bè",
+    "wards": [
+        {
+            "uid": "ece3f0e7b19347bfbe56e099611a53fc",
+            "name": "Thị trấn Cái Bè"
+        },
+        {
+            "uid": "17946226a89b4d50b83a4720a3cafd20",
+            "name": "Xã Hậu Mỹ Bắc B"
+        },
+        {
+            "uid": "ec9242275824428b84408765b578423a",
+            "name": "Xã Hậu Mỹ Bắc A"
+        },
+        {
+            "uid": "7ed741b163414524895df28d44b44822",
+            "name": "Xã Mỹ Trung"
+        },
+        {
+            "uid": "97958664a8ac4fdea4b23c4cf29551f6",
+            "name": "Xã Hậu Mỹ Trinh"
+        },
+        {
+            "uid": "faeef99649c649e599a8ca8cb6c34a4a",
+            "name": "Xã Hậu Mỹ Phú"
+        },
+        {
+            "uid": "30a658e7c27a44f48e3ff78ba2277837",
+            "name": "Xã Mỹ Tân"
+        },
+        {
+            "uid": "19b48ff138af4581b9fb4d965dc6aa27",
+            "name": "Xã Mỹ Lợi B"
+        },
+        {
+            "uid": "bf961e570a50483bbf985b6e0209db2a",
+            "name": "Xã Thiện Trung"
+        },
+        {
+            "uid": "3fa5b348353b43b394cf5e648b07e4fc",
+            "name": "Xã Mỹ Hội"
+        },
+        {
+            "uid": "5609cb720b044a4ea77b2037aa1c336e",
+            "name": "Xã An Cư"
+        },
+        {
+            "uid": "591c418ac04e4390b875f9bec5de3e5c",
+            "name": "Xã Hậu Thành"
+        },
+        {
+            "uid": "87297db2b93c4afaabcb80568b4de98a",
+            "name": "Xã Mỹ Lợi A"
+        },
+        {
+            "uid": "fec363713ac840958c9c732192399d82",
+            "name": "Xã Hòa Khánh"
+        },
+        {
+            "uid": "42b074c7708e4f909a8e9158527f2f82",
+            "name": "Xã Thiện Trí"
+        },
+        {
+            "uid": "8b95ed6685484204a6acb6f21aca0ab7",
+            "name": "Xã Mỹ Đức Đông"
+        },
+        {
+            "uid": "a2730c0b9c474a6d9f928f1874f42db9",
+            "name": "Xã Mỹ Đức Tây"
+        },
+        {
+            "uid": "b0b355e9bfb141179ab335680c348824",
+            "name": "Xã Đông Hòa Hiệp"
+        },
+        {
+            "uid": "b532ef1d69b34c8c8ee8c3c196d05ac0",
+            "name": "Xã An Thái Đông"
+        },
+        {
+            "uid": "be140bb3ea144bf0bf7c9efdecb0419a",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "14ee126e33a745adb30f2b390fc392b9",
+            "name": "Xã Mỹ Lương"
+        },
+        {
+            "uid": "d0d9233a36f643e3830c84511d7d0735",
+            "name": "Xã Tân Thanh"
+        },
+        {
+            "uid": "b36ff856ca4a49408f2a90e5d0e9cce6",
+            "name": "Xã An Thái Trung"
+        },
+        {
+            "uid": "9042f1d88cd246feac6e5eded69b0dcc",
+            "name": "Xã An Hữu"
+        },
+        {
+            "uid": "13e301e7ba4846319e068f7bdad570df",
+            "name": "Xã Hòa Hưng"
+        }
+    ]
+}

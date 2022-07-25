@@ -1,0 +1,90 @@
+{
+    "uid": "87bac636a2fe4de397dea46ae001d792",
+    "name": "Thành phố Phủ Lý",
+    "wards": [
+        {
+            "uid": "ac03b02736a74404b005c77a623ffb3e",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "31297bc1e20f4482b695fd7446dea878",
+            "name": "Phường Lương Khánh Thiện"
+        },
+        {
+            "uid": "bd910bf7281f4448b51b5cc195b75687",
+            "name": "Phường Lê Hồng Phong"
+        },
+        {
+            "uid": "b017142617b9422fbe185beef28fc39d",
+            "name": "Phường Minh Khai"
+        },
+        {
+            "uid": "7e3130964ef249ab8e2025e133bf57a7",
+            "name": "Phường Hai Bà Trưng"
+        },
+        {
+            "uid": "a687ee27dca94f4bad9293eca3a79b39",
+            "name": "Phường Trần Hưng Đạo"
+        },
+        {
+            "uid": "e7cc1d380aa04b26a4d458f00801730c",
+            "name": "Phường Lam Hạ"
+        },
+        {
+            "uid": "2767b28fe7d243ae996250b53ba1b1cf",
+            "name": "Xã Phù Vân"
+        },
+        {
+            "uid": "07ced5fbeb9c425a80f3f6988c3986ed",
+            "name": "Phường Liêm Chính"
+        },
+        {
+            "uid": "7c6ff132e52a4d368641d4f16a8f5545",
+            "name": "Xã Liêm Chung"
+        },
+        {
+            "uid": "d4ba6369a7af447ca10b1b55be7f9d09",
+            "name": "Phường Thanh Châu"
+        },
+        {
+            "uid": "794dfed8365e4c08bf6e08b70baa187b",
+            "name": "Phường Châu Sơn"
+        },
+        {
+            "uid": "fcedfb5673e445ff81e16e590144656a",
+            "name": "Xã Tiên Tân"
+        },
+        {
+            "uid": "b280727ad7984867a4fbdb7c1f5cdd8e",
+            "name": "Xã Tiên Hiệp"
+        },
+        {
+            "uid": "2c140b5853a24153b8605d3dbe9c227a",
+            "name": "Xã Tiên Hải"
+        },
+        {
+            "uid": "82ea09c226cc46c7baa1e08c5fe8196e",
+            "name": "Xã Kim Bình"
+        },
+        {
+            "uid": "be9e8d237650464c83e7c975d24d03fb",
+            "name": "Xã Liêm Tuyền"
+        },
+        {
+            "uid": "280b6e2bec72477c9f9026b2b8218c4d",
+            "name": "Xã Liêm Tiết"
+        },
+        {
+            "uid": "2552156e1ba64c2180220a2ae88b1f8a",
+            "name": "Phường Thanh Tuyền"
+        },
+        {
+            "uid": "7035272de9d443cabdad3ea808072e51",
+            "name": "Xã Đinh Xá"
+        },
+        {
+            "uid": "ada8a4c85c9b4019b122c9d906786ebe",
+            "name": "Xã Trịnh Xá"
+        }
+    ]
+}

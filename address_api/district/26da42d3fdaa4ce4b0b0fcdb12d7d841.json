@@ -1,0 +1,54 @@
+{
+    "uid": "26da42d3fdaa4ce4b0b0fcdb12d7d841",
+    "name": "Huyện Cát Hải",
+    "wards": [
+        {
+            "uid": "3dcffce8ca3946dfbb96c91f67ffd66a",
+            "name": "Thị trấn Cát Bà"
+        },
+        {
+            "uid": "ab76327f769e4d43831e0aa92299532f",
+            "name": "Thị trấn Cát Hải"
+        },
+        {
+            "uid": "af50adec8aaf4182a28e7b017808eef8",
+            "name": "Xã Nghĩa Lộ"
+        },
+        {
+            "uid": "821a1cf1af784bde948aa2dc13a49cba",
+            "name": "Xã Đồng Bài"
+        },
+        {
+            "uid": "1a369646d9b74220a081587bb922fa02",
+            "name": "Xã Hoàng Châu"
+        },
+        {
+            "uid": "2c6092460dce4ca28eef744fef5893a4",
+            "name": "Xã Văn Phong"
+        },
+        {
+            "uid": "aeee20d2a9784c6aa5b0e7be778cef1b",
+            "name": "Xã Phù Long"
+        },
+        {
+            "uid": "e38f1c3eefd54427806571a8de723617",
+            "name": "Xã Gia Luận"
+        },
+        {
+            "uid": "8a756d75188f4d2dbce18c6b00ef5c0c",
+            "name": "Xã Hiền Hào"
+        },
+        {
+            "uid": "dc7c6cafead44216a9327e6da0ffe16e",
+            "name": "Xã Trân Châu"
+        },
+        {
+            "uid": "736a00a95e744ce78d5fc81232c38472",
+            "name": "Xã Việt Hải"
+        },
+        {
+            "uid": "7ad8a7d9bed34becbcb536fa4d08901f",
+            "name": "Xã Xuân Đám"
+        }
+    ]
+}

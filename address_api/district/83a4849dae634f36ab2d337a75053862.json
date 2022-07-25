@@ -1,0 +1,66 @@
+{
+    "uid": "83a4849dae634f36ab2d337a75053862",
+    "name": "Thị xã Sơn Tây",
+    "wards": [
+        {
+            "uid": "a7d6669137714164a1dc3921d24ddeb7",
+            "name": "Phường Lê Lợi"
+        },
+        {
+            "uid": "08efbfd37a1a4703af2d15e040c7f746",
+            "name": "Phường Phú Thịnh"
+        },
+        {
+            "uid": "8916d1a2320b4c2cb2aea4abccdfcbfa",
+            "name": "Phường Ngô Quyền"
+        },
+        {
+            "uid": "4fee28b79ea14682925b15caf2ff6102",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "2e3d01f8c70d401f84b5cc1aafba3b4f",
+            "name": "Phường Sơn Lộc"
+        },
+        {
+            "uid": "d5e32706b2224b66b1af53a63b0d502c",
+            "name": "Phường Xuân Khanh"
+        },
+        {
+            "uid": "5b1c7b27bb674627a55cb48bbc0d0c00",
+            "name": "Xã Đường Lâm"
+        },
+        {
+            "uid": "816366eb1c074b62ab59f8ea98f87447",
+            "name": "Phường Viên Sơn"
+        },
+        {
+            "uid": "8f93cddc06504599b9852f5750514cbc",
+            "name": "Xã Xuân Sơn"
+        },
+        {
+            "uid": "fbdf20532ef04f61baad2aacad92ef85",
+            "name": "Phường Trung Hưng"
+        },
+        {
+            "uid": "4fc40ef3eb5b46a1a412a7da21f6f2a0",
+            "name": "Xã Thanh Mỹ"
+        },
+        {
+            "uid": "1ebb0a980479493e97af030a3b7f7abe",
+            "name": "Phường Trung Sơn Trầm"
+        },
+        {
+            "uid": "eaf82f59b4ac4868bee420198e144fd2",
+            "name": "Xã Kim Sơn"
+        },
+        {
+            "uid": "225f94c9d2bb4a77b32510591e01e4e7",
+            "name": "Xã Sơn Đông"
+        },
+        {
+            "uid": "54cde76e9ff04b39bbd81f0bd3120ed6",
+            "name": "Xã Cổ Đông"
+        }
+    ]
+}

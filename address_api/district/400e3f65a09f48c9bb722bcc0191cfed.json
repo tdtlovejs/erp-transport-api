@@ -1,0 +1,70 @@
+{
+    "uid": "400e3f65a09f48c9bb722bcc0191cfed",
+    "name": "Thành phố Phan Rang-Tháp Chàm",
+    "wards": [
+        {
+            "uid": "1082961c93b44337a0bc22c21003b3c5",
+            "name": "Phường Đô Vinh"
+        },
+        {
+            "uid": "b5960e3d29f9453d9286d90193d1a20e",
+            "name": "Phường Phước Mỹ"
+        },
+        {
+            "uid": "fad68e1aa2064b56bf124488a4ba9b49",
+            "name": "Phường Bảo An"
+        },
+        {
+            "uid": "d95863aeefae4db6a12bdb316fbfaf02",
+            "name": "Phường Phủ Hà"
+        },
+        {
+            "uid": "07836feb31fb4d1fa9d881259ab9f9f5",
+            "name": "Phường Thanh Sơn"
+        },
+        {
+            "uid": "d9f9d28dca3842ea959a6ef3fbf0e80f",
+            "name": "Phường Mỹ Hương"
+        },
+        {
+            "uid": "2f1405eb6b974b7792dfbbd6dd9f52a5",
+            "name": "Phường Tấn Tài"
+        },
+        {
+            "uid": "7954038e8ab24842ba96da737a012383",
+            "name": "Phường Kinh Dinh"
+        },
+        {
+            "uid": "c745a20cfd5b47f5bce08a2d1abd14fe",
+            "name": "Phường Đạo Long"
+        },
+        {
+            "uid": "3b31c8dcde1444019ec7d0e9e1efa35d",
+            "name": "Phường Đài Sơn"
+        },
+        {
+            "uid": "0bfa5c2320cb4c7191e7b7f2fec32943",
+            "name": "Phường Đông Hải"
+        },
+        {
+            "uid": "c2f0a60d956d4946847cd2b76a83c415",
+            "name": "Phường Mỹ Đông"
+        },
+        {
+            "uid": "40e4c7b01e8a44839b196cae4afcf54e",
+            "name": "Xã Thành Hải"
+        },
+        {
+            "uid": "a836740b7a46478abad7f60f300a87ff",
+            "name": "Phường Văn Hải"
+        },
+        {
+            "uid": "e4ed9b0508ba4d0cb64cd53cdffaa9fc",
+            "name": "Phường Mỹ Bình"
+        },
+        {
+            "uid": "7acc0324fe284f93a66d0efa2d4d540b",
+            "name": "Phường Mỹ Hải"
+        }
+    ]
+}

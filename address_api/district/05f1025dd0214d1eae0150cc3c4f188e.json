@@ -1,0 +1,82 @@
+{
+    "uid": "05f1025dd0214d1eae0150cc3c4f188e",
+    "name": "Thị xã Quảng Yên",
+    "wards": [
+        {
+            "uid": "6c648b0340fc48e398e0268290a617ac",
+            "name": "Phường Quảng Yên"
+        },
+        {
+            "uid": "575faadbde544c2aada4dece421f520a",
+            "name": "Phường Đông Mai"
+        },
+        {
+            "uid": "0e26a1d9853c4d709ef5453836d877d5",
+            "name": "Phường Minh Thành"
+        },
+        {
+            "uid": "5251263d0d7b4f80bc9a8ae76d0a872f",
+            "name": "Xã Sông Khoai"
+        },
+        {
+            "uid": "e34c1c590123423cb5dc5a020993f7b7",
+            "name": "Xã Hiệp Hòa"
+        },
+        {
+            "uid": "d23bfa8b2f1046daa7017b2ca8cc2da2",
+            "name": "Phường Cộng Hòa"
+        },
+        {
+            "uid": "ec848b62214c479dbccc3a21752fc846",
+            "name": "Xã Tiền An"
+        },
+        {
+            "uid": "19382a8e16574167b9bc20510423f915",
+            "name": "Xã Hoàng Tân"
+        },
+        {
+            "uid": "1793d2ac0411450e8c5a1f78e8ae1d04",
+            "name": "Phường Tân An"
+        },
+        {
+            "uid": "996a45d0911f431891a2fb26babefc4d",
+            "name": "Phường Yên Giang"
+        },
+        {
+            "uid": "b651471d606a45c9b28a85953204283a",
+            "name": "Phường Nam Hoà"
+        },
+        {
+            "uid": "6d56c6f4176648dcaa89de41e04d389f",
+            "name": "Phường Hà An"
+        },
+        {
+            "uid": "5bb5759bf3914019abfafd5231f0f9ad",
+            "name": "Xã Cẩm La"
+        },
+        {
+            "uid": "be3ce504b61b4411b15c8f69bc9a72a5",
+            "name": "Phường Phong Hải"
+        },
+        {
+            "uid": "5fac9e6ab4584dba970a1a7210e434a6",
+            "name": "Phường Yên Hải"
+        },
+        {
+            "uid": "741a0b4ff1bb420d9ab80d9442fd675c",
+            "name": "Xã Liên Hòa"
+        },
+        {
+            "uid": "6e37d28dd5184c959b183ddb1fda96ad",
+            "name": "Phường Phong Cốc"
+        },
+        {
+            "uid": "56257cfdb84243fb94482f7c84999081",
+            "name": "Xã Liên Vị"
+        },
+        {
+            "uid": "a489ae5614434eb3be09461d7b6490bd",
+            "name": "Xã Tiền Phong"
+        }
+    ]
+}

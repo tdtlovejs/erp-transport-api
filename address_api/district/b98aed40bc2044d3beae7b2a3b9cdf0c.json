@@ -1,0 +1,90 @@
+{
+    "uid": "b98aed40bc2044d3beae7b2a3b9cdf0c",
+    "name": "Huyện Quế Võ",
+    "wards": [
+        {
+            "uid": "6d1aeeac5dfb479692f7ecfefdedcba7",
+            "name": "Thị trấn Phố Mới"
+        },
+        {
+            "uid": "8479ff5777224a65bd650f41b9a35159",
+            "name": "Xã Việt Thống"
+        },
+        {
+            "uid": "ec9fed35dcea49afaaa3cff92355d4a3",
+            "name": "Xã Đại Xuân"
+        },
+        {
+            "uid": "84396cf7137c45ad9a57191a07d8230f",
+            "name": "Xã Nhân Hòa"
+        },
+        {
+            "uid": "07184f2371ef4cbd8333f850af8dbf28",
+            "name": "Xã Bằng An"
+        },
+        {
+            "uid": "a03c449fc95a432386e6c6cb03b486d3",
+            "name": "Xã Phương Liễu"
+        },
+        {
+            "uid": "c8d98d2c04fd47e59a0fac307c6d2b22",
+            "name": "Xã Quế Tân"
+        },
+        {
+            "uid": "15f5a908228e4476bbeba37d08b6c5bb",
+            "name": "Xã Phù Lương"
+        },
+        {
+            "uid": "6ac0c4a7dd8540eda8ce3f3948872371",
+            "name": "Xã Phù Lãng"
+        },
+        {
+            "uid": "7afd618881d74504a350f3cc13026260",
+            "name": "Xã Phượng Mao"
+        },
+        {
+            "uid": "0c3ba84d2a5b47d2aebb2ac86643e63c",
+            "name": "Xã Việt Hùng"
+        },
+        {
+            "uid": "63f7f8d7729440b1be4b63cb270f072e",
+            "name": "Xã Ngọc Xá"
+        },
+        {
+            "uid": "8c399ce1eeac4d74a5ea15de6c7a846c",
+            "name": "Xã Châu Phong"
+        },
+        {
+            "uid": "6a1060ddcc1c4f97a09ea13a7bed94cf",
+            "name": "Xã Bồng Lai"
+        },
+        {
+            "uid": "b517811538804df2a2caf663af2bee48",
+            "name": "Xã Cách Bi"
+        },
+        {
+            "uid": "79b9f3c916524b14baecb0ab8147e2a9",
+            "name": "Xã Đào Viên"
+        },
+        {
+            "uid": "bee1614c98344f97a5713b88654561a2",
+            "name": "Xã Yên Giả"
+        },
+        {
+            "uid": "f404b086c5c7485fb064d30e566fa5c1",
+            "name": "Xã Mộ Đạo"
+        },
+        {
+            "uid": "079db9597f9146bda37cfc327d7ee12b",
+            "name": "Xã Đức Long"
+        },
+        {
+            "uid": "9eabeb2b5ba1409c8104e7aeba7a0800",
+            "name": "Xã Chi Lăng"
+        },
+        {
+            "uid": "2b0b179365bb4ac980e7db30050044c5",
+            "name": "Xã Hán Quảng"
+        }
+    ]
+}

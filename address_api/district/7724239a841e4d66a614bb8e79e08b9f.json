@@ -1,0 +1,62 @@
+{
+    "uid": "7724239a841e4d66a614bb8e79e08b9f",
+    "name": "Huyện Đông Sơn",
+    "wards": [
+        {
+            "uid": "dbd544853d564d9a93853abfcbac1618",
+            "name": "Thị trấn Rừng Thông"
+        },
+        {
+            "uid": "31508622e18d4bca905ecb99c6a877e4",
+            "name": "Xã Đông Hoàng"
+        },
+        {
+            "uid": "24024b276feb4b51adda74953125a1a4",
+            "name": "Xã Đông Ninh"
+        },
+        {
+            "uid": "78cf6ee56fd4485d9f79f53d3742adaa",
+            "name": "Xã Đông Hòa"
+        },
+        {
+            "uid": "26b33d1399ea47b59739a2370a1457f3",
+            "name": "Xã Đông Yên"
+        },
+        {
+            "uid": "7e38f87531d941e48adc5e899990d84f",
+            "name": "Xã Đông Minh"
+        },
+        {
+            "uid": "010e56d93a6f40ec944376c167816139",
+            "name": "Xã Đông Thanh"
+        },
+        {
+            "uid": "5d33132cac5e4b5384872b0cdb49aea9",
+            "name": "Xã Đông Tiến"
+        },
+        {
+            "uid": "71ee8d76b8354a6b973947ddc324bdd7",
+            "name": "Xã Đông Khê"
+        },
+        {
+            "uid": "c18a2a0a20204bc59a302cdd154bb19d",
+            "name": "Xã Đông Thịnh"
+        },
+        {
+            "uid": "617d6bfe34c54cd497d7fb83309c7b09",
+            "name": "Xã Đông Văn"
+        },
+        {
+            "uid": "85c0ef0dd79548f28042587e62616719",
+            "name": "Xã Đông Phú"
+        },
+        {
+            "uid": "b302d0111aee480bbf7dc45b06fac246",
+            "name": "Xã Đông Nam"
+        },
+        {
+            "uid": "9b61914d32554bfaa3ee958cc3d312bd",
+            "name": "Xã Đông Quang"
+        }
+    ]
+}

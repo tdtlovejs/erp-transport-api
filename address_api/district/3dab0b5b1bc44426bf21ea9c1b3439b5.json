@@ -1,0 +1,90 @@
+{
+    "uid": "3dab0b5b1bc44426bf21ea9c1b3439b5",
+    "name": "Huyện Hướng Hóa",
+    "wards": [
+        {
+            "uid": "66d3bf482990472fb74a3f01821edb75",
+            "name": "Thị trấn Khe Sanh"
+        },
+        {
+            "uid": "81bf3b0020b642d8a4683fc78cfd7616",
+            "name": "Thị trấn Lao Bảo"
+        },
+        {
+            "uid": "7e5b5097290b40e4ae471ad04fa01d37",
+            "name": "Xã Hướng Lập"
+        },
+        {
+            "uid": "07420397e16f494a9a1a6aeb9f0d4431",
+            "name": "Xã Hướng Việt"
+        },
+        {
+            "uid": "9c71f15a3bb94d46b35ee2144abb36b6",
+            "name": "Xã Hướng Phùng"
+        },
+        {
+            "uid": "f653d9b7be67403d9ede582bcef07e00",
+            "name": "Xã Hướng Sơn"
+        },
+        {
+            "uid": "799c739c92b447858c0e745b9c94ad03",
+            "name": "Xã Hướng Linh"
+        },
+        {
+            "uid": "8929713723eb4474908c8a8cbd991763",
+            "name": "Xã Tân Hợp"
+        },
+        {
+            "uid": "8d4006f4579448e69b6112a6d197728f",
+            "name": "Xã Hướng Tân"
+        },
+        {
+            "uid": "3ae2513ee71f46c190271a42ea095134",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "f45ab4a635f842c3b4f3a0433527ef3e",
+            "name": "Xã Tân Long"
+        },
+        {
+            "uid": "9216c34513464863a136d73c40f5e76b",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "f75798478b46403da52903cc60eb22f6",
+            "name": "Xã Tân Liên"
+        },
+        {
+            "uid": "437b159c26884a8d9b1b9b825ba2f932",
+            "name": "Xã Húc"
+        },
+        {
+            "uid": "4a328058d37145c69cb8f8b3be7f0685",
+            "name": "Xã Thuận"
+        },
+        {
+            "uid": "37ba24e108bb45d58d226c6f0e2f96fc",
+            "name": "Xã Hướng Lộc"
+        },
+        {
+            "uid": "e3324e6be56640e3baf00976f5fd373c",
+            "name": "Xã Ba Tầng"
+        },
+        {
+            "uid": "3b7658182c7c445ca4c63e80fa7a7ddb",
+            "name": "Xã Thanh"
+        },
+        {
+            "uid": "a7a5144d5b2141bbbbbab805f44104d4",
+            "name": "Xã A Dơi"
+        },
+        {
+            "uid": "7fc3922e89a842479d83c186123ec655",
+            "name": "Xã Lìa"
+        },
+        {
+            "uid": "e24b534f3e854998afa763f05634992a",
+            "name": "Xã Xy"
+        }
+    ]
+}

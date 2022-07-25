@@ -1,0 +1,58 @@
+{
+    "uid": "061130b32a7c48499c743623dc804e63",
+    "name": "Huyện Châu Phú",
+    "wards": [
+        {
+            "uid": "0c4bfbe8fdc94cf0ad76bea6141f5c84",
+            "name": "Thị trấn Cái Dầu"
+        },
+        {
+            "uid": "9310fa460d3241d79b9f9fa81b736bba",
+            "name": "Xã Khánh Hòa"
+        },
+        {
+            "uid": "1483c932be7445549610616818ae2ecc",
+            "name": "Xã Mỹ Đức"
+        },
+        {
+            "uid": "c9fa8cb52bbc454a9972a93f7a8237fe",
+            "name": "Xã Mỹ Phú"
+        },
+        {
+            "uid": "d9ababfc6a174fec99e63d73a1cbe4ea",
+            "name": "Xã Ô Long Vỹ"
+        },
+        {
+            "uid": "a922c2877afe49d2a61e45f3f617aa45",
+            "name": "Thị trấn Vĩnh Thạnh Trung"
+        },
+        {
+            "uid": "96ef5df06c9e4afdacd311d2f0ca8847",
+            "name": "Xã Thạnh Mỹ Tây"
+        },
+        {
+            "uid": "ef771ed27b66408cb81bb005c5843a72",
+            "name": "Xã Bình Long"
+        },
+        {
+            "uid": "da485c2d2605438c97e6241afe72008f",
+            "name": "Xã Bình Mỹ"
+        },
+        {
+            "uid": "74951dd0c7434d39a62f0580132c781c",
+            "name": "Xã Bình Thủy"
+        },
+        {
+            "uid": "6f30eb3bc0ca4ed1bb4388f9468cf79e",
+            "name": "Xã Đào Hữu Cảnh"
+        },
+        {
+            "uid": "3e3c0d8f8b524959afd79d02c55eed41",
+            "name": "Xã Bình Phú"
+        },
+        {
+            "uid": "59e2235eaa50450cba4222136d4a063a",
+            "name": "Xã Bình Chánh"
+        }
+    ]
+}

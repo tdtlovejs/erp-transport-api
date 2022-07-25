@@ -1,0 +1,58 @@
+{
+    "uid": "88b1831fd122474d89b2cead8b0efc0b",
+    "name": "Huyện Châu Thành",
+    "wards": [
+        {
+            "uid": "5c8b6a228b3041ffba81df44b901410b",
+            "name": "Thị trấn Tầm Vu"
+        },
+        {
+            "uid": "648d03daf47c45cb8815d193dee55753",
+            "name": "Xã Bình Quới"
+        },
+        {
+            "uid": "c7f7b32d66f84b7b825e7323a1cf68e3",
+            "name": "Xã Hòa Phú"
+        },
+        {
+            "uid": "aaec217bd5af4c239fbc2bb2833a492c",
+            "name": "Xã Phú Ngãi Trị"
+        },
+        {
+            "uid": "f7f0bbc25a2e4b0a84083fb9f1316a96",
+            "name": "Xã Vĩnh Công"
+        },
+        {
+            "uid": "4f29ab4088784215a6a0d439e4783295",
+            "name": "Xã Thuận Mỹ"
+        },
+        {
+            "uid": "0b2bd2c2ff78483995dbae4f87ea0092",
+            "name": "Xã Hiệp Thạnh"
+        },
+        {
+            "uid": "8cb13399fd4944d5bb5fdb63b1def2ab",
+            "name": "Xã Phước Tân Hưng"
+        },
+        {
+            "uid": "ec03148b45154bcb845d7e68aa59d57c",
+            "name": "Xã Thanh Phú Long"
+        },
+        {
+            "uid": "afc3e9424b674f93b3b9466878cc922d",
+            "name": "Xã Dương Xuân Hội"
+        },
+        {
+            "uid": "90429df5f92d402bb8fcde68bd4fe139",
+            "name": "Xã An Lục Long"
+        },
+        {
+            "uid": "5fcb549eb966409793581b192df557d9",
+            "name": "Xã Long Trì"
+        },
+        {
+            "uid": "3f100b849eba4af3a1efa05579433e77",
+            "name": "Xã Thanh Vĩnh Đông"
+        }
+    ]
+}

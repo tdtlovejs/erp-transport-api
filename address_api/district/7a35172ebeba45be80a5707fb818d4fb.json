@@ -1,0 +1,58 @@
+{
+    "uid": "7a35172ebeba45be80a5707fb818d4fb",
+    "name": "Thị xã Mỹ Hào",
+    "wards": [
+        {
+            "uid": "8d5b3b05e326428ea837d22278789050",
+            "name": "Phường Bần Yên Nhân"
+        },
+        {
+            "uid": "6dfded3da98f4cd3b75ac06e4ffa5895",
+            "name": "Phường Phan Đình Phùng"
+        },
+        {
+            "uid": "3bf0a8d4f9ca4b88b6d63bdb9028d9a1",
+            "name": "Xã Cẩm Xá"
+        },
+        {
+            "uid": "c5ccfabe449c471db4d06db3fadebaeb",
+            "name": "Xã Dương Quang"
+        },
+        {
+            "uid": "8eb7724cf2f5415c82ad2b654c6a07ab",
+            "name": "Xã Hòa Phong"
+        },
+        {
+            "uid": "5b316928859e4408bfacbcc770022bfc",
+            "name": "Phường Nhân Hòa"
+        },
+        {
+            "uid": "ffc0a80663e64b2787f92ae3f37595ff",
+            "name": "Phường Dị Sử"
+        },
+        {
+            "uid": "5f84afeb85d141768ab3c4cd4fa7ca1b",
+            "name": "Phường Bạch Sam"
+        },
+        {
+            "uid": "3e562c4582e648e8bd7191fa32e81b99",
+            "name": "Phường Minh Đức"
+        },
+        {
+            "uid": "5b3b3d80d9f64ddab3c4aa131289be73",
+            "name": "Phường Phùng Chí Kiên"
+        },
+        {
+            "uid": "dae380017dc44808ade5725995a434bd",
+            "name": "Xã Xuân Dục"
+        },
+        {
+            "uid": "d521a6dff03f4cc6af7de73ae08f153f",
+            "name": "Xã Ngọc Lâm"
+        },
+        {
+            "uid": "056629219fb941c28ffce438ab56cdfd",
+            "name": "Xã Hưng Long"
+        }
+    ]
+}

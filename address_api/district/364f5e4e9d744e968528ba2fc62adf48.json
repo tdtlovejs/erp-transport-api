@@ -1,0 +1,74 @@
+{
+    "uid": "364f5e4e9d744e968528ba2fc62adf48",
+    "name": "Thành phố Móng Cái",
+    "wards": [
+        {
+            "uid": "a900c6c8a1564fbe82a066ac88ced6d8",
+            "name": "Phường Ka Long"
+        },
+        {
+            "uid": "e7c35d04c697437baf66d36e30fbacb7",
+            "name": "Phường Trần Phú"
+        },
+        {
+            "uid": "52dfbbde4003456c96cce8938e521c98",
+            "name": "Phường Ninh Dương"
+        },
+        {
+            "uid": "6c7892658a2d493a9c4cf41bd026dd1f",
+            "name": "Phường Hoà Lạc"
+        },
+        {
+            "uid": "58b45e3e6ffb4b97a8f372d5f329a5ca",
+            "name": "Phường Trà Cổ"
+        },
+        {
+            "uid": "98922f739914422d8d50eefa236ca658",
+            "name": "Xã Hải Sơn"
+        },
+        {
+            "uid": "aed5508a07e449ce8372aae853167bcc",
+            "name": "Xã Bắc Sơn"
+        },
+        {
+            "uid": "bb28806992cf413d8e51ee2811bcd92a",
+            "name": "Xã Hải Đông"
+        },
+        {
+            "uid": "3be0709adc8d4eff93666b98d399aa58",
+            "name": "Xã Hải Tiến"
+        },
+        {
+            "uid": "189cfe4e1dba4a23b18f0a8c1ce77ae3",
+            "name": "Phường Hải Yên"
+        },
+        {
+            "uid": "b7d56d2299974e1d8570f67f808f3f76",
+            "name": "Xã Quảng Nghĩa"
+        },
+        {
+            "uid": "0610e9bb98e04889b53c70f015756f76",
+            "name": "Phường Hải Hoà"
+        },
+        {
+            "uid": "be73841db655477e9dffa9ec893712da",
+            "name": "Xã Hải Xuân"
+        },
+        {
+            "uid": "7bcc5dcd0c224ec6bc0f1673b1efdf7e",
+            "name": "Xã Vạn Ninh"
+        },
+        {
+            "uid": "73643d69156c4ddd8316e60665fa13a3",
+            "name": "Phường Bình Ngọc"
+        },
+        {
+            "uid": "4ebb18eb176a45d3a766660c3594b5c7",
+            "name": "Xã Vĩnh Trung"
+        },
+        {
+            "uid": "4f7109c12a334b8aa1dabc029ff3be41",
+            "name": "Xã Vĩnh Thực"
+        }
+    ]
+}

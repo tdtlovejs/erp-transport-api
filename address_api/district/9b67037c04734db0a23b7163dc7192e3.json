@@ -1,0 +1,50 @@
+{
+    "uid": "9b67037c04734db0a23b7163dc7192e3",
+    "name": "Quận Ninh Kiều",
+    "wards": [
+        {
+            "uid": "ff320ce0af6a4b95a70c23558adeb1a9",
+            "name": "Phường Cái Khế"
+        },
+        {
+            "uid": "302cfe0195d547188fb15603e310b671",
+            "name": "Phường An Hòa"
+        },
+        {
+            "uid": "71fd1f2704fd41e49e824684d1e1a91b",
+            "name": "Phường Thới Bình"
+        },
+        {
+            "uid": "018e62163aa94bdb9e0787bffb948fa9",
+            "name": "Phường An Nghiệp"
+        },
+        {
+            "uid": "08c3a20b210746a5a7551ae6bc9923a5",
+            "name": "Phường An Cư"
+        },
+        {
+            "uid": "be51f146c5f345d3bf931b293a0b21bc",
+            "name": "Phường Tân An"
+        },
+        {
+            "uid": "d99418c9d1a0455690d76b906413e0ea",
+            "name": "Phường An Phú"
+        },
+        {
+            "uid": "44e90354a78c4935b8e1f97218d282e7",
+            "name": "Phường Xuân Khánh"
+        },
+        {
+            "uid": "28a81676f733400abe97084a6b490d7d",
+            "name": "Phường Hưng Lợi"
+        },
+        {
+            "uid": "943ad12ff8ab4e268af7b488f16a6ace",
+            "name": "Phường An Khánh"
+        },
+        {
+            "uid": "aeb81336d30a43ee997035845c1d80d7",
+            "name": "Phường An Bình"
+        }
+    ]
+}

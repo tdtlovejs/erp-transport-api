@@ -1,0 +1,50 @@
+{
+    "uid": "ee5f5130e21845aaa582e7578d8c573b",
+    "name": "Huyện Tu Mơ Rông",
+    "wards": [
+        {
+            "uid": "33055c0bf069452392dd69b14b466ee7",
+            "name": "Xã Ngọc Lây"
+        },
+        {
+            "uid": "b37fb0dcfaec4c8283768981529d69f2",
+            "name": "Xã Đắk Na"
+        },
+        {
+            "uid": "c8d34a1e8fa14ab0a7a90266eb1bf1c1",
+            "name": "Xã Măng Ri"
+        },
+        {
+            "uid": "866edccd55dd4a19bdb341cb27b456ac",
+            "name": "Xã Ngọc Yêu"
+        },
+        {
+            "uid": "4d6a2b5285f347ce914e21338dc6ff81",
+            "name": "Xã Đắk Sao"
+        },
+        {
+            "uid": "6b62a90f518445079c733b1f1af7859d",
+            "name": "Xã Đắk Rơ Ông"
+        },
+        {
+            "uid": "55f9a576b35b4347ac2782aa2f284229",
+            "name": "Xã Đắk Tờ Kan"
+        },
+        {
+            "uid": "fb5971f6c6fb4cc5a58a43f6da229717",
+            "name": "Xã Tu Mơ Rông"
+        },
+        {
+            "uid": "6516180356224ca6a8580aa31053c553",
+            "name": "Xã Đắk Hà"
+        },
+        {
+            "uid": "fac11afb12c348659d4ba7c7f4f4dc68",
+            "name": "Xã Tê Xăng"
+        },
+        {
+            "uid": "e7ead6b1118340d58a817f58295365e1",
+            "name": "Xã Văn Xuôi"
+        }
+    ]
+}

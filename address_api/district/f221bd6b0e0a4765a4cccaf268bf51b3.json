@@ -1,0 +1,98 @@
+{
+    "uid": "f221bd6b0e0a4765a4cccaf268bf51b3",
+    "name": "Huyện Định Hóa",
+    "wards": [
+        {
+            "uid": "30458217de224602b6ec12921c9244b0",
+            "name": "Thị trấn Chợ Chu"
+        },
+        {
+            "uid": "651b4c7c959e4e098aeb77768831e22e",
+            "name": "Xã Linh Thông"
+        },
+        {
+            "uid": "056cb9ac4977424b937b9d61c3578bbe",
+            "name": "Xã Lam Vỹ"
+        },
+        {
+            "uid": "80e0bb4e576b4f6e879a067828d7e58b",
+            "name": "Xã Quy Kỳ"
+        },
+        {
+            "uid": "71fcf3d7213d4bcbbf37197dc75915b9",
+            "name": "Xã Tân Thịnh"
+        },
+        {
+            "uid": "be49ca0552ab44ca93de8c5fa98a2830",
+            "name": "Xã Kim Phượng"
+        },
+        {
+            "uid": "eafa883674954853865bc5d2b70ab526",
+            "name": "Xã Bảo Linh"
+        },
+        {
+            "uid": "88fc189415c849a487a90516b0e80764",
+            "name": "Xã Phúc Chu"
+        },
+        {
+            "uid": "c7f9892972f7431d8df2aa37c7de7a34",
+            "name": "Xã Tân Dương"
+        },
+        {
+            "uid": "4f6f96a44b25494e9e8c2d5898102089",
+            "name": "Xã Phượng Tiến"
+        },
+        {
+            "uid": "fd6b857375734701a05c43d3a36b5a4c",
+            "name": "Xã Bảo Cường"
+        },
+        {
+            "uid": "8a4c6b1a00b14e0da1cb7354938fec0c",
+            "name": "Xã Đồng Thịnh"
+        },
+        {
+            "uid": "196ebbcc38fc496e988f652441d14e37",
+            "name": "Xã Định Biên"
+        },
+        {
+            "uid": "c3b5834d86a74269b1b83b5a7dd00491",
+            "name": "Xã Thanh Định"
+        },
+        {
+            "uid": "9737ffc619ed43dc851da85ed995dab8",
+            "name": "Xã Trung Hội"
+        },
+        {
+            "uid": "e2830ffbc37f430aad5875e40ca08be1",
+            "name": "Xã Trung Lương"
+        },
+        {
+            "uid": "81f1d6abbeb149c3a26919ba0d0d96f0",
+            "name": "Xã Bình Yên"
+        },
+        {
+            "uid": "f2e9004174f5406bae174e7425efe6ea",
+            "name": "Xã Điềm Mặc"
+        },
+        {
+            "uid": "b33f7b284c3c4113a9860f5fb100024a",
+            "name": "Xã Phú Tiến"
+        },
+        {
+            "uid": "7eb5fafeb9224686a95970b90be688d0",
+            "name": "Xã Bộc Nhiêu"
+        },
+        {
+            "uid": "37add56b073b4a589cd766f10072273c",
+            "name": "Xã Sơn Phú"
+        },
+        {
+            "uid": "eedc13acc22c41dd887b0a8279ba1dcc",
+            "name": "Xã Phú Đình"
+        },
+        {
+            "uid": "ad574a1d4cbf453d864e44d5281de426",
+            "name": "Xã Bình Thành"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "uid": "2e90d9bf264c4df78ac0a961e5a108b9",
+    "name": "Huyện Thoại Sơn",
+    "wards": [
+        {
+            "uid": "e635abc6858e48f287d529c0bb62aa67",
+            "name": "Thị trấn Núi Sập"
+        },
+        {
+            "uid": "ce8687e0679c42ffb246a19affe2fa70",
+            "name": "Thị trấn Phú Hoà"
+        },
+        {
+            "uid": "bd78cf3b68774867ad128645ba7c6f18",
+            "name": "Thị Trấn Óc Eo"
+        },
+        {
+            "uid": "c588eed7f0a14d2cb0cff7ef9c7a6b9b",
+            "name": "Xã Tây Phú"
+        },
+        {
+            "uid": "1fbc730bd5f845cfb59c874ea687a17e",
+            "name": "Xã An Bình"
+        },
+        {
+            "uid": "7eb7e50624434a0bb81397b5ab865788",
+            "name": "Xã Vĩnh Phú"
+        },
+        {
+            "uid": "d63bf2cef37d4da8ad2ab2b3b28c5a63",
+            "name": "Xã Vĩnh Trạch"
+        },
+        {
+            "uid": "85521dfaf8014b298d4af65f13de3cb6",
+            "name": "Xã Phú Thuận"
+        },
+        {
+            "uid": "f61db9a592134949983b25ea8e42cb88",
+            "name": "Xã Vĩnh Chánh"
+        },
+        {
+            "uid": "9ad6a73e686b4c7692fad0cd3785c288",
+            "name": "Xã Định Mỹ"
+        },
+        {
+            "uid": "52f5a94234074378b00a5e68ee09d922",
+            "name": "Xã Định Thành"
+        },
+        {
+            "uid": "9361d1fdb82046d594527d4db84ca1aa",
+            "name": "Xã Mỹ Phú Đông"
+        },
+        {
+            "uid": "88871a5357c54a3e8f915197b3c27e2c",
+            "name": "Xã Vọng Đông"
+        },
+        {
+            "uid": "e8fbc8a990cb4c6ca295ca60b107205c",
+            "name": "Xã Vĩnh Khánh"
+        },
+        {
+            "uid": "fa0ce510b0314c46b0d2bf6c7b97b30c",
+            "name": "Xã Thoại Giang"
+        },
+        {
+            "uid": "11f86de899f74e6290772d4289e8d08c",
+            "name": "Xã Bình Thành"
+        },
+        {
+            "uid": "7a78d5c3c86346f1b9a2d2a093e6b461",
+            "name": "Xã Vọng Thê"
+        }
+    ]
+}

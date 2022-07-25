@@ -1,0 +1,18 @@
+{
+    "uid": "6eef926b5182466d997edf479473c073",
+    "name": "Huyện Cô Tô",
+    "wards": [
+        {
+            "uid": "ee01aaa64a874259bf85eb5a5f72d091",
+            "name": "Thị trấn Cô Tô"
+        },
+        {
+            "uid": "07bbda21403c424ea49c421a113ecccf",
+            "name": "Xã Đồng Tiến"
+        },
+        {
+            "uid": "624b9c267e424d32a4daf59fcfe3459c",
+            "name": "Xã Thanh Lân"
+        }
+    ]
+}

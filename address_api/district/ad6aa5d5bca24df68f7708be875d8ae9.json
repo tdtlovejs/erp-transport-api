@@ -1,0 +1,54 @@
+{
+    "uid": "ad6aa5d5bca24df68f7708be875d8ae9",
+    "name": "Thị xã Gò Công",
+    "wards": [
+        {
+            "uid": "9220041a8c3947e69ac751fc3af2657b",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "9b338bab553c4be98d8155607ff0aed2",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "145fc291c4e949c1a392064ab81aa7e3",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "8fbbb36ed4e14c2c894cf60ffadb70ac",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "411504d7a21c40b580b9c8aacdb0895a",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "7cdaa01cb1ff482582ffdf9f698e2f5e",
+            "name": "Xã Long Hưng"
+        },
+        {
+            "uid": "6d96f688fe12495391c352471832aaeb",
+            "name": "Xã Long Thuận"
+        },
+        {
+            "uid": "bb59b8fe7373450191885bd271c7debf",
+            "name": "Xã Long Chánh"
+        },
+        {
+            "uid": "49d2be9fdafe4f019d40b57aaa2ac9c3",
+            "name": "Xã Long Hòa"
+        },
+        {
+            "uid": "05c5dec404fc45e5ad8ea56713e7134e",
+            "name": "Xã Bình Đông"
+        },
+        {
+            "uid": "891474b84a7c44029934bfae7e46e09a",
+            "name": "Xã Bình Xuân"
+        },
+        {
+            "uid": "7108968be7724cb58cbae590e28ef8ef",
+            "name": "Xã Tân Trung"
+        }
+    ]
+}

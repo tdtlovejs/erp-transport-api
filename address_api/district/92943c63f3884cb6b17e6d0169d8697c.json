@@ -1,0 +1,54 @@
+{
+    "uid": "92943c63f3884cb6b17e6d0169d8697c",
+    "name": "Thị xã Từ Sơn",
+    "wards": [
+        {
+            "uid": "1069a4d09308476bb574f98b43eb541e",
+            "name": "Phường Đông Ngàn"
+        },
+        {
+            "uid": "2d33f98ce39c48c69b1315729226e83b",
+            "name": "Phường Tam Sơn"
+        },
+        {
+            "uid": "b2500c29c637439a8303249a69ccf718",
+            "name": "Phường Hương Mạc"
+        },
+        {
+            "uid": "ffbe06be7d134b7f82570a2d5a85bc51",
+            "name": "Phường Tương Giang"
+        },
+        {
+            "uid": "760c3feffd7445a3b106b1c3c3a58ff0",
+            "name": "Phường Phù Khê"
+        },
+        {
+            "uid": "9831ba6910a94549b667f3ba41224446",
+            "name": "Phường Đồng Kỵ"
+        },
+        {
+            "uid": "735632a86e1849c5b3d5f67840842731",
+            "name": "Phường Trang Hạ"
+        },
+        {
+            "uid": "5c41ba94b40d415aa3c8f5766231c300",
+            "name": "Phường Đồng Nguyên"
+        },
+        {
+            "uid": "e8572fb4e5394a6ab111c24399a4c447",
+            "name": "Phường Châu Khê"
+        },
+        {
+            "uid": "936889b8e08e4865ad0ae2cdf2211bda",
+            "name": "Phường Tân Hồng"
+        },
+        {
+            "uid": "d31d5c1606894c4fb6fec66af2a5a31b",
+            "name": "Phường Đình Bảng"
+        },
+        {
+            "uid": "5e5dc5590b9b4ebeb2fa93025e658184",
+            "name": "Phường Phù Chẩn"
+        }
+    ]
+}

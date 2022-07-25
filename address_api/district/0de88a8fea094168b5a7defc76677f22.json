@@ -1,0 +1,78 @@
+{
+    "uid": "0de88a8fea094168b5a7defc76677f22",
+    "name": "Huyện Cao Lãnh",
+    "wards": [
+        {
+            "uid": "93bfe13abc1542e6a15415ab1ffd947e",
+            "name": "Thị trấn Mỹ Thọ"
+        },
+        {
+            "uid": "387e8222d7a14136b1d8ef254ae6e8fe",
+            "name": "Xã Gáo Giồng"
+        },
+        {
+            "uid": "dd9bb31a3e564d90bac265658fb60d7e",
+            "name": "Xã Phương Thịnh"
+        },
+        {
+            "uid": "812cf1d1588c487f93706d47ca3e877e",
+            "name": "Xã Ba Sao"
+        },
+        {
+            "uid": "62020f333ff4489ba9be897891e5569a",
+            "name": "Xã Phong Mỹ"
+        },
+        {
+            "uid": "07bcc9411e45488a94c60a153656ea8e",
+            "name": "Xã Tân Nghĩa"
+        },
+        {
+            "uid": "df2a8a5d26d4460284add121a32867f7",
+            "name": "Xã Phương Trà"
+        },
+        {
+            "uid": "105ae22670e44a2b82be27b7b24ea99b",
+            "name": "Xã Nhị Mỹ"
+        },
+        {
+            "uid": "5314ebc2cb3a4cbbacfd6432bd0373f9",
+            "name": "Xã Mỹ Thọ"
+        },
+        {
+            "uid": "addb840b9658496cac4ba340f14d5078",
+            "name": "Xã Tân Hội Trung"
+        },
+        {
+            "uid": "c15bc5da2ba0441db3d55972d57f3c34",
+            "name": "Xã An Bình"
+        },
+        {
+            "uid": "8d56ffe76eab4f31b8b9d42112dc3c59",
+            "name": "Xã Mỹ Hội"
+        },
+        {
+            "uid": "21e8e6bf09344498981bdaaa41a5a31b",
+            "name": "Xã Mỹ Hiệp"
+        },
+        {
+            "uid": "78ebb268bdde45c4bb76fe94140b46df",
+            "name": "Xã Mỹ Long"
+        },
+        {
+            "uid": "72d1181e59be4d189a139a3ed6a50fbb",
+            "name": "Xã Bình Hàng Trung"
+        },
+        {
+            "uid": "2e0e833ee118425b92b7946cb18049ff",
+            "name": "Xã Mỹ Xương"
+        },
+        {
+            "uid": "8b8f00cffb24496e887dc23378befd13",
+            "name": "Xã Bình Hàng Tây"
+        },
+        {
+            "uid": "22fe9fb6b53342048a37bde68865967b",
+            "name": "Xã Bình Thạnh"
+        }
+    ]
+}

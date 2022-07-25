@@ -1,0 +1,46 @@
+{
+    "uid": "6888db5def4c4c518ab4c48b3e81e9a8",
+    "name": "Huyện Hàm Tân",
+    "wards": [
+        {
+            "uid": "1200afc8591d421f86159b71074a9634",
+            "name": "Thị trấn Tân Minh"
+        },
+        {
+            "uid": "8517de6c8723443b8db8e1e0318a6659",
+            "name": "Thị trấn Tân Nghĩa"
+        },
+        {
+            "uid": "53304999ece846df802c8e22efad65aa",
+            "name": "Xã Sông Phan"
+        },
+        {
+            "uid": "288c9d84f42b4c9ca4bba39a7c84c3c0",
+            "name": "Xã Tân Phúc"
+        },
+        {
+            "uid": "5b744b0a4a78428cb82879d4f76496fc",
+            "name": "Xã Tân Đức"
+        },
+        {
+            "uid": "3cdb15d2aecf4f70b3928af3db417afe",
+            "name": "Xã Tân Thắng"
+        },
+        {
+            "uid": "09ea3656c81246e69e1d3d92cccac231",
+            "name": "Xã Thắng Hải"
+        },
+        {
+            "uid": "f1278258fc7741bdb97e6b1554cd062a",
+            "name": "Xã Tân Hà"
+        },
+        {
+            "uid": "b8c5da9f32af4469a9358634e63a2cf1",
+            "name": "Xã Tân Xuân"
+        },
+        {
+            "uid": "a12f47af654244039ebc94bd75918db0",
+            "name": "Xã Sơn Mỹ"
+        }
+    ]
+}

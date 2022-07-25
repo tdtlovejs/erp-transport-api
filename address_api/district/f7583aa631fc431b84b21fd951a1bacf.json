@@ -1,0 +1,42 @@
+{
+    "uid": "f7583aa631fc431b84b21fd951a1bacf",
+    "name": "Huyện Gò Dầu",
+    "wards": [
+        {
+            "uid": "d5d414755a834fdf81e526a31ce043f6",
+            "name": "Thị trấn Gò Dầu"
+        },
+        {
+            "uid": "061a8566ae8c4073a41b7671f161942e",
+            "name": "Xã Thạnh Đức"
+        },
+        {
+            "uid": "84e2b47aebb04e3a896e9827205632ab",
+            "name": "Xã Cẩm Giang"
+        },
+        {
+            "uid": "d77cab0f396145e98df4a21c6cfb29f1",
+            "name": "Xã Hiệp Thạnh"
+        },
+        {
+            "uid": "2e9d022693304058ba9e25135d43c281",
+            "name": "Xã Bàu Đồn"
+        },
+        {
+            "uid": "1de207b0bcb44aa3893e349ba3c4bb8e",
+            "name": "Xã Phước Thạnh"
+        },
+        {
+            "uid": "1203d45c66b34a33a5c78d4a8ae38ad5",
+            "name": "Xã Phước Đông"
+        },
+        {
+            "uid": "9166bf86b55a4932b9d764454013f2b6",
+            "name": "Xã Phước Trạch"
+        },
+        {
+            "uid": "51373fd0cc6a41ec80e0eb63dd27a7f5",
+            "name": "Xã Thanh Phước"
+        }
+    ]
+}

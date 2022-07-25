@@ -1,0 +1,46 @@
+{
+    "uid": "1cb9f41f126a49f8a62837693072d6a6",
+    "name": "Thành phố Phúc Yên",
+    "wards": [
+        {
+            "uid": "b2722a7bb5834cba8913cb326f0706f9",
+            "name": "Phường Trưng Trắc"
+        },
+        {
+            "uid": "aac2e8903fe64b93be28de6df5722f63",
+            "name": "Phường Hùng Vương"
+        },
+        {
+            "uid": "84772da956874a0f9880e35ff22e65ce",
+            "name": "Phường Trưng Nhị"
+        },
+        {
+            "uid": "3da8067d22bd49f2b90d43ed98afff2b",
+            "name": "Phường Phúc Thắng"
+        },
+        {
+            "uid": "3302010eee4f47bd8852c155eb57ee8f",
+            "name": "Phường Xuân Hoà"
+        },
+        {
+            "uid": "548069c68085424582f5ae6f345c538a",
+            "name": "Phường Đồng Xuân"
+        },
+        {
+            "uid": "79934df9c2d0479abd094892423f35e2",
+            "name": "Xã Ngọc Thanh"
+        },
+        {
+            "uid": "e18c0248e96f40b7b3538465c7a1311c",
+            "name": "Xã Cao Minh"
+        },
+        {
+            "uid": "63e49467b8f149059123a9a1ce0c505f",
+            "name": "Phường Nam Viêm"
+        },
+        {
+            "uid": "d1378cdfac7c4bed9cc27bfffaee1c39",
+            "name": "Phường Tiền Châu"
+        }
+    ]
+}

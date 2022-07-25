@@ -1,0 +1,62 @@
+{
+    "uid": "7861d53048ad4657a73094b82ddfeb1a",
+    "name": "Huyện Như Thanh",
+    "wards": [
+        {
+            "uid": "bfe26f71d4f947b4ae2fdb540e36f15a",
+            "name": "Thị trấn Bến Sung"
+        },
+        {
+            "uid": "03eab034eeee4b9dbe20e23ccddfd1ef",
+            "name": "Xã Cán Khê"
+        },
+        {
+            "uid": "fdcd2667d23a4bf7b166dec1ba0305c3",
+            "name": "Xã Xuân Du"
+        },
+        {
+            "uid": "e8621121e29c4018a7f88e7732f444ba",
+            "name": "Xã Phượng Nghi"
+        },
+        {
+            "uid": "415b41b8c2aa4b8abf7cff4da8dec63b",
+            "name": "Xã Mậu Lâm"
+        },
+        {
+            "uid": "2c93257e45f34c65bddd9fce0d26c3bf",
+            "name": "Xã Xuân Khang"
+        },
+        {
+            "uid": "eb34dfe2f6b24f45a777f2a765f00138",
+            "name": "Xã Phú Nhuận"
+        },
+        {
+            "uid": "36b86e180908471c8e9532f1fbf137e0",
+            "name": "Xã Hải Long"
+        },
+        {
+            "uid": "d8648c7df525475e857b885b2df6838a",
+            "name": "Xã Xuân Thái"
+        },
+        {
+            "uid": "94a264ba433a47f18e2709efc35d9b91",
+            "name": "Xã Xuân Phúc"
+        },
+        {
+            "uid": "6b464b61fe2f49d3bacdf43cca10c1d3",
+            "name": "Xã Yên Thọ"
+        },
+        {
+            "uid": "1536dbeda66440d4a8037667bac19672",
+            "name": "Xã Yên Lạc"
+        },
+        {
+            "uid": "f634c144f26e4c6283c8b4cf64dbbeb4",
+            "name": "Xã Thanh Tân"
+        },
+        {
+            "uid": "e6094453ae4442ceaa89733ef26b1fd2",
+            "name": "Xã Thanh Kỳ"
+        }
+    ]
+}

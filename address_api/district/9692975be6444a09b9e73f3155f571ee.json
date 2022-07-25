@@ -1,0 +1,38 @@
+{
+    "uid": "9692975be6444a09b9e73f3155f571ee",
+    "name": "Huyện Châu Thành",
+    "wards": [
+        {
+            "uid": "efe3da617925443bbf6e652333f14277",
+            "name": "Thị trấn Châu Thành"
+        },
+        {
+            "uid": "3a02f0f904d74db5a25deb33fcfa4007",
+            "name": "Xã Hồ Đắc Kiện"
+        },
+        {
+            "uid": "73a37250b2c243d9becdc107f79976bd",
+            "name": "Xã Phú Tâm"
+        },
+        {
+            "uid": "a5d0090b2b784b7f82d44739f563a180",
+            "name": "Xã Thuận Hòa"
+        },
+        {
+            "uid": "33cda0abde2b45c19a6d9668a65b4298",
+            "name": "Xã Phú Tân"
+        },
+        {
+            "uid": "9d5281bcebf54de4ae6e34fd3cd7a2c7",
+            "name": "Xã Thiện Mỹ"
+        },
+        {
+            "uid": "14a092c6b7a6416c93a2c5fc9fb12003",
+            "name": "Xã An Hiệp"
+        },
+        {
+            "uid": "8597910cea88445c9630ce9e66bf94c4",
+            "name": "Xã An Ninh"
+        }
+    ]
+}

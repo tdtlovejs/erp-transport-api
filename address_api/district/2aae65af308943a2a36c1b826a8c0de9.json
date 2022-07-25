@@ -1,0 +1,94 @@
+{
+    "uid": "2aae65af308943a2a36c1b826a8c0de9",
+    "name": "Huyện Sìn Hồ",
+    "wards": [
+        {
+            "uid": "784fa44005d64c50b2cb327910a6575a",
+            "name": "Thị trấn Sìn Hồ"
+        },
+        {
+            "uid": "1ad321235b424cf68358707aed36fbcf",
+            "name": "Xã Chăn Nưa"
+        },
+        {
+            "uid": "f6d6043158ab43b8ae5ab5e5ac23a564",
+            "name": "Xã Pa Tần"
+        },
+        {
+            "uid": "ee2414413ff54a7f897da33c84e6a811",
+            "name": "Xã Phìn Hồ"
+        },
+        {
+            "uid": "016de3d4f7394c63849dd5bbcd0b733f",
+            "name": "Xã Hồng Thu"
+        },
+        {
+            "uid": "d97395c4e87a4e76b562a46b0aefc9f7",
+            "name": "Xã Phăng Sô Lin"
+        },
+        {
+            "uid": "1acdb31b19eb4d2bb415041b30a86d9f",
+            "name": "Xã Ma Quai"
+        },
+        {
+            "uid": "0a28af93b3d74ee38094b375e9ad5937",
+            "name": "Xã Lùng Thàng"
+        },
+        {
+            "uid": "c94f2dc13bb7426ab5aff0f2a6990cd4",
+            "name": "Xã Tả Phìn"
+        },
+        {
+            "uid": "52e80cbe70254bc08ffb746fe15e2fbd",
+            "name": "Xã Sà Dề Phìn"
+        },
+        {
+            "uid": "72dd0122bcf8457ab148189ea81ed5f3",
+            "name": "Xã Nậm Tăm"
+        },
+        {
+            "uid": "e16a6360c6e54293b854151fac35f3cd",
+            "name": "Xã Tả Ngảo"
+        },
+        {
+            "uid": "a917b281680d48dd9271b31dc232b17c",
+            "name": "Xã Pu Sam Cáp"
+        },
+        {
+            "uid": "9d1c8f84211d4b42a85810977ef9d832",
+            "name": "Xã Nậm Cha"
+        },
+        {
+            "uid": "2f94d193ebae43d1ab37286ca4712020",
+            "name": "Xã Pa Khoá"
+        },
+        {
+            "uid": "1a28a701e07b434db6f5c406337c2c80",
+            "name": "Xã Làng Mô"
+        },
+        {
+            "uid": "0e13fa81e52d4daa8dd012a32d5017d6",
+            "name": "Xã Noong Hẻo"
+        },
+        {
+            "uid": "c510bd0c04184b52a7b79f0ec197f719",
+            "name": "Xã Nậm Mạ"
+        },
+        {
+            "uid": "30eb70d7dd1d40ecaeac4b71a3f510f4",
+            "name": "Xã Căn Co"
+        },
+        {
+            "uid": "c4a1357c21eb46509b5b01a5e2ae58ed",
+            "name": "Xã Tủa Sín Chải"
+        },
+        {
+            "uid": "ce0380567e9449d38dd3fdc01cc034d3",
+            "name": "Xã Nậm Cuổi"
+        },
+        {
+            "uid": "b08808f6b5fc41c089970590b74438d2",
+            "name": "Xã Nậm Hăn"
+        }
+    ]
+}

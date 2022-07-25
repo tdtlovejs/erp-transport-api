@@ -1,0 +1,70 @@
+{
+    "uid": "acec0522b9df45b182a8602389662d6a",
+    "name": "Huyện Thanh Trì",
+    "wards": [
+        {
+            "uid": "53e3996d0ec243979d7dc1096b626530",
+            "name": "Thị trấn Văn Điển"
+        },
+        {
+            "uid": "a5e8fa51fe8b49d7942d6b94e617fd0a",
+            "name": "Xã Tân Triều"
+        },
+        {
+            "uid": "ba814c9ced6946b5a84b1715666f3bfd",
+            "name": "Xã Thanh Liệt"
+        },
+        {
+            "uid": "d8a458733a074c85949e13b73cb8e2a5",
+            "name": "Xã Tả Thanh Oai"
+        },
+        {
+            "uid": "3396c87966044f84b87bc1b16bdd1276",
+            "name": "Xã Hữu Hoà"
+        },
+        {
+            "uid": "7b0d1fafe33e4d4dbe9f19b273e08d05",
+            "name": "Xã Tam Hiệp"
+        },
+        {
+            "uid": "1fea985146f74497a85dee61ef78458b",
+            "name": "Xã Tứ Hiệp"
+        },
+        {
+            "uid": "1370470a004042459eb32770c6be50ef",
+            "name": "Xã Yên Mỹ"
+        },
+        {
+            "uid": "79aca9dc4de34a3ca20c2605bfdceaea",
+            "name": "Xã Vĩnh Quỳnh"
+        },
+        {
+            "uid": "4491d53ab9564533a3a12888fe13483d",
+            "name": "Xã Ngũ Hiệp"
+        },
+        {
+            "uid": "16571ea4386a406f932a3026ad8e8865",
+            "name": "Xã Duyên Hà"
+        },
+        {
+            "uid": "2eadecb6c8cb4fb4ac5655f7f6b6f973",
+            "name": "Xã Ngọc Hồi"
+        },
+        {
+            "uid": "5923a2ead7844a7b8df80f00f01471c9",
+            "name": "Xã Vạn Phúc"
+        },
+        {
+            "uid": "3fbd756143c44d3b94875f364b967fa1",
+            "name": "Xã Đại áng"
+        },
+        {
+            "uid": "2e4224062dcf4ac5a7d5630dcae4db4a",
+            "name": "Xã Liên Ninh"
+        },
+        {
+            "uid": "5835b4bfa71b46a7b6086ed56550ae93",
+            "name": "Xã Đông Mỹ"
+        }
+    ]
+}

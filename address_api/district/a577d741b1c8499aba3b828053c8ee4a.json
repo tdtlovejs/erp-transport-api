@@ -1,0 +1,82 @@
+{
+    "uid": "a577d741b1c8499aba3b828053c8ee4a",
+    "name": "Huyện Ba Tơ",
+    "wards": [
+        {
+            "uid": "1917d2337f764b3d9b0df0654693bd75",
+            "name": "Thị trấn Ba Tơ"
+        },
+        {
+            "uid": "29c1c1cc66c04dedb686456f85f37cd1",
+            "name": "Xã Ba Điền"
+        },
+        {
+            "uid": "5efd17fe46e64979bc6e24e266aa7f6e",
+            "name": "Xã Ba Vinh"
+        },
+        {
+            "uid": "06db31f79d954ae7964094b6168ab2f2",
+            "name": "Xã Ba Thành"
+        },
+        {
+            "uid": "d7b8c6d84ad449d88688fe062d4087e9",
+            "name": "Xã Ba Động"
+        },
+        {
+            "uid": "8b4bfc8e7ece4d4bb971cfe6e2ec1d98",
+            "name": "Xã Ba Dinh"
+        },
+        {
+            "uid": "783304b04936444ab78c691f267822fa",
+            "name": "Xã Ba Giang"
+        },
+        {
+            "uid": "9a6bb4ef27fb4c5c837ce7ec53c48769",
+            "name": "Xã Ba Liên"
+        },
+        {
+            "uid": "c0c0cb63fd604981b02ed143df3cd392",
+            "name": "Xã Ba Ngạc"
+        },
+        {
+            "uid": "5707fbe3c2e54019af394897ad91be8a",
+            "name": "Xã Ba Khâm"
+        },
+        {
+            "uid": "502ca3f3e18d4e3db5efece6e8f3b438",
+            "name": "Xã Ba Cung"
+        },
+        {
+            "uid": "764be394d3e54a2e9b92fa9ebbdccab2",
+            "name": "Xã Ba Tiêu"
+        },
+        {
+            "uid": "aa85b635a5914ef99505d0976a5acc72",
+            "name": "Xã Ba Trang"
+        },
+        {
+            "uid": "f2157bda617949039370a1e2074d6bba",
+            "name": "Xã Ba Tô"
+        },
+        {
+            "uid": "03e581c03e9b4badbecb14a41dbf0048",
+            "name": "Xã Ba Bích"
+        },
+        {
+            "uid": "682ac1fcd7804c63ba87c9a615facf36",
+            "name": "Xã Ba Vì"
+        },
+        {
+            "uid": "b0d2d18c854a434fad6a5b7c7f4408dd",
+            "name": "Xã Ba Lế"
+        },
+        {
+            "uid": "9ba44f43a4a141d683e7158f4053095c",
+            "name": "Xã Ba Nam"
+        },
+        {
+            "uid": "2b7c8e120bd946d0a5f3f9b3e3f1de60",
+            "name": "Xã Ba Xa"
+        }
+    ]
+}

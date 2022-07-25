@@ -1,0 +1,70 @@
+{
+    "uid": "0f5271cf8e8d444bb031a0c8725b6992",
+    "name": "Huyện Bình Chánh",
+    "wards": [
+        {
+            "uid": "c4fa0abc71364b7c8e5c82de947d68f3",
+            "name": "Thị trấn Tân Túc"
+        },
+        {
+            "uid": "36fb270a5f6b45a4b17266f705916705",
+            "name": "Xã Phạm Văn Hai"
+        },
+        {
+            "uid": "ec3fefbe1d9f4c87907eed6b2c317882",
+            "name": "Xã Vĩnh Lộc A"
+        },
+        {
+            "uid": "0c8c692925f64a58922ea066cb9b6c72",
+            "name": "Xã Vĩnh Lộc B"
+        },
+        {
+            "uid": "8e23fba531b14e8f9cf324d46c1196c8",
+            "name": "Xã Bình Lợi"
+        },
+        {
+            "uid": "a52bd8262e084083b4b00bf849ba93aa",
+            "name": "Xã Lê Minh Xuân"
+        },
+        {
+            "uid": "83467785c9eb4010a9f765d82262bf41",
+            "name": "Xã Tân Nhựt"
+        },
+        {
+            "uid": "c703eafe1cd54eb580c8aab3aa6fba23",
+            "name": "Xã Tân Kiên"
+        },
+        {
+            "uid": "87cb40abe2ff414fa14350467477ca92",
+            "name": "Xã Bình Hưng"
+        },
+        {
+            "uid": "4ef8081c3fc94ce7ab45ae69851d8bf8",
+            "name": "Xã Phong Phú"
+        },
+        {
+            "uid": "0b87990b69594c70b4cc127b09705757",
+            "name": "Xã An Phú Tây"
+        },
+        {
+            "uid": "98e7ae66ebd3404982d11d788e883ea7",
+            "name": "Xã Hưng Long"
+        },
+        {
+            "uid": "19a907ef92624ba8961b1df0b783d5b5",
+            "name": "Xã Đa Phước"
+        },
+        {
+            "uid": "97fb7602eded45aab94cfa96c354e5b2",
+            "name": "Xã Tân Quý Tây"
+        },
+        {
+            "uid": "aa6d680288844b0683864e02801785d0",
+            "name": "Xã Bình Chánh"
+        },
+        {
+            "uid": "690cdb06008944558d2ce57e0884e02e",
+            "name": "Xã Quy Đức"
+        }
+    ]
+}

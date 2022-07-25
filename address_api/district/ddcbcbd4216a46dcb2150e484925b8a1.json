@@ -1,0 +1,58 @@
+{
+    "uid": "ddcbcbd4216a46dcb2150e484925b8a1",
+    "name": "Huyện Bình Xuyên",
+    "wards": [
+        {
+            "uid": "f3cc025233564014a836639e006fa13d",
+            "name": "Thị trấn Hương Canh"
+        },
+        {
+            "uid": "66772ff09ea74c5abeb020dfe0e6ccb6",
+            "name": "Thị trấn Gia Khánh"
+        },
+        {
+            "uid": "a1e100c7a25b402aa6c98db03d7579ac",
+            "name": "Xã Trung Mỹ"
+        },
+        {
+            "uid": "5a97e35584c7404da03ffce63a7bfc15",
+            "name": "Thị trấn Bá Hiến"
+        },
+        {
+            "uid": "50e7a3153dce43a99a35062dec55e48f",
+            "name": "Xã Thiện Kế"
+        },
+        {
+            "uid": "f8392d58512148fa84911486003865c9",
+            "name": "Xã Hương Sơn"
+        },
+        {
+            "uid": "5b2d526b42f74671a47cae08d30b3e57",
+            "name": "Xã Tam Hợp"
+        },
+        {
+            "uid": "4ad9074198a64387bb83037116aa2645",
+            "name": "Xã Quất Lưu"
+        },
+        {
+            "uid": "a24255ef4f8947fcab184b4331223586",
+            "name": "Xã Sơn Lôi"
+        },
+        {
+            "uid": "9e62e9cffd604d109bc8098772943728",
+            "name": "Thị trấn Đạo Đức"
+        },
+        {
+            "uid": "e04ab8b35ab94fc18f06caf0668192f7",
+            "name": "Xã Tân Phong"
+        },
+        {
+            "uid": "447a86ce19cb4f1aa4ce993f721d888d",
+            "name": "Thị trấn Thanh Lãng"
+        },
+        {
+            "uid": "62001e899255466f9bb6132b5f036c9a",
+            "name": "Xã Phú Xuân"
+        }
+    ]
+}

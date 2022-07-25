@@ -1,0 +1,94 @@
+{
+    "uid": "cfe18cb08adb4624a2c34f76cf63763e",
+    "name": "Thành phố Pleiku",
+    "wards": [
+        {
+            "uid": "6486342376c84250ac3d445b46b735ed",
+            "name": "Phường Yên Đỗ"
+        },
+        {
+            "uid": "fedca9e674ab4994815acaa256904b0f",
+            "name": "Phường Diên Hồng"
+        },
+        {
+            "uid": "b884699903b94394a029206e25e77635",
+            "name": "Phường Ia Kring"
+        },
+        {
+            "uid": "71c23a0a753f44c1a332c3f93583a500",
+            "name": "Phường Hội Thương"
+        },
+        {
+            "uid": "945713b681964788b2a2e1c965a35ece",
+            "name": "Phường Hội Phú"
+        },
+        {
+            "uid": "a55d49cb9f004825a32df47a8fb32b75",
+            "name": "Phường Phù Đổng"
+        },
+        {
+            "uid": "d7c4b0025754494c8631011036d88793",
+            "name": "Phường Hoa Lư"
+        },
+        {
+            "uid": "ac3867aae24c407e856ee28fb143947d",
+            "name": "Phường Tây Sơn"
+        },
+        {
+            "uid": "204f5f8e19734e428e3b612dd1c6e7ad",
+            "name": "Phường Thống Nhất"
+        },
+        {
+            "uid": "e939bd52ed4d4cd88b047775bf4bbd13",
+            "name": "Phường Đống Đa"
+        },
+        {
+            "uid": "f57a36e9528044c2a4711f2e96ab6a6b",
+            "name": "Phường Trà Bá"
+        },
+        {
+            "uid": "6eaa2d56e949444b80d03b33bb7f8b0e",
+            "name": "Phường Thắng Lợi"
+        },
+        {
+            "uid": "983db601bf0b4359b731cf7d56514982",
+            "name": "Phường Yên Thế"
+        },
+        {
+            "uid": "a988903da50c407bbe878963e814fd8c",
+            "name": "Phường Chi Lăng"
+        },
+        {
+            "uid": "38536ce1fd4d47088cab4dbfb3369952",
+            "name": "Xã Biển Hồ"
+        },
+        {
+            "uid": "fa96a647b73748a1ad122f6918fab3e5",
+            "name": "Xã Tân Sơn"
+        },
+        {
+            "uid": "da70c27582f741a4bfe2601b64226852",
+            "name": "Xã Trà Đa"
+        },
+        {
+            "uid": "8ed60a8e3d2740c6bfec6593b5acf0ee",
+            "name": "Xã Chư Á"
+        },
+        {
+            "uid": "a588edff437040eca646d4f87020cbbd",
+            "name": "Xã An Phú"
+        },
+        {
+            "uid": "fe8a5dd2169f4dd5bb5148bfab772b2d",
+            "name": "Xã Diên Phú"
+        },
+        {
+            "uid": "edad23409b754fb4b6723c5ab2fc45a5",
+            "name": "Xã Ia Kênh"
+        },
+        {
+            "uid": "e9433b1f23af4036a30dae820d0189b0",
+            "name": "Xã Gào"
+        }
+    ]
+}

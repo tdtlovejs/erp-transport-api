@@ -1,0 +1,138 @@
+{
+    "uid": "483813385a0949adbf1fa737999bc103",
+    "name": "Huyện Đô Lương",
+    "wards": [
+        {
+            "uid": "1378e16d678b40908af079f195c45446",
+            "name": "Thị trấn Đô Lương"
+        },
+        {
+            "uid": "3c87f936cbfd41c58eaeea6c8ee66ac6",
+            "name": "Xã Giang Sơn Đông"
+        },
+        {
+            "uid": "1f5f1a870fbc48ed9cac3209374f2a17",
+            "name": "Xã Giang Sơn Tây"
+        },
+        {
+            "uid": "93a546df2904435d9132a0a189118383",
+            "name": "Xã Lam Sơn"
+        },
+        {
+            "uid": "c3caaafd2df642f3ac6f0ef672eb70a4",
+            "name": "Xã Bồi Sơn"
+        },
+        {
+            "uid": "f5248a63103740bd8cb9c311207a92e2",
+            "name": "Xã Hồng Sơn"
+        },
+        {
+            "uid": "d271cf5b79bb488d9e71103d76403e68",
+            "name": "Xã Bài Sơn"
+        },
+        {
+            "uid": "a0d2de50cabc4c18a3f31616b6d53ba7",
+            "name": "Xã Ngọc Sơn"
+        },
+        {
+            "uid": "cd6087c866794951b3c7032e443aee9b",
+            "name": "Xã Bắc Sơn"
+        },
+        {
+            "uid": "fb257a1ead14438eafe421e55a5fe3ca",
+            "name": "Xã Tràng Sơn"
+        },
+        {
+            "uid": "8a8578936cac4f2caaf771ccbd8e4619",
+            "name": "Xã Thượng Sơn"
+        },
+        {
+            "uid": "cc4d337c2037499c828be4aef0be608b",
+            "name": "Xã Hòa Sơn"
+        },
+        {
+            "uid": "e638ebfb5ba74a4a977e1133d4e4be6c",
+            "name": "Xã Đặng Sơn"
+        },
+        {
+            "uid": "0a8fc476403e4380b3c5e2f492f459ac",
+            "name": "Xã Đông Sơn"
+        },
+        {
+            "uid": "b85f8d6abbaf4293bd0f69961462fc68",
+            "name": "Xã Nam Sơn"
+        },
+        {
+            "uid": "1ee3b057258e4e0fbf15053940114a39",
+            "name": "Xã Lưu Sơn"
+        },
+        {
+            "uid": "7f76618f0a014a8dbe71c0538739d59a",
+            "name": "Xã Yên Sơn"
+        },
+        {
+            "uid": "2409ade586e4440981773fe702ca3d51",
+            "name": "Xã Văn Sơn"
+        },
+        {
+            "uid": "acc3327000424ce3b083285ae3362eee",
+            "name": "Xã Đà Sơn"
+        },
+        {
+            "uid": "6a260da2f7e7465ead4da2ea7f66112b",
+            "name": "Xã Lạc Sơn"
+        },
+        {
+            "uid": "6b45b7a08ca744bc8a99e59ce5a90397",
+            "name": "Xã Tân Sơn"
+        },
+        {
+            "uid": "3fe0c18d2f20475fbd13a7ff3f3114a2",
+            "name": "Xã Thái Sơn"
+        },
+        {
+            "uid": "68b205ca7da74d6587a9dd8033eb598d",
+            "name": "Xã Quang Sơn"
+        },
+        {
+            "uid": "a712a0e00f844c2594c3d26fe0d6f3fb",
+            "name": "Xã Thịnh Sơn"
+        },
+        {
+            "uid": "c1691d80c7c746fc9cfbe0e09e6eff95",
+            "name": "Xã Trung Sơn"
+        },
+        {
+            "uid": "7af113a141cd4071baf565c6db4d2cbb",
+            "name": "Xã Xuân Sơn"
+        },
+        {
+            "uid": "382696ff5d68485a86e3c9009106c4d3",
+            "name": "Xã Minh Sơn"
+        },
+        {
+            "uid": "226d0da842c04a409acd3e4bb6ab7997",
+            "name": "Xã Thuận Sơn"
+        },
+        {
+            "uid": "cff682595c7d4e65b9742bc0d578be81",
+            "name": "Xã Nhân Sơn"
+        },
+        {
+            "uid": "fd90639153434929bb4fd9dc648f8a40",
+            "name": "Xã Hiến Sơn"
+        },
+        {
+            "uid": "b8726ba129024ebebda265d0f80c85df",
+            "name": "Xã Mỹ Sơn"
+        },
+        {
+            "uid": "ec9e755bfafd42158dd72cb3b2b89049",
+            "name": "Xã Trù Sơn"
+        },
+        {
+            "uid": "691a4582dc6144f38a31cbdf92790a84",
+            "name": "Xã Đại Sơn"
+        }
+    ]
+}

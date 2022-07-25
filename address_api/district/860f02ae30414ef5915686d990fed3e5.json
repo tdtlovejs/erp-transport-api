@@ -1,0 +1,46 @@
+{
+    "uid": "860f02ae30414ef5915686d990fed3e5",
+    "name": "Thành phố Sông Công",
+    "wards": [
+        {
+            "uid": "ba0bbfe3cc904573a74a7791547936f7",
+            "name": "Phường Lương Sơn"
+        },
+        {
+            "uid": "7401ce8c96e149c2b02a763646ede551",
+            "name": "Phường Châu Sơn"
+        },
+        {
+            "uid": "d87d810c2a634d37bfa569fd0f4babf0",
+            "name": "Phường Mỏ Chè"
+        },
+        {
+            "uid": "6eda0fcf0a9d4663931fea357d95c1e0",
+            "name": "Phường Cải Đan"
+        },
+        {
+            "uid": "7daafea65977408383ba438028ec21bc",
+            "name": "Phường Thắng Lợi"
+        },
+        {
+            "uid": "c19912fc2cff45f0bfdf9f8dbefe5ccf",
+            "name": "Phường Phố Cò"
+        },
+        {
+            "uid": "d9e99bcd768d4bd689523b74d102fdf6",
+            "name": "Xã Tân Quang"
+        },
+        {
+            "uid": "ec3cf06b629043cc8171beac0cef7a42",
+            "name": "Phường Bách Quang"
+        },
+        {
+            "uid": "90adcc8d73164849b08161574ce6e490",
+            "name": "Xã Bình Sơn"
+        },
+        {
+            "uid": "0d4cdac13fde4fc6b2309b52263af07a",
+            "name": "Xã Bá Xuyên"
+        }
+    ]
+}

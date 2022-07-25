@@ -1,0 +1,38 @@
+{
+    "uid": "44f8e70c74df497da9f1bbdaf0d0bc8f",
+    "name": "Huyện Hoà Bình",
+    "wards": [
+        {
+            "uid": "357c9cbca07a47168d863a5c3b4dd3e4",
+            "name": "Thị trấn Hòa Bình"
+        },
+        {
+            "uid": "3067ad9bfe7e441997b71116291e8a34",
+            "name": "Xã Minh Diệu"
+        },
+        {
+            "uid": "8ebc75891cea495bab2244b62961718c",
+            "name": "Xã Vĩnh Bình"
+        },
+        {
+            "uid": "a90697146aad44f8805161675b2e5118",
+            "name": "Xã Vĩnh Mỹ B"
+        },
+        {
+            "uid": "26c341779e8d44c2a198c87856fb02ad",
+            "name": "Xã Vĩnh Hậu"
+        },
+        {
+            "uid": "5a8344b02eb44e52820cf45e2f821fbc",
+            "name": "Xã Vĩnh Hậu A"
+        },
+        {
+            "uid": "f42c0c0c7e084dff95de7b3d41fffc81",
+            "name": "Xã Vĩnh Mỹ A"
+        },
+        {
+            "uid": "4fa7b5eff18349cebbf734882dbe6a68",
+            "name": "Xã Vĩnh Thịnh"
+        }
+    ]
+}

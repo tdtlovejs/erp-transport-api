@@ -1,0 +1,42 @@
+{
+    "uid": "f71c41ba7f0b48969588284b4e57e637",
+    "name": "Quận Thốt Nốt",
+    "wards": [
+        {
+            "uid": "1c36776075d44cd9b4dbeaae9470c67c",
+            "name": "Phường Thốt Nốt"
+        },
+        {
+            "uid": "9e5fbc8a0d4641778024c3e26ea5815a",
+            "name": "Phường Thới Thuận"
+        },
+        {
+            "uid": "723472e664694fab96845444904cdb84",
+            "name": "Phường Thuận An"
+        },
+        {
+            "uid": "d240e93769274fee8c6cfb8d3415631a",
+            "name": "Phường Tân Lộc"
+        },
+        {
+            "uid": "eb4a2c1d85f5427987443a56a1255e51",
+            "name": "Phường Trung Nhứt"
+        },
+        {
+            "uid": "ff62aaf912f94b55981510e53b1a4d25",
+            "name": "Phường Thạnh Hoà"
+        },
+        {
+            "uid": "5bbba8d3bb914ccebee03d8ce22eb3f8",
+            "name": "Phường Trung Kiên"
+        },
+        {
+            "uid": "34e4a50526934276a9e721b5660e94ec",
+            "name": "Phường Tân Hưng"
+        },
+        {
+            "uid": "80cfef099c834d69a0860a8a615a059a",
+            "name": "Phường Thuận Hưng"
+        }
+    ]
+}

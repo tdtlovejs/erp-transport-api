@@ -1,0 +1,50 @@
+{
+    "uid": "a0745221bcda4fd69511bedaf5677c5e",
+    "name": "Huyện Phú Ninh",
+    "wards": [
+        {
+            "uid": "8a47324b5e114ac89aff9031f559a01f",
+            "name": "Thị trấn Phú Thịnh"
+        },
+        {
+            "uid": "e9d1f748a8524f0d940b31dce171a150",
+            "name": "Xã Tam Thành"
+        },
+        {
+            "uid": "33300e6b8d984b1abf1776be9a2b313d",
+            "name": "Xã Tam An"
+        },
+        {
+            "uid": "68a69db9ea7d445f8049a61d054acfaf",
+            "name": "Xã Tam Đàn"
+        },
+        {
+            "uid": "752a0670b1b94b1e8a94a36f2c60d04b",
+            "name": "Xã Tam Lộc"
+        },
+        {
+            "uid": "4628e28bf63d4a4092434087616b01f7",
+            "name": "Xã Tam Phước"
+        },
+        {
+            "uid": "4192830ee51a46d4af408e1571300ccd",
+            "name": "Xã Tam Vinh"
+        },
+        {
+            "uid": "f9cb674c620b4068b5489fa0eeb365c6",
+            "name": "Xã Tam Thái"
+        },
+        {
+            "uid": "6445d94f998a422f943ad74c0e7afb50",
+            "name": "Xã Tam Đại"
+        },
+        {
+            "uid": "e399bd3d5300440ba1788313ba8ae67f",
+            "name": "Xã Tam Dân"
+        },
+        {
+            "uid": "0ae7e032bfb34332b1b84b935b7ae134",
+            "name": "Xã Tam Lãnh"
+        }
+    ]
+}

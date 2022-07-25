@@ -1,0 +1,54 @@
+{
+    "uid": "151119bddb3a47e284a2ddf3b4ee26c1",
+    "name": "Thành phố Rạch Giá",
+    "wards": [
+        {
+            "uid": "47263fe61b2741ecae47c24362f60975",
+            "name": "Phường Vĩnh Thanh Vân"
+        },
+        {
+            "uid": "570785f59a0f4a639fbcf222107cc9b9",
+            "name": "Phường Vĩnh Thanh"
+        },
+        {
+            "uid": "a7410a59a2b74041b0236a91ce88bcba",
+            "name": "Phường Vĩnh Quang"
+        },
+        {
+            "uid": "0da564c1b8fb40f4909459d8a571ee20",
+            "name": "Phường Vĩnh Hiệp"
+        },
+        {
+            "uid": "0e0653e8ee52442e942d95a2f626e627",
+            "name": "Phường Vĩnh Bảo"
+        },
+        {
+            "uid": "384f73537f81472a9b5d86ee4b0b1274",
+            "name": "Phường Vĩnh Lạc"
+        },
+        {
+            "uid": "d300eb37edf14b298335fab943853ef6",
+            "name": "Phường An Hòa"
+        },
+        {
+            "uid": "1c0ace82d9904481b417c90ce9d1a025",
+            "name": "Phường An Bình"
+        },
+        {
+            "uid": "f14e5d09470e459faa05f2886f06ec63",
+            "name": "Phường Rạch Sỏi"
+        },
+        {
+            "uid": "44c48fdc26ac4397b7d017956581f17e",
+            "name": "Phường Vĩnh Lợi"
+        },
+        {
+            "uid": "bfbbc3c883ed4d9d974806f582f2da7a",
+            "name": "Phường Vĩnh Thông"
+        },
+        {
+            "uid": "14aeb1fd9ab4463d919f2c51c013b844",
+            "name": "Xã Phi Thông"
+        }
+    ]
+}

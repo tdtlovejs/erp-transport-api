@@ -1,0 +1,58 @@
+{
+    "uid": "091f9805f5b54941a2681b479124b1ab",
+    "name": "Quận Hải Châu",
+    "wards": [
+        {
+            "uid": "736c34a7c89e40fda313657940b36f34",
+            "name": "Phường Thanh Bình"
+        },
+        {
+            "uid": "4fd848fefff44a8c9d1a55ed87d815f8",
+            "name": "Phường Thuận Phước"
+        },
+        {
+            "uid": "7f47b8f3085e4eee95d553728e9b4203",
+            "name": "Phường Thạch Thang"
+        },
+        {
+            "uid": "bdd240d651c943c6aa24d9309b38763a",
+            "name": "Phường Hải Châu I"
+        },
+        {
+            "uid": "6316aadfa88a4439babf116bfe81c7b1",
+            "name": "Phường Hải Châu II"
+        },
+        {
+            "uid": "eaded61508ea4b818c857d0d4dec9750",
+            "name": "Phường Phước Ninh"
+        },
+        {
+            "uid": "f91c44eace124add8a53fa7eef1cc63a",
+            "name": "Phường Hòa Thuận Tây"
+        },
+        {
+            "uid": "fb90a27aa8a34db480b5a715ebae2da1",
+            "name": "Phường Hòa Thuận Đông"
+        },
+        {
+            "uid": "1b3fb0f8435c4c45ae6f3b5de3b271b0",
+            "name": "Phường Nam Dương"
+        },
+        {
+            "uid": "a35f5f1628774257864299eb9acc2dda",
+            "name": "Phường Bình Hiên"
+        },
+        {
+            "uid": "8a08fecad1bf41a89c535e4fd41013f0",
+            "name": "Phường Bình Thuận"
+        },
+        {
+            "uid": "ba97144aa563479593484e6a704c0526",
+            "name": "Phường Hòa Cường Bắc"
+        },
+        {
+            "uid": "5d58cf92260541b18e0e07e4d3623590",
+            "name": "Phường Hòa Cường Nam"
+        }
+    ]
+}

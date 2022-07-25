@@ -1,0 +1,78 @@
+{
+    "uid": "88be9346b2c348dbb2b8f272d822c425",
+    "name": "Huyện Phù Cát",
+    "wards": [
+        {
+            "uid": "b0e0db9c4bc844f4bcacac7ecd87db31",
+            "name": "Thị trấn Ngô Mây"
+        },
+        {
+            "uid": "e6d7fcc0fa0448acbf08e4bea7563d6c",
+            "name": "Xã Cát Sơn"
+        },
+        {
+            "uid": "384295108f6a4c24943abedffa7d3be7",
+            "name": "Xã Cát Minh"
+        },
+        {
+            "uid": "395268f15c4b4cfbb2ed930f6573ef67",
+            "name": "Xã Cát Khánh"
+        },
+        {
+            "uid": "e229c0128236493597946eafbc412541",
+            "name": "Xã Cát Tài"
+        },
+        {
+            "uid": "6b312a02ff624a9b920aba5a11abb44a",
+            "name": "Xã Cát Lâm"
+        },
+        {
+            "uid": "acb038d32d0e48edbc16193c73be7e0c",
+            "name": "Xã Cát Hanh"
+        },
+        {
+            "uid": "c1222121008e4981be80f0b27ba3dba2",
+            "name": "Xã Cát Thành"
+        },
+        {
+            "uid": "6619a69b3a5f4314a591b42ffda446e2",
+            "name": "Xã Cát Trinh"
+        },
+        {
+            "uid": "cd4de218a0b34ada8059af3556c2148e",
+            "name": "Xã Cát Hải"
+        },
+        {
+            "uid": "460a13ef3c354c29949a54428418a574",
+            "name": "Xã Cát Hiệp"
+        },
+        {
+            "uid": "ee7fbea8573249a99151b585b0a7de6c",
+            "name": "Xã Cát Nhơn"
+        },
+        {
+            "uid": "e04225a5a9d2490ea90379b9fb8d479f",
+            "name": "Xã Cát Hưng"
+        },
+        {
+            "uid": "b21204e5ba6f486faacdc34b0d77dbde",
+            "name": "Xã Cát Tường"
+        },
+        {
+            "uid": "eccac82ab28d481fb2233702ee7826d0",
+            "name": "Xã Cát Tân"
+        },
+        {
+            "uid": "17d0384e2ad04b268f13f7cc6df7d86b",
+            "name": "Thị trấn Cát Tiến"
+        },
+        {
+            "uid": "59eb989ed4cf4b898f808a5aacab5f4a",
+            "name": "Xã Cát Thắng"
+        },
+        {
+            "uid": "a6659210d25e42d4b3e57898a5a52f70",
+            "name": "Xã Cát Chánh"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "uid": "0955b34689894ce3827edb38d025870c",
+    "name": "Huyện Gò Công Tây",
+    "wards": [
+        {
+            "uid": "3c260a210f0e4e3292020b46783f74c9",
+            "name": "Thị trấn Vĩnh Bình"
+        },
+        {
+            "uid": "fd8b21abceeb495bbe4eb289b953f900",
+            "name": "Xã Đồng Sơn"
+        },
+        {
+            "uid": "0ef5804ff1a54103b00fc534070c5262",
+            "name": "Xã Bình Phú"
+        },
+        {
+            "uid": "71dfa9d94c63458391c128e4f54f06ce",
+            "name": "Xã Đồng Thạnh"
+        },
+        {
+            "uid": "8a992c1b166848efb1d6804c099097d3",
+            "name": "Xã Thành Công"
+        },
+        {
+            "uid": "715010a53cd844039af43d18b245da15",
+            "name": "Xã Bình Nhì"
+        },
+        {
+            "uid": "2a1c9a1ba2ab47e68f1217d4f0b15418",
+            "name": "Xã Yên Luông"
+        },
+        {
+            "uid": "14a3a808512c4215803c775c21c5a09f",
+            "name": "Xã Thạnh Trị"
+        },
+        {
+            "uid": "2b32266388f744ce90f58f6003dcdc68",
+            "name": "Xã Thạnh Nhựt"
+        },
+        {
+            "uid": "5cb6c039e9414d08b5dde1365c4e8d8b",
+            "name": "Xã Long Vĩnh"
+        },
+        {
+            "uid": "a8d5544731964b51b9ef5ebf1c2636ef",
+            "name": "Xã Bình Tân"
+        },
+        {
+            "uid": "4578eb7b35c44d8d9c6ff6426ba2cedc",
+            "name": "Xã Vĩnh Hựu"
+        },
+        {
+            "uid": "4dada6c27542417f8d56d4443a838274",
+            "name": "Xã Long Bình"
+        }
+    ]
+}

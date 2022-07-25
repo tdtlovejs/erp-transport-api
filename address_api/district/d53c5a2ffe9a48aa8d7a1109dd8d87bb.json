@@ -1,0 +1,94 @@
+{
+    "uid": "d53c5a2ffe9a48aa8d7a1109dd8d87bb",
+    "name": "Huyện Tràng Định",
+    "wards": [
+        {
+            "uid": "bd8c13638d1d41998ab0e79d4fe763b7",
+            "name": "Thị trấn Thất Khê"
+        },
+        {
+            "uid": "cf464fc1c31c49c78c00f6870e8e607d",
+            "name": "Xã Khánh Long"
+        },
+        {
+            "uid": "5bc429b6624942f7b7c0689b0ad95333",
+            "name": "Xã Đoàn Kết"
+        },
+        {
+            "uid": "0942fba4676b402794fce9fb38b234ac",
+            "name": "Xã Quốc Khánh"
+        },
+        {
+            "uid": "3212039314b04a8fbd180c3042f39e17",
+            "name": "Xã Vĩnh Tiến"
+        },
+        {
+            "uid": "c0cba9d108094c7382095e8adb0d5333",
+            "name": "Xã Cao Minh"
+        },
+        {
+            "uid": "2847978ce3494d198f9177926d2c7810",
+            "name": "Xã Chí Minh"
+        },
+        {
+            "uid": "cd6cdb095da44c58b354a422b1b6f43a",
+            "name": "Xã Tri Phương"
+        },
+        {
+            "uid": "1335a9e1dbf448d9ab2b16190758b2e1",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "9b25225ef59e41908dff84780a40a9dd",
+            "name": "Xã Tân Yên"
+        },
+        {
+            "uid": "9b19299b105944ad992f1c783152adbd",
+            "name": "Xã Đội Cấn"
+        },
+        {
+            "uid": "6e5dec642b4b4c009752e87e476a7588",
+            "name": "Xã Tân Minh"
+        },
+        {
+            "uid": "79e77a3e7c264e298c5ff697538dbadc",
+            "name": "Xã Kim Đồng"
+        },
+        {
+            "uid": "973109b587cd4fbf857e8575e2c6e623",
+            "name": "Xã Chi Lăng"
+        },
+        {
+            "uid": "a4786b9879394c3a8160843e31dfe303",
+            "name": "Xã Trung Thành"
+        },
+        {
+            "uid": "e305535025174756bb609b2c90a9fc74",
+            "name": "Xã Đại Đồng"
+        },
+        {
+            "uid": "5decace10e194dd9b42c9615cba82fdc",
+            "name": "Xã Đào Viên"
+        },
+        {
+            "uid": "f480471378834f398bf27204987306ce",
+            "name": "Xã Đề Thám"
+        },
+        {
+            "uid": "22f7a407dc3f4d8387bbaf8f88eca42b",
+            "name": "Xã Kháng Chiến"
+        },
+        {
+            "uid": "060c3afe321d441baffea01ca0a8a94f",
+            "name": "Xã Hùng Sơn"
+        },
+        {
+            "uid": "4bff405887f24218b3b27b0f06e273c2",
+            "name": "Xã Quốc Việt"
+        },
+        {
+            "uid": "0ce0dbb8d2364368bbb39979754e6bfb",
+            "name": "Xã Hùng Việt"
+        }
+    ]
+}

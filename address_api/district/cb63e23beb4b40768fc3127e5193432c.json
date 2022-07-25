@@ -1,0 +1,78 @@
+{
+    "uid": "cb63e23beb4b40768fc3127e5193432c",
+    "name": "Huyện Vụ Bản",
+    "wards": [
+        {
+            "uid": "0c037da8acae425bb49d3f5f796be03a",
+            "name": "Thị trấn Gôi"
+        },
+        {
+            "uid": "191297f4e2af44fa93643410a300dce3",
+            "name": "Xã Minh Thuận"
+        },
+        {
+            "uid": "cffcc236c00e474cacacb96964173c08",
+            "name": "Xã Hiển Khánh"
+        },
+        {
+            "uid": "d35f4f77d5e94a62be42d22eea446eb5",
+            "name": "Xã Tân Khánh"
+        },
+        {
+            "uid": "471e921aa68a4fa7846baf9b4ce69c05",
+            "name": "Xã Hợp Hưng"
+        },
+        {
+            "uid": "566a12ffc1284e13a2976666110e7ea3",
+            "name": "Xã Đại An"
+        },
+        {
+            "uid": "3368008589674cb9ba829f3deb65e774",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "4c4c09dda83842a99c8bfa22533dab1b",
+            "name": "Xã Cộng Hòa"
+        },
+        {
+            "uid": "206a94e7ea03463b9b841873574dc23d",
+            "name": "Xã Trung Thành"
+        },
+        {
+            "uid": "47d611d1dbff476d990e5f1c16798ad8",
+            "name": "Xã Quang Trung"
+        },
+        {
+            "uid": "e492c57231ee49a6865c8bc99f50c808",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "f2225a47cff9428386ee3f2bf324782a",
+            "name": "Xã Liên Bảo"
+        },
+        {
+            "uid": "54af6b4038d645bb9d5e40a129e1f777",
+            "name": "Xã Thành Lợi"
+        },
+        {
+            "uid": "6d041bc5a2fb4c40bd4cc2f92618cd4f",
+            "name": "Xã Kim Thái"
+        },
+        {
+            "uid": "620ef3e9e9db4db1b965e1f911758a65",
+            "name": "Xã Liên Minh"
+        },
+        {
+            "uid": "08042afe1fce4570b98728507217000f",
+            "name": "Xã Đại Thắng"
+        },
+        {
+            "uid": "709676571dba45ff8cad2975c2849fe2",
+            "name": "Xã Tam Thanh"
+        },
+        {
+            "uid": "478ac71209f145b9b2f07bd99420ff28",
+            "name": "Xã Vĩnh Hào"
+        }
+    ]
+}

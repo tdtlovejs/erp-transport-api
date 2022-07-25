@@ -1,0 +1,66 @@
+{
+    "uid": "b43d62b56878499cafdeb4be6a6a857d",
+    "name": "Thành Phố Đồng Hới",
+    "wards": [
+        {
+            "uid": "5cf440204d404f678dc446bcf87de600",
+            "name": "Phường Hải Thành"
+        },
+        {
+            "uid": "4b16f75339384f21bfabf1893287554c",
+            "name": "Phường Đồng Phú"
+        },
+        {
+            "uid": "86236e7ec055406cb388eb91622a17c7",
+            "name": "Phường Bắc Lý"
+        },
+        {
+            "uid": "88f2576e4bfe4ee29a9e3d95fc6521f8",
+            "name": "Phường Nam Lý"
+        },
+        {
+            "uid": "a2ad2501c9be4b15a4aa4993de68bb67",
+            "name": "Phường Đồng Hải"
+        },
+        {
+            "uid": "aecbd2075b344e6a8fcc20116adc26fa",
+            "name": "Phường Đồng Sơn"
+        },
+        {
+            "uid": "74da690d0b914a959e9d7ebf7e0a53b2",
+            "name": "Phường Phú Hải"
+        },
+        {
+            "uid": "4702e5c4c78c4da28f986f8caf03599d",
+            "name": "Phường Bắc Nghĩa"
+        },
+        {
+            "uid": "c703774c27164aa2bfa3c81c68fd9e57",
+            "name": "Phường Đức Ninh Đông"
+        },
+        {
+            "uid": "44397d7c4c024525939630a471dc1d42",
+            "name": "Xã Quang Phú"
+        },
+        {
+            "uid": "89fb484132324cd09dd1d80a75b5b69d",
+            "name": "Xã Lộc Ninh"
+        },
+        {
+            "uid": "8ead1d17a1424315bf07a8818ef27fb1",
+            "name": "Xã Bảo Ninh"
+        },
+        {
+            "uid": "f91bdfa4c4d14d7093256282c6ddf2f8",
+            "name": "Xã Nghĩa Ninh"
+        },
+        {
+            "uid": "ffd2be29fa8d41c4adfa6686e61bdcde",
+            "name": "Xã Thuận Đức"
+        },
+        {
+            "uid": "0f90a82054a642fabb8fecd2009f5c0d",
+            "name": "Xã Đức Ninh"
+        }
+    ]
+}

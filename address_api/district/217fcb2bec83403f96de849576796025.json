@@ -1,0 +1,90 @@
+{
+    "uid": "217fcb2bec83403f96de849576796025",
+    "name": "Huyện Hà Quảng",
+    "wards": [
+        {
+            "uid": "90752f187dc4490bbfd91d3ba9aaebde",
+            "name": "Thị trấn Thông Nông"
+        },
+        {
+            "uid": "b2278694452442f9aea8eef2b4600de2",
+            "name": "Xã Cần Yên"
+        },
+        {
+            "uid": "13bde6d1602740888fb2299f46080c3d",
+            "name": "Xã Cần Nông"
+        },
+        {
+            "uid": "4bfe375c16f644c497d071b5b7c52074",
+            "name": "Xã Lương Thông"
+        },
+        {
+            "uid": "dcabd54f84544a48954434670e2eee45",
+            "name": "Xã Đa Thông"
+        },
+        {
+            "uid": "8d2c8789ab584119a91bcb53d1bd82f2",
+            "name": "Xã Ngọc Động"
+        },
+        {
+            "uid": "b4c03f77e1264d2b9feded1bda630b12",
+            "name": "Xã Yên Sơn"
+        },
+        {
+            "uid": "1b972d96abef45b8b7583cabad0a876c",
+            "name": "Xã Lương Can"
+        },
+        {
+            "uid": "9aa332b7c63f495da6a9f499460400ab",
+            "name": "Xã Thanh Long"
+        },
+        {
+            "uid": "fbc1a6458bcb47c3a4fa4e044010e64f",
+            "name": "Thị trấn Xuân Hòa"
+        },
+        {
+            "uid": "cc288fc678a14c7d84e52faa0fdb4275",
+            "name": "Xã Lũng Nặm"
+        },
+        {
+            "uid": "75d10e1f511c43b78d0909545d6936c8",
+            "name": "Xã Trường Hà"
+        },
+        {
+            "uid": "e3a7952a568f49659021f875288e2bd2",
+            "name": "Xã Cải Viên"
+        },
+        {
+            "uid": "b99a1cda995440848e1dd1ea043efa94",
+            "name": "Xã Nội Thôn"
+        },
+        {
+            "uid": "e9f2072043c94872ab4f3fba7c386af3",
+            "name": "Xã Tổng Cọt"
+        },
+        {
+            "uid": "8a6129c97a714e9d9958a8f6221f9188",
+            "name": "Xã Sóc Hà"
+        },
+        {
+            "uid": "ef4461cb7f7648b7b3ac64b6e3aa8eb0",
+            "name": "Xã Thượng Thôn"
+        },
+        {
+            "uid": "4a74291c827743cba0319c5cd26c6019",
+            "name": "Xã Hồng Sỹ"
+        },
+        {
+            "uid": "9b9c7a85bca64a88b22fc5aaff3fe82a",
+            "name": "Xã Quý Quân"
+        },
+        {
+            "uid": "5b2d31413ee443a3bb4e0fe2e34cfc61",
+            "name": "Xã Mã Ba"
+        },
+        {
+            "uid": "dc783bc7bca34b8ca122ba2867b91ebb",
+            "name": "Xã Ngọc Đào"
+        }
+    ]
+}

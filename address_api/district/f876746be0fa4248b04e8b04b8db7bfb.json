@@ -1,0 +1,38 @@
+{
+    "uid": "f876746be0fa4248b04e8b04b8db7bfb",
+    "name": "Huyện Đất Đỏ",
+    "wards": [
+        {
+            "uid": "65778321f1684f8aa85aa5be089494a6",
+            "name": "Thị trấn Đất Đỏ"
+        },
+        {
+            "uid": "2f9d29edc8b243268b2242ee8e7a8fe2",
+            "name": "Xã Phước Long Thọ"
+        },
+        {
+            "uid": "88d3138afab64e2bb01e06ca728457b9",
+            "name": "Xã Phước Hội"
+        },
+        {
+            "uid": "f16e412f399741e59747869eccb9e072",
+            "name": "Xã Long Mỹ"
+        },
+        {
+            "uid": "4a868bcaf2ac4adeb7330b4b01c41bcc",
+            "name": "Thị trấn Phước Hải"
+        },
+        {
+            "uid": "9269cde419ed451fb0113b4b67988bdd",
+            "name": "Xã Long Tân"
+        },
+        {
+            "uid": "4fbb12ee72df421cbe80ce12153fe54f",
+            "name": "Xã Láng Dài"
+        },
+        {
+            "uid": "4e2e88aaf29d4fabac9f43b918ccc668",
+            "name": "Xã Lộc An"
+        }
+    ]
+}

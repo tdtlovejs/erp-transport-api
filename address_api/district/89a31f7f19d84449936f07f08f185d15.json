@@ -1,0 +1,114 @@
+{
+    "uid": "89a31f7f19d84449936f07f08f185d15",
+    "name": "Huyện Phù Yên",
+    "wards": [
+        {
+            "uid": "5ab4c52ce71d47e18f9f48b80dfca019",
+            "name": "Thị trấn Phù Yên"
+        },
+        {
+            "uid": "b8b99218bcd042418b6cc8e1093f989c",
+            "name": "Xã Suối Tọ"
+        },
+        {
+            "uid": "55b6912d4db3493a8137c65bf77e634d",
+            "name": "Xã Mường Thải"
+        },
+        {
+            "uid": "d5577f475b614afb9f489952d71ed3ca",
+            "name": "Xã Mường Cơi"
+        },
+        {
+            "uid": "8116adce02a540ceb28b17f65607aded",
+            "name": "Xã Quang Huy"
+        },
+        {
+            "uid": "d11e450c2c71495e9b419ad8fcd66dce",
+            "name": "Xã Huy Bắc"
+        },
+        {
+            "uid": "6ab0c9b00ef94a55ad2dd67e73c92d66",
+            "name": "Xã Huy Thượng"
+        },
+        {
+            "uid": "384a32630f884285900d49b84d0d2647",
+            "name": "Xã Tân Lang"
+        },
+        {
+            "uid": "09ea8cb09a0f463d822cfc20872d650f",
+            "name": "Xã Gia Phù"
+        },
+        {
+            "uid": "3d5939a41ace45fcac621f247e073373",
+            "name": "Xã Tường Phù"
+        },
+        {
+            "uid": "0300754ac15f4da297224ec4d07fa9d6",
+            "name": "Xã Huy Hạ"
+        },
+        {
+            "uid": "bf06fe2f5bd149cdaaadc3cfa42bea2c",
+            "name": "Xã Huy Tân"
+        },
+        {
+            "uid": "f5b51e5df7104793b0ceaf188dbbe660",
+            "name": "Xã Mường Lang"
+        },
+        {
+            "uid": "423884e24d52439e997328873a7c5356",
+            "name": "Xã Suối Bau"
+        },
+        {
+            "uid": "c62e56a938da498db2adaee62140898b",
+            "name": "Xã Huy Tường"
+        },
+        {
+            "uid": "5cd2de8468f94f5c93dd8f17d0a62e5d",
+            "name": "Xã Mường Do"
+        },
+        {
+            "uid": "e3127273619e41638db380a8c96c6828",
+            "name": "Xã Sập Xa"
+        },
+        {
+            "uid": "76b46cfeba2c4c1389c28eadd67db4ea",
+            "name": "Xã Tường Thượng"
+        },
+        {
+            "uid": "5137430871674c4b8142ae39596bcd6c",
+            "name": "Xã Tường Tiến"
+        },
+        {
+            "uid": "85ed3095d619433fb803c07948b17c79",
+            "name": "Xã Tường Phong"
+        },
+        {
+            "uid": "27b872ac0729428aba1b2c3d36bd892a",
+            "name": "Xã Tường Hạ"
+        },
+        {
+            "uid": "cd6095cfd5f04e93a7815a657bc08bb1",
+            "name": "Xã Kim Bon"
+        },
+        {
+            "uid": "5d8057bf36c944569a6a14cb1bce760b",
+            "name": "Xã Mường Bang"
+        },
+        {
+            "uid": "9ecb7ebf1e514810943d944a3dcf96b4",
+            "name": "Xã Đá Đỏ"
+        },
+        {
+            "uid": "234187defefb4ad28f2e1f685a4e491f",
+            "name": "Xã Tân Phong"
+        },
+        {
+            "uid": "d340e35f36594fcca98a6ba183f103ef",
+            "name": "Xã Nam Phong"
+        },
+        {
+            "uid": "02684983723e44b9b77c8ac425f94148",
+            "name": "Xã Bắc Phong"
+        }
+    ]
+}

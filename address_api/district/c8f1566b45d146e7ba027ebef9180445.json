@@ -1,0 +1,74 @@
+{
+    "uid": "c8f1566b45d146e7ba027ebef9180445",
+    "name": "Huyện Đăk Đoa",
+    "wards": [
+        {
+            "uid": "648a18a9c5c74b46bdbd3750a7e7d0d0",
+            "name": "Thị trấn Đăk Đoa"
+        },
+        {
+            "uid": "5653d56929ab462aaadce8bb748ac45f",
+            "name": "Xã Hà Đông"
+        },
+        {
+            "uid": "7165145b8a2a44a3af7201d9b5ef8675",
+            "name": "Xã Đăk Sơmei"
+        },
+        {
+            "uid": "85473fbb5a6a4da6822453f1199ffc89",
+            "name": "Xã Đăk Krong"
+        },
+        {
+            "uid": "62867a2202f3414fb4802bb83219c14e",
+            "name": "Xã Hải Yang"
+        },
+        {
+            "uid": "b2153e27e37149d6ad61a2b009f15791",
+            "name": "Xã Kon Gang"
+        },
+        {
+            "uid": "7fab912158724de18b1f52724b3e3583",
+            "name": "Xã Hà Bầu"
+        },
+        {
+            "uid": "9ce25992ca544b4b8daa817f660fa40e",
+            "name": "Xã Nam Yang"
+        },
+        {
+            "uid": "865e5cd656d24e34a63dc9a7e1b43703",
+            "name": "Xã K' Dang"
+        },
+        {
+            "uid": "6ca02597d1a14b5c89f2be7d49b4f215",
+            "name": "Xã H' Neng"
+        },
+        {
+            "uid": "896ab73ce509434d86e621ef0ce022a1",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "81eaecbb22894a9a904ed503cd08f483",
+            "name": "Xã Glar"
+        },
+        {
+            "uid": "a513825318904012914530a786dd4af8",
+            "name": "Xã A Dơk"
+        },
+        {
+            "uid": "aad986df8c134264a0ac7306c84cbb64",
+            "name": "Xã Trang"
+        },
+        {
+            "uid": "67b5537c1cea426c867f019903666aa6",
+            "name": "Xã HNol"
+        },
+        {
+            "uid": "52491fa236704fc999886042b493c814",
+            "name": "Xã Ia Pết"
+        },
+        {
+            "uid": "a407bc2d04cb47ca9d24f1b2a3460982",
+            "name": "Xã Ia Băng"
+        }
+    ]
+}

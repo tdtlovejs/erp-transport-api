@@ -1,0 +1,90 @@
+{
+    "uid": "ba023ff95fe74f73b8e49aefad732d32",
+    "name": "Huyện Châu Thành",
+    "wards": [
+        {
+            "uid": "e120f0592eca4d3aa3affcd776a026d7",
+            "name": "Thị trấn Châu Thành"
+        },
+        {
+            "uid": "c52591bfb183494d9c3b3f96840dde80",
+            "name": "Xã Tân Thạch"
+        },
+        {
+            "uid": "6f4ad066e7f74f8a92f941dd95e52d69",
+            "name": "Xã Qưới Sơn"
+        },
+        {
+            "uid": "044e868de831418d84c2e45afd9844cc",
+            "name": "Xã An Khánh"
+        },
+        {
+            "uid": "eb6ddd3361cb440bbda85f82d4b19292",
+            "name": "Xã Giao Long"
+        },
+        {
+            "uid": "46781f5c4fab46589b85d75d0e4a3109",
+            "name": "Xã Phú Túc"
+        },
+        {
+            "uid": "cb783471e5d64a9abad0475cc86fab2d",
+            "name": "Xã Phú Đức"
+        },
+        {
+            "uid": "c4206e94f8ae4e78b5a0d542edc39af5",
+            "name": "Xã Phú An Hòa"
+        },
+        {
+            "uid": "d40fc0f39e204099bc2ae31b59c1731e",
+            "name": "Xã An Phước"
+        },
+        {
+            "uid": "dc0959c0f8ce456e922e8b5d566dfde7",
+            "name": "Xã Tam Phước"
+        },
+        {
+            "uid": "c9cc8714b61c48dda284f4f105c07dd8",
+            "name": "Xã Thành Triệu"
+        },
+        {
+            "uid": "31dcc4fa5e734480ba328f621b98fbca",
+            "name": "Xã Tường Đa"
+        },
+        {
+            "uid": "5d9a7f5a51aa45fdabdcb3c68fea8424",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "3bafc4309f80429a8fd8430944ca5fa8",
+            "name": "Xã Quới Thành"
+        },
+        {
+            "uid": "0060a55485b14477bcf55180ee566680",
+            "name": "Xã Phước Thạnh"
+        },
+        {
+            "uid": "4c123a78e0874e6a9fe77fb761f948ee",
+            "name": "Xã An Hóa"
+        },
+        {
+            "uid": "6406042983da41b9bf5e285979447406",
+            "name": "Xã Tiên Long"
+        },
+        {
+            "uid": "b104c64af1664f77b248934507ce9aaf",
+            "name": "Xã An Hiệp"
+        },
+        {
+            "uid": "3d6f0dee1fa04e0580342344e30cc6ed",
+            "name": "Xã Hữu Định"
+        },
+        {
+            "uid": "c7e8edf918794e619e06fec1ced59868",
+            "name": "Xã Tiên Thủy"
+        },
+        {
+            "uid": "25cfc11c04ff4b8992d0dfbe81e90c1d",
+            "name": "Xã Sơn Hòa"
+        }
+    ]
+}

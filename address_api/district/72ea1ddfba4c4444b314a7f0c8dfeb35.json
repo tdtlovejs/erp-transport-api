@@ -1,0 +1,46 @@
+{
+    "uid": "72ea1ddfba4c4444b314a7f0c8dfeb35",
+    "name": "Huyện Cao Phong",
+    "wards": [
+        {
+            "uid": "c027574516054218a401e1463ca731e8",
+            "name": "Thị trấn Cao Phong"
+        },
+        {
+            "uid": "4e116075a4b7427080f5dc96ab84abc8",
+            "name": "Xã Bình Thanh"
+        },
+        {
+            "uid": "c6ad49e3ede84be386e1373bd88c3589",
+            "name": "Xã Thung Nai"
+        },
+        {
+            "uid": "7dc48fe9b45345ee8c0b00e94b5b7053",
+            "name": "Xã Bắc Phong"
+        },
+        {
+            "uid": "914cdc8d2bb64b1489c968430e9915fa",
+            "name": "Xã Thu Phong"
+        },
+        {
+            "uid": "5dcfead64f084cde97c8941bec701636",
+            "name": "Xã Hợp Phong"
+        },
+        {
+            "uid": "05ccd5b0be54426a957e363d9426c585",
+            "name": "Xã Tây Phong"
+        },
+        {
+            "uid": "da8dae2c4ce14ba8b3e75dcf61661f55",
+            "name": "Xã Dũng Phong"
+        },
+        {
+            "uid": "b671868939f244299036b024d3a6dfd9",
+            "name": "Xã Nam Phong"
+        },
+        {
+            "uid": "3c58779072ed47818f9d5e08536809e8",
+            "name": "Xã Thạch Yên"
+        }
+    ]
+}

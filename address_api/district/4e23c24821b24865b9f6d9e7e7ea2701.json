@@ -1,0 +1,78 @@
+{
+    "uid": "4e23c24821b24865b9f6d9e7e7ea2701",
+    "name": "Huyện Kiến Thuỵ",
+    "wards": [
+        {
+            "uid": "5fa9efa37b744cbe94d0c24ecc04c228",
+            "name": "Thị trấn Núi Đối"
+        },
+        {
+            "uid": "c9c0e51ead8f4d70b252b4b7d38ee917",
+            "name": "Xã Đông Phương"
+        },
+        {
+            "uid": "e051c50a649f4b839faa7cec0876157e",
+            "name": "Xã Thuận Thiên"
+        },
+        {
+            "uid": "f4dc5eda394844bb947cd528e2194eb0",
+            "name": "Xã Hữu Bằng"
+        },
+        {
+            "uid": "ab500faf74664b3a9bd4fc1a79c64171",
+            "name": "Xã Đại Đồng"
+        },
+        {
+            "uid": "ca5244580ce147f7b476c25c8a4200a6",
+            "name": "Xã Ngũ Phúc"
+        },
+        {
+            "uid": "4a9f010d19ca483098d7f8f72f35d5c4",
+            "name": "Xã Kiến Quốc"
+        },
+        {
+            "uid": "be5249f236154eae9ddead6c944c4f1d",
+            "name": "Xã Du Lễ"
+        },
+        {
+            "uid": "71f9738103994b83a097f9078489aa93",
+            "name": "Xã Thuỵ Hương"
+        },
+        {
+            "uid": "26742449604b48be96b0e78bdddda284",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "c20213b6614f4e9a9233ba75b6cd18fa",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "b8859828767b449aa2d443d705db8ed8",
+            "name": "Xã Đại Hà"
+        },
+        {
+            "uid": "3760edb1143948efae676744134090f1",
+            "name": "Xã Ngũ Đoan"
+        },
+        {
+            "uid": "6d44b300f8a5447782080e40bf74774e",
+            "name": "Xã Tân Phong"
+        },
+        {
+            "uid": "86a1f4132502403589068032bc1c7ef4",
+            "name": "Xã Tân Trào"
+        },
+        {
+            "uid": "d7e42bc233164c5ab95b3962da1b4616",
+            "name": "Xã Đoàn Xá"
+        },
+        {
+            "uid": "64637dfab35c446da735ddb015d2f6a0",
+            "name": "Xã Tú Sơn"
+        },
+        {
+            "uid": "389c04b0ba46497191545afb383b6b64",
+            "name": "Xã Đại Hợp"
+        }
+    ]
+}

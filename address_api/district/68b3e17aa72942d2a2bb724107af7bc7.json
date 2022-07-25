@@ -1,0 +1,74 @@
+{
+    "uid": "68b3e17aa72942d2a2bb724107af7bc7",
+    "name": "Huyện Trà Cú",
+    "wards": [
+        {
+            "uid": "a035ed15b1ff4106999b5d6208a3a7a1",
+            "name": "Thị trấn Trà Cú"
+        },
+        {
+            "uid": "5488e9765e92439a9923dc6fe66da984",
+            "name": "Thị trấn Định An"
+        },
+        {
+            "uid": "9d5f6f7a7c6049139a9b97c4756a45ae",
+            "name": "Xã Phước Hưng"
+        },
+        {
+            "uid": "8aae02cf675b4fe39f5067dbf7eed136",
+            "name": "Xã Tập Sơn"
+        },
+        {
+            "uid": "9eab92dbf36d47c9abc3156a7a7ce1f1",
+            "name": "Xã Tân Sơn"
+        },
+        {
+            "uid": "c4b303fea9b140bf9e553f7237fb5ee2",
+            "name": "Xã An Quảng Hữu"
+        },
+        {
+            "uid": "d00935215aa846f0a7235b8f6c8eb0dc",
+            "name": "Xã Lưu Nghiệp Anh"
+        },
+        {
+            "uid": "0b577cbf77b84f4cb5fc6887a30c4d32",
+            "name": "Xã Ngãi Xuyên"
+        },
+        {
+            "uid": "5328ec3e73cd42bf85dda5194698ba76",
+            "name": "Xã Kim Sơn"
+        },
+        {
+            "uid": "df00c088a598451b8cc3d00029413afe",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "b675aa27683147019287fcdcb52c6700",
+            "name": "Xã Hàm Giang"
+        },
+        {
+            "uid": "130dfc9868114e04a6a8d88409b43563",
+            "name": "Xã Hàm Tân"
+        },
+        {
+            "uid": "9db3302e3a3c40b7ba8ef4efefaa4022",
+            "name": "Xã Đại An"
+        },
+        {
+            "uid": "6055a2dd7bc442a59c0a341fb2f6d4e9",
+            "name": "Xã Định An"
+        },
+        {
+            "uid": "17dc4f58c9d34458b13e1fbcc54036c0",
+            "name": "Xã Ngọc Biên"
+        },
+        {
+            "uid": "c012716608ab42bca50de8f0c01c0b3a",
+            "name": "Xã Long Hiệp"
+        },
+        {
+            "uid": "6516a052384e4825bfb27ab1ba5bdde5",
+            "name": "Xã Tân Hiệp"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "4345f6afb5eb4c44a73178be4fe82a6e",
+    "name": "Quận 12",
+    "wards": [
+        {
+            "uid": "9803718c473647bfa1e89f479a8dc565",
+            "name": "Phường Thạnh Xuân"
+        },
+        {
+            "uid": "afc51e90cb1647cd95456b4073e223ba",
+            "name": "Phường Thạnh Lộc"
+        },
+        {
+            "uid": "4fde4533c8d647f5bf2e734caa2dfe6c",
+            "name": "Phường Hiệp Thành"
+        },
+        {
+            "uid": "ac75806a11a643fb85d5a10cc8df16a0",
+            "name": "Phường Thới An"
+        },
+        {
+            "uid": "c4ef214bae8b4e09a53d767df04a6922",
+            "name": "Phường Tân Chánh Hiệp"
+        },
+        {
+            "uid": "a0a7625f6e7a4cb9920c112c0041a613",
+            "name": "Phường An Phú Đông"
+        },
+        {
+            "uid": "d2d222f97fc444b2a45dbad87861967d",
+            "name": "Phường Tân Thới Hiệp"
+        },
+        {
+            "uid": "696c60435e7d4b298e74001bcb607423",
+            "name": "Phường Trung Mỹ Tây"
+        },
+        {
+            "uid": "579300b7033840d68d43df08004d0a55",
+            "name": "Phường Tân Hưng Thuận"
+        },
+        {
+            "uid": "f29783fd62504d01bce71917603ede00",
+            "name": "Phường Đông Hưng Thuận"
+        },
+        {
+            "uid": "a3459f5baed54ce395db6bfde087f034",
+            "name": "Phường Tân Thới Nhất"
+        }
+    ]
+}

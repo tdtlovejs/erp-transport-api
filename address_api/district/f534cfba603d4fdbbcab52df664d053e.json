@@ -1,0 +1,126 @@
+{
+    "uid": "f534cfba603d4fdbbcab52df664d053e",
+    "name": "Huyện Thọ Xuân",
+    "wards": [
+        {
+            "uid": "ce59a0e34ba747fa8a75a8a0a3d2c6c8",
+            "name": "Xã Xuân Hồng"
+        },
+        {
+            "uid": "6a12047882f249b8a466006940270676",
+            "name": "Thị trấn Thọ Xuân"
+        },
+        {
+            "uid": "8cbeabf7fdf94e8e93cbf6253bfc7857",
+            "name": "Xã Bắc Lương"
+        },
+        {
+            "uid": "c794dc73498148808cb0afb9bb51b5bb",
+            "name": "Xã Nam Giang"
+        },
+        {
+            "uid": "ac9549d0e16a4176b386baed2bffb215",
+            "name": "Xã Xuân Phong"
+        },
+        {
+            "uid": "9f40bc2f9e02428cbda7d949d66a9c90",
+            "name": "Xã Thọ Lộc"
+        },
+        {
+            "uid": "47ebf6849253453dbe2f859082bef27b",
+            "name": "Xã Xuân Trường"
+        },
+        {
+            "uid": "be3765ba24fd42b5b40d8685e583ebf2",
+            "name": "Xã Xuân Hòa"
+        },
+        {
+            "uid": "24ea2632f5b24d07b9743e7a6709bebe",
+            "name": "Xã Thọ Hải"
+        },
+        {
+            "uid": "17bfe343bb564a979bbcd12495b4591f",
+            "name": "Xã Tây Hồ"
+        },
+        {
+            "uid": "5b805a45b9e44e2fb1105efa310fafb2",
+            "name": "Xã Xuân Giang"
+        },
+        {
+            "uid": "c934b0c203664c12866ac4db990f6d1b",
+            "name": "Xã Xuân Sinh"
+        },
+        {
+            "uid": "db1d8e84281845ec8ea79655692b197b",
+            "name": "Xã Xuân Hưng"
+        },
+        {
+            "uid": "7c211dd403c24a7ea28e0e82e7b9b728",
+            "name": "Xã Thọ Diên"
+        },
+        {
+            "uid": "c047f52c027d43f7b55434811d1af6db",
+            "name": "Xã Thọ Lâm"
+        },
+        {
+            "uid": "ebb49a071315425b88b2cd2b425ce8ec",
+            "name": "Xã Thọ Xương"
+        },
+        {
+            "uid": "3564cb4d33234a7790a53c8566e04bc7",
+            "name": "Xã Xuân Bái"
+        },
+        {
+            "uid": "e6c7df4d77ba41cdaacdaecb447041ca",
+            "name": "Xã Xuân Phú"
+        },
+        {
+            "uid": "72e455f579f04fc38394c8b08b3b267f",
+            "name": "Thị trấn Sao Vàng"
+        },
+        {
+            "uid": "d33194925a75496ca71112147dd07dec",
+            "name": "Thị trấn Lam Sơn"
+        },
+        {
+            "uid": "02757c5b5798484d81345d17ac10e8d7",
+            "name": "Xã Xuân Thiên"
+        },
+        {
+            "uid": "f645864dfb1a49a1ac7cf5675a330938",
+            "name": "Xã Thuận Minh"
+        },
+        {
+            "uid": "dc8c768c4af84fa9816f8b4274b7316f",
+            "name": "Xã Thọ Lập"
+        },
+        {
+            "uid": "865105ac5e6943f6ab6d94e9923ace8f",
+            "name": "Xã Quảng Phú"
+        },
+        {
+            "uid": "108ec7b1a99e44099f9a815eac3aa72b",
+            "name": "Xã Xuân Tín"
+        },
+        {
+            "uid": "0df32a71278849b5b1fb7dd744ad2fd6",
+            "name": "Xã Phú Xuân"
+        },
+        {
+            "uid": "7dff637707fe450a8c1ac3e16dbb6dda",
+            "name": "Xã Xuân Lai"
+        },
+        {
+            "uid": "f4818810cf514867b28ee08ad1b6ecf3",
+            "name": "Xã Xuân Lập"
+        },
+        {
+            "uid": "e59c2a7484ec4a159ece3c8cc89534ac",
+            "name": "Xã Xuân Minh"
+        },
+        {
+            "uid": "45cce5c9913247e5b493262166fff65a",
+            "name": "Xã Trường Xuân"
+        }
+    ]
+}

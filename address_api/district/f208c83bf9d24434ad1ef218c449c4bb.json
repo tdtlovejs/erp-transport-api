@@ -1,0 +1,22 @@
+{
+    "uid": "f208c83bf9d24434ad1ef218c449c4bb",
+    "name": "Quận Ngũ Hành Sơn",
+    "wards": [
+        {
+            "uid": "55263490df2f4ce2a9293f1abfb4294d",
+            "name": "Phường Mỹ An"
+        },
+        {
+            "uid": "f3518fcc81834a94951f49e03a740b1b",
+            "name": "Phường Khuê Mỹ"
+        },
+        {
+            "uid": "b90446b5e6fb44fd8052dedb94e307b4",
+            "name": "Phường Hoà Quý"
+        },
+        {
+            "uid": "1556a9c7fd164111a2f77a41c3c19763",
+            "name": "Phường Hoà Hải"
+        }
+    ]
+}

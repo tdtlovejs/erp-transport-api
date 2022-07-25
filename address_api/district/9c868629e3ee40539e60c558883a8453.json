@@ -1,0 +1,34 @@
+{
+    "uid": "9c868629e3ee40539e60c558883a8453",
+    "name": "Huyện Buôn Đôn",
+    "wards": [
+        {
+            "uid": "26678837dba44852b6d037f8b0f33ced",
+            "name": "Xã Krông Na"
+        },
+        {
+            "uid": "623375c6dd094c1891e32f74ea73f471",
+            "name": "Xã Ea Huar"
+        },
+        {
+            "uid": "196b2b2b06a849a7979253389f7732a8",
+            "name": "Xã Ea Wer"
+        },
+        {
+            "uid": "96854f3c87b04e12814ca265eb8addfe",
+            "name": "Xã Tân Hoà"
+        },
+        {
+            "uid": "8aca379702ed4e0ab43f591b2db868a7",
+            "name": "Xã Cuôr KNia"
+        },
+        {
+            "uid": "f4b3569d3cdc4dd5a383bb6a2bed5387",
+            "name": "Xã Ea Bar"
+        },
+        {
+            "uid": "9c01015fbdd84378b45c154c33f20ee1",
+            "name": "Xã Ea Nuôl"
+        }
+    ]
+}

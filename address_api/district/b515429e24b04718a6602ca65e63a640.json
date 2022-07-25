@@ -1,0 +1,86 @@
+{
+    "uid": "b515429e24b04718a6602ca65e63a640",
+    "name": "Huyện Thanh Hà",
+    "wards": [
+        {
+            "uid": "4b4354fc7fc04692bf288a0f8b9fb3cc",
+            "name": "Thị trấn Thanh Hà"
+        },
+        {
+            "uid": "5e538ac14ee2493b93103081e198f34e",
+            "name": "Xã Hồng Lạc"
+        },
+        {
+            "uid": "66c0c10edf784a05ac265cc338084b51",
+            "name": "Xã Việt Hồng"
+        },
+        {
+            "uid": "0cb5ed6ce97c468aa03747fc0f8d1472",
+            "name": "Xã Tân Việt"
+        },
+        {
+            "uid": "f202c2c8383d47d2b3327a21c5292ebb",
+            "name": "Xã Cẩm Chế"
+        },
+        {
+            "uid": "d496b042caf34cd7bf624670276b40d6",
+            "name": "Xã Thanh An"
+        },
+        {
+            "uid": "d4b11fdef12d44d78d2085981b0c8ace",
+            "name": "Xã Thanh Lang"
+        },
+        {
+            "uid": "457438dcad804ba6931f40e37a5347d8",
+            "name": "Xã Tân An"
+        },
+        {
+            "uid": "a1f829bf1acb458bae33fab0156ffe12",
+            "name": "Xã Liên Mạc"
+        },
+        {
+            "uid": "41e549cbdd32431f917268eafaefe6a6",
+            "name": "Xã Thanh Hải"
+        },
+        {
+            "uid": "78b091519c9c44b0a698beb08488b45f",
+            "name": "Xã Thanh Khê"
+        },
+        {
+            "uid": "0804c0c96701400fa4cc9cb1a455b8e1",
+            "name": "Xã Thanh Xá"
+        },
+        {
+            "uid": "0a6ad6f08fd74c8aaf351c19ee9a270e",
+            "name": "Xã Thanh Xuân"
+        },
+        {
+            "uid": "e358fc0218cc45f383fb494aaa3e9b1e",
+            "name": "Xã Thanh Thủy"
+        },
+        {
+            "uid": "f1420c2301634a6985759d673f465138",
+            "name": "Xã An Phượng"
+        },
+        {
+            "uid": "207f454f233c4e99be1377c666671b79",
+            "name": "Xã Thanh Sơn"
+        },
+        {
+            "uid": "a3ca5083ea37403b99350733dd9a4d8b",
+            "name": "Xã Thanh Quang"
+        },
+        {
+            "uid": "bc68a43a7b204e2ea4caf00cb111be8b",
+            "name": "Xã Thanh Hồng"
+        },
+        {
+            "uid": "34ebbff91b384fdeb8e04d0820c53c94",
+            "name": "Xã Thanh Cường"
+        },
+        {
+            "uid": "c6670408032a45ee99f83f64dc5cf5e3",
+            "name": "Xã Vĩnh Lập"
+        }
+    ]
+}

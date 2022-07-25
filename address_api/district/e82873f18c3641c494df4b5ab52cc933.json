@@ -1,0 +1,154 @@
+{
+    "uid": "e82873f18c3641c494df4b5ab52cc933",
+    "name": "Huyện Hoằng Hóa",
+    "wards": [
+        {
+            "uid": "3c7101d5586240cab4e2c3c3bc05e969",
+            "name": "Thị trấn Bút Sơn"
+        },
+        {
+            "uid": "9b91d0a71999442383d2162816f98378",
+            "name": "Xã Hoằng Giang"
+        },
+        {
+            "uid": "a00ba9995f424801852c5fed8ef23164",
+            "name": "Xã Hoằng Xuân"
+        },
+        {
+            "uid": "0aca9d1c13834178b62a4679cf340d84",
+            "name": "Xã Hoằng Phượng"
+        },
+        {
+            "uid": "993bff33a1e748cbb033d744f68add46",
+            "name": "Xã Hoằng Phú"
+        },
+        {
+            "uid": "1ed06bc915c44dbcaa3f70c36c234042",
+            "name": "Xã Hoằng Quỳ"
+        },
+        {
+            "uid": "5f4d839536984adfaff303a343c19beb",
+            "name": "Xã Hoằng Kim"
+        },
+        {
+            "uid": "1c463fb53fc9485787759f6944e492ff",
+            "name": "Xã Hoằng Trung"
+        },
+        {
+            "uid": "e5d828acd7e841778aa772639ea64006",
+            "name": "Xã Hoằng Trinh"
+        },
+        {
+            "uid": "58b7d82a26c74632902793b4f1fc7050",
+            "name": "Xã Hoằng Sơn"
+        },
+        {
+            "uid": "766b24c20ab84085a649443fc1b7ae06",
+            "name": "Xã Hoằng Cát"
+        },
+        {
+            "uid": "8ca9553239fe4bfea833b2e04d91ce54",
+            "name": "Xã Hoằng Xuyên"
+        },
+        {
+            "uid": "dcfacd2d41774a5f8ea22c4c3583b3ac",
+            "name": "Xã Hoằng Quý"
+        },
+        {
+            "uid": "efe03555d4bd494c8104f0545e30707c",
+            "name": "Xã Hoằng Hợp"
+        },
+        {
+            "uid": "b217c08a62c34a54944717a3e547e577",
+            "name": "Xã Hoằng Đức"
+        },
+        {
+            "uid": "997b44255cc14d62ab725b3e6ed09d1d",
+            "name": "Xã Hoằng Hà"
+        },
+        {
+            "uid": "ecfc7ad27fad4480b1d3240e518eb451",
+            "name": "Xã Hoằng Đạt"
+        },
+        {
+            "uid": "92b4c1eafd2f471eb1f2e8ea5a23eda2",
+            "name": "Xã Hoằng Đạo"
+        },
+        {
+            "uid": "59b405f4730040339ccb448eeb7670ac",
+            "name": "Xã Hoằng Thắng"
+        },
+        {
+            "uid": "60aba29f16974a5fb2edd9485bed4c50",
+            "name": "Xã Hoằng Đồng"
+        },
+        {
+            "uid": "35efcc8187104976ab15eecee0e588a4",
+            "name": "Xã Hoằng Thái"
+        },
+        {
+            "uid": "37854e172193425aab5e6f407e5c71be",
+            "name": "Xã Hoằng Thịnh"
+        },
+        {
+            "uid": "74a5f750e1e14b87a84a332e8b2e4a59",
+            "name": "Xã Hoằng Thành"
+        },
+        {
+            "uid": "abeffc996c56484cbca2b62bb8e6dd10",
+            "name": "Xã Hoằng Lộc"
+        },
+        {
+            "uid": "8af34e2163134fb2be6efa417f1e5676",
+            "name": "Xã Hoằng Trạch"
+        },
+        {
+            "uid": "4c633576ae194347ac8f38c22789c4a5",
+            "name": "Xã Hoằng Phong"
+        },
+        {
+            "uid": "d599ade62bf24a608b487483bbcf4194",
+            "name": "Xã Hoằng Lưu"
+        },
+        {
+            "uid": "d388980e466347cbb0899c075fb67885",
+            "name": "Xã Hoằng Châu"
+        },
+        {
+            "uid": "f9fa244521cf4c4a9edfc43387b58bc1",
+            "name": "Xã Hoằng Tân"
+        },
+        {
+            "uid": "89cc9c3c21124d49bbe49805b049b00f",
+            "name": "Xã Hoằng Yến"
+        },
+        {
+            "uid": "c511a832e27f4c689916a0c7565fd74f",
+            "name": "Xã Hoằng Tiến"
+        },
+        {
+            "uid": "799e5935d00b4c00920d6a465bbab7f3",
+            "name": "Xã Hoằng Hải"
+        },
+        {
+            "uid": "eddae7bdc6d348acb9da55e5d55dcb52",
+            "name": "Xã Hoằng Ngọc"
+        },
+        {
+            "uid": "35b8d9071ba64933895dc584b3b6fe04",
+            "name": "Xã Hoằng Đông"
+        },
+        {
+            "uid": "bf181bb1bc40427d91b21c7ef5bf6a79",
+            "name": "Xã Hoằng Thanh"
+        },
+        {
+            "uid": "2982103eade2457b92c77d6690a4e4cf",
+            "name": "Xã Hoằng Phụ"
+        },
+        {
+            "uid": "4e7afe68bbeb4b34a6170d77c68d4cd1",
+            "name": "Xã Hoằng Trường"
+        }
+    ]
+}

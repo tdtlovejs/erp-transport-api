@@ -1,0 +1,82 @@
+{
+    "uid": "f1aa211889fe474eb5a0c0d66c10b9e4",
+    "name": "Thành phố Hòa Bình",
+    "wards": [
+        {
+            "uid": "844392c88c8b4e0e8fd256f617b63a18",
+            "name": "Phường Thái Bình"
+        },
+        {
+            "uid": "01c83c098f184808aee16c249b3b09b2",
+            "name": "Phường Tân Hòa"
+        },
+        {
+            "uid": "9e8541c7d9f943919c04ce5c1e3af0d4",
+            "name": "Phường Thịnh Lang"
+        },
+        {
+            "uid": "e704e156a27c4b51a6973a8ad6025bd7",
+            "name": "Phường Hữu Nghị"
+        },
+        {
+            "uid": "347814fda600411aa54d8e7a4735994b",
+            "name": "Phường Tân Thịnh"
+        },
+        {
+            "uid": "da6faa2bc496449c83f39aea7816af5d",
+            "name": "Phường Đồng Tiến"
+        },
+        {
+            "uid": "851542bb93b9432e91fa3b60536bf107",
+            "name": "Phường Phương Lâm"
+        },
+        {
+            "uid": "7e42723bb1e64761848f05991e56ad71",
+            "name": "Xã Yên Mông"
+        },
+        {
+            "uid": "26f5eb5be92d4663a82ee522c24c8311",
+            "name": "Phường Quỳnh Lâm"
+        },
+        {
+            "uid": "b1dfe3b386014426b785e8a09c3eefc5",
+            "name": "Phường Dân Chủ"
+        },
+        {
+            "uid": "cc61af630ec54218988292d7c256ff1f",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "3fb60bf81a5340f6840f19def5baab5a",
+            "name": "Phường Thống Nhất"
+        },
+        {
+            "uid": "bc093d499e88476c9eec6607f04b3089",
+            "name": "Phường Kỳ Sơn"
+        },
+        {
+            "uid": "d8931ad97cd149bb9724e2d743f865e4",
+            "name": "Xã Thịnh Minh"
+        },
+        {
+            "uid": "3e1edc90f50a4abd9cd3449ff0021228",
+            "name": "Xã Hợp Thành"
+        },
+        {
+            "uid": "913cfb969d664c05982b8b2906b8b298",
+            "name": "Xã Quang Tiến"
+        },
+        {
+            "uid": "cf4f4433f1004d76a865a0820bef2ff1",
+            "name": "Xã Mông Hóa"
+        },
+        {
+            "uid": "d989d6158b0a4535a734d4f9ef60767d",
+            "name": "Phường Trung Minh"
+        },
+        {
+            "uid": "3b23970564b347dca9e6511c106dc1c1",
+            "name": "Xã Độc Lập"
+        }
+    ]
+}

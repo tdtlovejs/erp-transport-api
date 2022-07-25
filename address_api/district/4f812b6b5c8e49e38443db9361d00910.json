@@ -1,0 +1,70 @@
+{
+    "uid": "4f812b6b5c8e49e38443db9361d00910",
+    "name": "Huyện An Dương",
+    "wards": [
+        {
+            "uid": "4eb3543c76034ab28b95e5d8266279a6",
+            "name": "Thị trấn An Dương"
+        },
+        {
+            "uid": "d1bd9799084846469a513179ae95d12b",
+            "name": "Xã Lê Thiện"
+        },
+        {
+            "uid": "4858c3a263c748e3add099ef31d83626",
+            "name": "Xã Đại Bản"
+        },
+        {
+            "uid": "abd16ee2c13e48fd8bfad1297b946d76",
+            "name": "Xã An Hoà"
+        },
+        {
+            "uid": "3350d264c4cb48619adb111a6781890d",
+            "name": "Xã Hồng Phong"
+        },
+        {
+            "uid": "9fe7bf2b6c0541b79d05a52ef6ee317a",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "96a5944e60554c74bbed13723f80873e",
+            "name": "Xã An Hưng"
+        },
+        {
+            "uid": "44649b27190647d785870f549cacb2f6",
+            "name": "Xã An Hồng"
+        },
+        {
+            "uid": "9d65f7b2186d4422afbba0c0dafa1db5",
+            "name": "Xã Bắc Sơn"
+        },
+        {
+            "uid": "3ac0eeeda9994eb496f3c49d5428b442",
+            "name": "Xã Nam Sơn"
+        },
+        {
+            "uid": "e8f937b08b8c452a94910f57b987f35c",
+            "name": "Xã Lê Lợi"
+        },
+        {
+            "uid": "6ad4f697b48a4237814d8d039c030312",
+            "name": "Xã Đặng Cương"
+        },
+        {
+            "uid": "057241e0cf7b489b8b3c8f1da0d587b4",
+            "name": "Xã Đồng Thái"
+        },
+        {
+            "uid": "0e54aee25b1242d0b42a2421f3fcd3ab",
+            "name": "Xã Quốc Tuấn"
+        },
+        {
+            "uid": "2da8434932b14e39ab2a27707a7e460f",
+            "name": "Xã An Đồng"
+        },
+        {
+            "uid": "6a461a1222cb4770a1988e284356d4a8",
+            "name": "Xã Hồng Thái"
+        }
+    ]
+}

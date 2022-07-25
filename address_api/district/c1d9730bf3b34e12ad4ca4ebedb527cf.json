@@ -1,0 +1,62 @@
+{
+    "uid": "c1d9730bf3b34e12ad4ca4ebedb527cf",
+    "name": "Huyện Phù Cừ",
+    "wards": [
+        {
+            "uid": "5dbf5a74e2154e9aa34cec63201375ef",
+            "name": "Thị trấn Trần Cao"
+        },
+        {
+            "uid": "a2cd558976ea49dea2a12bdea26a6dd1",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "9bc5bfbcd7694c58bba166670426e344",
+            "name": "Xã Phan Sào Nam"
+        },
+        {
+            "uid": "f823f0cb55fd45d5853aeea1a61502fe",
+            "name": "Xã Quang Hưng"
+        },
+        {
+            "uid": "4b65ebbacf984280b4a27868be5398c0",
+            "name": "Xã Minh Hoàng"
+        },
+        {
+            "uid": "650cc2170d524316af9f0f07cd2db6f5",
+            "name": "Xã Đoàn Đào"
+        },
+        {
+            "uid": "a748072396eb4c90bf38f42d6b541f0c",
+            "name": "Xã Tống Phan"
+        },
+        {
+            "uid": "a8ede5d7998b48368d36edc01e602b70",
+            "name": "Xã Đình Cao"
+        },
+        {
+            "uid": "a17c3312983a4e8d8502e8c9137533bc",
+            "name": "Xã Nhật Quang"
+        },
+        {
+            "uid": "bd0aab2da4f743c2afa0bfc883376c41",
+            "name": "Xã Tiền Tiến"
+        },
+        {
+            "uid": "ea89eef4c6614b92aedaafaff7bcd4bf",
+            "name": "Xã Tam Đa"
+        },
+        {
+            "uid": "e1b7e350b7c647c3bcbc793d798fc198",
+            "name": "Xã Minh Tiến"
+        },
+        {
+            "uid": "0fa4798bf56d4702a0c45671ba661839",
+            "name": "Xã Nguyên Hòa"
+        },
+        {
+            "uid": "d249eec6c2c4413aa980d96b2102698c",
+            "name": "Xã Tống Trân"
+        }
+    ]
+}

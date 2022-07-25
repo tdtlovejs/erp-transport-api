@@ -1,0 +1,70 @@
+{
+    "uid": "cb647fcce57d4339ada21c1d5ce54eae",
+    "name": "Huyện Hải Lăng",
+    "wards": [
+        {
+            "uid": "b2af509e397b422a955a4c1fd990ff67",
+            "name": "Thị trấn Diên Sanh"
+        },
+        {
+            "uid": "f89264435517455cb1e677aa107189f3",
+            "name": "Xã Hải An"
+        },
+        {
+            "uid": "5cc1ac1ae4ba428bb583216c884eab6c",
+            "name": "Xã Hải Ba"
+        },
+        {
+            "uid": "36467a99f74b4cb6b6c2936952b33ba3",
+            "name": "Xã Hải Quy"
+        },
+        {
+            "uid": "8fd83a77528047889ef5f44edaf1e85e",
+            "name": "Xã Hải Quế"
+        },
+        {
+            "uid": "aa7ae4ae003f42d7b528edacb24beaba",
+            "name": "Xã Hải Hưng"
+        },
+        {
+            "uid": "2807cf3f1e39481886fe3affd088d26b",
+            "name": "Xã Hải Phú"
+        },
+        {
+            "uid": "5b4a5b73f9164127a69d5140e1eab79b",
+            "name": "Xã Hải Thượng"
+        },
+        {
+            "uid": "0d8bddee148f4477999ab0b47707c560",
+            "name": "Xã Hải Dương"
+        },
+        {
+            "uid": "6df3eced7167470bbd1dad68acfb8f1b",
+            "name": "Xã Hải Định"
+        },
+        {
+            "uid": "853b84798a564f2183148f56ab8d5904",
+            "name": "Xã Hải Lâm"
+        },
+        {
+            "uid": "5bf3ff3a36884ddb985db51a571ac63c",
+            "name": "Xã Hải Phong"
+        },
+        {
+            "uid": "27d4d8bbe98f47c8a75408e2dd4cf36e",
+            "name": "Xã Hải Trường"
+        },
+        {
+            "uid": "aff13f9651dc4d959ee2b828bd04fb14",
+            "name": "Xã Hải Sơn"
+        },
+        {
+            "uid": "5696c0cfaadc49868984bae2a2978ba1",
+            "name": "Xã Hải Chánh"
+        },
+        {
+            "uid": "5a90d593dd0f4a87872c7679a8d016fc",
+            "name": "Xã Hải Khê"
+        }
+    ]
+}

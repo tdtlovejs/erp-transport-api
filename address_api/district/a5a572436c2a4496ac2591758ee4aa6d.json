@@ -1,0 +1,70 @@
+{
+    "uid": "a5a572436c2a4496ac2591758ee4aa6d",
+    "name": "Huyện Mường La",
+    "wards": [
+        {
+            "uid": "5de98081de38497b964a4b8f9c2f3a13",
+            "name": "Thị trấn Ít Ong"
+        },
+        {
+            "uid": "2dbf2765782d4d029a43eb378f08ad47",
+            "name": "Xã Nậm Giôn"
+        },
+        {
+            "uid": "b5a490372f29411a82557267e231e062",
+            "name": "Xã Chiềng Lao"
+        },
+        {
+            "uid": "45e5cf5d28be4767b6340a92c4738ae2",
+            "name": "Xã Hua Trai"
+        },
+        {
+            "uid": "e12a65a9e544491a8b197769092062e1",
+            "name": "Xã Ngọc Chiến"
+        },
+        {
+            "uid": "a3b6b69d23c14a848bda33417cc0980d",
+            "name": "Xã Mường Trai"
+        },
+        {
+            "uid": "7a7877aa3f9247cd86b8e451c50892bf",
+            "name": "Xã Nậm Păm"
+        },
+        {
+            "uid": "198dd8d79ee542919b2fa30349cfe1fe",
+            "name": "Xã Chiềng Muôn"
+        },
+        {
+            "uid": "a904751a52a1446f8eb0a33d0de5976f",
+            "name": "Xã Chiềng Ân"
+        },
+        {
+            "uid": "77d83691d57441cf8c1751d09dd32298",
+            "name": "Xã Pi Toong"
+        },
+        {
+            "uid": "032282dd813e44979bb013174571fedc",
+            "name": "Xã Chiềng Công"
+        },
+        {
+            "uid": "7d58df96f2f34b78868cb077ddcf9ca3",
+            "name": "Xã Tạ Bú"
+        },
+        {
+            "uid": "32f21fc81a0c4c5199c6daa2d2ad5df3",
+            "name": "Xã Chiềng San"
+        },
+        {
+            "uid": "35cfb550e4bc40ac8dff679d8c4b2f00",
+            "name": "Xã Mường Bú"
+        },
+        {
+            "uid": "7190b02fd7bc444eb803556523a883cb",
+            "name": "Xã Chiềng Hoa"
+        },
+        {
+            "uid": "27edc9a4d19c4f8db39f1fb050520e77",
+            "name": "Xã Mường Chùm"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "9796dd558a4049e3a45a695cc90758fa",
+    "name": "Quận Cầu Giấy",
+    "wards": [
+        {
+            "uid": "3e7a16342b864f4eb41b48755e73ef42",
+            "name": "Phường Nghĩa Đô"
+        },
+        {
+            "uid": "cbe37bd9efc24cdd9d14e96cab5d2a0f",
+            "name": "Phường Nghĩa Tân"
+        },
+        {
+            "uid": "185def155a014a1b971f109bbf645374",
+            "name": "Phường Mai Dịch"
+        },
+        {
+            "uid": "22f21340cd5145869b5e19690700653b",
+            "name": "Phường Dịch Vọng"
+        },
+        {
+            "uid": "bea549fb0540489d960057e072565dbb",
+            "name": "Phường Dịch Vọng Hậu"
+        },
+        {
+            "uid": "fa49d2ee48124c64a77f8b899e7d5035",
+            "name": "Phường Quan Hoa"
+        },
+        {
+            "uid": "9db7931158e14543b80fdec1d944a3c2",
+            "name": "Phường Yên Hoà"
+        },
+        {
+            "uid": "f4c271bc2e2f41958b513df76cf547c6",
+            "name": "Phường Trung Hoà"
+        }
+    ]
+}

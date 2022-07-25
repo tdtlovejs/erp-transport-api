@@ -1,0 +1,54 @@
+{
+    "uid": "51e06b8fc11b4aff98fe2c7262fccc3c",
+    "name": "Quận 3",
+    "wards": [
+        {
+            "uid": "157b381c902043dfb98c9919ab043690",
+            "name": "Phường 14"
+        },
+        {
+            "uid": "36c459320af34c47901e20309feba1f6",
+            "name": "Phường 12"
+        },
+        {
+            "uid": "e69df6f398df46a7b9238d8386f29ea1",
+            "name": "Phường 11"
+        },
+        {
+            "uid": "49e0144237874a43bcfff8be2567d224",
+            "name": "Phường 13"
+        },
+        {
+            "uid": "8dfc3b0d6bf34381b0cbc2a51b8f92ba",
+            "name": "Phường Võ Thị Sáu"
+        },
+        {
+            "uid": "272138604db04186a1858c5f41f5e6e0",
+            "name": "Phường 09"
+        },
+        {
+            "uid": "ee96301619a14f6092aaf1f826054cc5",
+            "name": "Phường 10"
+        },
+        {
+            "uid": "ca0254f3c08c42fcb6cc6099306f1c60",
+            "name": "Phường 04"
+        },
+        {
+            "uid": "d125bd4a26de408392c6141a9c23da03",
+            "name": "Phường 05"
+        },
+        {
+            "uid": "68d98fd73daa4065975938517bcc4615",
+            "name": "Phường 03"
+        },
+        {
+            "uid": "d7508e2748fa419e85be007990369cf1",
+            "name": "Phường 02"
+        },
+        {
+            "uid": "50be8f16d97c4b739e1821f20174dfa3",
+            "name": "Phường 01"
+        }
+    ]
+}

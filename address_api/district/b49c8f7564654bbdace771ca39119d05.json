@@ -1,0 +1,54 @@
+{
+    "uid": "b49c8f7564654bbdace771ca39119d05",
+    "name": "Huyện Krông Năng",
+    "wards": [
+        {
+            "uid": "c6578b67ab264d57b186597afc0e2c9e",
+            "name": "Thị trấn Krông Năng"
+        },
+        {
+            "uid": "ebb409f9eed74ce98f74d8fe4cd12ecd",
+            "name": "Xã ĐLiê Ya"
+        },
+        {
+            "uid": "e5f9e42d88784300add3e9196337c341",
+            "name": "Xã Ea Tóh"
+        },
+        {
+            "uid": "9de7a6dbe5e94ca8bccfffc8dcbc75e5",
+            "name": "Xã Ea Tam"
+        },
+        {
+            "uid": "ac1492f3b7454cddaada1d61360e6905",
+            "name": "Xã Phú Lộc"
+        },
+        {
+            "uid": "b5f1da38574f42479a8cc2e1dbbd6c2f",
+            "name": "Xã Tam Giang"
+        },
+        {
+            "uid": "ee9b8210f91245dfbd125a402e19a134",
+            "name": "Xã Ea Puk"
+        },
+        {
+            "uid": "d831422f66624102b0307c700e8672ae",
+            "name": "Xã Ea Dăh"
+        },
+        {
+            "uid": "37a8f31ae25241c1ae7881b824828075",
+            "name": "Xã Ea Hồ"
+        },
+        {
+            "uid": "3fa30df072f14ae49847b8ebf4c92927",
+            "name": "Xã Phú Xuân"
+        },
+        {
+            "uid": "4f49ec28436749d88d4146c170e74653",
+            "name": "Xã Cư Klông"
+        },
+        {
+            "uid": "a4bbd958f8a04438ac1d215cd69d898e",
+            "name": "Xã Ea Tân"
+        }
+    ]
+}

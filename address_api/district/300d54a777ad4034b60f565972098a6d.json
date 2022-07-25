@@ -1,0 +1,58 @@
+{
+    "uid": "300d54a777ad4034b60f565972098a6d",
+    "name": "Huyện Tam Dương",
+    "wards": [
+        {
+            "uid": "bd83e54f853649c694ba1dd687d4717d",
+            "name": "Thị trấn Hợp Hòa"
+        },
+        {
+            "uid": "feb29a061ec64df59ba50ef019e45aa9",
+            "name": "Xã Hoàng Hoa"
+        },
+        {
+            "uid": "1d1d36cd6e434ad783088a468a3166ce",
+            "name": "Xã Đồng Tĩnh"
+        },
+        {
+            "uid": "342b973b93744fbd87249c5e92e6d7b7",
+            "name": "Xã Kim Long"
+        },
+        {
+            "uid": "0a8565bd13e64e92a4dc6dd088e3d876",
+            "name": "Xã Hướng Đạo"
+        },
+        {
+            "uid": "09d94d63ff2c4fbb88b48b02bae21014",
+            "name": "Xã Đạo Tú"
+        },
+        {
+            "uid": "a88571df1a8e46b18202bae8fe03baed",
+            "name": "Xã An Hòa"
+        },
+        {
+            "uid": "3f17ed1922e744a684a2614fa9176101",
+            "name": "Xã Thanh Vân"
+        },
+        {
+            "uid": "f519fd94d79c4702807e70d0c87421a3",
+            "name": "Xã Duy Phiên"
+        },
+        {
+            "uid": "1251bc101994456e8cc4b3c8ccbe4e1f",
+            "name": "Xã Hoàng Đan"
+        },
+        {
+            "uid": "302d56834fc24dc29c05436b2d91a5c2",
+            "name": "Xã Hoàng Lâu"
+        },
+        {
+            "uid": "8761097cdaf04d9ba1ffc41fa2abdc7f",
+            "name": "Xã Vân Hội"
+        },
+        {
+            "uid": "3c28a5851d8d44919c6fd617847d2c08",
+            "name": "Xã Hợp Thịnh"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "uid": "e1ed63a901d2422ba3033c3f027d2a7c",
+    "name": "Huyện Tân Kỳ",
+    "wards": [
+        {
+            "uid": "6a830b97eb7c4bceb09cebea960396dc",
+            "name": "Thị trấn Tân Kỳ"
+        },
+        {
+            "uid": "109c5ee68bc1493bacb0fb279cf7f0e0",
+            "name": "Xã Tân Hợp"
+        },
+        {
+            "uid": "a604093c8e0c444e9bbf913a9d9102f7",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "94a8652ff43f4f2f9969aedc9acb89c6",
+            "name": "Xã Tân Xuân"
+        },
+        {
+            "uid": "2ee0394247884dc5b2fa4d96928d9f1f",
+            "name": "Xã Giai Xuân"
+        },
+        {
+            "uid": "3caf1ff11fc941adb16857a5e4e19706",
+            "name": "Xã Nghĩa Bình"
+        },
+        {
+            "uid": "894c992fad694468a49cafe51d994a41",
+            "name": "Xã Nghĩa Đồng"
+        },
+        {
+            "uid": "5a847c90a8d54db99047341ddb89bbd2",
+            "name": "Xã Đồng Văn"
+        },
+        {
+            "uid": "ff639301c45944a6924189c011a45a76",
+            "name": "Xã Nghĩa Thái"
+        },
+        {
+            "uid": "a160538dfe714d338da31a7d3bfad43f",
+            "name": "Xã Nghĩa Hợp"
+        },
+        {
+            "uid": "7561c65bf79d4c76b1b2d73b3c3e5d92",
+            "name": "Xã Nghĩa Hoàn"
+        },
+        {
+            "uid": "8e331d512dfc4b8a88474804de97e747",
+            "name": "Xã Nghĩa Phúc"
+        },
+        {
+            "uid": "917b0959d2f14022bc2974f7e6bbf09f",
+            "name": "Xã Tiên Kỳ"
+        },
+        {
+            "uid": "0e266d9644bf4f539b45f9adc9031c18",
+            "name": "Xã Tân An"
+        },
+        {
+            "uid": "8a49cff7ce384b54bd31db6f4df17f59",
+            "name": "Xã Nghĩa Dũng"
+        },
+        {
+            "uid": "f31ed66fa6d04c5ab3219a1c40874059",
+            "name": "Xã Tân Long"
+        },
+        {
+            "uid": "f966b6ff76724accac4b462eca2fab6e",
+            "name": "Xã Kỳ Sơn"
+        },
+        {
+            "uid": "448e2e3316bc47b19846bfe88609f551",
+            "name": "Xã Hương Sơn"
+        },
+        {
+            "uid": "b46777fba1e0405e8dd5e038d5dc2d83",
+            "name": "Xã Kỳ Tân"
+        },
+        {
+            "uid": "89aff9a860d546ae9c9ba2b4c496a1b7",
+            "name": "Xã Phú Sơn"
+        },
+        {
+            "uid": "33b46a4a04de4c29b71b188e835961c2",
+            "name": "Xã Tân Hương"
+        },
+        {
+            "uid": "412cb78a3fd24a48bc4b63bf6cbcd99d",
+            "name": "Xã Nghĩa Hành"
+        }
+    ]
+}

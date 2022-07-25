@@ -1,0 +1,62 @@
+{
+    "uid": "cf6bef50c53c4702b78436b92630a63b",
+    "name": "Huyện Chư Păh",
+    "wards": [
+        {
+            "uid": "9476b0dc711249859e41089177fffa72",
+            "name": "Thị trấn Phú Hòa"
+        },
+        {
+            "uid": "731979afa385443c912d102c6a0d53f4",
+            "name": "Xã Hà Tây"
+        },
+        {
+            "uid": "61c43da7b5f546ff901b58258b48b75c",
+            "name": "Xã Ia Khươl"
+        },
+        {
+            "uid": "c9b06c877a444841803eb53c7a0e5739",
+            "name": "Xã Ia Phí"
+        },
+        {
+            "uid": "aebcdefe76a641d78c316a201082b3a9",
+            "name": "Thị trấn Ia Ly"
+        },
+        {
+            "uid": "ff954b34a02847a1be7085c4e357d038",
+            "name": "Xã Ia Mơ Nông"
+        },
+        {
+            "uid": "b9fd4a98023641e995f495beb3d74d0b",
+            "name": "Xã Ia Kreng"
+        },
+        {
+            "uid": "04274196481e42758d04cf4ff6ea8771",
+            "name": "Xã Đăk Tơ Ver"
+        },
+        {
+            "uid": "5b7ed46be815451a8049672114b708f2",
+            "name": "Xã Hòa Phú"
+        },
+        {
+            "uid": "a5b7e44469d547458365dcf4f1fad6b3",
+            "name": "Xã Chư Đăng Ya"
+        },
+        {
+            "uid": "2b7342a357844fb8993d98da31cfc9f5",
+            "name": "Xã Ia Ka"
+        },
+        {
+            "uid": "8cf1ec11f7744a21a03d80574c1c6c68",
+            "name": "Xã Ia Nhin"
+        },
+        {
+            "uid": "23e08bce132d460a8165cfe224e64417",
+            "name": "Xã Nghĩa Hòa"
+        },
+        {
+            "uid": "717c975d3eef46d2b26dbafe3e68658f",
+            "name": "Xã Nghĩa Hưng"
+        }
+    ]
+}

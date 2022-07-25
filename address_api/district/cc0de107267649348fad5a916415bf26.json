@@ -1,0 +1,70 @@
+{
+    "uid": "cc0de107267649348fad5a916415bf26",
+    "name": "Huyện Tân Lạc",
+    "wards": [
+        {
+            "uid": "5a81a3396c6f4d4f92a53e7852899bb6",
+            "name": "Thị trấn Mãn Đức"
+        },
+        {
+            "uid": "34c57bc86aeb473084a5b691e44b86d4",
+            "name": "Xã Suối Hoa"
+        },
+        {
+            "uid": "873f0e3f975242999f7981d3c4e495c7",
+            "name": "Xã Phú Vinh"
+        },
+        {
+            "uid": "60add2e148264593827160afcfd7bade",
+            "name": "Xã Phú Cường"
+        },
+        {
+            "uid": "118cf4df5d124a8d877d1109abf25ea4",
+            "name": "Xã Mỹ Hòa"
+        },
+        {
+            "uid": "d1fe90935d52467bbb5bddb6e8d2fd41",
+            "name": "Xã Quyết Chiến"
+        },
+        {
+            "uid": "9618bb7c565d42cda15263d5f8ab9d72",
+            "name": "Xã Phong Phú"
+        },
+        {
+            "uid": "f0076559a75f4a7eadd386508e08cf2e",
+            "name": "Xã Tử Nê"
+        },
+        {
+            "uid": "a99c5e5ecdc941a6a796372ccf20fdd7",
+            "name": "Xã Thanh Hối"
+        },
+        {
+            "uid": "f3405755593c48a2be7904d5fa4e59ec",
+            "name": "Xã Ngọc Mỹ"
+        },
+        {
+            "uid": "07b17db7ea05486c9c785ad390e954f5",
+            "name": "Xã Đông Lai"
+        },
+        {
+            "uid": "3d5a681426e2488aaec3244c08cde0cd",
+            "name": "Xã Vân Sơn"
+        },
+        {
+            "uid": "5d508f201bd946fd9f583caacb810a13",
+            "name": "Xã Nhân Mỹ"
+        },
+        {
+            "uid": "73ba76e5686f462785f11bc70c25f8fb",
+            "name": "Xã Lỗ Sơn"
+        },
+        {
+            "uid": "a7542c25f2884a17a31192b38df0524c",
+            "name": "Xã Ngổ Luông"
+        },
+        {
+            "uid": "b38933e4585d4e499520df89ec5316cd",
+            "name": "Xã Gia Mô"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "uid": "2d221f3c471b4a6f8710381d56464450",
+    "name": "Huyện Quỳnh Lưu",
+    "wards": [
+        {
+            "uid": "8212b431dd8a4ce89a89e402aded4508",
+            "name": "Thị trấn Cầu Giát"
+        },
+        {
+            "uid": "8895eb6b6d3e43d19126bdc925744011",
+            "name": "Xã Quỳnh Thắng"
+        },
+        {
+            "uid": "b583fe89e1d147639905197fcaeee1b6",
+            "name": "Xã Quỳnh Tân"
+        },
+        {
+            "uid": "5932a89d998942c5a466e441c1b125c9",
+            "name": "Xã Quỳnh Châu"
+        },
+        {
+            "uid": "73a2168372ed4e10b5eff74a775235a2",
+            "name": "Xã Tân Sơn"
+        },
+        {
+            "uid": "19d77685e7644d998f894a8d463f2325",
+            "name": "Xã Quỳnh Văn"
+        },
+        {
+            "uid": "43581774fed444739fe0d56d1db7c718",
+            "name": "Xã Ngọc Sơn"
+        },
+        {
+            "uid": "6a8546a1c437408e8369b913febc8e64",
+            "name": "Xã Quỳnh Tam"
+        },
+        {
+            "uid": "c28571d1b7414d1b96b9cb3d29b80150",
+            "name": "Xã Quỳnh Hoa"
+        },
+        {
+            "uid": "cef84a088ed74d4c9615ba9b3c2e350f",
+            "name": "Xã Quỳnh Thạch"
+        },
+        {
+            "uid": "f0d5cdf62ca8445d8c7a1c1acd658097",
+            "name": "Xã Quỳnh Bảng"
+        },
+        {
+            "uid": "947b9dbf2feb422d8436b8694dcfdf4f",
+            "name": "Xã Quỳnh Mỹ"
+        },
+        {
+            "uid": "63cdbc9a4eb942b1b07bd2b016155d6a",
+            "name": "Xã Quỳnh Thanh"
+        },
+        {
+            "uid": "a9d07348aef942b397d282b13d54ee6d",
+            "name": "Xã Quỳnh Hậu"
+        },
+        {
+            "uid": "a25d5eaae9aa4611b3e92f34d1dc2ac1",
+            "name": "Xã Quỳnh Lâm"
+        },
+        {
+            "uid": "f175ca2ad4de40f0bb86b24867b1b9a5",
+            "name": "Xã Quỳnh Đôi"
+        },
+        {
+            "uid": "08f8bdbc4bdc4f7bb454ea45e0a031bb",
+            "name": "Xã Quỳnh Lương"
+        },
+        {
+            "uid": "0f9668c66268477cbaa239e56a960d41",
+            "name": "Xã Quỳnh Hồng"
+        },
+        {
+            "uid": "1fe8a58117254d3fbfc5ae4ba067137d",
+            "name": "Xã Quỳnh Yên"
+        },
+        {
+            "uid": "9e918dac4ee647debc1814c1a15510d4",
+            "name": "Xã Quỳnh Bá"
+        },
+        {
+            "uid": "f31cb9778c1941549bc72723c5a5509f",
+            "name": "Xã Quỳnh Minh"
+        },
+        {
+            "uid": "eb8f1e2161a0421290c95ee639e46899",
+            "name": "Xã Quỳnh Diễn"
+        },
+        {
+            "uid": "79d0405889bf4a3e8da350ff5726a846",
+            "name": "Xã Quỳnh Hưng"
+        },
+        {
+            "uid": "563afff39d294810b87977b6685a5f51",
+            "name": "Xã Quỳnh Giang"
+        },
+        {
+            "uid": "53704175ef9c4428a5b5c8420c39cb2e",
+            "name": "Xã Quỳnh Ngọc"
+        },
+        {
+            "uid": "1de6a73905e94fb28e19b449ffdba304",
+            "name": "Xã Quỳnh Nghĩa"
+        },
+        {
+            "uid": "3a9bbb2201ae4f0aad0bb71c271da929",
+            "name": "Xã An Hòa"
+        },
+        {
+            "uid": "31ba6fa1d25649059d9f1c40d7b41f9f",
+            "name": "Xã Tiến Thủy"
+        },
+        {
+            "uid": "ea18354390bd4c10b9ca9e47991e3035",
+            "name": "Xã Sơn Hải"
+        },
+        {
+            "uid": "280bca073be54359a14daee0145d95dd",
+            "name": "Xã Quỳnh Thọ"
+        },
+        {
+            "uid": "11767122fbea43f28a4195568ab85087",
+            "name": "Xã Quỳnh Thuận"
+        },
+        {
+            "uid": "28acba3436184f779c5337047407e947",
+            "name": "Xã Quỳnh Long"
+        },
+        {
+            "uid": "1fbade0cb055448a8b16d6778ac21105",
+            "name": "Xã Tân Thắng"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "a6a393fe7f324903beb8a5e25a2fef66",
+    "name": "Huyện Văn Lâm",
+    "wards": [
+        {
+            "uid": "8290fb9241984ff4b475096699c5a7f1",
+            "name": "Thị trấn Như Quỳnh"
+        },
+        {
+            "uid": "f09b816e3e52403c90913bf9ccffb56c",
+            "name": "Xã Lạc Đạo"
+        },
+        {
+            "uid": "21849077fab548c89f72c38887424f01",
+            "name": "Xã Chỉ Đạo"
+        },
+        {
+            "uid": "b6f44ca93a7844c4b3bdec20ae9aca84",
+            "name": "Xã Đại Đồng"
+        },
+        {
+            "uid": "de179d11537a4aa08b79021e831b4c16",
+            "name": "Xã Việt Hưng"
+        },
+        {
+            "uid": "9b8f1f39b9704b68872218dc4b8a598e",
+            "name": "Xã Tân Quang"
+        },
+        {
+            "uid": "80b5c2d5d08c45a7b5c2cfade6efd24f",
+            "name": "Xã Đình Dù"
+        },
+        {
+            "uid": "7b70f985d9de4fec8559c8187dc9ced2",
+            "name": "Xã Minh Hải"
+        },
+        {
+            "uid": "9ad28a24bb0049ce8c686edba24871ff",
+            "name": "Xã Lương Tài"
+        },
+        {
+            "uid": "026fd46d1c5c4d1eb233efeb03ad5f5a",
+            "name": "Xã Trưng Trắc"
+        },
+        {
+            "uid": "655d451c9d144a40ac301547a65fa4f4",
+            "name": "Xã Lạc Hồng"
+        }
+    ]
+}

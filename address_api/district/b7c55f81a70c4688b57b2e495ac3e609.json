@@ -1,0 +1,62 @@
+{
+    "uid": "b7c55f81a70c4688b57b2e495ac3e609",
+    "name": "Thành phố Tân An",
+    "wards": [
+        {
+            "uid": "1b742c7d2e064165ab6644c9d7f4bded",
+            "name": "Phường 5"
+        },
+        {
+            "uid": "924c25483b3746ea8a3421d94aafe29f",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "cd828d3dfb30486ab62fde3ebd9508b1",
+            "name": "Phường 4"
+        },
+        {
+            "uid": "6d223e8f11394bd8af2a321c9144abda",
+            "name": "Phường Tân Khánh"
+        },
+        {
+            "uid": "86878a4757c24a139830b522221b0da1",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "1e4ba14d9b764f8dacc2c68282a881c8",
+            "name": "Phường 3"
+        },
+        {
+            "uid": "1e9fa97035d645bab625de99fb8fd615",
+            "name": "Phường 7"
+        },
+        {
+            "uid": "d46c951acf4f4bd48855615d3700c142",
+            "name": "Phường 6"
+        },
+        {
+            "uid": "32ccced9022a46678b93e4fb857c5923",
+            "name": "Xã Hướng Thọ Phú"
+        },
+        {
+            "uid": "80672ad592664791b11d332579969405",
+            "name": "Xã Nhơn Thạnh Trung"
+        },
+        {
+            "uid": "c6983ce19ad44031968ade8806b5d030",
+            "name": "Xã Lợi Bình Nhơn"
+        },
+        {
+            "uid": "9e03fb83858541dba7b6d17834c4e7c0",
+            "name": "Xã Bình Tâm"
+        },
+        {
+            "uid": "77b2d0c211e240cc92d1b17b2ad5e4a7",
+            "name": "Phường Khánh Hậu"
+        },
+        {
+            "uid": "f7a27854d6c34593b10a91200463370d",
+            "name": "Xã An Vĩnh Ngãi"
+        }
+    ]
+}

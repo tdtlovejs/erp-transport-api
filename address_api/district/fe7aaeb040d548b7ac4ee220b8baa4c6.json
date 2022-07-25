@@ -1,0 +1,74 @@
+{
+    "uid": "fe7aaeb040d548b7ac4ee220b8baa4c6",
+    "name": "Quận Hà Đông",
+    "wards": [
+        {
+            "uid": "2ae16bc9bedd42839198f4af133c7759",
+            "name": "Phường Nguyễn Trãi"
+        },
+        {
+            "uid": "a176beb2659247cb93fbee4ab190edbf",
+            "name": "Phường Mộ Lao"
+        },
+        {
+            "uid": "898303cb968045a698e35b0f78089190",
+            "name": "Phường Văn Quán"
+        },
+        {
+            "uid": "27584a299a5949b4bbb7ee7f73edc1ed",
+            "name": "Phường Vạn Phúc"
+        },
+        {
+            "uid": "c8860bc159fb4fe0b649ff7ee5efe670",
+            "name": "Phường Yết Kiêu"
+        },
+        {
+            "uid": "8c9649916bdf488eb4fa99b65e982dac",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "baf148ac9c7a44198dc24f9b17ea2a6c",
+            "name": "Phường La Khê"
+        },
+        {
+            "uid": "3f30a38ba66e4c19834707764cea7f45",
+            "name": "Phường Phú La"
+        },
+        {
+            "uid": "65673e20e9b944aa929abac4b564921b",
+            "name": "Phường Phúc La"
+        },
+        {
+            "uid": "eb857d272d79499cb20830db5370fd09",
+            "name": "Phường Hà Cầu"
+        },
+        {
+            "uid": "12ed8394eb714c19a9b87d6ae96ec520",
+            "name": "Phường Yên Nghĩa"
+        },
+        {
+            "uid": "68884ccf9e8e4cb0abb18917efdc8753",
+            "name": "Phường Kiến Hưng"
+        },
+        {
+            "uid": "18e697cb644f44b2b3c4ed6121b1ac6d",
+            "name": "Phường Phú Lãm"
+        },
+        {
+            "uid": "c9f3184d47b14fb2a6854129e2b4466d",
+            "name": "Phường Phú Lương"
+        },
+        {
+            "uid": "684aa9444c1a43c5b929fe2437c04175",
+            "name": "Phường Dương Nội"
+        },
+        {
+            "uid": "10f04089db5e49b5b9251fe7d3a37765",
+            "name": "Phường Đồng Mai"
+        },
+        {
+            "uid": "5ac4e915d00e4a68823b78b1b9dec879",
+            "name": "Phường Biên Giang"
+        }
+    ]
+}

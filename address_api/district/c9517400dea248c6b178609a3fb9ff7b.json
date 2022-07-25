@@ -1,0 +1,102 @@
+{
+    "uid": "c9517400dea248c6b178609a3fb9ff7b",
+    "name": "Huyện Yên Bình",
+    "wards": [
+        {
+            "uid": "fe91b38d5ee54785bb80abfba647666f",
+            "name": "Thị trấn Yên Bình"
+        },
+        {
+            "uid": "1acd0c547c8545508c9cfef206197045",
+            "name": "Thị trấn Thác Bà"
+        },
+        {
+            "uid": "c9913a1eca014af394ab72ff97508e04",
+            "name": "Xã Xuân Long"
+        },
+        {
+            "uid": "1a75f803d3fc4906b82ba737ed8cf611",
+            "name": "Xã Cảm Nhân"
+        },
+        {
+            "uid": "00dc84d0e393473591914c80ad0285ec",
+            "name": "Xã Ngọc Chấn"
+        },
+        {
+            "uid": "b7b2611f1645451995e538e027b1b299",
+            "name": "Xã Tân Nguyên"
+        },
+        {
+            "uid": "46b8853685c840b2b86ce1f84964dba8",
+            "name": "Xã Phúc Ninh"
+        },
+        {
+            "uid": "4a8acf7a4ce643cab41fd41e68ccf205",
+            "name": "Xã Bảo Ái"
+        },
+        {
+            "uid": "ee0e0d5f49ca4f739d9cf82cc3dba6dc",
+            "name": "Xã Mỹ Gia"
+        },
+        {
+            "uid": "53e60b3797dd40419aef2c71eab3cc48",
+            "name": "Xã Xuân Lai"
+        },
+        {
+            "uid": "9f7ef87a6cf74d81b9690d0149982346",
+            "name": "Xã Mông Sơn"
+        },
+        {
+            "uid": "f00b0bbadd7244c297c6776c96276f6a",
+            "name": "Xã Cảm Ân"
+        },
+        {
+            "uid": "88fb2ccce55b443aa015e287362c48fe",
+            "name": "Xã Yên Thành"
+        },
+        {
+            "uid": "e6ef0d87c2ac479da988d36875f6639d",
+            "name": "Xã Tân Hương"
+        },
+        {
+            "uid": "de26be718cbf474e8b958778683b093a",
+            "name": "Xã Phúc An"
+        },
+        {
+            "uid": "685a46ad0e9f4f669587d165fa832ba7",
+            "name": "Xã Bạch Hà"
+        },
+        {
+            "uid": "4ab1181d5c704e70ab7ea4dcf4b50d3b",
+            "name": "Xã Vũ Linh"
+        },
+        {
+            "uid": "f7d292dabe9344d6bd3b5e87d104a10e",
+            "name": "Xã Đại Đồng"
+        },
+        {
+            "uid": "bc8835d439874fdca65e671ad9066ab3",
+            "name": "Xã Vĩnh Kiên"
+        },
+        {
+            "uid": "8183276447644149bb133d548e088fc8",
+            "name": "Xã Yên Bình"
+        },
+        {
+            "uid": "c8bdede6b60f432d8b6f0743895f3f27",
+            "name": "Xã Thịnh Hưng"
+        },
+        {
+            "uid": "cd2ba68e47ed4709ae0d9de2ea64e129",
+            "name": "Xã Hán Đà"
+        },
+        {
+            "uid": "08d26bc305b043d289db4cc0e097118b",
+            "name": "Xã Phú Thịnh"
+        },
+        {
+            "uid": "7936d15803074f128ae9c9f4d6eb2fc9",
+            "name": "Xã Đại Minh"
+        }
+    ]
+}

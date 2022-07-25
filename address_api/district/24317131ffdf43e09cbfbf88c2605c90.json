@@ -1,0 +1,58 @@
+{
+    "uid": "24317131ffdf43e09cbfbf88c2605c90",
+    "name": "Huyện Mỏ Cày Bắc",
+    "wards": [
+        {
+            "uid": "8b8b390fb19c44198014cc2d1e4bf128",
+            "name": "Xã Phú Mỹ"
+        },
+        {
+            "uid": "b9931504c1ed4c019c03ef092dbe9dac",
+            "name": "Xã Hưng Khánh Trung A"
+        },
+        {
+            "uid": "526848a431f843b5a97e508ff1192888",
+            "name": "Xã Thanh Tân"
+        },
+        {
+            "uid": "f90c6a96bfc142ffa7d63ad1167d223f",
+            "name": "Xã Thạnh Ngãi"
+        },
+        {
+            "uid": "67f3c36409bc4ed685d4ab35d14beb83",
+            "name": "Xã Tân Phú Tây"
+        },
+        {
+            "uid": "45df49e2231b4245b1aa13da235a0a31",
+            "name": "Xã Phước Mỹ Trung"
+        },
+        {
+            "uid": "74cdb062a8b8493f903e19427a0cf92a",
+            "name": "Xã Tân Thành Bình"
+        },
+        {
+            "uid": "f2efcec80cc747329602bf5286c4d9b3",
+            "name": "Xã Thành An"
+        },
+        {
+            "uid": "f267ec94446743ffb1338f425d14ca86",
+            "name": "Xã Hòa Lộc"
+        },
+        {
+            "uid": "0707a3eff3b94cbba51dc8eb03a0dd98",
+            "name": "Xã Tân Thanh Tây"
+        },
+        {
+            "uid": "90169bede94944729f6ca03acdb8e6f7",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "88a1aa04faa54cd493b535294a9a8649",
+            "name": "Xã Nhuận Phú Tân"
+        },
+        {
+            "uid": "7c85b5f91c77486d8c37b240f7713f28",
+            "name": "Xã Khánh Thạnh Tân"
+        }
+    ]
+}

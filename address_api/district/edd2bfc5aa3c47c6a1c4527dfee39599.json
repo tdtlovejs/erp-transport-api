@@ -1,0 +1,54 @@
+{
+    "uid": "edd2bfc5aa3c47c6a1c4527dfee39599",
+    "name": "Huyện Tân Châu",
+    "wards": [
+        {
+            "uid": "38fb6743d8aa4acfad58d22996d38511",
+            "name": "Thị trấn Tân Châu"
+        },
+        {
+            "uid": "8db1c112dbda4d9fa5e72ccb99cf2e2d",
+            "name": "Xã Tân Hà"
+        },
+        {
+            "uid": "d398d56086bb43118a0a036ff1724d7c",
+            "name": "Xã Tân Đông"
+        },
+        {
+            "uid": "b7fa33b8091c495e8490008abf9050b1",
+            "name": "Xã Tân Hội"
+        },
+        {
+            "uid": "70e4f23281e844d6b09319311b4547a4",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "d35e903404134cc19ed8ff381b0f7cea",
+            "name": "Xã Suối Ngô"
+        },
+        {
+            "uid": "8cabbcbca67045158776af745681bd8f",
+            "name": "Xã Suối Dây"
+        },
+        {
+            "uid": "2a2eab277d8b4950abc8be7bab9870db",
+            "name": "Xã Tân Hiệp"
+        },
+        {
+            "uid": "3c2f8ba153d74893b94fa090dd484c80",
+            "name": "Xã Thạnh Đông"
+        },
+        {
+            "uid": "3566f999dbfc414abfbdf6e368161245",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "fe5b25913660403ab77086ff4a5a15f4",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "787af5a29cb9484e9297e3cc7f3e587e",
+            "name": "Xã Tân Hưng"
+        }
+    ]
+}

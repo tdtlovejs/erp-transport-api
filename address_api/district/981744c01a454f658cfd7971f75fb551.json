@@ -1,0 +1,62 @@
+{
+    "uid": "981744c01a454f658cfd7971f75fb551",
+    "name": "Thị xã Nghĩa Lộ",
+    "wards": [
+        {
+            "uid": "4caeeb4a228f4a16a27c508a25a1ec4c",
+            "name": "Phường Pú Trạng"
+        },
+        {
+            "uid": "4280952f0f244d088c35b227eea189a9",
+            "name": "Phường Trung Tâm"
+        },
+        {
+            "uid": "21cb0b17a4e547b586137d4972e64e97",
+            "name": "Phường Tân An"
+        },
+        {
+            "uid": "9e6d082ddaa240dda5cfe008a55f2060",
+            "name": "Phường Cầu Thia"
+        },
+        {
+            "uid": "a4d48e5ce75d40e89ca97cda5e8b3f04",
+            "name": "Xã Nghĩa Lợi"
+        },
+        {
+            "uid": "1b65c318466e42c984b5e7b14ed391c2",
+            "name": "Xã Nghĩa Phúc"
+        },
+        {
+            "uid": "678fc80907f148599021ba9839df0e7a",
+            "name": "Xã Nghĩa An"
+        },
+        {
+            "uid": "ab4ba8957966425a9a01c64b4fdbf391",
+            "name": "Xã Nghĩa Lộ"
+        },
+        {
+            "uid": "fc891c9318cd4797acd2c6e890b0e57e",
+            "name": "Xã Sơn A"
+        },
+        {
+            "uid": "a7119af2e9d645f28ab280a9dadc4454",
+            "name": "Xã Phù Nham"
+        },
+        {
+            "uid": "c4ce9a493865480985f865bff82f1518",
+            "name": "Xã Thanh Lương"
+        },
+        {
+            "uid": "97f5423a21444f6dabdc8921e9fd7443",
+            "name": "Xã Hạnh Sơn"
+        },
+        {
+            "uid": "8c4526de3d0b464290e63bcc678bd1d4",
+            "name": "Xã Phúc Sơn"
+        },
+        {
+            "uid": "3abf9cbd2c8c4d608394b81f0da6f247",
+            "name": "Xã Thạch Lương"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "15d274b4022c40bc8f2e23a183e77e7f",
+    "name": "Huyện Cù Lao Dung",
+    "wards": [
+        {
+            "uid": "a4e2bdb8d42c4ab59f169c8e94f1c84f",
+            "name": "Thị trấn Cù Lao Dung"
+        },
+        {
+            "uid": "ebe779a570d5442387ff47764733763c",
+            "name": "Xã An Thạnh 1"
+        },
+        {
+            "uid": "030d53406e3946ce90813708ec8bc679",
+            "name": "Xã An Thạnh Tây"
+        },
+        {
+            "uid": "10a43ff2f4cc411ca78b397595f3cc3b",
+            "name": "Xã An Thạnh Đông"
+        },
+        {
+            "uid": "9bc93379a20b40d3ba3cbf90da65ddbf",
+            "name": "Xã Đại Ân 1"
+        },
+        {
+            "uid": "6d65ec40502f427883a1152c9b287cc3",
+            "name": "Xã An Thạnh 2"
+        },
+        {
+            "uid": "89c286cf867e42fea39d4680689808d3",
+            "name": "Xã An Thạnh 3"
+        },
+        {
+            "uid": "0b4fb240bbfc475bb6672cd123c801ac",
+            "name": "Xã An Thạnh Nam"
+        }
+    ]
+}

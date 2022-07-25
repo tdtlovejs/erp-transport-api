@@ -1,0 +1,90 @@
+{
+    "uid": "878bef196aad4b308f94fa3e4c048580",
+    "name": "Huyện Lạng Giang",
+    "wards": [
+        {
+            "uid": "aabefe8d53e6431fa233179b6d53cf79",
+            "name": "Thị trấn Vôi"
+        },
+        {
+            "uid": "b6b1a6df16fb481db4a8728a4d083810",
+            "name": "Xã Nghĩa Hòa"
+        },
+        {
+            "uid": "cdcb2256255a43cfa9db45fb791f7992",
+            "name": "Xã Nghĩa Hưng"
+        },
+        {
+            "uid": "b5f3f1f7c47c447db07fb5542c7246a8",
+            "name": "Xã Quang Thịnh"
+        },
+        {
+            "uid": "425825694832448f8640803ad995eb95",
+            "name": "Xã Hương Sơn"
+        },
+        {
+            "uid": "9976b1d8dc01437b9a7a8c12b403aefb",
+            "name": "Xã Đào Mỹ"
+        },
+        {
+            "uid": "417a25bf0861478e81f25bf0da39a0b6",
+            "name": "Xã Tiên Lục"
+        },
+        {
+            "uid": "7b9121c036b1452b85068e46b5949412",
+            "name": "Xã An Hà"
+        },
+        {
+            "uid": "7bb54d8f736642ec9f3ae6eab4de8615",
+            "name": "Thị trấn Kép"
+        },
+        {
+            "uid": "c8da87f5e69d41ccb6f48b71539aee2b",
+            "name": "Xã Mỹ Hà"
+        },
+        {
+            "uid": "526bea4e607240a2a140eadd1f1dd354",
+            "name": "Xã Hương Lạc"
+        },
+        {
+            "uid": "b553dbf762914ba18c250161e61c53cc",
+            "name": "Xã Dương Đức"
+        },
+        {
+            "uid": "79e8780d15a14fd190fcd054e926b37c",
+            "name": "Xã Tân Thanh"
+        },
+        {
+            "uid": "626b3f36f3e143a6a43772d204245e8b",
+            "name": "Xã Yên Mỹ"
+        },
+        {
+            "uid": "436a6d0e86094d6f8b959710bf2e9e6c",
+            "name": "Xã Tân Hưng"
+        },
+        {
+            "uid": "d8a4740636d944428a35300eaf039093",
+            "name": "Xã Mỹ Thái"
+        },
+        {
+            "uid": "2dfe1c9df3ca45dcb72ac92c6ea4fb84",
+            "name": "Xã Xương Lâm"
+        },
+        {
+            "uid": "5106b51625484ac4a2c25e6ad49d4e3e",
+            "name": "Xã Xuân Hương"
+        },
+        {
+            "uid": "62f0b23e682b41578898fe1e6b99e05a",
+            "name": "Xã Tân Dĩnh"
+        },
+        {
+            "uid": "1119d7a11cf34e05941b05e189e6dd75",
+            "name": "Xã Đại Lâm"
+        },
+        {
+            "uid": "376e23ef2467450389de561097eaef10",
+            "name": "Xã Thái Đào"
+        }
+    ]
+}

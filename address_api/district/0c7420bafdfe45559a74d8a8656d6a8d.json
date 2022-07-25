@@ -1,0 +1,66 @@
+{
+    "uid": "0c7420bafdfe45559a74d8a8656d6a8d",
+    "name": "Huyện Phú Lương",
+    "wards": [
+        {
+            "uid": "5981491fc5e14d0d97e15228ac11d515",
+            "name": "Thị trấn Giang Tiên"
+        },
+        {
+            "uid": "e2e324effb704c24b3622700b2638bdd",
+            "name": "Thị trấn Đu"
+        },
+        {
+            "uid": "c92e9ac410744b4fa909eadee5039c93",
+            "name": "Xã Yên Ninh"
+        },
+        {
+            "uid": "2c936d9c99ec4444bc0e23612a902a9f",
+            "name": "Xã Yên Trạch"
+        },
+        {
+            "uid": "fed6b91ec4764a1c976027b01ffdf212",
+            "name": "Xã Yên Đổ"
+        },
+        {
+            "uid": "8e10a87fb0fe4f0faa07a6065dc3f04b",
+            "name": "Xã Yên Lạc"
+        },
+        {
+            "uid": "f36c259c87d646a28098b342906ca7c6",
+            "name": "Xã Ôn Lương"
+        },
+        {
+            "uid": "20000176c5484eca91a73bb701b7cd81",
+            "name": "Xã Động Đạt"
+        },
+        {
+            "uid": "1d3ed07b2dcb4e1baf97e56b3d4add07",
+            "name": "Xã Phủ Lý"
+        },
+        {
+            "uid": "fed3714a2ade4a058eaf53588b860f5c",
+            "name": "Xã Phú Đô"
+        },
+        {
+            "uid": "41881411904949488f43832fc3f6bd9e",
+            "name": "Xã Hợp Thành"
+        },
+        {
+            "uid": "e00a78ca7fe74d0591b13beff5923c9f",
+            "name": "Xã Tức Tranh"
+        },
+        {
+            "uid": "1cca7d27dd1e46269fb1a1c67453015c",
+            "name": "Xã Phấn Mễ"
+        },
+        {
+            "uid": "0fc929989bb445b9a0b8de5b72ea3078",
+            "name": "Xã Vô Tranh"
+        },
+        {
+            "uid": "eae08fe8879041eeab4c20afc143870d",
+            "name": "Xã Cổ Lũng"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "uid": "10e54bd084854e0fbdfe5f113ef1ef6b",
+    "name": "Thành phố Thái Nguyên",
+    "wards": [
+        {
+            "uid": "a5807f64c832472381d19201946a15cf",
+            "name": "Phường Quán Triều"
+        },
+        {
+            "uid": "def513fa444941199a95fca5f1d9b5e8",
+            "name": "Phường Quang Vinh"
+        },
+        {
+            "uid": "cc3e00f2b01745fcb1844f248027b20c",
+            "name": "Phường Túc Duyên"
+        },
+        {
+            "uid": "d23b104937d9404da061d40d43274ebe",
+            "name": "Phường Hoàng Văn Thụ"
+        },
+        {
+            "uid": "d92ec810f7fa4f87b37d356af87faea2",
+            "name": "Phường Trưng Vương"
+        },
+        {
+            "uid": "cde387229ae041b8bc8322ccdc14905b",
+            "name": "Phường Quang Trung"
+        },
+        {
+            "uid": "841ae74d2d6d467b813f86ac44ddae6d",
+            "name": "Phường Phan Đình Phùng"
+        },
+        {
+            "uid": "790a1a4c84b540bc9e07aa154ce41921",
+            "name": "Phường Tân Thịnh"
+        },
+        {
+            "uid": "4abf30b9176f4b38ba926b73c19d1538",
+            "name": "Phường Thịnh Đán"
+        },
+        {
+            "uid": "05767da62a41448ea9c337e3ef1c7307",
+            "name": "Phường Đồng Quang"
+        },
+        {
+            "uid": "5df0cf22c22f4a24b2edfc91141adca6",
+            "name": "Phường Gia Sàng"
+        },
+        {
+            "uid": "fb835934251a48ed9a1e8fc8f4313b5b",
+            "name": "Phường Tân Lập"
+        },
+        {
+            "uid": "d7123ed2bbd8495b967b784abdb556c6",
+            "name": "Phường Cam Giá"
+        },
+        {
+            "uid": "dbf85638c93d40aab57159c344f5022c",
+            "name": "Phường Phú Xá"
+        },
+        {
+            "uid": "f020e819a68943548ac0c918251e3a61",
+            "name": "Phường Hương Sơn"
+        },
+        {
+            "uid": "a9341db392e742b99943325ab26c6518",
+            "name": "Phường Trung Thành"
+        },
+        {
+            "uid": "b457e83680cf420d8496f92557be695c",
+            "name": "Phường Tân Thành"
+        },
+        {
+            "uid": "8157ed7c4fdd4d888a4f5d44d662d5b3",
+            "name": "Phường Tân Long"
+        },
+        {
+            "uid": "5d8fc6d63b4448dea9a96c25003d2c0a",
+            "name": "Xã Phúc Hà"
+        },
+        {
+            "uid": "2c93e5e426be4e879c045591d1cf66c0",
+            "name": "Xã Phúc Xuân"
+        },
+        {
+            "uid": "3ea4e6a542ac4be48206a19e56f75b2e",
+            "name": "Xã Quyết Thắng"
+        },
+        {
+            "uid": "aad990da5bd14223b7e4e8e28ed7f3bd",
+            "name": "Xã Phúc Trìu"
+        },
+        {
+            "uid": "2d070baa72894df4b95f358554c79f9e",
+            "name": "Xã Thịnh Đức"
+        },
+        {
+            "uid": "4dbf42e94eb2418cbea0f3979191206c",
+            "name": "Phường Tích Lương"
+        },
+        {
+            "uid": "4f1b02fe1450430795010db14c56e320",
+            "name": "Xã Tân Cương"
+        },
+        {
+            "uid": "ff17f491430d4caab93857c19687ea0e",
+            "name": "Xã Sơn Cẩm"
+        },
+        {
+            "uid": "1ba43dbd80e6474b96c340555284f887",
+            "name": "Phường Chùa Hang"
+        },
+        {
+            "uid": "4433d3257b2c44e7b94f687b999c5961",
+            "name": "Xã Cao Ngạn"
+        },
+        {
+            "uid": "ee04e4d9191747b9b38174195a1952c4",
+            "name": "Xã Linh Sơn"
+        },
+        {
+            "uid": "4940bda46d254116868e476e352cfa69",
+            "name": "Phường Đồng Bẩm"
+        },
+        {
+            "uid": "e72c2abfd67c44aca5bc3919b9e5c1c8",
+            "name": "Xã Huống Thượng"
+        },
+        {
+            "uid": "220f1515a3e842f2900b9c61a98599ff",
+            "name": "Xã Đồng Liên"
+        }
+    ]
+}

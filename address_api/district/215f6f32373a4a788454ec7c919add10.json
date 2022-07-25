@@ -1,0 +1,98 @@
+{
+    "uid": "215f6f32373a4a788454ec7c919add10",
+    "name": "Huyện Cẩm Xuyên",
+    "wards": [
+        {
+            "uid": "2a79aae9da944abf81a75360ef28bb99",
+            "name": "Thị trấn Cẩm Xuyên"
+        },
+        {
+            "uid": "63467c1555bd4317909020a1817a81ff",
+            "name": "Thị trấn Thiên Cầm"
+        },
+        {
+            "uid": "e9ed0260db1d446fa10a83129bb10a60",
+            "name": "Xã Yên Hòa"
+        },
+        {
+            "uid": "7fd883d4513d4501b6966b6ac73afa14",
+            "name": "Xã Cẩm Dương"
+        },
+        {
+            "uid": "60bb52feafa2476d9b04133d3fe93fc4",
+            "name": "Xã Cẩm Bình"
+        },
+        {
+            "uid": "5077d731a4ba4dfca256dea9002dc98d",
+            "name": "Xã Cẩm Vĩnh"
+        },
+        {
+            "uid": "ebb685eacfdd42d9ae7d9e3fd42b0fb5",
+            "name": "Xã Cẩm Thành"
+        },
+        {
+            "uid": "5983b77ebf7a486db4d8435d8693983f",
+            "name": "Xã Cẩm Quang"
+        },
+        {
+            "uid": "128554ee51d14a0ca72374c76195ea04",
+            "name": "Xã Cẩm Thạch"
+        },
+        {
+            "uid": "9fbe684e42cc44b89d98905ec67355a4",
+            "name": "Xã Cẩm Nhượng"
+        },
+        {
+            "uid": "dc850b6b57bf4859b67219c2f24a8142",
+            "name": "Xã Nam Phúc Thăng"
+        },
+        {
+            "uid": "6df61a4940ed4492a0f0041884f9688c",
+            "name": "Xã Cẩm Duệ"
+        },
+        {
+            "uid": "8531c60358a241db815f71a0024925b6",
+            "name": "Xã Cẩm Lĩnh"
+        },
+        {
+            "uid": "2efea640547347cc845607950dc0ef02",
+            "name": "Xã Cẩm Quan"
+        },
+        {
+            "uid": "e19720b3a0e94287af20a7291bca5629",
+            "name": "Xã Cẩm Hà"
+        },
+        {
+            "uid": "2e1fd3e67f4143e68bd24596b8c3778a",
+            "name": "Xã Cẩm Lộc"
+        },
+        {
+            "uid": "e922c82458064dcc98712ea062da5609",
+            "name": "Xã Cẩm Hưng"
+        },
+        {
+            "uid": "32fb3051345c4f1ca13541b0a7cd82a2",
+            "name": "Xã Cẩm Thịnh"
+        },
+        {
+            "uid": "eb8a7e9b54c744f3b9aca34a9a996635",
+            "name": "Xã Cẩm Mỹ"
+        },
+        {
+            "uid": "3bb9f17a89734baeb0c075daddea078e",
+            "name": "Xã Cẩm Trung"
+        },
+        {
+            "uid": "6bf85f16bd0840ce9f6b92970d911e81",
+            "name": "Xã Cẩm Sơn"
+        },
+        {
+            "uid": "059ad699565c4b9db4aecde52332bcd9",
+            "name": "Xã Cẩm Lạc"
+        },
+        {
+            "uid": "383fce0eab0f4c07a328ff2eb04e3901",
+            "name": "Xã Cẩm Minh"
+        }
+    ]
+}

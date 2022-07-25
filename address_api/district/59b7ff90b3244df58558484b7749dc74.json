@@ -1,0 +1,78 @@
+{
+    "uid": "59b7ff90b3244df58558484b7749dc74",
+    "name": "Huyện Kim Bảng",
+    "wards": [
+        {
+            "uid": "3e3d9bd964b64e1da318c14bce3635c9",
+            "name": "Thị trấn Quế"
+        },
+        {
+            "uid": "05328d9f13a946fe9d22c219fad53d2f",
+            "name": "Xã Nguyễn Úy"
+        },
+        {
+            "uid": "8782247088be48bb90590e8a1d6d49d5",
+            "name": "Xã Đại Cương"
+        },
+        {
+            "uid": "3800cb2a78bd4831b620d2899a8db5f1",
+            "name": "Xã Lê Hồ"
+        },
+        {
+            "uid": "e7a1e121c9f94976b5c749b7f2bd594a",
+            "name": "Xã Tượng Lĩnh"
+        },
+        {
+            "uid": "550b9c02fe0047158ba705d14c13173b",
+            "name": "Xã Nhật Tựu"
+        },
+        {
+            "uid": "fa99661f4cf24c14ae9df38e107ade92",
+            "name": "Xã Nhật Tân"
+        },
+        {
+            "uid": "5413f7af5eda45b9afd7b3b1e07cbb45",
+            "name": "Xã Đồng Hóa"
+        },
+        {
+            "uid": "5ee832204f684a9bad243c2beba6f233",
+            "name": "Xã Hoàng Tây"
+        },
+        {
+            "uid": "597ce0a49a644c3cb904a50ad817597a",
+            "name": "Xã Tân Sơn"
+        },
+        {
+            "uid": "cde38540b6834d9a86f7401dfa2962be",
+            "name": "Xã Thụy Lôi"
+        },
+        {
+            "uid": "e3f02b8f185b466996ff096060fff62e",
+            "name": "Xã Văn Xá"
+        },
+        {
+            "uid": "cdaf716693e546e4be8267daebe5bae0",
+            "name": "Xã Khả Phong"
+        },
+        {
+            "uid": "d0c18613680340c09f575b6491304d9b",
+            "name": "Xã Ngọc Sơn"
+        },
+        {
+            "uid": "67b64429dcbc4d65ad8a06e158b3bc82",
+            "name": "Thị trấn Ba Sao"
+        },
+        {
+            "uid": "7aa3688f237e4fd9b46747de111cd84c",
+            "name": "Xã Liên Sơn"
+        },
+        {
+            "uid": "e040dee369a940339485b602c0fefc5d",
+            "name": "Xã Thi Sơn"
+        },
+        {
+            "uid": "b4b4db01bf18406198068ed5416f359b",
+            "name": "Xã Thanh Sơn"
+        }
+    ]
+}

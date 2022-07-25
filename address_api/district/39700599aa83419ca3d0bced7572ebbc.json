@@ -1,0 +1,58 @@
+{
+    "uid": "39700599aa83419ca3d0bced7572ebbc",
+    "name": "Thành phố Tam Kỳ",
+    "wards": [
+        {
+            "uid": "eb7793760d0a4c379b4d2af0df29ca58",
+            "name": "Phường Tân Thạnh"
+        },
+        {
+            "uid": "0c629b8b38ba493ab1d9584b53cc6b90",
+            "name": "Phường Phước Hòa"
+        },
+        {
+            "uid": "0ede6573b9a9472fa5fd051968a1bad2",
+            "name": "Phường An Mỹ"
+        },
+        {
+            "uid": "905a611461cb4bd8ba0d7d9f9712a9b3",
+            "name": "Phường Hòa Hương"
+        },
+        {
+            "uid": "cc1da944e274465e85fd8f13d8e7373f",
+            "name": "Phường An Xuân"
+        },
+        {
+            "uid": "da50b068506a4c93b5f4f9cdcdd4776c",
+            "name": "Phường An Sơn"
+        },
+        {
+            "uid": "f0cd3d5697534fddb6b0ca52e2e247d0",
+            "name": "Phường Trường Xuân"
+        },
+        {
+            "uid": "742b23a858784c04a01bec3d6cf02863",
+            "name": "Phường An Phú"
+        },
+        {
+            "uid": "acca604e3dd84f96b44ad3d2c5fda602",
+            "name": "Xã Tam Thanh"
+        },
+        {
+            "uid": "d6a63d4976004c6f9d761b6d04176b76",
+            "name": "Xã Tam Thăng"
+        },
+        {
+            "uid": "5ccfd30d847840fda341f03917032200",
+            "name": "Xã Tam Phú"
+        },
+        {
+            "uid": "9f6f43e297b447abb60ad3406002bdd3",
+            "name": "Phường Hoà Thuận"
+        },
+        {
+            "uid": "1d19575dbac44295b4c01a8bcb252764",
+            "name": "Xã Tam Ngọc"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "uid": "594f83d0ceea4706bf866c8cf98117e1",
+    "name": "Huyện Đông Anh",
+    "wards": [
+        {
+            "uid": "0eb2dc6633754b5dac5c3c173b893740",
+            "name": "Thị trấn Đông Anh"
+        },
+        {
+            "uid": "7a22cdf6536741cea32543bff4452a83",
+            "name": "Xã Xuân Nộn"
+        },
+        {
+            "uid": "2fae72ad390d4017a1b9b35930985295",
+            "name": "Xã Thuỵ Lâm"
+        },
+        {
+            "uid": "c82393f5618a409d88819ea179eeef03",
+            "name": "Xã Bắc Hồng"
+        },
+        {
+            "uid": "1a01a329b7a9404aa91a42644a084444",
+            "name": "Xã Nguyên Khê"
+        },
+        {
+            "uid": "3985a53b15dd4026ba30dbb7b314eae7",
+            "name": "Xã Nam Hồng"
+        },
+        {
+            "uid": "893d9255909c49709f8fdf0ed20ddf7a",
+            "name": "Xã Tiên Dương"
+        },
+        {
+            "uid": "77743379651648fba148861ce1a3d834",
+            "name": "Xã Vân Hà"
+        },
+        {
+            "uid": "e3bfbd0cdd104f15b4e7992bcd90d63b",
+            "name": "Xã Uy Nỗ"
+        },
+        {
+            "uid": "f3641e0c05054441a3567931e5d25377",
+            "name": "Xã Vân Nội"
+        },
+        {
+            "uid": "9a06a1358f5644ba9575cbb034950197",
+            "name": "Xã Liên Hà"
+        },
+        {
+            "uid": "0beccb3860134efb8786b407e2ab4daa",
+            "name": "Xã Việt Hùng"
+        },
+        {
+            "uid": "93bccc4236734f82acbe5b98897d6ad4",
+            "name": "Xã Kim Nỗ"
+        },
+        {
+            "uid": "1dd4fc16a1cc4d81b658ffd27358685d",
+            "name": "Xã Kim Chung"
+        },
+        {
+            "uid": "c149d4b9ac8b4568b2ab8ee6df8b22f5",
+            "name": "Xã Dục Tú"
+        },
+        {
+            "uid": "45a71fee3ed84e6a9270b3e5f51fe374",
+            "name": "Xã Đại Mạch"
+        },
+        {
+            "uid": "0c0f0bf679db49c582d192706f26617b",
+            "name": "Xã Vĩnh Ngọc"
+        },
+        {
+            "uid": "77f290b986d64b98b78cf9673228317f",
+            "name": "Xã Cổ Loa"
+        },
+        {
+            "uid": "8e0d3417ff184247b8c58e8cb1203482",
+            "name": "Xã Hải Bối"
+        },
+        {
+            "uid": "b76f825c0fea47c8ace7df12e5012ea2",
+            "name": "Xã Xuân Canh"
+        },
+        {
+            "uid": "6925b01dc2f54b238f680343b19fa9fc",
+            "name": "Xã Võng La"
+        },
+        {
+            "uid": "b91544cb033d4349a6b7ba08976b0b68",
+            "name": "Xã Tàm Xá"
+        },
+        {
+            "uid": "b2bef106e97642148c2706f4bdfda634",
+            "name": "Xã Mai Lâm"
+        },
+        {
+            "uid": "d12e119f7e3348ba928e2b3586ba2380",
+            "name": "Xã Đông Hội"
+        }
+    ]
+}

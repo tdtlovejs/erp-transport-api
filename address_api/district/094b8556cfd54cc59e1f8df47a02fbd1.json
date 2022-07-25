@@ -1,0 +1,122 @@
+{
+    "uid": "094b8556cfd54cc59e1f8df47a02fbd1",
+    "name": "Huyện Nghi Lộc",
+    "wards": [
+        {
+            "uid": "d9bcfb64c87e46a5bcc4f6a787a0ca2b",
+            "name": "Thị trấn Quán Hành"
+        },
+        {
+            "uid": "9c8cea888cbf4de7ab3c8ee81a0111d0",
+            "name": "Xã Nghi Văn"
+        },
+        {
+            "uid": "19f372f18287494e99d2c0c86308d105",
+            "name": "Xã Nghi Yên"
+        },
+        {
+            "uid": "d4a822e972744c6cbc775a930bbb6f18",
+            "name": "Xã Nghi Tiến"
+        },
+        {
+            "uid": "afb748057a84449ab8bd1a4cb2aac4f3",
+            "name": "Xã Nghi Hưng"
+        },
+        {
+            "uid": "d3be86fba8634c7c8053bc85c69599cd",
+            "name": "Xã Nghi Đồng"
+        },
+        {
+            "uid": "494953916af643aca8dd15c6013d78f8",
+            "name": "Xã Nghi Thiết"
+        },
+        {
+            "uid": "c4c26b4f4a54457c8e1cbe3a00692b5d",
+            "name": "Xã Nghi Lâm"
+        },
+        {
+            "uid": "286554f2f7ff42158f404bc94c4557e7",
+            "name": "Xã Nghi Quang"
+        },
+        {
+            "uid": "fe492f5f96e24926926ab15cdb7912ed",
+            "name": "Xã Nghi Kiều"
+        },
+        {
+            "uid": "2d7b1014491b4f40937c10f4215d824f",
+            "name": "Xã Nghi Mỹ"
+        },
+        {
+            "uid": "e958126a9e8342bba714d42896308a9b",
+            "name": "Xã Nghi Phương"
+        },
+        {
+            "uid": "0a9b304c741a40ba85b9b111f6802a92",
+            "name": "Xã Nghi Thuận"
+        },
+        {
+            "uid": "96662d14ea5e4ca3a570ae2488f2e19e",
+            "name": "Xã Nghi Long"
+        },
+        {
+            "uid": "db0bdf4de7fd4e06a513ec1b416c53fe",
+            "name": "Xã Nghi Xá"
+        },
+        {
+            "uid": "d138fe386ac6449aa524ace3a577f9bb",
+            "name": "Xã Nghi Hoa"
+        },
+        {
+            "uid": "2ed1cdf355624b489f967100748ec0e4",
+            "name": "Xã Khánh Hợp"
+        },
+        {
+            "uid": "3bab838528ef4590939ac880845f8bc2",
+            "name": "Xã Nghi Thịnh"
+        },
+        {
+            "uid": "9803e3b304174c8ca5318f42f8203ca4",
+            "name": "Xã Nghi Công Bắc"
+        },
+        {
+            "uid": "0d4b6cd6046c4c73bdd8993272a4a683",
+            "name": "Xã Nghi Công Nam"
+        },
+        {
+            "uid": "461d40f628db46cdaf33be8e174891c7",
+            "name": "Xã Nghi Thạch"
+        },
+        {
+            "uid": "5fd6c35024b346b48b08e0c97ab862a3",
+            "name": "Xã Nghi Trung"
+        },
+        {
+            "uid": "d5838d902b7e46478d03e7b759d4cd45",
+            "name": "Xã Nghi Trường"
+        },
+        {
+            "uid": "101303fb609f43ee9e616e639d419a11",
+            "name": "Xã Nghi Diên"
+        },
+        {
+            "uid": "305efd98f63c4b4ca4c2eb339158974d",
+            "name": "Xã Nghi Phong"
+        },
+        {
+            "uid": "0311bf2ec57e436ba5cb7bd9035d5c59",
+            "name": "Xã Nghi Xuân"
+        },
+        {
+            "uid": "7d7a641867084fc086dc30d554911c47",
+            "name": "Xã Nghi Vạn"
+        },
+        {
+            "uid": "9e73370f5afa43d59d85a22d791a3ef1",
+            "name": "Xã Phúc Thọ"
+        },
+        {
+            "uid": "5ca3245fdf9e47cd840b17ccda6d1b77",
+            "name": "Xã Nghi Thái"
+        }
+    ]
+}

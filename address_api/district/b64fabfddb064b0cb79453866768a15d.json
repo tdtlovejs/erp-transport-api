@@ -1,0 +1,26 @@
+{
+    "uid": "b64fabfddb064b0cb79453866768a15d",
+    "name": "Quận Liên Chiểu",
+    "wards": [
+        {
+            "uid": "215026ee756a4d8fa3fb52e6f7e85d5d",
+            "name": "Phường Hòa Hiệp Bắc"
+        },
+        {
+            "uid": "ac384d05535f4da8a36d5fa079df30b9",
+            "name": "Phường Hòa Hiệp Nam"
+        },
+        {
+            "uid": "8e8ff45387b74df2886d0bfebb542c92",
+            "name": "Phường Hòa Khánh Bắc"
+        },
+        {
+            "uid": "3875dc671eb044679237f1e3ed356c64",
+            "name": "Phường Hòa Khánh Nam"
+        },
+        {
+            "uid": "f83c837a90f2494890647aea315114b2",
+            "name": "Phường Hòa Minh"
+        }
+    ]
+}

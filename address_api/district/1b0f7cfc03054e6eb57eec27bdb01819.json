@@ -1,0 +1,74 @@
+{
+    "uid": "1b0f7cfc03054e6eb57eec27bdb01819",
+    "name": "Thị xã Hoài Nhơn",
+    "wards": [
+        {
+            "uid": "8b9dabdf32ad4b3f89bd51057aa9fe46",
+            "name": "Phường Tam Quan"
+        },
+        {
+            "uid": "1b3da06f9c5c43cdb16d2f4bca0dd8d8",
+            "name": "Phường Bồng Sơn"
+        },
+        {
+            "uid": "013a3e459f9d4c11b1b6f3d81c39f9d1",
+            "name": "Xã Hoài Sơn"
+        },
+        {
+            "uid": "28e47fa113144fb99142c4c9ad7f11f4",
+            "name": "Xã Hoài Châu Bắc"
+        },
+        {
+            "uid": "1971a0d457c04d578f55a3ee29d4bf84",
+            "name": "Xã Hoài Châu"
+        },
+        {
+            "uid": "4f6f2d160f9f4cfe9edb190cfc3848b1",
+            "name": "Xã Hoài Phú"
+        },
+        {
+            "uid": "aef35a2da37849d5af9ba05b6b0c0df0",
+            "name": "Phường Tam Quan Bắc"
+        },
+        {
+            "uid": "53d9ac969aac4bfb935b9523d4ed9193",
+            "name": "Phường Tam Quan Nam"
+        },
+        {
+            "uid": "c3eac9d4ce6443c6886dd6659ac47b7b",
+            "name": "Phường Hoài Hảo"
+        },
+        {
+            "uid": "8650888f1e9f4fa9b03570f61245b972",
+            "name": "Phường Hoài Thanh Tây"
+        },
+        {
+            "uid": "9edfa1bed38a4eb3936088228f91bcd8",
+            "name": "Phường Hoài Thanh"
+        },
+        {
+            "uid": "27c9e4ca30e44125a643715b1c97bdd0",
+            "name": "Phường Hoài Hương"
+        },
+        {
+            "uid": "0721c02bc39f4c32a9f44f29501da76e",
+            "name": "Phường Hoài Tân"
+        },
+        {
+            "uid": "2205421ea3b44619b08f9776a54ab238",
+            "name": "Xã Hoài Hải"
+        },
+        {
+            "uid": "a373206b6ce940659b24d3f01a54103c",
+            "name": "Phường Hoài Xuân"
+        },
+        {
+            "uid": "c485420df6834e82973e046c6162e56a",
+            "name": "Xã Hoài Mỹ"
+        },
+        {
+            "uid": "0104f3239bb44aa8a936eb70e9e1a6d0",
+            "name": "Phường Hoài Đức"
+        }
+    ]
+}

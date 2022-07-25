@@ -1,0 +1,66 @@
+{
+    "uid": "2f7550dc56e8438baa7ab37a8cee2139",
+    "name": "Huyện Tây Sơn",
+    "wards": [
+        {
+            "uid": "030dc10a207042fa93b795982bb4a7ab",
+            "name": "Thị trấn Phú Phong"
+        },
+        {
+            "uid": "2862b319b44c4a808be67fb00d80a056",
+            "name": "Xã Bình Tân"
+        },
+        {
+            "uid": "c7061b328a3743d9b186549fc8ba5b06",
+            "name": "Xã Tây Thuận"
+        },
+        {
+            "uid": "1912d7f78150473b973edfa580bc03dc",
+            "name": "Xã Bình Thuận"
+        },
+        {
+            "uid": "27fdf8333b3e493ca98db647196f87ed",
+            "name": "Xã Tây Giang"
+        },
+        {
+            "uid": "f7659c0f67654fa3bd2d2c4241e69e2a",
+            "name": "Xã Bình Thành"
+        },
+        {
+            "uid": "e98aa5d4bc8444188b9abf6988591e67",
+            "name": "Xã Tây An"
+        },
+        {
+            "uid": "04b9dcc28df1460e9cd90b00079a35c0",
+            "name": "Xã Bình Hòa"
+        },
+        {
+            "uid": "6a01d05e7fdc4a69a7e475fcf0652890",
+            "name": "Xã Tây Bình"
+        },
+        {
+            "uid": "9d27493351aa47068e70934ec5c4aeba",
+            "name": "Xã Bình Tường"
+        },
+        {
+            "uid": "d9f784306bc94f76a70b893bd865ada4",
+            "name": "Xã Tây Vinh"
+        },
+        {
+            "uid": "eedd9d889fad4da4925c06ebdd8cc8ca",
+            "name": "Xã Vĩnh An"
+        },
+        {
+            "uid": "320765ed3e67467eb2ed07e2e54ebab8",
+            "name": "Xã Tây Xuân"
+        },
+        {
+            "uid": "04b8a1512506444bb299fb7b87d1907f",
+            "name": "Xã Bình Nghi"
+        },
+        {
+            "uid": "eafaece87a214b089a427fc20f3d9a04",
+            "name": "Xã Tây Phú"
+        }
+    ]
+}

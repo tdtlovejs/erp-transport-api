@@ -1,0 +1,38 @@
+{
+    "uid": "bb081b75962d4e898075c4f0653e5b8f",
+    "name": "Huyện Năm Căn",
+    "wards": [
+        {
+            "uid": "cef8d89cb41545bfba61da28d926cbb0",
+            "name": "Thị Trấn Năm Căn"
+        },
+        {
+            "uid": "1ca16733b2164c4198197802360b9422",
+            "name": "Xã Hàm Rồng"
+        },
+        {
+            "uid": "a8d24e7de858425aa74a07b5aed8e510",
+            "name": "Xã Hiệp Tùng"
+        },
+        {
+            "uid": "378f1b7fdc1747308739ddc5aaa7b8a6",
+            "name": "Xã Đất Mới"
+        },
+        {
+            "uid": "f151aa69ed3a4856960ba35d2a58adc0",
+            "name": "Xã Lâm Hải"
+        },
+        {
+            "uid": "d9a70d7a061d43f088c157849b0f0f81",
+            "name": "Xã Hàng Vịnh"
+        },
+        {
+            "uid": "4e7d559d1cd1449588b52d508dc2a73e",
+            "name": "Xã Tam Giang"
+        },
+        {
+            "uid": "9fb272525c1240da913426d2a51e1063",
+            "name": "Xã Tam Giang Đông"
+        }
+    ]
+}

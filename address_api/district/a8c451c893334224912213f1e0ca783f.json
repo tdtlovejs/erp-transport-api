@@ -1,0 +1,102 @@
+{
+    "uid": "a8c451c893334224912213f1e0ca783f",
+    "name": "Huyện Nghĩa Hưng",
+    "wards": [
+        {
+            "uid": "e20d42ec588641dc82d72566a3a3b8d7",
+            "name": "Thị trấn Liễu Đề"
+        },
+        {
+            "uid": "69f41a32dc2748ea8120b992021832a5",
+            "name": "Thị trấn Rạng Đông"
+        },
+        {
+            "uid": "b32f4a1b520d4536b89585b243570ceb",
+            "name": "Xã Nghĩa Đồng"
+        },
+        {
+            "uid": "79fb311b4e26489489ce07feea2a934e",
+            "name": "Xã Nghĩa Thịnh"
+        },
+        {
+            "uid": "db4e684505fe4f90a7cf0ca2a0d814c5",
+            "name": "Xã Nghĩa Minh"
+        },
+        {
+            "uid": "6f0fbe6e01624bbeac8a165502cccb46",
+            "name": "Xã Nghĩa Thái"
+        },
+        {
+            "uid": "f5c005cdf6004f4aadd4b51ba15bd6bd",
+            "name": "Xã Hoàng Nam"
+        },
+        {
+            "uid": "4e300104da33412abb21a1bd67c2c3f2",
+            "name": "Xã Nghĩa Châu"
+        },
+        {
+            "uid": "3094d043b0994b319eb2c3143c38f97b",
+            "name": "Xã Nghĩa Trung"
+        },
+        {
+            "uid": "35566a79b9f44e3893edac124674b798",
+            "name": "Xã Nghĩa Sơn"
+        },
+        {
+            "uid": "33ced10bcb63421f81353f2c2aeb0fde",
+            "name": "Xã Nghĩa Lạc"
+        },
+        {
+            "uid": "5f95f40d17054aa6b5e5455641cef2a8",
+            "name": "Xã Nghĩa Hồng"
+        },
+        {
+            "uid": "aed8f20902a94d9e9ee4ddf71062dcce",
+            "name": "Xã Nghĩa Phong"
+        },
+        {
+            "uid": "58702be9017e43c3baf1836433c2eb8d",
+            "name": "Xã Nghĩa Phú"
+        },
+        {
+            "uid": "acc16135b70f4222b0a6ff220aa28a63",
+            "name": "Xã Nghĩa Bình"
+        },
+        {
+            "uid": "f871d37ec3e74538bb39b1dc537bf9a0",
+            "name": "Thị trấn Quỹ Nhất"
+        },
+        {
+            "uid": "2ce70a70397646239f59d369e2c9693c",
+            "name": "Xã Nghĩa Tân"
+        },
+        {
+            "uid": "67f76e0052574f8b92a9343f0e78b032",
+            "name": "Xã Nghĩa Hùng"
+        },
+        {
+            "uid": "2314488b2d1c45f7b4cdad7e1f367b80",
+            "name": "Xã Nghĩa Lâm"
+        },
+        {
+            "uid": "1e8f6ad96de346b2918681b0d5053978",
+            "name": "Xã Nghĩa Thành"
+        },
+        {
+            "uid": "3a0231aa73d84f3f9506450e11d4af61",
+            "name": "Xã Phúc Thắng"
+        },
+        {
+            "uid": "60458e97d3c040cfb3c14b9c556f74dc",
+            "name": "Xã Nghĩa Lợi"
+        },
+        {
+            "uid": "3e3494a918e4476aadccc8d16c7cf621",
+            "name": "Xã Nghĩa Hải"
+        },
+        {
+            "uid": "b9c71294b7264b8a82766469765a19a3",
+            "name": "Xã Nam Điền"
+        }
+    ]
+}

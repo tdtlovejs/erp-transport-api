@@ -1,0 +1,66 @@
+{
+    "uid": "f49b4f8539f44a7286838fea00e0fa05",
+    "name": "Huyện Yên Châu",
+    "wards": [
+        {
+            "uid": "22e7732c90fc4380b7fa7001a8cd9ac1",
+            "name": "Thị trấn Yên Châu"
+        },
+        {
+            "uid": "3c3ad17d47cb43e49295c2171213781b",
+            "name": "Xã Chiềng Đông"
+        },
+        {
+            "uid": "d6891eb79ad7464383f4cb5dd4e309a2",
+            "name": "Xã Sập Vạt"
+        },
+        {
+            "uid": "d7a0fda5b3214069a44b161693fe948e",
+            "name": "Xã Chiềng Sàng"
+        },
+        {
+            "uid": "e7b0d01891ca403f9d326268723a8577",
+            "name": "Xã Chiềng Pằn"
+        },
+        {
+            "uid": "31bfafba81f34d2aaccdf780dcb282fe",
+            "name": "Xã Viêng Lán"
+        },
+        {
+            "uid": "79468afe1ab24b4e815888ec5336fb61",
+            "name": "Xã Chiềng Hặc"
+        },
+        {
+            "uid": "09c8d443a44542209d31da581e3d4584",
+            "name": "Xã Mường Lựm"
+        },
+        {
+            "uid": "aeaba24774194da4b519150354c8f561",
+            "name": "Xã Chiềng On"
+        },
+        {
+            "uid": "2eccabd2ffe149dc8935b800b77d7a27",
+            "name": "Xã Yên Sơn"
+        },
+        {
+            "uid": "db6480afae6b48049e1eee1262f95a3e",
+            "name": "Xã Chiềng Khoi"
+        },
+        {
+            "uid": "6ccb8f7a8d0240deadcd323f4b52adb3",
+            "name": "Xã Tú Nang"
+        },
+        {
+            "uid": "e4519b23f4ea4b14a4cb84993e8b1aab",
+            "name": "Xã Lóng Phiêng"
+        },
+        {
+            "uid": "8b690d34dd4d465c8b5d3d8ae43bfa27",
+            "name": "Xã Phiêng Khoài"
+        },
+        {
+            "uid": "5f52ae83f5854b86ab201fdd3c726516",
+            "name": "Xã Chiềng Tương"
+        }
+    ]
+}

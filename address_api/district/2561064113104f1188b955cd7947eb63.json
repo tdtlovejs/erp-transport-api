@@ -1,0 +1,50 @@
+{
+    "uid": "2561064113104f1188b955cd7947eb63",
+    "name": "Huyện Chợ Lách",
+    "wards": [
+        {
+            "uid": "a3ef33c696f04f45a820ef5da3c4ac22",
+            "name": "Thị trấn Chợ Lách"
+        },
+        {
+            "uid": "a6c883b268aa412ca8abdbc19c9c32c3",
+            "name": "Xã Phú Phụng"
+        },
+        {
+            "uid": "c8b176f032cc438aa27890cb913a3ac5",
+            "name": "Xã Sơn Định"
+        },
+        {
+            "uid": "b761c7f00f824024b9e12a9cd4a14eb0",
+            "name": "Xã Vĩnh Bình"
+        },
+        {
+            "uid": "d00eafd6e7ac40fd88178d58b775d4bf",
+            "name": "Xã Hòa Nghĩa"
+        },
+        {
+            "uid": "6fedf351f5df4afb99e0515e39971196",
+            "name": "Xã Long Thới"
+        },
+        {
+            "uid": "dd8130c910e04f25852a10aad13e710e",
+            "name": "Xã Phú Sơn"
+        },
+        {
+            "uid": "1e3316df6744472dad853d22dec1dc69",
+            "name": "Xã Tân Thiềng"
+        },
+        {
+            "uid": "b80281665d1a475bb17108604fac516d",
+            "name": "Xã Vĩnh Thành"
+        },
+        {
+            "uid": "ee124966341549b7a251cb18ef239312",
+            "name": "Xã Vĩnh Hòa"
+        },
+        {
+            "uid": "138ae99613814f50bc9f7ee836da770f",
+            "name": "Xã Hưng Khánh Trung B"
+        }
+    ]
+}

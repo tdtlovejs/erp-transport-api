@@ -1,0 +1,50 @@
+{
+    "uid": "1804f5d82a2f40dfb0fc2fb9614656d3",
+    "name": "Huyện Mường Nhé",
+    "wards": [
+        {
+            "uid": "02961820a03a434e9d0a74a61ec4574d",
+            "name": "Xã Sín Thầu"
+        },
+        {
+            "uid": "73d45de249de4b7c95155a0cd4adfb03",
+            "name": "Xã Sen Thượng"
+        },
+        {
+            "uid": "a366364e72e54098873e0983959d6279",
+            "name": "Xã Chung Chải"
+        },
+        {
+            "uid": "4c393764c7df48ed96af540eb713dd62",
+            "name": "Xã Leng Su Sìn"
+        },
+        {
+            "uid": "ea4de2b049114d6b923a9f7086089921",
+            "name": "Xã Pá Mỳ"
+        },
+        {
+            "uid": "e36b546db2d14551885a02490080e95c",
+            "name": "Xã Mường Nhé"
+        },
+        {
+            "uid": "016381f8b8f2460caa558d07ebace38b",
+            "name": "Xã Nậm Vì"
+        },
+        {
+            "uid": "a43ececed4d94ca7968c14452128a574",
+            "name": "Xã Nậm Kè"
+        },
+        {
+            "uid": "f7d93a6d98ed4bed82cc9eb3865af376",
+            "name": "Xã Mường Toong"
+        },
+        {
+            "uid": "7635d4b4e3c84aeeb9babe39acd10386",
+            "name": "Xã Quảng Lâm"
+        },
+        {
+            "uid": "6f55eabb721a430b8a8104ffe9d79611",
+            "name": "Xã Huổi Lếnh"
+        }
+    ]
+}

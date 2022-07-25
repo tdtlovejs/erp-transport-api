@@ -1,0 +1,90 @@
+{
+    "uid": "9127b63d027e496bbddf38ca8f8678ab",
+    "name": "Huyện Trực Ninh",
+    "wards": [
+        {
+            "uid": "0aca34c1981b4fcd8f6ef1bf4ff9dd11",
+            "name": "Thị trấn Cổ Lễ"
+        },
+        {
+            "uid": "b820d7629ed54dbab265273fc3e6b299",
+            "name": "Xã Phương Định"
+        },
+        {
+            "uid": "936cc5a8a5644698990fc27c67e6df6e",
+            "name": "Xã Trực Chính"
+        },
+        {
+            "uid": "b7ab9e9aaf2e4d528524a04628e720b4",
+            "name": "Xã Trung Đông"
+        },
+        {
+            "uid": "5ce155404394420d99f1b4ba5a7ac56a",
+            "name": "Xã Liêm Hải"
+        },
+        {
+            "uid": "b9e97e725f0347f48e4b5347de9a675b",
+            "name": "Xã Trực Tuấn"
+        },
+        {
+            "uid": "e936f14057404e9fa4f36765fbc142dd",
+            "name": "Xã Việt Hùng"
+        },
+        {
+            "uid": "a07f5ef4928c4108bca8573ce40dbebb",
+            "name": "Xã Trực Đạo"
+        },
+        {
+            "uid": "700ee7ab60f54ef189a40bb145fe7be2",
+            "name": "Xã Trực Hưng"
+        },
+        {
+            "uid": "7310d8bcc4474026a1413f367fa311e5",
+            "name": "Xã Trực Nội"
+        },
+        {
+            "uid": "b6b781c5db6b491b88671b0465e2bb66",
+            "name": "Thị trấn Cát Thành"
+        },
+        {
+            "uid": "8ae748798d6846ab8909672361145643",
+            "name": "Xã Trực Thanh"
+        },
+        {
+            "uid": "f388d24eaf384080acbdd376adf882ff",
+            "name": "Xã Trực Khang"
+        },
+        {
+            "uid": "9ef8b252827b42b0ae02c625ff295d5d",
+            "name": "Xã Trực Thuận"
+        },
+        {
+            "uid": "4491e84197e74d9ea2c1857091f1b789",
+            "name": "Xã Trực Mỹ"
+        },
+        {
+            "uid": "1863ebaa142f4496bef8af581ee8399d",
+            "name": "Xã Trực Đại"
+        },
+        {
+            "uid": "5661ce0743564b8c89c545c52228bde9",
+            "name": "Xã Trực Cường"
+        },
+        {
+            "uid": "a44fba9725d84a68b54a5c6c2b6b15e7",
+            "name": "Thị trấn Ninh Cường"
+        },
+        {
+            "uid": "c16c7365b06a4bde92991aa1efd9a5b5",
+            "name": "Xã Trực Thái"
+        },
+        {
+            "uid": "8b20cd074ca54ec893907d4fd48bd565",
+            "name": "Xã Trực Hùng"
+        },
+        {
+            "uid": "7c15d8a15349438bb3a9f012ebf8fb74",
+            "name": "Xã Trực Thắng"
+        }
+    ]
+}

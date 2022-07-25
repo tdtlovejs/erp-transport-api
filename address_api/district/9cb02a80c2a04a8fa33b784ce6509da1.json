@@ -1,0 +1,126 @@
+{
+    "uid": "9cb02a80c2a04a8fa33b784ce6509da1",
+    "name": "Huyện Đại Từ",
+    "wards": [
+        {
+            "uid": "4d063d7802394eb3b40b034d360c8683",
+            "name": "Thị trấn Hùng Sơn"
+        },
+        {
+            "uid": "b4aee14e8f3b4be89b98c325bff2434b",
+            "name": "Thị trấn Quân Chu"
+        },
+        {
+            "uid": "9703c27a93d54a76b4d65888945ba6cb",
+            "name": "Xã Phúc Lương"
+        },
+        {
+            "uid": "698f9d6fb95b43f38fb5bc9b4389524f",
+            "name": "Xã Minh Tiến"
+        },
+        {
+            "uid": "d89e5c16690f4f39a95752e09d9a4a32",
+            "name": "Xã Yên Lãng"
+        },
+        {
+            "uid": "a2a9785ea6874da5894826aa55634cc4",
+            "name": "Xã Đức Lương"
+        },
+        {
+            "uid": "9374e0983f33441689acd0486101ecc2",
+            "name": "Xã Phú Cường"
+        },
+        {
+            "uid": "6f99720e4288425f8e0997df911b96df",
+            "name": "Xã Na Mao"
+        },
+        {
+            "uid": "c04dcb4a23004e2b81cc8b6bc42319d3",
+            "name": "Xã Phú Lạc"
+        },
+        {
+            "uid": "78328bf763d04c20a3487415d2bd193f",
+            "name": "Xã Tân Linh"
+        },
+        {
+            "uid": "1e4a0c379a6c4003a9387de6aaad9a31",
+            "name": "Xã Phú Thịnh"
+        },
+        {
+            "uid": "95f1e00eb1824b6da0e56a4d8980af6b",
+            "name": "Xã Phục Linh"
+        },
+        {
+            "uid": "bfa9a4389187460b98fcb710a646c3fe",
+            "name": "Xã Phú Xuyên"
+        },
+        {
+            "uid": "01dcde6d7ba446ce807f1fd3e71ebbe2",
+            "name": "Xã Bản Ngoại"
+        },
+        {
+            "uid": "7aa62825d402474d9d0455a9bacce472",
+            "name": "Xã Tiên Hội"
+        },
+        {
+            "uid": "2fd47a97f02b4dab8535d2ec0f9d9704",
+            "name": "Xã Cù Vân"
+        },
+        {
+            "uid": "8d2c6175999c4c5e94800e35ab336ff5",
+            "name": "Xã Hà Thượng"
+        },
+        {
+            "uid": "31ca4ab751794149921635f25e084857",
+            "name": "Xã La Bằng"
+        },
+        {
+            "uid": "fffcf49b3355444cbed193c97244bb82",
+            "name": "Xã Hoàng Nông"
+        },
+        {
+            "uid": "d81eb7ba15b44029ba95c1e82881006f",
+            "name": "Xã Khôi Kỳ"
+        },
+        {
+            "uid": "abeede261241419b998fcc5bb19f6d33",
+            "name": "Xã An Khánh"
+        },
+        {
+            "uid": "e221ecdf6e944f7e855849399f68cbce",
+            "name": "Xã Tân Thái"
+        },
+        {
+            "uid": "f9acc0629f1d4b1c9b07242afb6bf3eb",
+            "name": "Xã Bình Thuận"
+        },
+        {
+            "uid": "ee5cd5b1acce40ec92e5bbec57768a15",
+            "name": "Xã Lục Ba"
+        },
+        {
+            "uid": "5af43c363c004f40a6e4ce3a260b8cdb",
+            "name": "Xã Mỹ Yên"
+        },
+        {
+            "uid": "8a7244acc7f74397bbce5cafb03ed659",
+            "name": "Xã Vạn Thọ"
+        },
+        {
+            "uid": "f2e70d739eba4d01ae400ec6a9698dec",
+            "name": "Xã Văn Yên"
+        },
+        {
+            "uid": "456f11bd7b7d4515bcea6793dbf87c2b",
+            "name": "Xã Ký Phú"
+        },
+        {
+            "uid": "ef650d61e07f4de69e57064f0f811768",
+            "name": "Xã Cát Nê"
+        },
+        {
+            "uid": "1b0643dcd36648c092aba02c817c0299",
+            "name": "Xã Quân Chu"
+        }
+    ]
+}

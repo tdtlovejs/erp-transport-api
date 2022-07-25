@@ -1,0 +1,34 @@
+{
+    "uid": "dbb30cb882904cae880fba12bf6dc697",
+    "name": "Thị xã Duyên Hải",
+    "wards": [
+        {
+            "uid": "0a9e1e3c09964355ab59fd06ca4f20b8",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "1b745173ef874941a3e3790fdba57833",
+            "name": "Xã Long Toàn"
+        },
+        {
+            "uid": "87a1f25d34254f01bfa2ed4a363d04f3",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "a390fa2b505047009793f712e1160858",
+            "name": "Xã Long Hữu"
+        },
+        {
+            "uid": "2b8b477e34a141c48e258db92c168f88",
+            "name": "Xã Dân Thành"
+        },
+        {
+            "uid": "8a40eb52468e4458bae7dea203e5ae1b",
+            "name": "Xã Trường Long Hòa"
+        },
+        {
+            "uid": "ae7269df137f45b4a7c72f612df14f1f",
+            "name": "Xã Hiệp Thạnh"
+        }
+    ]
+}

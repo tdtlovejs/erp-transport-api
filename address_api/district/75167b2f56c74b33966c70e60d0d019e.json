@@ -1,0 +1,46 @@
+{
+    "uid": "75167b2f56c74b33966c70e60d0d019e",
+    "name": "Quận Kiến An",
+    "wards": [
+        {
+            "uid": "e040e940b02a43e0a9da255de8e5e885",
+            "name": "Phường Quán Trữ"
+        },
+        {
+            "uid": "cdeb9c449cc841d3b255da0817f6a001",
+            "name": "Phường Lãm Hà"
+        },
+        {
+            "uid": "d43fa76e6b334cc2bb70bcde464736f0",
+            "name": "Phường Đồng Hoà"
+        },
+        {
+            "uid": "68638c2e88bd4d5eaf1b64e631ba2a33",
+            "name": "Phường Bắc Sơn"
+        },
+        {
+            "uid": "b5a6345fb69c497085ac22f643e003d9",
+            "name": "Phường Nam Sơn"
+        },
+        {
+            "uid": "a305274bf83448ec8925cfd7deb41e16",
+            "name": "Phường Ngọc Sơn"
+        },
+        {
+            "uid": "96fb8cce15eb4b28a5aff7a3441db440",
+            "name": "Phường Trần Thành Ngọ"
+        },
+        {
+            "uid": "76223d68e0cb45b7a1046205be513841",
+            "name": "Phường Văn Đẩu"
+        },
+        {
+            "uid": "61c2ea099443440d8c3f725aab47ab91",
+            "name": "Phường Phù Liễn"
+        },
+        {
+            "uid": "bd3b67e53ff441da844d7eaeaf75567e",
+            "name": "Phường Tràng Minh"
+        }
+    ]
+}

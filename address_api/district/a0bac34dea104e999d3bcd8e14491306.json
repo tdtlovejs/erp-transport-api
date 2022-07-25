@@ -1,0 +1,82 @@
+{
+    "uid": "a0bac34dea104e999d3bcd8e14491306",
+    "name": "Huyện Chợ Gạo",
+    "wards": [
+        {
+            "uid": "89dcc4ce1b1844b38c4c094080783eac",
+            "name": "Thị trấn Chợ Gạo"
+        },
+        {
+            "uid": "74dc2938fe994e9eaf769088a9bac222",
+            "name": "Xã Trung Hòa"
+        },
+        {
+            "uid": "0fb1782af1734b6a87578d79a02cd102",
+            "name": "Xã Hòa Tịnh"
+        },
+        {
+            "uid": "37ef4cbf911142b7b2ef83920303847c",
+            "name": "Xã Mỹ Tịnh An"
+        },
+        {
+            "uid": "c00e36e825f0423986e88966ceaa3ae7",
+            "name": "Xã Tân Bình Thạnh"
+        },
+        {
+            "uid": "62a97f31ee764270a5e07d72619f66f6",
+            "name": "Xã Phú Kiết"
+        },
+        {
+            "uid": "f5532a4be78341ef95504634f0f015de",
+            "name": "Xã Lương Hòa Lạc"
+        },
+        {
+            "uid": "527d581db9a64fbeab4b73f63272ddf5",
+            "name": "Xã Thanh Bình"
+        },
+        {
+            "uid": "45d76774fd4f4d76a5e5b1973570af2a",
+            "name": "Xã Quơn Long"
+        },
+        {
+            "uid": "04042409833e4c52b073669ed54ea775",
+            "name": "Xã Bình Phục Nhứt"
+        },
+        {
+            "uid": "0645dbbda96947e2a268c59b84c7b330",
+            "name": "Xã Đăng Hưng Phước"
+        },
+        {
+            "uid": "5ed20f124e94430c9f0e99ece0f774e1",
+            "name": "Xã Tân Thuận Bình"
+        },
+        {
+            "uid": "8d9bd8d5d3a041d2a86bd6672dac36c1",
+            "name": "Xã Song Bình"
+        },
+        {
+            "uid": "a5bc872dc46242b4b888d31635e25b57",
+            "name": "Xã Bình Phan"
+        },
+        {
+            "uid": "3c0a37a7c68d420680ff4b4455e5d32d",
+            "name": "Xã Long Bình Điền"
+        },
+        {
+            "uid": "e9fe855a2c8f493eb9bbca297a0c44b0",
+            "name": "Xã An Thạnh Thủy"
+        },
+        {
+            "uid": "698f172cbf8a4a38a3fae488852b6518",
+            "name": "Xã Xuân Đông"
+        },
+        {
+            "uid": "8d87ccad2bd94481b0f87de5c08dc888",
+            "name": "Xã Hòa Định"
+        },
+        {
+            "uid": "18ecebf574824dcaa5ca9bd6e0eb3841",
+            "name": "Xã Bình Ninh"
+        }
+    ]
+}

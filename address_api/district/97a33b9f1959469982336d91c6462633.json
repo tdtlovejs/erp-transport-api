@@ -1,0 +1,126 @@
+{
+    "uid": "97a33b9f1959469982336d91c6462633",
+    "name": "Huyện Vũ Thư",
+    "wards": [
+        {
+            "uid": "a9e60b5a4b9d45feb1d7c14fdcbbdd56",
+            "name": "Thị trấn Vũ Thư"
+        },
+        {
+            "uid": "4e3fa9bfd19248fab8f1710adbdfe009",
+            "name": "Xã Hồng Lý"
+        },
+        {
+            "uid": "f4cd272e1e6d475eb899074ffd8089e5",
+            "name": "Xã Đồng Thanh"
+        },
+        {
+            "uid": "eb90516b8d844011970c8e9b23ef40cf",
+            "name": "Xã Xuân Hòa"
+        },
+        {
+            "uid": "c04747ea48af414d87466c33611dfb1b",
+            "name": "Xã Hiệp Hòa"
+        },
+        {
+            "uid": "9770f32274f34ac883e22b1c944d2f87",
+            "name": "Xã Phúc Thành"
+        },
+        {
+            "uid": "30e52e2b46264afb94f8f28b4e64b08a",
+            "name": "Xã Tân Phong"
+        },
+        {
+            "uid": "9be49e5873d4420086fa326b305b5f78",
+            "name": "Xã Song Lãng"
+        },
+        {
+            "uid": "0b159696e77b4362a17cbe5ec0dbc0d8",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "17420f0eae1c43958d2d2bfed5fc86fc",
+            "name": "Xã Việt Hùng"
+        },
+        {
+            "uid": "830c15ff31b042a8947b0299a5a1423b",
+            "name": "Xã Minh Lãng"
+        },
+        {
+            "uid": "57faf29d4208440caa78c6c930ba84dd",
+            "name": "Xã Minh Khai"
+        },
+        {
+            "uid": "b3ab451a6d5b4bdab377d7acd3e15484",
+            "name": "Xã Dũng Nghĩa"
+        },
+        {
+            "uid": "632c6ee327454f66bd83487604b2318a",
+            "name": "Xã Minh Quang"
+        },
+        {
+            "uid": "41361bbf5bdc4caba6662600dc99cea9",
+            "name": "Xã Tam Quang"
+        },
+        {
+            "uid": "4b7244a69c864cb99a3f46f08522f43f",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "5e18356c1a9a4c4eb425e88f596197f9",
+            "name": "Xã Bách Thuận"
+        },
+        {
+            "uid": "61b428ba9fdb4c1dad2b999125ca8f3a",
+            "name": "Xã Tự Tân"
+        },
+        {
+            "uid": "54c9c06ae02f451daac784bf301b26bc",
+            "name": "Xã Song An"
+        },
+        {
+            "uid": "13cddbf7367a4cf781e634ec20c9d874",
+            "name": "Xã Trung An"
+        },
+        {
+            "uid": "d7bee11ad93147b5bcff3315ee896da4",
+            "name": "Xã Vũ Hội"
+        },
+        {
+            "uid": "ebda03edae3a4416bab834e970871ff0",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "684e935806fe4c50a2e6755578ada9b3",
+            "name": "Xã Nguyên Xá"
+        },
+        {
+            "uid": "f9aa8ef056164b85915608474ed95a3c",
+            "name": "Xã Việt Thuận"
+        },
+        {
+            "uid": "f6c1f0c7c0744f7b865d6e73e43416e8",
+            "name": "Xã Vũ Vinh"
+        },
+        {
+            "uid": "97a8b42f587c4ef0af77dcca8d6f8bb1",
+            "name": "Xã Vũ Đoài"
+        },
+        {
+            "uid": "d98684474dbf4f9cb95164396ef36b08",
+            "name": "Xã Vũ Tiến"
+        },
+        {
+            "uid": "5b99aa9d5fb34ad9a52eb32016063686",
+            "name": "Xã Vũ Vân"
+        },
+        {
+            "uid": "68f2880648b14572aa428b057f5f6702",
+            "name": "Xã Duy Nhất"
+        },
+        {
+            "uid": "b082e4bc7ca54aa0ba9d045155bc333e",
+            "name": "Xã Hồng Phong"
+        }
+    ]
+}

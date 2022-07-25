@@ -1,0 +1,50 @@
+{
+    "uid": "f5b341d7231e42a0a42f7a4a0207fb90",
+    "name": "Huyện Hoa Lư",
+    "wards": [
+        {
+            "uid": "2825ac1f0bb34d16b94edeae6ed20bb3",
+            "name": "Thị trấn Thiên Tôn"
+        },
+        {
+            "uid": "4458507f25c34a7aa0dec64bc96e8dc7",
+            "name": "Xã Ninh Giang"
+        },
+        {
+            "uid": "389bd13269904c1ba5d7f770ff22f8ee",
+            "name": "Xã Trường Yên"
+        },
+        {
+            "uid": "96310df652a24c6a97a3ee7abd83bc26",
+            "name": "Xã Ninh Khang"
+        },
+        {
+            "uid": "1d9fff2cc38c40e494efb500652b43d6",
+            "name": "Xã Ninh Mỹ"
+        },
+        {
+            "uid": "10c0739b24594ce5ae0856a065dc6f50",
+            "name": "Xã Ninh Hòa"
+        },
+        {
+            "uid": "279f1b654a8a464c95793b98b7ba7052",
+            "name": "Xã Ninh Xuân"
+        },
+        {
+            "uid": "d287c8de03e54f0d93183129a46e9b04",
+            "name": "Xã Ninh Hải"
+        },
+        {
+            "uid": "9e01e8bd7aba4803aca63aeffc9ab141",
+            "name": "Xã Ninh Thắng"
+        },
+        {
+            "uid": "c08a138de2744713886396ac0465ff1f",
+            "name": "Xã Ninh Vân"
+        },
+        {
+            "uid": "4e58d904304d4b0a82f7c265815c747e",
+            "name": "Xã Ninh An"
+        }
+    ]
+}

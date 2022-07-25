@@ -1,0 +1,94 @@
+{
+    "uid": "48c46e3c7767437fb9c075ecc1cecaae",
+    "name": "Huyện Tân Yên",
+    "wards": [
+        {
+            "uid": "155323c3f6904dc494ff58a3660018e5",
+            "name": "Xã Lan Giới"
+        },
+        {
+            "uid": "b576dd77806e40668d72f86fa50f1463",
+            "name": "Thị trấn Nhã Nam"
+        },
+        {
+            "uid": "ff635d98536e45c0aba3bc33ef5965b1",
+            "name": "Xã Tân Trung"
+        },
+        {
+            "uid": "04e15118ba1c4729b4b53a748f49c874",
+            "name": "Xã Đại Hóa"
+        },
+        {
+            "uid": "39ef9f11451d48b9a4e6331de8f8e37a",
+            "name": "Xã Quang Tiến"
+        },
+        {
+            "uid": "9409d4beef3b43a5afc3adef702a9cc9",
+            "name": "Xã Phúc Sơn"
+        },
+        {
+            "uid": "335f3c2b80e3455387cc76d393ace546",
+            "name": "Xã An Dương"
+        },
+        {
+            "uid": "8e9e294b43b44f40a77fc05764f80812",
+            "name": "Xã Phúc Hòa"
+        },
+        {
+            "uid": "f7d55e80707b4cab8290bd64d2264b65",
+            "name": "Xã Liên Sơn"
+        },
+        {
+            "uid": "d475a2fad78547e5b13b64425bc92b1d",
+            "name": "Xã Hợp Đức"
+        },
+        {
+            "uid": "35f765fc944d4e7c857b5480c0bde54b",
+            "name": "Xã Lam Cốt"
+        },
+        {
+            "uid": "bc46466b0c54458592de366e989b099e",
+            "name": "Xã Cao Xá"
+        },
+        {
+            "uid": "6c98f83658604f19bda3c36a0a7da1a4",
+            "name": "Thị trấn Cao Thượng"
+        },
+        {
+            "uid": "475f37c405aa46dc918b9c560b014a33",
+            "name": "Xã Việt Ngọc"
+        },
+        {
+            "uid": "cf438bdac04e491a8036de53ebf57375",
+            "name": "Xã Song Vân"
+        },
+        {
+            "uid": "e3be5ff36bb34490b0f92b0150f2758d",
+            "name": "Xã Ngọc Châu"
+        },
+        {
+            "uid": "ad3ad22cdfc349ad8c5c7f836ac24661",
+            "name": "Xã Ngọc Vân"
+        },
+        {
+            "uid": "a28642e6f90343ef96dfd11bca078e17",
+            "name": "Xã Việt Lập"
+        },
+        {
+            "uid": "55fb9190305840f3b0f42278d4613a99",
+            "name": "Xã Liên Chung"
+        },
+        {
+            "uid": "e4bf1ed6dbd9443798651372d9ea8a6d",
+            "name": "Xã Ngọc Thiện"
+        },
+        {
+            "uid": "966b590cca1a40618d67417186001392",
+            "name": "Xã Ngọc Lý"
+        },
+        {
+            "uid": "116b426964b0401f9496b9e7613c3b86",
+            "name": "Xã Quế Nham"
+        }
+    ]
+}

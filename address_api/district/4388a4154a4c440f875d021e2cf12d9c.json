@@ -1,0 +1,86 @@
+{
+    "uid": "4388a4154a4c440f875d021e2cf12d9c",
+    "name": "Huyện Chợ Đồn",
+    "wards": [
+        {
+            "uid": "00a4301128904e048263559e6f467e94",
+            "name": "Thị trấn Bằng Lũng"
+        },
+        {
+            "uid": "e80b86ebcb4944db97ebc96d0e37dfe8",
+            "name": "Xã Xuân Lạc"
+        },
+        {
+            "uid": "dc0c1ccaf9654ebb9d15a9a797a958d8",
+            "name": "Xã Nam Cường"
+        },
+        {
+            "uid": "4dd56432e2ee44748d989b0eca5a4036",
+            "name": "Xã Đồng Lạc"
+        },
+        {
+            "uid": "938e609ee859441486fb532a74d6add4",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "df6646765d254a859718a92738155c8a",
+            "name": "Xã Bản Thi"
+        },
+        {
+            "uid": "fb60d8d80dec42ff96d71fc3c3977c54",
+            "name": "Xã Quảng Bạch"
+        },
+        {
+            "uid": "3baa93eb24ff40c6a465f4c60d5b8ebe",
+            "name": "Xã Bằng Phúc"
+        },
+        {
+            "uid": "4427d93fafb3413b8a72744f4a51f820",
+            "name": "Xã Yên Thịnh"
+        },
+        {
+            "uid": "2868f3b25b33490a9b5bbf46d8521487",
+            "name": "Xã Yên Thượng"
+        },
+        {
+            "uid": "cee4c660bcf6492c8ca7c65f78b3c551",
+            "name": "Xã Phương Viên"
+        },
+        {
+            "uid": "82de3f6de95c4eed9fc373fe10e827fa",
+            "name": "Xã Ngọc Phái"
+        },
+        {
+            "uid": "c3ec0553f1174fb1afa4691f32c7b0c0",
+            "name": "Xã Đồng Thắng"
+        },
+        {
+            "uid": "f47e51afbd6f45f2882f8701945c62d8",
+            "name": "Xã Lương Bằng"
+        },
+        {
+            "uid": "dc6ae4bacfe14e61b758c734e0624ebc",
+            "name": "Xã Bằng Lãng"
+        },
+        {
+            "uid": "dc3c8de44cb648ac877748e5c5f664f6",
+            "name": "Xã Đại Sảo"
+        },
+        {
+            "uid": "1f4a7a7e82e74b47a4da2b4ff6140e07",
+            "name": "Xã Nghĩa Tá"
+        },
+        {
+            "uid": "db0962fae077463f9e8ed711aad06002",
+            "name": "Xã Yên Mỹ"
+        },
+        {
+            "uid": "913ebf6fe0914499b228ca4a50f4fba3",
+            "name": "Xã Bình Trung"
+        },
+        {
+            "uid": "53e3ba7c03ff4298bb1414e9fdccbe58",
+            "name": "Xã Yên Phong"
+        }
+    ]
+}

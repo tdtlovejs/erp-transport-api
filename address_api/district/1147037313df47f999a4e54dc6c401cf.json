@@ -1,0 +1,54 @@
+{
+    "uid": "1147037313df47f999a4e54dc6c401cf",
+    "name": "Huyện Mang Yang",
+    "wards": [
+        {
+            "uid": "ec2def1af5994e69874f411dd46462a2",
+            "name": "Thị trấn Kon Dơng"
+        },
+        {
+            "uid": "2f2fe7fe79024879ad31d74770bab85f",
+            "name": "Xã Ayun"
+        },
+        {
+            "uid": "5d465022722c40d9af84b3cb952414ae",
+            "name": "Xã Đak Jơ Ta"
+        },
+        {
+            "uid": "b36e979a43d3455792f997169b13ef72",
+            "name": "Xã Đak Ta Ley"
+        },
+        {
+            "uid": "fdda0d198a2a4c0dadf4c7c621b18a51",
+            "name": "Xã Hra"
+        },
+        {
+            "uid": "cf6101eda4a64d4280e77f153c54e5f1",
+            "name": "Xã Đăk Yă"
+        },
+        {
+            "uid": "fd08a08d6b2e4800aaeb70aa7ef64756",
+            "name": "Xã Đăk Djrăng"
+        },
+        {
+            "uid": "f8e5895c0ed14e2991bfae33df9b32af",
+            "name": "Xã Lơ Pang"
+        },
+        {
+            "uid": "72a3216c2eff43dbb6c37201ca2d8f2f",
+            "name": "Xã Kon Thụp"
+        },
+        {
+            "uid": "a28dca66e1b44f8194bae21063659a5e",
+            "name": "Xã Đê Ar"
+        },
+        {
+            "uid": "247d4d840d104be988599269ca79ab19",
+            "name": "Xã Kon Chiêng"
+        },
+        {
+            "uid": "925ff35ce8274e139d8b4006b0430761",
+            "name": "Xã Đăk Trôi"
+        }
+    ]
+}

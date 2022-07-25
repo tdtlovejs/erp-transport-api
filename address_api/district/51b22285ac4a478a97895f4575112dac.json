@@ -1,0 +1,66 @@
+{
+    "uid": "51b22285ac4a478a97895f4575112dac",
+    "name": "Huyện Mộc Châu",
+    "wards": [
+        {
+            "uid": "5dce690fd3164436be96cb983b2c9ade",
+            "name": "Thị trấn Mộc Châu"
+        },
+        {
+            "uid": "f7544bb8cba743f396a162e0dabda8f2",
+            "name": "Thị trấn NT Mộc Châu"
+        },
+        {
+            "uid": "896a9bf98a834fae9055dce11d7d3480",
+            "name": "Xã Chiềng Sơn"
+        },
+        {
+            "uid": "a80984ff5cd44878a82e45331149cefd",
+            "name": "Xã Tân Hợp"
+        },
+        {
+            "uid": "1f634df04d8b4be19a3d1f21cf1566de",
+            "name": "Xã Qui Hướng"
+        },
+        {
+            "uid": "7fda76fe4be74b29aaeeac6b16466aae",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "8ab9e0f62add4a44912a4c82bdbc433b",
+            "name": "Xã Nà Mường"
+        },
+        {
+            "uid": "281bbb8ae18b49379e7540ef527032ca",
+            "name": "Xã Tà Lai"
+        },
+        {
+            "uid": "5e1fddb66ebe4cb1af27141a06da57cc",
+            "name": "Xã Chiềng Hắc"
+        },
+        {
+            "uid": "81615824e26d497cbec17c90121c48c5",
+            "name": "Xã Hua Păng"
+        },
+        {
+            "uid": "efd72f7129e3428abce7f880ee4b63bd",
+            "name": "Xã Chiềng Khừa"
+        },
+        {
+            "uid": "26d82fee9a314c84a89377cb4c436ed1",
+            "name": "Xã Mường Sang"
+        },
+        {
+            "uid": "98587be0d8e049c898c38d8b2c37a5ac",
+            "name": "Xã Đông Sang"
+        },
+        {
+            "uid": "fffbe1becd2f47bf9f088702401b1aa7",
+            "name": "Xã Phiêng Luông"
+        },
+        {
+            "uid": "be6c612efc3d4746ba8d6e6dbf7bfb2c",
+            "name": "Xã Lóng Sập"
+        }
+    ]
+}

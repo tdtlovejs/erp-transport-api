@@ -1,0 +1,62 @@
+{
+    "uid": "236c0913ca5145398db0d1543bb18974",
+    "name": "Huyện Càng Long",
+    "wards": [
+        {
+            "uid": "d87dc9449c424809b18e0db64f862587",
+            "name": "Thị trấn Càng Long"
+        },
+        {
+            "uid": "df25040dffa8442cb6bd6a548ad9f7bb",
+            "name": "Xã Mỹ Cẩm"
+        },
+        {
+            "uid": "d58bdbb48b7d4d8494d5ebca1c716e4d",
+            "name": "Xã An Trường A"
+        },
+        {
+            "uid": "5910397d8c7943f0949ba84da6849e2b",
+            "name": "Xã An Trường"
+        },
+        {
+            "uid": "22146113cfc64c0699cbe4d88f0c1fb8",
+            "name": "Xã Huyền Hội"
+        },
+        {
+            "uid": "6010119deff9467f82ac2d89a0246479",
+            "name": "Xã Tân An"
+        },
+        {
+            "uid": "61265ad65c9e45dea405836a392f0f8f",
+            "name": "Xã Tân Bình"
+        },
+        {
+            "uid": "201ac308018e490cae286995bec00614",
+            "name": "Xã Bình Phú"
+        },
+        {
+            "uid": "1bb83cf9aac946bcaac00d06be0d0c57",
+            "name": "Xã Phương Thạnh"
+        },
+        {
+            "uid": "ea04f9f9bb014ccfb2857856ec9c6afd",
+            "name": "Xã Đại Phúc"
+        },
+        {
+            "uid": "f9fadfab2dbc467fad175404931cb933",
+            "name": "Xã Đại Phước"
+        },
+        {
+            "uid": "ae06f87c0be44239b06bed2949853470",
+            "name": "Xã Nhị Long Phú"
+        },
+        {
+            "uid": "0ddae9608bad414a9b988705c11d7b54",
+            "name": "Xã Nhị Long"
+        },
+        {
+            "uid": "c6314621b6b341e69c357327cf8e726e",
+            "name": "Xã Đức Mỹ"
+        }
+    ]
+}

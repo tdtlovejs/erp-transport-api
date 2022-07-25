@@ -1,0 +1,70 @@
+{
+    "uid": "118367acc3c44bf5bcf18919b61efef4",
+    "name": "Huyện Châu Đức",
+    "wards": [
+        {
+            "uid": "50e08412d67c41be9d7844866c2c1f20",
+            "name": "Xã Bàu Chinh"
+        },
+        {
+            "uid": "5bd1c1ee06ca433ea104a08e02ffa9c4",
+            "name": "Thị trấn Ngãi Giao"
+        },
+        {
+            "uid": "eed4690e8f234a8cb768e60b5877800a",
+            "name": "Xã Bình Ba"
+        },
+        {
+            "uid": "cc8f951d4f8a403a8ac1adcad67de9e9",
+            "name": "Xã Suối Nghệ"
+        },
+        {
+            "uid": "f8ded472e9d24e10863a930a06576ff7",
+            "name": "Xã Xuân Sơn"
+        },
+        {
+            "uid": "bc28feb5c3da420fabd512c56a45dfea",
+            "name": "Xã Sơn Bình"
+        },
+        {
+            "uid": "9941c97009b84223bbb2b588efadc6f8",
+            "name": "Xã Bình Giã"
+        },
+        {
+            "uid": "8da3205ed5c9424a98f1657cf8c7937f",
+            "name": "Xã Bình Trung"
+        },
+        {
+            "uid": "bc2b89ed2fde48eeae654f86e8bd14f4",
+            "name": "Xã Xà Bang"
+        },
+        {
+            "uid": "32ac1c6a22124b41885da5bd723c49a7",
+            "name": "Xã Cù Bị"
+        },
+        {
+            "uid": "7f2f9d58a6144806817c7c1e2e653081",
+            "name": "Xã Láng Lớn"
+        },
+        {
+            "uid": "3504dcd0685443cab556c068256d5d1e",
+            "name": "Xã Quảng Thành"
+        },
+        {
+            "uid": "915bf04ac55b46d6b6ea13bcec4db970",
+            "name": "Xã Kim Long"
+        },
+        {
+            "uid": "774b2c5a1afe46c39ec55c479953c83f",
+            "name": "Xã Suối Rao"
+        },
+        {
+            "uid": "1a83763f70ca4d1887b034915b1d5512",
+            "name": "Xã Đá Bạc"
+        },
+        {
+            "uid": "1a934656d07d4ace971433f1427ffb6f",
+            "name": "Xã Nghĩa Thành"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "uid": "8a5d92522bd941cd8a2acc6c06910c60",
+    "name": "Huyện Hoàng Su Phì",
+    "wards": [
+        {
+            "uid": "5e6079cca4c049abb26a09cf27ab6ffd",
+            "name": "Thị trấn Vinh Quang"
+        },
+        {
+            "uid": "c02c249e78534851b36da29a7ad920bd",
+            "name": "Xã Bản Máy"
+        },
+        {
+            "uid": "1929899cc58d4a339f95ca1d23e52796",
+            "name": "Xã Thàng Tín"
+        },
+        {
+            "uid": "ae506d57566e46c5a0cd7d89b8e2ae19",
+            "name": "Xã Thèn Chu Phìn"
+        },
+        {
+            "uid": "9b0fa9a104ca4a3d812ba20b6fd287b2",
+            "name": "Xã Pố Lồ"
+        },
+        {
+            "uid": "6e4e3172f6fc4447b521e0f36c7d71f8",
+            "name": "Xã Bản Phùng"
+        },
+        {
+            "uid": "b13411d99fb644618d93d1aef022baaa",
+            "name": "Xã Túng Sán"
+        },
+        {
+            "uid": "c9ae1f04c26d4ed795d0367f25a646e5",
+            "name": "Xã Chiến Phố"
+        },
+        {
+            "uid": "892c4bd141e84d33bd9af913ce05c4c9",
+            "name": "Xã Đản Ván"
+        },
+        {
+            "uid": "25ddcdc1c0c844059013eafe3d1310d1",
+            "name": "Xã Tụ Nhân"
+        },
+        {
+            "uid": "9a232b8c7c6a4ca88d26fe63fb39b6ec",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "d9073c1d828b40d98826efc6d022e12b",
+            "name": "Xã Nàng Đôn"
+        },
+        {
+            "uid": "978ff30c4a3042bdb07e5144a67497c1",
+            "name": "Xã Pờ Ly Ngài"
+        },
+        {
+            "uid": "89ad7296b3b34d1797fdfc1ce3b43475",
+            "name": "Xã Sán Xả Hồ"
+        },
+        {
+            "uid": "bb209999053e426a8ab9cf02e46dc163",
+            "name": "Xã Bản Luốc"
+        },
+        {
+            "uid": "b4a96f212f754d84814b30b91b6ec0bc",
+            "name": "Xã Ngàm Đăng Vài"
+        },
+        {
+            "uid": "d2590c4dd4404ba6a7eb67de987f12b7",
+            "name": "Xã Bản Nhùng"
+        },
+        {
+            "uid": "36839f2201d84e4a888ce86ea34d9e82",
+            "name": "Xã Tả Sử Choóng"
+        },
+        {
+            "uid": "1a28b7abafd142dca0ebac882b1089e4",
+            "name": "Xã Nậm Dịch"
+        },
+        {
+            "uid": "6ff9401a8c04436dbf486860fd2fe60a",
+            "name": "Xã Hồ Thầu"
+        },
+        {
+            "uid": "ead8e2e3a78f4ec6a526458add2013fc",
+            "name": "Xã Nam Sơn"
+        },
+        {
+            "uid": "f18a9ea3afe947d6847e23bf8b24db92",
+            "name": "Xã Nậm Tỵ"
+        },
+        {
+            "uid": "c535791cad39430183ba0b554d3476e1",
+            "name": "Xã Thông Nguyên"
+        },
+        {
+            "uid": "d4dfe2b302b14ffdaa009a82310dc43e",
+            "name": "Xã Nậm Khòa"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "0e7a8768c7db45479f30ed4c4d97ebd7",
+    "name": "Huyện Vĩnh Thạnh",
+    "wards": [
+        {
+            "uid": "99858edad918457c81b4595348426ef9",
+            "name": "Xã Vĩnh Bình"
+        },
+        {
+            "uid": "8164c609a1a84addaa927528bf55100f",
+            "name": "Thị trấn Thanh An"
+        },
+        {
+            "uid": "f9a78f4d104b4a1c80026160d1f7865b",
+            "name": "Thị trấn Vĩnh Thạnh"
+        },
+        {
+            "uid": "25e7611b3d80413791866c14f5602982",
+            "name": "Xã Thạnh Mỹ"
+        },
+        {
+            "uid": "7f4f87d25e664203a16d910ac4a5e1df",
+            "name": "Xã Vĩnh Trinh"
+        },
+        {
+            "uid": "6b22cf1d45e045168088fbd7c0a2b316",
+            "name": "Xã Thạnh An"
+        },
+        {
+            "uid": "0799735ca661405babd06ea6d7d10619",
+            "name": "Xã Thạnh Tiến"
+        },
+        {
+            "uid": "b6750e5ef5494313b5743ad4aded7de5",
+            "name": "Xã Thạnh Thắng"
+        },
+        {
+            "uid": "ea707dc4a5b1490aa076d593518a2add",
+            "name": "Xã Thạnh Lợi"
+        },
+        {
+            "uid": "090b8f1cc533412ea2380ed290277bc3",
+            "name": "Xã Thạnh Qưới"
+        },
+        {
+            "uid": "ec27222275ca4cafa899e4cb441a010a",
+            "name": "Xã Thạnh Lộc"
+        }
+    ]
+}

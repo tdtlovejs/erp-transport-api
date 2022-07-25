@@ -1,0 +1,66 @@
+{
+    "uid": "09329de2d61444858fb1abffed76356b",
+    "name": "Quận Lê Chân",
+    "wards": [
+        {
+            "uid": "fdbbd20075714c36b463d27650b58fe0",
+            "name": "Phường Cát Dài"
+        },
+        {
+            "uid": "895658227c5f4c9d827c3cd31b384997",
+            "name": "Phường An Biên"
+        },
+        {
+            "uid": "b010199bde5f44a8881513370cb59042",
+            "name": "Phường Lam Sơn"
+        },
+        {
+            "uid": "0a6e36691662445f87b5a78e6c5c1eb4",
+            "name": "Phường An Dương"
+        },
+        {
+            "uid": "3cfe2b3e8ce34cf28ab4ccd2c5054d3c",
+            "name": "Phường Trần Nguyên Hãn"
+        },
+        {
+            "uid": "cd56effbcc8d4e83a76cfd9e41f3e831",
+            "name": "Phường Hồ Nam"
+        },
+        {
+            "uid": "efc24a72dbbf4847be1948d12ebb7114",
+            "name": "Phường Trại Cau"
+        },
+        {
+            "uid": "f3814a20507b438991227787525b6f47",
+            "name": "Phường Dư Hàng"
+        },
+        {
+            "uid": "2fcc82477cf74289a36ab1aa7ffaf9af",
+            "name": "Phường Hàng Kênh"
+        },
+        {
+            "uid": "8af9b04dfb204574885b4aec4e7e149e",
+            "name": "Phường Đông Hải"
+        },
+        {
+            "uid": "2f7d1e8873954128b5f29f7f19291325",
+            "name": "Phường Niệm Nghĩa"
+        },
+        {
+            "uid": "9efcf4f1581940398c1799ba768a123c",
+            "name": "Phường Nghĩa Xá"
+        },
+        {
+            "uid": "9a182f72906148ddaef45579e5809649",
+            "name": "Phường Dư Hàng Kênh"
+        },
+        {
+            "uid": "e937a4abbcd44470a7f603c320c3c15d",
+            "name": "Phường Kênh Dương"
+        },
+        {
+            "uid": "efb915fd0c464386ad242db5a785b8bf",
+            "name": "Phường Vĩnh Niệm"
+        }
+    ]
+}

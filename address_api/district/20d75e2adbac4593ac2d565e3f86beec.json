@@ -1,0 +1,98 @@
+{
+    "uid": "20d75e2adbac4593ac2d565e3f86beec",
+    "name": "Huyện Tứ Kỳ",
+    "wards": [
+        {
+            "uid": "826284decbd743bf85f49b3a96c55b3c",
+            "name": "Thị trấn Tứ Kỳ"
+        },
+        {
+            "uid": "35d595b44230490a856172d3197681eb",
+            "name": "Xã Đại Sơn"
+        },
+        {
+            "uid": "55cc39f412754a3984996920fd5919ce",
+            "name": "Xã Hưng Đạo"
+        },
+        {
+            "uid": "46bd92dd3a6549eca1c833668040d627",
+            "name": "Xã Ngọc Kỳ"
+        },
+        {
+            "uid": "fd7e845bceb34754b75fca9457cd0429",
+            "name": "Xã Bình Lăng"
+        },
+        {
+            "uid": "3165a6b0bba9459387fb6dfc6118258d",
+            "name": "Xã Chí Minh"
+        },
+        {
+            "uid": "51273c8192cf4f7b8e290289b5548949",
+            "name": "Xã Tái Sơn"
+        },
+        {
+            "uid": "944abcd756614bbb936dda439dd5a587",
+            "name": "Xã Quang Phục"
+        },
+        {
+            "uid": "b751e56b50e347938f9a1184890263d1",
+            "name": "Xã Dân Chủ"
+        },
+        {
+            "uid": "92cdc8b752934aa298f9bff766216fbd",
+            "name": "Xã Tân Kỳ"
+        },
+        {
+            "uid": "a9af21dcdb6a44a78b0a70ba43c9eedf",
+            "name": "Xã Quang Khải"
+        },
+        {
+            "uid": "abb8ae1fd6034568bfef66f9092fb7e4",
+            "name": "Xã Đại Hợp"
+        },
+        {
+            "uid": "f8a68f01e7b94a5aa672f27212e7a55b",
+            "name": "Xã Quảng Nghiệp"
+        },
+        {
+            "uid": "451c5b4af11b4047a8fc8405824a47a1",
+            "name": "Xã An Thanh"
+        },
+        {
+            "uid": "a14b0ff2b0f84137b8001008db6a3fa3",
+            "name": "Xã Minh Đức"
+        },
+        {
+            "uid": "06f82703b3cf4cc1a8efed6bc82893da",
+            "name": "Xã Văn Tố"
+        },
+        {
+            "uid": "d68ed175b46c430e800f31cc30b75997",
+            "name": "Xã Quang Trung"
+        },
+        {
+            "uid": "12148c366f0848ab8cf4f3ab7ab4deee",
+            "name": "Xã Phượng Kỳ"
+        },
+        {
+            "uid": "28cf1b3a1b6b4aa28ceb678256eb5641",
+            "name": "Xã Cộng Lạc"
+        },
+        {
+            "uid": "f7618d015cdd4b9eb27d39e53c4e860b",
+            "name": "Xã Tiên Động"
+        },
+        {
+            "uid": "0d79dad9f37848fd8fdfbda2c24befb4",
+            "name": "Xã Nguyên Giáp"
+        },
+        {
+            "uid": "9beac05b3e064140be7cf72ef45bde85",
+            "name": "Xã Hà Kỳ"
+        },
+        {
+            "uid": "21c82c79bf934b39a0a6243d6a33e92d",
+            "name": "Xã Hà Thanh"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "uid": "ded99f7d4c644a048902ec2d5762ef62",
+    "name": "Huyện Ứng Hòa",
+    "wards": [
+        {
+            "uid": "75c15a16d09a4acd913db494706abfb4",
+            "name": "Thị trấn Vân Đình"
+        },
+        {
+            "uid": "706fec7c68ac4557a9e4d619fae56102",
+            "name": "Xã Viên An"
+        },
+        {
+            "uid": "4b36536697c44a6692a9d339d4de8371",
+            "name": "Xã Viên Nội"
+        },
+        {
+            "uid": "a3efb383e1334bc48bc742ce1a0f8b75",
+            "name": "Xã Hoa Sơn"
+        },
+        {
+            "uid": "bb7c8500b63747159071d812faeb2518",
+            "name": "Xã Quảng Phú Cầu"
+        },
+        {
+            "uid": "baf4bf55de1d4850953a79d88f04bf5f",
+            "name": "Xã Trường Thịnh"
+        },
+        {
+            "uid": "dac41ed5d2df4201a98a48ac69dd32cd",
+            "name": "Xã Cao Thành"
+        },
+        {
+            "uid": "fabd185c32454619bc45ab2f6756a956",
+            "name": "Xã Liên Bạt"
+        },
+        {
+            "uid": "3c16206f51f747e1a4da03c9ab1395d6",
+            "name": "Xã Sơn Công"
+        },
+        {
+            "uid": "94b7ff72e2964f0bacef5fdf23e9acb6",
+            "name": "Xã Đồng Tiến"
+        },
+        {
+            "uid": "37fb055490cd4275a515918498f621cd",
+            "name": "Xã Phương Tú"
+        },
+        {
+            "uid": "d387e121f9854b4785e470541f24af7b",
+            "name": "Xã Trung Tú"
+        },
+        {
+            "uid": "daf62b6185a74c4f8110e9699a476489",
+            "name": "Xã Đồng Tân"
+        },
+        {
+            "uid": "bdbfb0c0798f4383971ecea70c0e2ba4",
+            "name": "Xã Tảo Dương Văn"
+        },
+        {
+            "uid": "a14aa5cf142249c184bd7cd1193836d9",
+            "name": "Xã Vạn Thái"
+        },
+        {
+            "uid": "8b35c199ac774c3b9c6752528579358f",
+            "name": "Xã Minh Đức"
+        },
+        {
+            "uid": "2ca3e02561c54abba31522e4c865a0dc",
+            "name": "Xã Hòa Lâm"
+        },
+        {
+            "uid": "9f0ec8c3480948f68381baf0475fb083",
+            "name": "Xã Hòa Xá"
+        },
+        {
+            "uid": "4760e17f47474c1784628f8697284016",
+            "name": "Xã Trầm Lộng"
+        },
+        {
+            "uid": "c07959fca93348cd83e062dd06f945b9",
+            "name": "Xã Kim Đường"
+        },
+        {
+            "uid": "59635f5a5faa4d57a6965281771a4e6d",
+            "name": "Xã Hòa Nam"
+        },
+        {
+            "uid": "983f4f8eca154ea4afab1a85917765e1",
+            "name": "Xã Hòa Phú"
+        },
+        {
+            "uid": "caf623776597446eb8f67d711d1f0204",
+            "name": "Xã Đội Bình"
+        },
+        {
+            "uid": "edb504bd51fb465e85f5657ba73dc460",
+            "name": "Xã Đại Hùng"
+        },
+        {
+            "uid": "21dc8739d4c64ed49ff41a8ef2aa18c6",
+            "name": "Xã Đông Lỗ"
+        },
+        {
+            "uid": "ddc00d6974cc4eb99ac743d4639b5953",
+            "name": "Xã Phù Lưu"
+        },
+        {
+            "uid": "eacdbfb864854c109de9af0144407425",
+            "name": "Xã Đại Cường"
+        },
+        {
+            "uid": "881c8a26430b4cbc9fcd575731c23da1",
+            "name": "Xã Lưu Hoàng"
+        },
+        {
+            "uid": "cddefb11afc6426ca90584f3e1c203cc",
+            "name": "Xã Hồng Quang"
+        }
+    ]
+}

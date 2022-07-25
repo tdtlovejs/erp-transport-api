@@ -1,0 +1,74 @@
+{
+    "uid": "7b2bd555f8074b83852e8f988cc03f9f",
+    "name": "Huyện Trảng Bom",
+    "wards": [
+        {
+            "uid": "b8eee78ac4934f71a5eacbeffa3de195",
+            "name": "Thị trấn Trảng Bom"
+        },
+        {
+            "uid": "c3ee0ae709954f9397da20caf0d63e20",
+            "name": "Xã Thanh Bình"
+        },
+        {
+            "uid": "9efd40277b1a41639bf34cb31f36c19a",
+            "name": "Xã Cây Gáo"
+        },
+        {
+            "uid": "46e2c738a2294fd4ac5824b3b05e1352",
+            "name": "Xã Bàu Hàm"
+        },
+        {
+            "uid": "ba64a70b4a17444ea8f5c98b4244271f",
+            "name": "Xã Sông Thao"
+        },
+        {
+            "uid": "b7960fbdf8c549c0b41fc54bb0daa163",
+            "name": "Xã Sông Trầu"
+        },
+        {
+            "uid": "234e2b47dc4249b1bd2f0309ef8a0364",
+            "name": "Xã Đông Hoà"
+        },
+        {
+            "uid": "83412167a8b147ca96254897265a6b09",
+            "name": "Xã Bắc Sơn"
+        },
+        {
+            "uid": "2199604f3dd049ddb9cf4523c6468c06",
+            "name": "Xã Hố Nai 3"
+        },
+        {
+            "uid": "26cd75e8280e466eb36973635db425c5",
+            "name": "Xã Tây Hoà"
+        },
+        {
+            "uid": "4c5138ec1bba44bb8a042307cd06b10e",
+            "name": "Xã Bình Minh"
+        },
+        {
+            "uid": "526644c06c1142b48e6ef2868e0713e2",
+            "name": "Xã Trung Hoà"
+        },
+        {
+            "uid": "f01b8bf2b9734021a2101606f1675002",
+            "name": "Xã Đồi 61"
+        },
+        {
+            "uid": "843efa0e3caa456587769676560733c8",
+            "name": "Xã Hưng Thịnh"
+        },
+        {
+            "uid": "ae198e009f2341f6bff511bd5116ea91",
+            "name": "Xã Quảng Tiến"
+        },
+        {
+            "uid": "e54e3c9f99dd4021ba957f3e2009356b",
+            "name": "Xã Giang Điền"
+        },
+        {
+            "uid": "946ceb5402f24d7cb40d72d228693356",
+            "name": "Xã An Viễn"
+        }
+    ]
+}

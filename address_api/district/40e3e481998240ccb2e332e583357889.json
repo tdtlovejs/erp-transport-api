@@ -1,0 +1,62 @@
+{
+    "uid": "40e3e481998240ccb2e332e583357889",
+    "name": "Huyện Yên Phong",
+    "wards": [
+        {
+            "uid": "c20e078424b248519231d1191e7cc57f",
+            "name": "Thị trấn Chờ"
+        },
+        {
+            "uid": "e3f6c5f6a262427b80541d08a4d5b9c8",
+            "name": "Xã Dũng Liệt"
+        },
+        {
+            "uid": "07d799e3a99241edb76fe8a70accecb5",
+            "name": "Xã Tam Đa"
+        },
+        {
+            "uid": "12da2a8509454be5aa64227773230acc",
+            "name": "Xã Tam Giang"
+        },
+        {
+            "uid": "86e55c3d7b00435e8a5aafff0d7a3334",
+            "name": "Xã Yên Trung"
+        },
+        {
+            "uid": "23589562b6eb46708e8fb067b1fc17c4",
+            "name": "Xã Thụy Hòa"
+        },
+        {
+            "uid": "c5fd8d5b216c4cc695af06f6fde3b4a6",
+            "name": "Xã Hòa Tiến"
+        },
+        {
+            "uid": "74c424c871b1440499332bbbef3b058d",
+            "name": "Xã Đông Tiến"
+        },
+        {
+            "uid": "70989b8e5ea948f48b6994822d1a3495",
+            "name": "Xã Yên Phụ"
+        },
+        {
+            "uid": "a7f2d417743d402192cfce84c0a2a8f6",
+            "name": "Xã Trung Nghĩa"
+        },
+        {
+            "uid": "0e4482a98f2b419f9df00d1449e8c4e6",
+            "name": "Xã Đông Phong"
+        },
+        {
+            "uid": "1885471ffdcb4df9ac1aa5473efb4857",
+            "name": "Xã Long Châu"
+        },
+        {
+            "uid": "1f833684224b4d07ba27bdfcdd847210",
+            "name": "Xã Văn Môn"
+        },
+        {
+            "uid": "995ee734f4c649598b437297f3798ece",
+            "name": "Xã Đông Thọ"
+        }
+    ]
+}

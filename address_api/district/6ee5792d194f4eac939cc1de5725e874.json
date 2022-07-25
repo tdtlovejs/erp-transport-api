@@ -1,0 +1,62 @@
+{
+    "uid": "6ee5792d194f4eac939cc1de5725e874",
+    "name": "Huyện Chợ Mới",
+    "wards": [
+        {
+            "uid": "bb221b332d3d4022ad776652df1e2eff",
+            "name": "Thị trấn Đồng Tâm"
+        },
+        {
+            "uid": "87b5e777de5141d781e2ddd0ffae4fc7",
+            "name": "Xã Tân Sơn"
+        },
+        {
+            "uid": "05f5bfe85ab74e5da13bab2d7ad112f1",
+            "name": "Xã Thanh Vận"
+        },
+        {
+            "uid": "87bb916ea17a4cb8b8af357e73612c28",
+            "name": "Xã Mai Lạp"
+        },
+        {
+            "uid": "28f85fca992e492b8e2d868175af7ca2",
+            "name": "Xã Hoà Mục"
+        },
+        {
+            "uid": "f059bfdfcd2b4ad5b56edabe8cbaed8e",
+            "name": "Xã Thanh Mai"
+        },
+        {
+            "uid": "d3a86cf9e49044329398126039c9db9c",
+            "name": "Xã Cao Kỳ"
+        },
+        {
+            "uid": "fb621d8c0fda4d8b8c0054d10e91c0d0",
+            "name": "Xã Nông Hạ"
+        },
+        {
+            "uid": "6cd7679cf7de4437b102d857058b2dfe",
+            "name": "Xã Yên Cư"
+        },
+        {
+            "uid": "095993393a1646c1a72298315c02942b",
+            "name": "Xã Thanh Thịnh"
+        },
+        {
+            "uid": "8b104ea096f8471cad537a30e8a06eda",
+            "name": "Xã Yên Hân"
+        },
+        {
+            "uid": "283b852a97fd4a3f8f53ffa6c3194d8f",
+            "name": "Xã Như Cố"
+        },
+        {
+            "uid": "a33542713c5a401196b4d45f5851fb65",
+            "name": "Xã Bình Văn"
+        },
+        {
+            "uid": "e943e5e0a638435aba10d7ecd51c6d84",
+            "name": "Xã Quảng Chu"
+        }
+    ]
+}

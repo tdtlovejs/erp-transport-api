@@ -1,0 +1,90 @@
+{
+    "uid": "8ec1f29bed144fe390fa8298d2b525d6",
+    "name": "Huyện Hương Khê",
+    "wards": [
+        {
+            "uid": "b637bad9a16e457baed724a0fb7ab258",
+            "name": "Thị trấn Hương Khê"
+        },
+        {
+            "uid": "d20b9771a874440892951dd10616ef55",
+            "name": "Xã Điền Mỹ"
+        },
+        {
+            "uid": "a018c4d93a424863a9fe3c72131170d8",
+            "name": "Xã Hà Linh"
+        },
+        {
+            "uid": "a0591fc468f642ff954dac1187b9a970",
+            "name": "Xã Hương Thủy"
+        },
+        {
+            "uid": "a25319c331dc45978f9304f13c5f5227",
+            "name": "Xã Hòa Hải"
+        },
+        {
+            "uid": "ae45520525614d43bb66b14949fa77ec",
+            "name": "Xã Phúc Đồng"
+        },
+        {
+            "uid": "7ccfc61d28174d3abd1e206d7c58ae54",
+            "name": "Xã Hương Giang"
+        },
+        {
+            "uid": "d2908ae64529450cbe0d1e4a4279e96d",
+            "name": "Xã Lộc Yên"
+        },
+        {
+            "uid": "f2cd139eb5c64bd4ad09bcfb5ae9afc0",
+            "name": "Xã Hương Bình"
+        },
+        {
+            "uid": "e3bc73bd71bc4534b3542184e208897c",
+            "name": "Xã Hương Long"
+        },
+        {
+            "uid": "5ba1df445c474325a1883a59683af042",
+            "name": "Xã Phú Gia"
+        },
+        {
+            "uid": "9328efd1d3724183b27e31e346d27c2e",
+            "name": "Xã Gia Phố"
+        },
+        {
+            "uid": "44eb2e11235f4a44808abf88b21f65d2",
+            "name": "Xã Phú Phong"
+        },
+        {
+            "uid": "5fce181a2ccf495a8818b02d70f67343",
+            "name": "Xã Hương Đô"
+        },
+        {
+            "uid": "319d924f07a949928cdfb4a42914b2db",
+            "name": "Xã Hương Vĩnh"
+        },
+        {
+            "uid": "ccbb0ef4047b4ef88f5c6d2c19809e7c",
+            "name": "Xã Hương Xuân"
+        },
+        {
+            "uid": "2b6da809b2374e5e9ad49153d9a099f8",
+            "name": "Xã Phúc Trạch"
+        },
+        {
+            "uid": "d8e230408d0d4690bd1c44272c03c7e2",
+            "name": "Xã Hương Trà"
+        },
+        {
+            "uid": "832b57eb72254c5197515e2268f4ff0c",
+            "name": "Xã Hương Trạch"
+        },
+        {
+            "uid": "c143c7cba59a4621a87ec342b47f858e",
+            "name": "Xã Hương Lâm"
+        },
+        {
+            "uid": "7a7e07fe15714e3895adcc0318f3076d",
+            "name": "Xã Hương Liên"
+        }
+    ]
+}

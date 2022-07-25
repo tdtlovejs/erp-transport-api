@@ -1,0 +1,70 @@
+{
+    "uid": "c4bdbfc661654120a6dcaebc2eade51d",
+    "name": "Huyện Lộc Ninh",
+    "wards": [
+        {
+            "uid": "e955a484e21d47798050d2217e5c71e6",
+            "name": "Thị trấn Lộc Ninh"
+        },
+        {
+            "uid": "45037b82235a41a89e2369f5f1b04d57",
+            "name": "Xã Lộc Hòa"
+        },
+        {
+            "uid": "8faf3298c4e447dca38f24e227a91497",
+            "name": "Xã Lộc An"
+        },
+        {
+            "uid": "0181d767f9cc4316b06fe93c6a6a689b",
+            "name": "Xã Lộc Tấn"
+        },
+        {
+            "uid": "9d6e0d27d126460bac76f09b2fa073aa",
+            "name": "Xã Lộc Thạnh"
+        },
+        {
+            "uid": "32fd2f2903274cb3899da8496f42838f",
+            "name": "Xã Lộc Hiệp"
+        },
+        {
+            "uid": "46aca9127d6f434fad086fc06e1568d6",
+            "name": "Xã Lộc Thiện"
+        },
+        {
+            "uid": "862165caf7a04c4bae3d7646ba9f9e97",
+            "name": "Xã Lộc Thuận"
+        },
+        {
+            "uid": "024ae2d9042d4247bcc8ad2582797218",
+            "name": "Xã Lộc Quang"
+        },
+        {
+            "uid": "08b235337c0c450785691d786772cade",
+            "name": "Xã Lộc Phú"
+        },
+        {
+            "uid": "eb78848791084a51ac3c88f93debd3fa",
+            "name": "Xã Lộc Thành"
+        },
+        {
+            "uid": "a911b42ee89545179afcc322c968c786",
+            "name": "Xã Lộc Thái"
+        },
+        {
+            "uid": "5973801b099c4f39afda432b3aff22de",
+            "name": "Xã Lộc Điền"
+        },
+        {
+            "uid": "cc21745a207243729860987b56c2ae6f",
+            "name": "Xã Lộc Hưng"
+        },
+        {
+            "uid": "c7d29c59bd934c64b454972e7fae247d",
+            "name": "Xã Lộc Thịnh"
+        },
+        {
+            "uid": "c3b1d3498c4a4009a2cae6b4d3813e9c",
+            "name": "Xã Lộc Khánh"
+        }
+    ]
+}

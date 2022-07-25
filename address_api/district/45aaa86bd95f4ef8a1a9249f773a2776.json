@@ -1,0 +1,78 @@
+{
+    "uid": "45aaa86bd95f4ef8a1a9249f773a2776",
+    "name": "Huyện Chợ Mới",
+    "wards": [
+        {
+            "uid": "690a3291687b4191823f8c74d95d5a17",
+            "name": "Thị trấn Chợ Mới"
+        },
+        {
+            "uid": "fe6c67a89ea14384bfebae044f8b08b6",
+            "name": "Thị trấn Mỹ Luông"
+        },
+        {
+            "uid": "f28f60fb1728484f8ce48f80acb6f329",
+            "name": "Xã Kiến An"
+        },
+        {
+            "uid": "76bd7db6a196463d9ac5bed3ecb7a64b",
+            "name": "Xã Mỹ Hội Đông"
+        },
+        {
+            "uid": "595d564652774e5abb2f27b76458b4b5",
+            "name": "Xã Long Điền A"
+        },
+        {
+            "uid": "dbc9be2d432945e3a6280e255e386599",
+            "name": "Xã Tấn Mỹ"
+        },
+        {
+            "uid": "6d849fd1f78c4424aa84941144e20d1e",
+            "name": "Xã Long Điền B"
+        },
+        {
+            "uid": "a508edf2936a4dcba209bcb94c83a335",
+            "name": "Xã Kiến Thành"
+        },
+        {
+            "uid": "ea0a9b62fa2f437680a884b8a5dbc531",
+            "name": "Xã Mỹ Hiệp"
+        },
+        {
+            "uid": "257c2e251c1d4970a194867bc94b8d86",
+            "name": "Xã Mỹ An"
+        },
+        {
+            "uid": "e6e466e7a60c469cb6d54b97b61a476e",
+            "name": "Xã Nhơn Mỹ"
+        },
+        {
+            "uid": "bb26dd12c716476aa21d411db9788c4c",
+            "name": "Xã Long Giang"
+        },
+        {
+            "uid": "2e72497b214c4b0498a6da01d47adabb",
+            "name": "Xã Long Kiến"
+        },
+        {
+            "uid": "b025c32c6dc1496fb7390d5856dd4804",
+            "name": "Xã Bình Phước Xuân"
+        },
+        {
+            "uid": "b36e175b8907401cb1534d74faaa2396",
+            "name": "Xã An Thạnh Trung"
+        },
+        {
+            "uid": "1ab59d75afb44f178cb1e1399b3a6323",
+            "name": "Xã Hội An"
+        },
+        {
+            "uid": "f4d2e0f120aa478491656fcf93648e9e",
+            "name": "Xã Hòa Bình"
+        },
+        {
+            "uid": "a21db6caec7c48b3a9b041aceb516015",
+            "name": "Xã Hòa An"
+        }
+    ]
+}

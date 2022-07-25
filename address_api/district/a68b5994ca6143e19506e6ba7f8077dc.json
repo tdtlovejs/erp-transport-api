@@ -1,0 +1,46 @@
+{
+    "uid": "a68b5994ca6143e19506e6ba7f8077dc",
+    "name": "Huyện Đơn Dương",
+    "wards": [
+        {
+            "uid": "38bebba4977040a0bbec66b6a6e13195",
+            "name": "Thị trấn D'Ran"
+        },
+        {
+            "uid": "06a55ea257144a77b24623441da81358",
+            "name": "Thị trấn Thạnh Mỹ"
+        },
+        {
+            "uid": "d12d3c5c7f2547e6a467e2664242489f",
+            "name": "Xã Lạc Xuân"
+        },
+        {
+            "uid": "73b2a5ee8bff41b9bf9931d02f070669",
+            "name": "Xã Đạ Ròn"
+        },
+        {
+            "uid": "72efb9e6e77f4d86aac1146a1105d47e",
+            "name": "Xã Lạc Lâm"
+        },
+        {
+            "uid": "2a913dc4314c418bb6da0c4fbd1a8184",
+            "name": "Xã Ka Đô"
+        },
+        {
+            "uid": "500dcc3cc6ed493da751ca5b9d4a4cc6",
+            "name": "Xã Quảng Lập"
+        },
+        {
+            "uid": "7b35b86506274100abdd7804cb24b812",
+            "name": "Xã Ka Đơn"
+        },
+        {
+            "uid": "e6f8f110555442aaa987b12adbdc9d61",
+            "name": "Xã Tu Tra"
+        },
+        {
+            "uid": "00399a9be3bd4912906d601367ffba59",
+            "name": "Xã Pró"
+        }
+    ]
+}

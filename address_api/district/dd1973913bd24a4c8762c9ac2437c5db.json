@@ -1,0 +1,54 @@
+{
+    "uid": "dd1973913bd24a4c8762c9ac2437c5db",
+    "name": "Huyện Đức Linh",
+    "wards": [
+        {
+            "uid": "05bc2d7f93564d2daa7b89b4c0e787f1",
+            "name": "Thị trấn Võ Xu"
+        },
+        {
+            "uid": "cf6a82d554864f76a8196287d80e612b",
+            "name": "Thị trấn Đức Tài"
+        },
+        {
+            "uid": "772492438bb3455e84af15279e6f3753",
+            "name": "Xã Đa Kai"
+        },
+        {
+            "uid": "a80fd937d68847c5b0c913d258c6dc6f",
+            "name": "Xã Sùng Nhơn"
+        },
+        {
+            "uid": "6f524c072d4f452a885b5ed9b1080af6",
+            "name": "Xã Mê Pu"
+        },
+        {
+            "uid": "9f972efc6b6b43b9aa00698fe779e4d6",
+            "name": "Xã Nam Chính"
+        },
+        {
+            "uid": "784518d6c53d4075bf35fbaf533f71f7",
+            "name": "Xã Đức Hạnh"
+        },
+        {
+            "uid": "a053da56de854088952b611252679837",
+            "name": "Xã Đức Tín"
+        },
+        {
+            "uid": "56c66e9d503d4d93b1088bee551b493b",
+            "name": "Xã Vũ Hoà"
+        },
+        {
+            "uid": "7053456254a94f2c9e6c7fdc8ac43f93",
+            "name": "Xã Tân Hà"
+        },
+        {
+            "uid": "1edeb91a675c4fa79b1f5c5dca27f603",
+            "name": "Xã Đông Hà"
+        },
+        {
+            "uid": "2421993602974fa988e920bac6d7c495",
+            "name": "Xã Trà Tân"
+        }
+    ]
+}

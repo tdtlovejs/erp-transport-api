@@ -1,0 +1,38 @@
+{
+    "uid": "f08175a16dff4b298d62a5b45ee3e897",
+    "name": "Huyện Đăk Pơ",
+    "wards": [
+        {
+            "uid": "0f4882197c2e4001b122eb6be5361e05",
+            "name": "Xã Hà Tam"
+        },
+        {
+            "uid": "6951b67625884259a6bfff40fd633f2a",
+            "name": "Xã An Thành"
+        },
+        {
+            "uid": "36c5fd36c2c24d31834126b9fe1269c1",
+            "name": "Thị trấn Đak Pơ"
+        },
+        {
+            "uid": "9f3c91df6b5741e7b316eacdfa0f5b58",
+            "name": "Xã Yang Bắc"
+        },
+        {
+            "uid": "2392e995c72b426e9f4ee0efa586b2e7",
+            "name": "Xã Cư An"
+        },
+        {
+            "uid": "654a23ca23754dbd817f1f136e4513ef",
+            "name": "Xã Tân An"
+        },
+        {
+            "uid": "0f85352ba47c4650884b65b5c1d9012e",
+            "name": "Xã Phú An"
+        },
+        {
+            "uid": "e4ce65fbbf49411f96d4d540f3681034",
+            "name": "Xã Ya Hội"
+        }
+    ]
+}

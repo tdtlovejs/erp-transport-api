@@ -1,0 +1,46 @@
+{
+    "uid": "39f7e6a1cd924685b3534778d85182d2",
+    "name": "Huyện Châu Thành",
+    "wards": [
+        {
+            "uid": "435a197e83a94b68a7164a50950f9c0f",
+            "name": "Thị trấn Minh Lương"
+        },
+        {
+            "uid": "7d772b0d33a54d08a66d15a21d4e50b5",
+            "name": "Xã Mong Thọ A"
+        },
+        {
+            "uid": "af0c1600223e46e7a4c9b7aa7cd982a3",
+            "name": "Xã Mong Thọ B"
+        },
+        {
+            "uid": "3556e3ccefcf484b90a7b801dd38535d",
+            "name": "Xã Mong Thọ"
+        },
+        {
+            "uid": "d4b566ea2c9f44528f5b25a64c42edbf",
+            "name": "Xã Giục Tượng"
+        },
+        {
+            "uid": "635a63ab86fa43db8b6066594e9678e2",
+            "name": "Xã Vĩnh Hòa Hiệp"
+        },
+        {
+            "uid": "8ebcfa7d445847399f919c0436b323d2",
+            "name": "Xã Vĩnh Hoà Phú"
+        },
+        {
+            "uid": "5922cb64558e439da4e851b7a5afd832",
+            "name": "Xã Minh Hòa"
+        },
+        {
+            "uid": "ce22b84692ab4f2e8703dc79544ef90c",
+            "name": "Xã Bình An"
+        },
+        {
+            "uid": "f1391dd1e608460ea814be754c871aa8",
+            "name": "Xã Thạnh Lộc"
+        }
+    ]
+}

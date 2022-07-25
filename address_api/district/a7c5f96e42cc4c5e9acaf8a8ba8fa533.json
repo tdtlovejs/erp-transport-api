@@ -1,0 +1,54 @@
+{
+    "uid": "a7c5f96e42cc4c5e9acaf8a8ba8fa533",
+    "name": "Huyện Lâm Thao",
+    "wards": [
+        {
+            "uid": "7fe91b8e55614cd1bf0dddd5c80904de",
+            "name": "Thị trấn Lâm Thao"
+        },
+        {
+            "uid": "a2f78691cbc442b2b908234b5d43edd4",
+            "name": "Xã Tiên Kiên"
+        },
+        {
+            "uid": "60a3ef12c4c54afc94d406b83b7e01c5",
+            "name": "Thị trấn Hùng Sơn"
+        },
+        {
+            "uid": "2885f7f39d374dbbb680db0830c14259",
+            "name": "Xã Xuân Lũng"
+        },
+        {
+            "uid": "64fb4b71d3734004860d0f361046204e",
+            "name": "Xã Xuân Huy"
+        },
+        {
+            "uid": "f564f457abb140f9b935dbc2bdffbf73",
+            "name": "Xã Thạch Sơn"
+        },
+        {
+            "uid": "a132bb5f762445f8b07a5e97dedcc4de",
+            "name": "Xã Sơn Vi"
+        },
+        {
+            "uid": "233f72bc3fb245c68881383749e4f11b",
+            "name": "Xã Phùng Nguyên"
+        },
+        {
+            "uid": "85f9d488e51e4b1686bc1630073ea7a9",
+            "name": "Xã Cao Xá"
+        },
+        {
+            "uid": "67d5106d9acf4c0aab4ea3545bc0ae8f",
+            "name": "Xã Vĩnh Lại"
+        },
+        {
+            "uid": "90007f2be36f402ab7882c75bdac15d2",
+            "name": "Xã Tứ Xã"
+        },
+        {
+            "uid": "35314afaa5dc4d6cba697aeb6b9cd0a8",
+            "name": "Xã Bản Nguyên"
+        }
+    ]
+}

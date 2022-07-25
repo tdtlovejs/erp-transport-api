@@ -1,0 +1,78 @@
+{
+    "uid": "f818a13c32904fa299de29e045c939f9",
+    "name": "Huyện Phú Tân",
+    "wards": [
+        {
+            "uid": "839018a8344f4543980e42a23470d2ce",
+            "name": "Thị trấn Phú Mỹ"
+        },
+        {
+            "uid": "e5d42d0e93aa4189b278af258daf1d5c",
+            "name": "Thị trấn Chợ Vàm"
+        },
+        {
+            "uid": "9876baf8f93b4a418dadbc51cf1d4718",
+            "name": "Xã Long Hoà"
+        },
+        {
+            "uid": "f506ed69a30644fc96bf4977afbb5986",
+            "name": "Xã Phú Long"
+        },
+        {
+            "uid": "2ececde5f7ae44f58f29ff1139f0043c",
+            "name": "Xã Phú Lâm"
+        },
+        {
+            "uid": "2814730a621d411eb8268b8e09692fe8",
+            "name": "Xã Phú Hiệp"
+        },
+        {
+            "uid": "252afa57c3ad47af86059971da6ebc48",
+            "name": "Xã Phú Thạnh"
+        },
+        {
+            "uid": "bf77e75353bf4926b0c986a61edbc596",
+            "name": "Xã Hoà Lạc"
+        },
+        {
+            "uid": "ed45168a8cf64771a2d153220c03615a",
+            "name": "Xã Phú Thành"
+        },
+        {
+            "uid": "185e9fd33eb04df4a59cbe9acf22b472",
+            "name": "Xã Phú An"
+        },
+        {
+            "uid": "9b34909b41014997ac47fd2aaeb3ca4a",
+            "name": "Xã Phú Xuân"
+        },
+        {
+            "uid": "8cd80cd2f2a547e89acdf553d2ee0781",
+            "name": "Xã Hiệp Xương"
+        },
+        {
+            "uid": "d571c080b4fb453eb1ee4e0eb8b40a50",
+            "name": "Xã Phú Bình"
+        },
+        {
+            "uid": "d46c1018d078473e84f89a521c6caed7",
+            "name": "Xã Phú Thọ"
+        },
+        {
+            "uid": "ef885a4a12b1418da4ce2f104b8f917c",
+            "name": "Xã Phú Hưng"
+        },
+        {
+            "uid": "3b971fcc5a7a4ea1b1dcd8b1bcbcd582",
+            "name": "Xã Bình Thạnh Đông"
+        },
+        {
+            "uid": "7f9bd948a8d9444d893bb1e989f98132",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "94f772827854440f975b8c855f435482",
+            "name": "Xã Tân Trung"
+        }
+    ]
+}

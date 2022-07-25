@@ -1,0 +1,42 @@
+{
+    "uid": "67500cc7c7294e20ae1c033174989f01",
+    "name": "Huyện Bến Cầu",
+    "wards": [
+        {
+            "uid": "39636a1c78d144f4898ae4d1f9bfb789",
+            "name": "Thị trấn Bến Cầu"
+        },
+        {
+            "uid": "3ba8b1d7f16c434db98fcbf786cbf562",
+            "name": "Xã Long Chữ"
+        },
+        {
+            "uid": "07616bd2bebd4e858ce4faa6279cff90",
+            "name": "Xã Long Phước"
+        },
+        {
+            "uid": "35fb639daccd48a5b9541aca58f98f83",
+            "name": "Xã Long Giang"
+        },
+        {
+            "uid": "448a4d7bf2574d378e789e591e5ecd18",
+            "name": "Xã Tiên Thuận"
+        },
+        {
+            "uid": "54eba36e86034ff8b3cecabb0ec8208e",
+            "name": "Xã Long Khánh"
+        },
+        {
+            "uid": "344f83ff49a84d5b93bc3f3a3ab3f412",
+            "name": "Xã Lợi Thuận"
+        },
+        {
+            "uid": "c065ba8591d74846acfb072f987e951d",
+            "name": "Xã Long Thuận"
+        },
+        {
+            "uid": "daad718530a34057b10fd329f0d7cc67",
+            "name": "Xã An Thạnh"
+        }
+    ]
+}

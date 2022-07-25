@@ -1,0 +1,66 @@
+{
+    "uid": "db2276a2d68942b18066a090dbc5a32a",
+    "name": "Thị xã Đức Phổ",
+    "wards": [
+        {
+            "uid": "343ed499719947b9812c20a1a14fc2df",
+            "name": "Phường Nguyễn Nghiêm"
+        },
+        {
+            "uid": "52afdf9609a64a6dae2bb7f40e2f2983",
+            "name": "Xã Phổ An"
+        },
+        {
+            "uid": "908b43bd378f47e3a8048de624ebb709",
+            "name": "Xã Phổ Phong"
+        },
+        {
+            "uid": "0747135a4d23453d9b2b2c33b946d35f",
+            "name": "Xã Phổ Thuận"
+        },
+        {
+            "uid": "5e93112511194d4fb2c2f1a7566348be",
+            "name": "Phường Phổ Văn"
+        },
+        {
+            "uid": "2b9b1fe4746c4841bb398cd56007186a",
+            "name": "Phường Phổ Quang"
+        },
+        {
+            "uid": "5d5d01047f144cadb38a69d8ccb11644",
+            "name": "Xã Phổ Nhơn"
+        },
+        {
+            "uid": "d2252372bc0d4330a93dd3b2956f6c6e",
+            "name": "Phường Phổ Ninh"
+        },
+        {
+            "uid": "37137f0b8b4d47d99c778f78db7f6bdf",
+            "name": "Phường Phổ Minh"
+        },
+        {
+            "uid": "cfddb5e645bb4396af5b3bbe449d3a28",
+            "name": "Phường Phổ Vinh"
+        },
+        {
+            "uid": "4bd1dbf050af41939a73dddf12a57f94",
+            "name": "Phường Phổ Hòa"
+        },
+        {
+            "uid": "81c2b15d347645d2ac9fb1c18b8dcc24",
+            "name": "Xã Phổ Cường"
+        },
+        {
+            "uid": "1d84bf86352149ed9b71d4bed8e30d7f",
+            "name": "Xã Phổ Khánh"
+        },
+        {
+            "uid": "bad5f5ce9b364c57b4b60b85be5955a7",
+            "name": "Phường Phổ Thạnh"
+        },
+        {
+            "uid": "c344fbfd116943a1a6cd8b28e7edb9e6",
+            "name": "Xã Phổ Châu"
+        }
+    ]
+}

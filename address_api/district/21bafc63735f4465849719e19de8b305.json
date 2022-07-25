@@ -1,0 +1,86 @@
+{
+    "uid": "21bafc63735f4465849719e19de8b305",
+    "name": "Huyện Phú Bình",
+    "wards": [
+        {
+            "uid": "f2e5c0b0be934b7fbde7e21739d593f3",
+            "name": "Thị trấn Hương Sơn"
+        },
+        {
+            "uid": "420747ae1adb411d8bb5b1e35acb7c39",
+            "name": "Xã Bàn Đạt"
+        },
+        {
+            "uid": "56c3c864a4834a909f706011b351b64f",
+            "name": "Xã Tân Khánh"
+        },
+        {
+            "uid": "94d1efb6091d4f45922a8d2412bb22d2",
+            "name": "Xã Tân Kim"
+        },
+        {
+            "uid": "8c05995e124449a39434de8113907901",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "7f31ce87d51645eda149a56151258780",
+            "name": "Xã Đào Xá"
+        },
+        {
+            "uid": "3a7e499d23ee4fdb92e35c4df1d7987d",
+            "name": "Xã Bảo Lý"
+        },
+        {
+            "uid": "d746fd49649246ff9a4118f1358cd0f0",
+            "name": "Xã Thượng Đình"
+        },
+        {
+            "uid": "01f6c02152e64277abbe9ff32d6eb555",
+            "name": "Xã Tân Hòa"
+        },
+        {
+            "uid": "cb83403fca5e41dbb163b0712e454ad0",
+            "name": "Xã Nhã Lộng"
+        },
+        {
+            "uid": "2edc5b162e794d428c13be5e90f79b9a",
+            "name": "Xã Điềm Thụy"
+        },
+        {
+            "uid": "3ecfc195667b46ceac23b99390f83eb4",
+            "name": "Xã Xuân Phương"
+        },
+        {
+            "uid": "b1d359027c61489cb66a9d1f665292af",
+            "name": "Xã Tân Đức"
+        },
+        {
+            "uid": "b6f433cd77a341bd86f62f1ed81e729a",
+            "name": "Xã Úc Kỳ"
+        },
+        {
+            "uid": "5fe5457d61324e3f896e86fc88aabf36",
+            "name": "Xã Lương Phú"
+        },
+        {
+            "uid": "e5f4ea81ab88496ea530f91e3f2d7306",
+            "name": "Xã Nga My"
+        },
+        {
+            "uid": "858b7a23bede4b82ae4b2a8b05e8daf9",
+            "name": "Xã Kha Sơn"
+        },
+        {
+            "uid": "bd301578955b4c31b8173bbdb36adc70",
+            "name": "Xã Thanh Ninh"
+        },
+        {
+            "uid": "2b0965e04798437f82af581ea75cc4fd",
+            "name": "Xã Dương Thành"
+        },
+        {
+            "uid": "c25f883f89f54c81bd387f6e7030ef49",
+            "name": "Xã Hà Châu"
+        }
+    ]
+}

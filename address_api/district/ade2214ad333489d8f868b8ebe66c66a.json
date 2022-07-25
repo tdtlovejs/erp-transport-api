@@ -1,0 +1,118 @@
+{
+    "uid": "ade2214ad333489d8f868b8ebe66c66a",
+    "name": "Huyện Vĩnh Tường",
+    "wards": [
+        {
+            "uid": "2e5eff4cee9f4a3f836d3ca961be2a1c",
+            "name": "Thị trấn Vĩnh Tường"
+        },
+        {
+            "uid": "08d07d537d1e48d8aaf322b5a583e876",
+            "name": "Xã Kim Xá"
+        },
+        {
+            "uid": "737db64f96f1437784325492f7aff20c",
+            "name": "Xã Yên Bình"
+        },
+        {
+            "uid": "67ca45a5d8434a0a99e45d5efd6cb295",
+            "name": "Xã Chấn Hưng"
+        },
+        {
+            "uid": "af9e626f083e4b1694c89348080051d8",
+            "name": "Xã Nghĩa Hưng"
+        },
+        {
+            "uid": "02ee23aa52974e88b335de3906bba9e3",
+            "name": "Xã Yên Lập"
+        },
+        {
+            "uid": "a73a7afc21e14c2281b2b3653bbae87e",
+            "name": "Xã Việt Xuân"
+        },
+        {
+            "uid": "8f8eca878a4d46e2bd22d9f28cee4c65",
+            "name": "Xã Bồ Sao"
+        },
+        {
+            "uid": "4eca5d5850354d9b94c49bfe4ac0bc48",
+            "name": "Xã Đại Đồng"
+        },
+        {
+            "uid": "939ecaa057be40bd9fb11443f05b5c10",
+            "name": "Xã Tân Tiến"
+        },
+        {
+            "uid": "5f9c4d1c00374ca6937e95ae916f2620",
+            "name": "Xã Lũng Hoà"
+        },
+        {
+            "uid": "3d2ae9912b4a4d90abe11446251b8bba",
+            "name": "Xã Cao Đại"
+        },
+        {
+            "uid": "6031e2d4653a4290932ddfb61dd41c33",
+            "name": "Thị Trấn Thổ Tang"
+        },
+        {
+            "uid": "30b35409a63e421392a4cc722eaeb83e",
+            "name": "Xã Vĩnh Sơn"
+        },
+        {
+            "uid": "f775d4549b2344ed91ad75cd197597ee",
+            "name": "Xã Bình Dương"
+        },
+        {
+            "uid": "92939e8840104c4f9be27131cff32f6d",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "327183a3300e41d79e43f100149f07b8",
+            "name": "Xã Thượng Trưng"
+        },
+        {
+            "uid": "226513c6b92049939c5cd796dd5135f0",
+            "name": "Xã Vũ Di"
+        },
+        {
+            "uid": "9d19890283f84329ab2b213c9e0d749a",
+            "name": "Xã Lý Nhân"
+        },
+        {
+            "uid": "25fcbc64663248aa964507057a9de03f",
+            "name": "Xã Tuân Chính"
+        },
+        {
+            "uid": "67cede4f8af14a94ba125b6926ff44b8",
+            "name": "Xã Vân Xuân"
+        },
+        {
+            "uid": "2599db31481345db9ead38da95f38eb5",
+            "name": "Xã Tam Phúc"
+        },
+        {
+            "uid": "237f87b65e594668bdffeceffd3c5d8a",
+            "name": "Thị trấn Tứ Trưng"
+        },
+        {
+            "uid": "f81102df1841479c853de5d95b2143c1",
+            "name": "Xã Ngũ Kiên"
+        },
+        {
+            "uid": "98c89c60ebdd4c9584d5809e36715b26",
+            "name": "Xã An Tường"
+        },
+        {
+            "uid": "acf4c89384674f50ae27e27b8ef36105",
+            "name": "Xã Vĩnh Thịnh"
+        },
+        {
+            "uid": "8b11452a0bb642058446abc80ece338f",
+            "name": "Xã Phú Đa"
+        },
+        {
+            "uid": "16205f5cd8df4d4bbdecc780adc514be",
+            "name": "Xã Vĩnh Ninh"
+        }
+    ]
+}

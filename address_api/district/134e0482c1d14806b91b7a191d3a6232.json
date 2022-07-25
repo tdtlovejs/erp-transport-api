@@ -1,0 +1,102 @@
+{
+    "uid": "134e0482c1d14806b91b7a191d3a6232",
+    "name": "Huyện Vị Xuyên",
+    "wards": [
+        {
+            "uid": "75291b44371f4397a9116913ccb21da4",
+            "name": "Xã Kim Thạch"
+        },
+        {
+            "uid": "703981b97c404310b64092f74f8d4376",
+            "name": "Xã Phú Linh"
+        },
+        {
+            "uid": "10560eac29f7442da7fe4c7e853cccc5",
+            "name": "Xã Kim Linh"
+        },
+        {
+            "uid": "bfbef341440f4877b5fcf2803d2b4f1e",
+            "name": "Thị trấn Vị Xuyên"
+        },
+        {
+            "uid": "df74a9d4b03a473aa0d90aba1c1f1f1f",
+            "name": "Thị trấn Nông Trường Việt Lâm"
+        },
+        {
+            "uid": "97c717d2da0a4222a524d09a07c00553",
+            "name": "Xã Minh Tân"
+        },
+        {
+            "uid": "9c43ecfccab34b99b01d700a1a4de039",
+            "name": "Xã Thuận Hoà"
+        },
+        {
+            "uid": "8bb1aa393c39486ba22cf0b854e9954a",
+            "name": "Xã Tùng Bá"
+        },
+        {
+            "uid": "323bf397ac39404cbdefcaf1c9f77ca3",
+            "name": "Xã Thanh Thủy"
+        },
+        {
+            "uid": "2363adf7a892483fa9967e8c78990508",
+            "name": "Xã Thanh Đức"
+        },
+        {
+            "uid": "d2065fa662344ea79a8416cfed1ee11d",
+            "name": "Xã Phong Quang"
+        },
+        {
+            "uid": "d9177dcc373f46aba11c92d82e9f91c6",
+            "name": "Xã Xín Chải"
+        },
+        {
+            "uid": "55961a7246f0441fbb81c3f514f0a8e6",
+            "name": "Xã Phương Tiến"
+        },
+        {
+            "uid": "13635bc3ecf948188860cf92807ddbf5",
+            "name": "Xã Lao Chải"
+        },
+        {
+            "uid": "59af5fff30f84d9f988a483115ea1672",
+            "name": "Xã Cao Bồ"
+        },
+        {
+            "uid": "1146c7ff594d4af0a3da3477a0fa1666",
+            "name": "Xã Đạo Đức"
+        },
+        {
+            "uid": "41855672b40f4c539e6532a30a1328db",
+            "name": "Xã Thượng Sơn"
+        },
+        {
+            "uid": "b4463158d95849c1ae7135f9d4e55416",
+            "name": "Xã Linh Hồ"
+        },
+        {
+            "uid": "40ff3663ac2b41cbaea7619abc5bf69d",
+            "name": "Xã Quảng Ngần"
+        },
+        {
+            "uid": "67b2e0762be340a4a9f145b5089bfeec",
+            "name": "Xã Việt Lâm"
+        },
+        {
+            "uid": "0370906694b845da9ae1ac56414b838d",
+            "name": "Xã Ngọc Linh"
+        },
+        {
+            "uid": "1d2e82a360a94ce79c1089dd0612b27c",
+            "name": "Xã Ngọc Minh"
+        },
+        {
+            "uid": "dff36ce3f3a34158bf2abc729e56d709",
+            "name": "Xã Bạch Ngọc"
+        },
+        {
+            "uid": "1a1398e26a4d4887beb447fa8ea9012e",
+            "name": "Xã Trung Thành"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "uid": "8036a49359a7453b91c30f533f40d6f1",
+    "name": "Huyện Châu Thành",
+    "wards": [
+        {
+            "uid": "fbd96e395edd4719ac3280cc46cdd262",
+            "name": "Thị trấn An Châu"
+        },
+        {
+            "uid": "1d0fe4f65dc84b599ba7a493c09f0038",
+            "name": "Xã An Hòa"
+        },
+        {
+            "uid": "f9cb3246a02e459fa5bed3ace621fff1",
+            "name": "Xã Cần Đăng"
+        },
+        {
+            "uid": "5bf8fb98e68b41d4aef4cafe284c1ddb",
+            "name": "Xã Vĩnh Hanh"
+        },
+        {
+            "uid": "b7915681f2c144dfafc23fd65fd0630e",
+            "name": "Xã Bình Thạnh"
+        },
+        {
+            "uid": "19eb13be6d3b4fe99372f4462b2b2c47",
+            "name": "Thị trấn Vĩnh Bình"
+        },
+        {
+            "uid": "e56238011a0940ceb5c17b0a0c94e786",
+            "name": "Xã Bình Hòa"
+        },
+        {
+            "uid": "ba111bf82b1f4f3ab069ac5f3b2ce319",
+            "name": "Xã Vĩnh An"
+        },
+        {
+            "uid": "808f01e24195488caee4f150fc783277",
+            "name": "Xã Hòa Bình Thạnh"
+        },
+        {
+            "uid": "3882b260e81c46308c1a0c1b7479de46",
+            "name": "Xã Vĩnh Lợi"
+        },
+        {
+            "uid": "7cfd31c1b44147f8bd9d14b7687cf623",
+            "name": "Xã Vĩnh Nhuận"
+        },
+        {
+            "uid": "95960010b8bf4f49afe1fc936b273d04",
+            "name": "Xã Tân Phú"
+        },
+        {
+            "uid": "e7920ec375e049a0bed17d4347fa899a",
+            "name": "Xã Vĩnh Thành"
+        }
+    ]
+}

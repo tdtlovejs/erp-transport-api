@@ -1,0 +1,38 @@
+{
+    "uid": "84c2e69db0ad4257a58ef7eb4b7c2c0a",
+    "name": "Huyện Kiên Lương",
+    "wards": [
+        {
+            "uid": "f6399ce9f62e477c9023aa0b549f0962",
+            "name": "Thị trấn Kiên Lương"
+        },
+        {
+            "uid": "b0db6ee6342e462fa194cf21940a7171",
+            "name": "Xã Kiên Bình"
+        },
+        {
+            "uid": "4207f04d5ba647c0a1cc973e99680cbc",
+            "name": "Xã Hòa Điền"
+        },
+        {
+            "uid": "68459c7635e14ae79c746b667ee434ec",
+            "name": "Xã Dương Hòa"
+        },
+        {
+            "uid": "45bef9409ae34eca8e79af20d9136dd4",
+            "name": "Xã Bình An"
+        },
+        {
+            "uid": "23dfa675014446ce9a513eade2df9aee",
+            "name": "Xã Bình Trị"
+        },
+        {
+            "uid": "7c388f7d147343319199f920e9197157",
+            "name": "Xã Sơn Hải"
+        },
+        {
+            "uid": "bfb07d8539724b648933adcb7129847b",
+            "name": "Xã Hòn Nghệ"
+        }
+    ]
+}

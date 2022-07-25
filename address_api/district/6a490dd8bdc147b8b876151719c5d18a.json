@@ -1,0 +1,46 @@
+{
+    "uid": "6a490dd8bdc147b8b876151719c5d18a",
+    "name": "Huyện Đức Cơ",
+    "wards": [
+        {
+            "uid": "54be7494bce44c3396262a7458eb1be9",
+            "name": "Thị trấn Chư Ty"
+        },
+        {
+            "uid": "1f39dbc74bb94737bca2f04185faffc4",
+            "name": "Xã Ia Dơk"
+        },
+        {
+            "uid": "a9ad63051bbd4c02949db67ae3e1f784",
+            "name": "Xã Ia Krêl"
+        },
+        {
+            "uid": "9ea4bacdf2c344a9b93b28ccc22f04f0",
+            "name": "Xã Ia Din"
+        },
+        {
+            "uid": "9ac9891daebf4c0ea9585a9c3f8a303d",
+            "name": "Xã Ia Kla"
+        },
+        {
+            "uid": "795db75c773b4b68baa8d2bb6d8bdd6c",
+            "name": "Xã Ia Dom"
+        },
+        {
+            "uid": "ae8b3f8c0c0f47788140b55fc840050a",
+            "name": "Xã Ia Lang"
+        },
+        {
+            "uid": "f752a7cd188c48e99bb9f567ab05bc8f",
+            "name": "Xã Ia Kriêng"
+        },
+        {
+            "uid": "6e3ef003ad68454aa799848da987b7a8",
+            "name": "Xã Ia Pnôn"
+        },
+        {
+            "uid": "195b5b1975884d4aadeebd7d17db5579",
+            "name": "Xã Ia Nan"
+        }
+    ]
+}

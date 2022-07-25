@@ -1,0 +1,106 @@
+{
+    "uid": "03b0ec9601bb4b56b0292fc39c7056e0",
+    "name": "Huyện Hương Sơn",
+    "wards": [
+        {
+            "uid": "e8f0c531853c4415a4ea1b9d1b1259a3",
+            "name": "Thị trấn Phố Châu"
+        },
+        {
+            "uid": "17c5e324b3a343d5aadce4b83af722dc",
+            "name": "Thị trấn Tây Sơn"
+        },
+        {
+            "uid": "84d671f08a3d48e290ef4acfbff26180",
+            "name": "Xã Sơn Hồng"
+        },
+        {
+            "uid": "771df96cc584448b9d491d1e4a9219a7",
+            "name": "Xã Sơn Tiến"
+        },
+        {
+            "uid": "17faef515a5b4f89bddd3e57f8b89771",
+            "name": "Xã Sơn Lâm"
+        },
+        {
+            "uid": "6c2da242c5af4b0c9a2496dbac484744",
+            "name": "Xã Sơn Lễ"
+        },
+        {
+            "uid": "57e0a541dbff49cebbacec74e060a9e3",
+            "name": "Xã Sơn Giang"
+        },
+        {
+            "uid": "9495af7792694d50a281d33def73ad5d",
+            "name": "Xã Sơn Lĩnh"
+        },
+        {
+            "uid": "acbe2b5f81d5494fbb9064daadb2ef96",
+            "name": "Xã An Hòa Thịnh"
+        },
+        {
+            "uid": "7ce954c4c60249d4ac5205effd7c137d",
+            "name": "Xã Sơn Tây"
+        },
+        {
+            "uid": "b7689480100d475b8dc0e6d25217ebbe",
+            "name": "Xã Sơn Ninh"
+        },
+        {
+            "uid": "5d4ea967d9ee42d899e66cf7cac27601",
+            "name": "Xã Sơn Châu"
+        },
+        {
+            "uid": "0c5809dd939545c4b73c98fbbf8219f9",
+            "name": "Xã Tân Mỹ Hà"
+        },
+        {
+            "uid": "6763b5864aa349208c89b18ccd98b36e",
+            "name": "Xã Quang Diệm"
+        },
+        {
+            "uid": "c85036f97f964c05aa068c656fedaad9",
+            "name": "Xã Sơn Trung"
+        },
+        {
+            "uid": "48c8f8ea5b834fbb9cd3511e16172fc5",
+            "name": "Xã Sơn Bằng"
+        },
+        {
+            "uid": "d01c7c40bbc344fda6669fc2713d870b",
+            "name": "Xã Sơn Bình"
+        },
+        {
+            "uid": "21492a8026ed4419862256a63bca536c",
+            "name": "Xã Sơn Kim 1"
+        },
+        {
+            "uid": "87c45d15960b428fa5dac0c4f8051a19",
+            "name": "Xã Sơn Kim 2"
+        },
+        {
+            "uid": "0da81bdb08324724895a90b55fcbd9b1",
+            "name": "Xã Sơn Trà"
+        },
+        {
+            "uid": "5087921b1a904abe9faaad8fd9a2add3",
+            "name": "Xã Sơn Long"
+        },
+        {
+            "uid": "950d9bf8b7044f9a9855cdcdb1776076",
+            "name": "Xã Kim Hoa"
+        },
+        {
+            "uid": "607c1c9fca6f433da5138c328ba170ca",
+            "name": "Xã Sơn Hàm"
+        },
+        {
+            "uid": "8081593f638b447497a159acf31ee8cd",
+            "name": "Xã Sơn Phú"
+        },
+        {
+            "uid": "d3772032a4ae4106983f6e9cb2767eb2",
+            "name": "Xã Sơn Trường"
+        }
+    ]
+}

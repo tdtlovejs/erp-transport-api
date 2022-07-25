@@ -1,0 +1,78 @@
+{
+    "uid": "f87c7e13da2d432da5b3f0537fb35ed6",
+    "name": "Huyện Đại Lộc",
+    "wards": [
+        {
+            "uid": "a4d568764a9043ec966c631b967ff747",
+            "name": "Thị Trấn Ái Nghĩa"
+        },
+        {
+            "uid": "c057c9d269ad42d78cd7edbaff0a2529",
+            "name": "Xã Đại Sơn"
+        },
+        {
+            "uid": "cb544f9c1aee4e369f8b27d49b0b5792",
+            "name": "Xã Đại Lãnh"
+        },
+        {
+            "uid": "6e40f37c8ae0414ca99bd03b9c491f6d",
+            "name": "Xã Đại Hưng"
+        },
+        {
+            "uid": "835dd57326164d63b853c1111297692c",
+            "name": "Xã Đại Hồng"
+        },
+        {
+            "uid": "9d8d69ad9b5544019842d2d3a05e75a9",
+            "name": "Xã Đại Đồng"
+        },
+        {
+            "uid": "fab3d9cb4b8c48b0936e19aef40cb837",
+            "name": "Xã Đại Quang"
+        },
+        {
+            "uid": "ca8f979c7d494f2582d5c6cd02ce009f",
+            "name": "Xã Đại Nghĩa"
+        },
+        {
+            "uid": "e92422a761db49e09b0a41257f11049f",
+            "name": "Xã Đại Hiệp"
+        },
+        {
+            "uid": "90ec39c6445240948c4dd6fd567736db",
+            "name": "Xã Đại Thạnh"
+        },
+        {
+            "uid": "edcfbad9a95943d1b13933039ac3393c",
+            "name": "Xã Đại Chánh"
+        },
+        {
+            "uid": "517afd70ac6540679c529bf11ee2196d",
+            "name": "Xã Đại Tân"
+        },
+        {
+            "uid": "fd7d1836da3e41f5bd1698f4ac77e6d5",
+            "name": "Xã Đại Phong"
+        },
+        {
+            "uid": "cbc5b2e5bc92425b87420054a58eccd7",
+            "name": "Xã Đại Minh"
+        },
+        {
+            "uid": "c3ad31dd56a8463f8afb28c12a849562",
+            "name": "Xã Đại Thắng"
+        },
+        {
+            "uid": "0d531a10877f4675aacb0e89ce9c175c",
+            "name": "Xã Đại Cường"
+        },
+        {
+            "uid": "8eff0c176b304eaa8910e5022100904b",
+            "name": "Xã Đại An"
+        },
+        {
+            "uid": "01d52df8406b4c839fed2aaedb89f4a1",
+            "name": "Xã Đại Hòa"
+        }
+    ]
+}

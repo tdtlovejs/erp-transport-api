@@ -1,0 +1,38 @@
+{
+    "uid": "2bbae63b71814b4591277e931652bb8e",
+    "name": "Huyện Long Mỹ",
+    "wards": [
+        {
+            "uid": "1f3f1f4c20eb40e0b91c470da6876c43",
+            "name": "Xã Thuận Hưng"
+        },
+        {
+            "uid": "2a8d27e0501447728499a57daa664080",
+            "name": "Xã Thuận Hòa"
+        },
+        {
+            "uid": "b9b280ef0f374a76a4fec1859a18ea4f",
+            "name": "Xã Vĩnh Thuận Đông"
+        },
+        {
+            "uid": "703d47ce95754a3fbd4b5aec56f66d56",
+            "name": "Thị trấn Vĩnh Viễn"
+        },
+        {
+            "uid": "b4c71cb65fe94a19b5ff1561239ecadc",
+            "name": "Xã Vĩnh Viễn A"
+        },
+        {
+            "uid": "6c43252f90e048d4b9227774a0eaf971",
+            "name": "Xã Lương Tâm"
+        },
+        {
+            "uid": "fc35d89813534c97b9b6f9f44f685791",
+            "name": "Xã Lương Nghĩa"
+        },
+        {
+            "uid": "1c36d9d4a9584c0bb4d46325add0dbfa",
+            "name": "Xã Xà Phiên"
+        }
+    ]
+}

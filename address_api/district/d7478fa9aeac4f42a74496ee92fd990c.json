@@ -1,0 +1,66 @@
+{
+    "uid": "d7478fa9aeac4f42a74496ee92fd990c",
+    "name": "Huyện Quảng Ninh",
+    "wards": [
+        {
+            "uid": "1b402450e1c3402faa50c9567eb1fe0d",
+            "name": "Thị trấn Quán Hàu"
+        },
+        {
+            "uid": "b027a06e4c0e4a8fa19becd49cdb0e0b",
+            "name": "Xã Trường Sơn"
+        },
+        {
+            "uid": "c6f1067cb7bf473899a146a0350c39ff",
+            "name": "Xã Lương Ninh"
+        },
+        {
+            "uid": "345fd7a75a9046dabfd5fb6e7f74b977",
+            "name": "Xã Vĩnh Ninh"
+        },
+        {
+            "uid": "52fa8305c455464ba780e4bbc3f077f4",
+            "name": "Xã Võ Ninh"
+        },
+        {
+            "uid": "0cb5390f1d5e4c7cbdb4915cc0470486",
+            "name": "Xã Hải Ninh"
+        },
+        {
+            "uid": "9416d9e7032c4a4b9115959664fe44c2",
+            "name": "Xã Hàm Ninh"
+        },
+        {
+            "uid": "0170c170ca01472d88258425c5596a98",
+            "name": "Xã Duy Ninh"
+        },
+        {
+            "uid": "939f158c5a5f4161b987cea2f4deb5bc",
+            "name": "Xã Gia Ninh"
+        },
+        {
+            "uid": "82a0fed7333c4a71b6247ecdcc8be025",
+            "name": "Xã Trường Xuân"
+        },
+        {
+            "uid": "b1e386fc41534066a826ae9e7e34d93c",
+            "name": "Xã Hiền Ninh"
+        },
+        {
+            "uid": "3917220146824c1d848bff27c8cc9e82",
+            "name": "Xã Tân Ninh"
+        },
+        {
+            "uid": "2361df08111749699b06d73a0282df63",
+            "name": "Xã Xuân Ninh"
+        },
+        {
+            "uid": "3ca7598b45fb46bebe163c72e80ce9f3",
+            "name": "Xã An Ninh"
+        },
+        {
+            "uid": "1fbda6af9dfc43609db7cc271e54642c",
+            "name": "Xã Vạn Ninh"
+        }
+    ]
+}

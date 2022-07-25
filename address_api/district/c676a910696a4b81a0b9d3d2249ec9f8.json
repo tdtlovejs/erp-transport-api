@@ -1,0 +1,54 @@
+{
+    "uid": "c676a910696a4b81a0b9d3d2249ec9f8",
+    "name": "Huyện Thủ Thừa",
+    "wards": [
+        {
+            "uid": "672be4ae33bc4f02912bad9a496534b8",
+            "name": "Thị trấn Thủ Thừa"
+        },
+        {
+            "uid": "45f27136e8bd432484ef993328afee15",
+            "name": "Xã Long Thạnh"
+        },
+        {
+            "uid": "33f450b366684a13b4ac471cbd95bfbb",
+            "name": "Xã Tân Thành"
+        },
+        {
+            "uid": "3ab3a6deb4d14464893d94735e450679",
+            "name": "Xã Long Thuận"
+        },
+        {
+            "uid": "ba9ecfdee9cd41b4925f6bc738ad6eb1",
+            "name": "Xã Mỹ Lạc"
+        },
+        {
+            "uid": "3750bf2285ff40ee8c2011ad340d0612",
+            "name": "Xã Mỹ Thạnh"
+        },
+        {
+            "uid": "71288f66b58e4eda99f00f952d397903",
+            "name": "Xã Bình An"
+        },
+        {
+            "uid": "8f1c084840b842138e4b56728cafd19d",
+            "name": "Xã Nhị Thành"
+        },
+        {
+            "uid": "ce8f0bbfed50458e824a1ec8c8527cea",
+            "name": "Xã Mỹ An"
+        },
+        {
+            "uid": "e12849eb3b7e4bb6a99ab2c538fafdd6",
+            "name": "Xã Bình Thạnh"
+        },
+        {
+            "uid": "530019a135524c7aae5abb81d2a29273",
+            "name": "Xã Mỹ Phú"
+        },
+        {
+            "uid": "bfbad83c91af4b77b3de8d21ab235b4b",
+            "name": "Xã Tân Long"
+        }
+    ]
+}

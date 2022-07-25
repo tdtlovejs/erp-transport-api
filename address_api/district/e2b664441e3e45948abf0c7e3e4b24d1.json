@@ -1,0 +1,90 @@
+{
+    "uid": "e2b664441e3e45948abf0c7e3e4b24d1",
+    "name": "Huyện Phúc Thọ",
+    "wards": [
+        {
+            "uid": "d0cfca278c81494dae00f2f6a70ba832",
+            "name": "Thị trấn Phúc Thọ"
+        },
+        {
+            "uid": "39d6c231cd6141edbc252d470284647f",
+            "name": "Xã Vân Hà"
+        },
+        {
+            "uid": "bf1703854a094c8c9b953c6ddfaa1347",
+            "name": "Xã Vân Phúc"
+        },
+        {
+            "uid": "9b76a3989843488e9486854dda83ce3b",
+            "name": "Xã Vân Nam"
+        },
+        {
+            "uid": "9739ff8ed61d4f05bef08d6676b29824",
+            "name": "Xã Xuân Đình"
+        },
+        {
+            "uid": "0a10d5a3b0c04dfeb251ca3172c04350",
+            "name": "Xã Sen Phương"
+        },
+        {
+            "uid": "20ce42b626e04de0971ab09233639573",
+            "name": "Xã Võng Xuyên"
+        },
+        {
+            "uid": "252d95d9d396403f897cec5ef6add817",
+            "name": "Xã Thọ Lộc"
+        },
+        {
+            "uid": "ffc60b7283194537831e726111eff081",
+            "name": "Xã Long Xuyên"
+        },
+        {
+            "uid": "858f44c7030c42f1b9139dfbd23fa111",
+            "name": "Xã Thượng Cốc"
+        },
+        {
+            "uid": "ed2be58596f4491db479cf8c34523c70",
+            "name": "Xã Hát Môn"
+        },
+        {
+            "uid": "2b542f0e80944b4ca6ddb85a246063c0",
+            "name": "Xã Tích Giang"
+        },
+        {
+            "uid": "3be199b67fa049228347eb63160e7122",
+            "name": "Xã Thanh Đa"
+        },
+        {
+            "uid": "41f3079d752a46dfb7864919f69e9dda",
+            "name": "Xã Trạch Mỹ Lộc"
+        },
+        {
+            "uid": "ee767268f64643cb9d4cdc9e5442aa90",
+            "name": "Xã Phúc Hòa"
+        },
+        {
+            "uid": "aaa0af2f14e244daa3ba2915951cb74e",
+            "name": "Xã Ngọc Tảo"
+        },
+        {
+            "uid": "d8edcd22afb4452e95e8369a7c16e1ff",
+            "name": "Xã Phụng Thượng"
+        },
+        {
+            "uid": "b369bf87710847229424329c2d775b66",
+            "name": "Xã Tam Thuấn"
+        },
+        {
+            "uid": "ae58895e2c6742ed82d4b7a715782c67",
+            "name": "Xã Tam Hiệp"
+        },
+        {
+            "uid": "c014644247884cbe909e68bcc0f10b67",
+            "name": "Xã Hiệp Thuận"
+        },
+        {
+            "uid": "688354fccec84408bf93a341c3d2786c",
+            "name": "Xã Liên Hiệp"
+        }
+    ]
+}

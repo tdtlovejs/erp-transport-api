@@ -1,0 +1,74 @@
+{
+    "uid": "86e4f59ebd1e46848df2d665523dfce2",
+    "name": "Huyện Na Rì",
+    "wards": [
+        {
+            "uid": "e3780dfb6bba4947a5fd48a9bd805980",
+            "name": "Xã Văn Vũ"
+        },
+        {
+            "uid": "95c8ca00a7894d80a3d03c9f6b317306",
+            "name": "Xã Văn Lang"
+        },
+        {
+            "uid": "8616ffcc916d47cd8e77f2c7108354bb",
+            "name": "Xã Lương Thượng"
+        },
+        {
+            "uid": "b38c57ceda664be7816b0cb163ac647b",
+            "name": "Xã Kim Hỷ"
+        },
+        {
+            "uid": "02e70b5d3fae49e4b1c4e3d6bb7e346b",
+            "name": "Xã Cường Lợi"
+        },
+        {
+            "uid": "2845a1d20259402283fa492dac34af4a",
+            "name": "Thị trấn Yến Lạc"
+        },
+        {
+            "uid": "1f2b01d86b8b497eb90136103daf67e3",
+            "name": "Xã Kim Lư"
+        },
+        {
+            "uid": "e7e1861794234ee5ac9298e594e56f69",
+            "name": "Xã Sơn Thành"
+        },
+        {
+            "uid": "47cbd822df4a42f7bc2377615c7627ef",
+            "name": "Xã Văn Minh"
+        },
+        {
+            "uid": "6b070678af694efe9764ec1fff981fd0",
+            "name": "Xã Côn Minh"
+        },
+        {
+            "uid": "67627598afa74ea69a71415afd4c4782",
+            "name": "Xã Cư Lễ"
+        },
+        {
+            "uid": "67b015d662414b0fa80945a7be2b55e6",
+            "name": "Xã Trần Phú"
+        },
+        {
+            "uid": "3c695ceaee2c4ea8ac089aa4de2336c2",
+            "name": "Xã Quang Phong"
+        },
+        {
+            "uid": "f6235148d04b428993a90885a71654c5",
+            "name": "Xã Dương Sơn"
+        },
+        {
+            "uid": "cc37c92e92ad4ff9a5646dcc13409816",
+            "name": "Xã Xuân Dương"
+        },
+        {
+            "uid": "a0bbb2b9d0aa47608f15e5264f6204c6",
+            "name": "Xã Đổng Xá"
+        },
+        {
+            "uid": "38ea3741099147069a1859baca62f4aa",
+            "name": "Xã Liêm Thuỷ"
+        }
+    ]
+}

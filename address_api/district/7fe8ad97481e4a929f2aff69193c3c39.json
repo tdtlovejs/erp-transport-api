@@ -1,0 +1,78 @@
+{
+    "uid": "7fe8ad97481e4a929f2aff69193c3c39",
+    "name": "Huyện Can Lộc",
+    "wards": [
+        {
+            "uid": "189b372aadbf480d8ea1e7f218994490",
+            "name": "Thị trấn Nghèn"
+        },
+        {
+            "uid": "b50edfeee6b14f77ad901805319a8279",
+            "name": "Xã Thiên Lộc"
+        },
+        {
+            "uid": "d8530030ff92494a93b099815749fcf9",
+            "name": "Xã Thuần Thiện"
+        },
+        {
+            "uid": "933aa20b4664435396b67fa233407385",
+            "name": "Xã Vượng Lộc"
+        },
+        {
+            "uid": "8841ee4ffae94c81bf98281271502dde",
+            "name": "Xã Thanh Lộc"
+        },
+        {
+            "uid": "5eeb617dd7e0428798020e52ad458564",
+            "name": "Xã Kim Song Trường"
+        },
+        {
+            "uid": "255869c56d9543848908c3228b28d9c7",
+            "name": "Xã Thường Nga"
+        },
+        {
+            "uid": "70d6616bdc564437b7138555dc6000c3",
+            "name": "Xã Tùng Lộc"
+        },
+        {
+            "uid": "9086580a59e9414ea466fdbb09636a64",
+            "name": "Xã Phú Lộc"
+        },
+        {
+            "uid": "46cddffc2a9b445aa43b7d787482b5af",
+            "name": "Xã Gia Hanh"
+        },
+        {
+            "uid": "c9d3d719725f4e56af07868a641cd398",
+            "name": "Xã Khánh Vĩnh Yên"
+        },
+        {
+            "uid": "2cccca0a811c4a4da42efc7f7ca30435",
+            "name": "Xã Trung Lộc"
+        },
+        {
+            "uid": "b138df7b78474910b33862bda01722b6",
+            "name": "Xã Xuân Lộc"
+        },
+        {
+            "uid": "c5f269587d624ce19cf93bf43856224e",
+            "name": "Xã Thượng Lộc"
+        },
+        {
+            "uid": "79a5484a5b864ee8b57ba97b30de010b",
+            "name": "Xã Quang Lộc"
+        },
+        {
+            "uid": "101ad81e415d444fbfc69d41629dbcb4",
+            "name": "Thị trấn Đồng Lộc"
+        },
+        {
+            "uid": "24440e144a3c47cc841e23c838da3eac",
+            "name": "Xã Mỹ Lộc"
+        },
+        {
+            "uid": "fbf0effcd894481d9607d769be496758",
+            "name": "Xã Sơn Lộc"
+        }
+    ]
+}

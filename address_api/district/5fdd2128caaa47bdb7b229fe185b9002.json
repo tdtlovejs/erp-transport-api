@@ -1,0 +1,50 @@
+{
+    "uid": "5fdd2128caaa47bdb7b229fe185b9002",
+    "name": "Quận Thanh Xuân",
+    "wards": [
+        {
+            "uid": "9b2196b1542240ddbe32df694d176dc7",
+            "name": "Phường Nhân Chính"
+        },
+        {
+            "uid": "4864c9ccd0114af794c505c9a632969c",
+            "name": "Phường Thượng Đình"
+        },
+        {
+            "uid": "a7ac324a40ce4a45ad4173800e341ec7",
+            "name": "Phường Khương Trung"
+        },
+        {
+            "uid": "34d9ad4db0024deab388fb7ac738a3d8",
+            "name": "Phường Khương Mai"
+        },
+        {
+            "uid": "8bacd45791934c3ea588b7638bdf1aa4",
+            "name": "Phường Thanh Xuân Trung"
+        },
+        {
+            "uid": "686cb4e313204421bd60d3b9ab375eff",
+            "name": "Phường Phương Liệt"
+        },
+        {
+            "uid": "7a15ffddd9084e5d998d0b2baff8f84a",
+            "name": "Phường Hạ Đình"
+        },
+        {
+            "uid": "6c89d54b2ee541c48b65cf968eca22a0",
+            "name": "Phường Khương Đình"
+        },
+        {
+            "uid": "6e516192cf0c402f82ca88ac99f1f38a",
+            "name": "Phường Thanh Xuân Bắc"
+        },
+        {
+            "uid": "00274b0015774597ba072e1e18d2a475",
+            "name": "Phường Thanh Xuân Nam"
+        },
+        {
+            "uid": "5509c7724c5a427595f65cde9574b932",
+            "name": "Phường Kim Giang"
+        }
+    ]
+}

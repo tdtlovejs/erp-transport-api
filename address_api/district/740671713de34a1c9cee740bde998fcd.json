@@ -1,0 +1,50 @@
+{
+    "uid": "740671713de34a1c9cee740bde998fcd",
+    "name": "Thành phố Bảo Lộc",
+    "wards": [
+        {
+            "uid": "ab50f1eec0da46c893a801f46730f466",
+            "name": "Phường Lộc Phát"
+        },
+        {
+            "uid": "8708c7afffe34275b63c8e7f670cf3cd",
+            "name": "Phường Lộc Tiến"
+        },
+        {
+            "uid": "763f2b5da12645a5b23da66a381162c6",
+            "name": "Phường 2"
+        },
+        {
+            "uid": "d8402634f180452c875bf8627908b5f6",
+            "name": "Phường 1"
+        },
+        {
+            "uid": "4457d5ab53954ac3bdfa30cccd912985",
+            "name": "Phường B'lao"
+        },
+        {
+            "uid": "0c23a7dd16d1474dbc1db5cef84cb9bc",
+            "name": "Phường Lộc Sơn"
+        },
+        {
+            "uid": "cd0acde11e40486a8a6201059b7e69a7",
+            "name": "Xã Đạm Bri"
+        },
+        {
+            "uid": "fb385e843a4d4fa081cd8af015965eeb",
+            "name": "Xã Lộc Thanh"
+        },
+        {
+            "uid": "cbc0467bbe0c41ce9f4dade093cbcfa6",
+            "name": "Xã Lộc Nga"
+        },
+        {
+            "uid": "bca18a7aa3ab461ba888b8c4084643a9",
+            "name": "Xã Lộc Châu"
+        },
+        {
+            "uid": "015f3034ac244207b08054dfd524cf39",
+            "name": "Xã Đại Lào"
+        }
+    ]
+}

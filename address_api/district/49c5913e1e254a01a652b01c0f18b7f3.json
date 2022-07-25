@@ -1,0 +1,26 @@
+{
+    "uid": "49c5913e1e254a01a652b01c0f18b7f3",
+    "name": "Huyện Minh Long",
+    "wards": [
+        {
+            "uid": "cf24f0346865437190963a88529924d9",
+            "name": "Xã Long Sơn"
+        },
+        {
+            "uid": "ae019c0a416f4057b41f9ef1107ff523",
+            "name": "Xã Long Mai"
+        },
+        {
+            "uid": "d3c68dc26eca47d998ce179efb8382eb",
+            "name": "Xã Thanh An"
+        },
+        {
+            "uid": "04905024a65f4c24b4fb5550722783ec",
+            "name": "Xã Long Môn"
+        },
+        {
+            "uid": "d3f452fd97ed4451ad5dc490e8cd25fc",
+            "name": "Xã Long Hiệp"
+        }
+    ]
+}

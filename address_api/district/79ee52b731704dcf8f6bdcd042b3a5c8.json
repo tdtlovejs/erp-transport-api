@@ -1,0 +1,90 @@
+{
+    "uid": "79ee52b731704dcf8f6bdcd042b3a5c8",
+    "name": "Huyện Trấn Yên",
+    "wards": [
+        {
+            "uid": "f1a5505368994b5da08594a82b1ab53d",
+            "name": "Thị trấn Cổ Phúc"
+        },
+        {
+            "uid": "3434d2928d4f4ea59bfd4b5f663a6ad8",
+            "name": "Xã Tân Đồng"
+        },
+        {
+            "uid": "388245a6094846948959004304f4d6e2",
+            "name": "Xã Báo Đáp"
+        },
+        {
+            "uid": "b61ae15d6dcb4ec3bb55c6d5c44097bf",
+            "name": "Xã Đào Thịnh"
+        },
+        {
+            "uid": "9f6af0caefda45c2b1266a11ac1377ea",
+            "name": "Xã Việt Thành"
+        },
+        {
+            "uid": "29082c01a3a64db28759a97b6dc62f03",
+            "name": "Xã Hòa Cuông"
+        },
+        {
+            "uid": "48365f5f1c1d43d3a590e54f7008aa85",
+            "name": "Xã Minh Quán"
+        },
+        {
+            "uid": "6d545a33abb345e2ae516d80f4d35e24",
+            "name": "Xã Quy Mông"
+        },
+        {
+            "uid": "d911b78ccf32409daff18a758b328f4a",
+            "name": "Xã Cường Thịnh"
+        },
+        {
+            "uid": "4160f8420cfa4e75a193ca3269436390",
+            "name": "Xã Kiên Thành"
+        },
+        {
+            "uid": "0c0100b45e71439e8290a08a0b50e5a3",
+            "name": "Xã Nga Quán"
+        },
+        {
+            "uid": "77d93578b7a34e6cb30c6fd303fa77bb",
+            "name": "Xã Y Can"
+        },
+        {
+            "uid": "8375c736c45248c79ce9f0e8c4709022",
+            "name": "Xã Lương Thịnh"
+        },
+        {
+            "uid": "08862e88ecac48e4a27331a505e38a0d",
+            "name": "Xã Bảo Hưng"
+        },
+        {
+            "uid": "924f529da4b7438b81570302b5e105ee",
+            "name": "Xã Việt Cường"
+        },
+        {
+            "uid": "b54ada5fdaf5434e8a9a707f35c69f5e",
+            "name": "Xã Minh Quân"
+        },
+        {
+            "uid": "fc1be99be79f48918f1299a4c35ea220",
+            "name": "Xã Hồng Ca"
+        },
+        {
+            "uid": "2f0d0d2f9d73496cba3bc7a06505397b",
+            "name": "Xã Hưng Thịnh"
+        },
+        {
+            "uid": "f01f8f328e414816bf77c73ed7719721",
+            "name": "Xã Hưng Khánh"
+        },
+        {
+            "uid": "5cb5c9c6222846f68cc2f1f35308abc5",
+            "name": "Xã Việt Hồng"
+        },
+        {
+            "uid": "922f80ea2ff346bfb6cbc5ef31e8dc76",
+            "name": "Xã Vân Hội"
+        }
+    ]
+}

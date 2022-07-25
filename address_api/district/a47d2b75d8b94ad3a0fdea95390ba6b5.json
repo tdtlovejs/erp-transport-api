@@ -1,0 +1,34 @@
+{
+    "uid": "a47d2b75d8b94ad3a0fdea95390ba6b5",
+    "name": "Thị xã Phước Long",
+    "wards": [
+        {
+            "uid": "31e8d5827bad4b6b8fb10b48b54a94c3",
+            "name": "Phường Thác Mơ"
+        },
+        {
+            "uid": "5c0d551bdb94423e9f8f535868059581",
+            "name": "Phường Long Thủy"
+        },
+        {
+            "uid": "13991e2c39d244cd887e231e84e3b398",
+            "name": "Phường Phước Bình"
+        },
+        {
+            "uid": "c7bf2bc2280f41b99e81219d742f6192",
+            "name": "Phường Long Phước"
+        },
+        {
+            "uid": "f8b6fe669b6d4d47b58b683a69c62a56",
+            "name": "Phường Sơn Giang"
+        },
+        {
+            "uid": "343bcf4c354243e0bad33953f607cc8e",
+            "name": "Xã Long Giang"
+        },
+        {
+            "uid": "ef527de1dfd74f768c3fac8c7acfd18d",
+            "name": "Xã Phước Tín"
+        }
+    ]
+}

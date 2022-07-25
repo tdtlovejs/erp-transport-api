@@ -1,0 +1,30 @@
+{
+    "uid": "caede321d8af49249a26bea1351b32dd",
+    "name": "Huyện Nông Sơn",
+    "wards": [
+        {
+            "uid": "4c4c52a19f344355a2411ffe7f083898",
+            "name": "Xã Quế Trung"
+        },
+        {
+            "uid": "5c7dd7e0faf34c5a85fa8a1e18673aa7",
+            "name": "Xã Ninh Phước"
+        },
+        {
+            "uid": "320a9541ad30456589917254311bb92f",
+            "name": "Xã Phước Ninh"
+        },
+        {
+            "uid": "98af1341fc0e4a28b82d7ec05b2c879e",
+            "name": "Xã Quế Lộc"
+        },
+        {
+            "uid": "2fa08292dd504886b98382d64f74929b",
+            "name": "Xã Sơn Viên"
+        },
+        {
+            "uid": "ece8ddf001404417abc77b156aae521e",
+            "name": "Xã Quế Lâm"
+        }
+    ]
+}

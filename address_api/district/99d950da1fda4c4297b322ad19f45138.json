@@ -1,0 +1,66 @@
+{
+    "uid": "99d950da1fda4c4297b322ad19f45138",
+    "name": "Thành phố Cam Ranh",
+    "wards": [
+        {
+            "uid": "3af644ac01674a7294bf67595e56f856",
+            "name": "Phường Cam Nghĩa"
+        },
+        {
+            "uid": "3b13c8ef5b2f47349845c3ab1f2e299c",
+            "name": "Phường Cam Phúc Bắc"
+        },
+        {
+            "uid": "b1a1518c4c004f16bcb98a5b38e6eea6",
+            "name": "Phường Cam Phúc Nam"
+        },
+        {
+            "uid": "466e9d0faea34d2d9a2dc271436928ac",
+            "name": "Phường Cam Lộc"
+        },
+        {
+            "uid": "8d8e7c435a00495f8fe47dd35f89730b",
+            "name": "Phường Cam Phú"
+        },
+        {
+            "uid": "7e8ba61754384e2595ffaabd2a25ff8c",
+            "name": "Phường Ba Ngòi"
+        },
+        {
+            "uid": "2c5e8209753c4d8ea741755c3633750f",
+            "name": "Phường Cam Thuận"
+        },
+        {
+            "uid": "f58e75775f794cdbae8f8fbdb1e5dbcd",
+            "name": "Phường Cam Lợi"
+        },
+        {
+            "uid": "87983d9c1d8d4a489034b0ce8a8505f7",
+            "name": "Phường Cam Linh"
+        },
+        {
+            "uid": "1eba908a4471404ea849bdd43b3040f1",
+            "name": "Xã Cam Thành Nam"
+        },
+        {
+            "uid": "a67d87a533ef4b989df5ca36ca367145",
+            "name": "Xã Cam Phước Đông"
+        },
+        {
+            "uid": "d8b1e449b81f4b8bb38a1bd624806364",
+            "name": "Xã Cam Thịnh Tây"
+        },
+        {
+            "uid": "e367bf1028924f5aa81f5aa26420632f",
+            "name": "Xã Cam Thịnh Đông"
+        },
+        {
+            "uid": "35f357c4c99e4765ae4fbe6b35334f90",
+            "name": "Xã Cam Lập"
+        },
+        {
+            "uid": "e7b681b307af4a7ca67002a0ff206bd6",
+            "name": "Xã Cam Bình"
+        }
+    ]
+}

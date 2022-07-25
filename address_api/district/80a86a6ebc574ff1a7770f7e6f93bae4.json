@@ -1,0 +1,82 @@
+{
+    "uid": "80a86a6ebc574ff1a7770f7e6f93bae4",
+    "name": "Huyện Đồng Văn",
+    "wards": [
+        {
+            "uid": "e1c32139ffeb43508f50753954fbdde2",
+            "name": "Thị trấn Phó Bảng"
+        },
+        {
+            "uid": "8431abd9c4d04a0b9759a1ad1461343c",
+            "name": "Xã Lũng Cú"
+        },
+        {
+            "uid": "65ac3f7d071b44ee9585680a3cfce34c",
+            "name": "Xã Má Lé"
+        },
+        {
+            "uid": "b54da3ccc5cd4a208d931a25f570073b",
+            "name": "Thị trấn Đồng Văn"
+        },
+        {
+            "uid": "f8c59db0766a49e0964828ca6816e683",
+            "name": "Xã Lũng Táo"
+        },
+        {
+            "uid": "9d5a45bcb3fc4d38854e5892dcd911e4",
+            "name": "Xã Phố Là"
+        },
+        {
+            "uid": "548355448380412999157c3a9ffde3a6",
+            "name": "Xã Thài Phìn Tủng"
+        },
+        {
+            "uid": "d2d9029fd5fb4f278c95fef9ea651015",
+            "name": "Xã Sủng Là"
+        },
+        {
+            "uid": "9d17ba135d2341ee8e372b0839b3cac5",
+            "name": "Xã Xà Phìn"
+        },
+        {
+            "uid": "8320030a4ee84399883ffc19ab123a8a",
+            "name": "Xã Tả Phìn"
+        },
+        {
+            "uid": "fafb726aa9634d92b1500ce07ecfd920",
+            "name": "Xã Tả Lủng"
+        },
+        {
+            "uid": "b8910e4af8e14aa2a2d4d41a59ef78e2",
+            "name": "Xã Phố Cáo"
+        },
+        {
+            "uid": "9aa7ac1e13034196b7ece01bd90dcecd",
+            "name": "Xã Sính Lủng"
+        },
+        {
+            "uid": "c8d5ee0058a84603a4632a5f6d244c78",
+            "name": "Xã Sảng Tủng"
+        },
+        {
+            "uid": "792eee5fab814ebab0f26a084e90e1c6",
+            "name": "Xã Lũng Thầu"
+        },
+        {
+            "uid": "60828923fffc4b5a9b02db201aa80557",
+            "name": "Xã Hố Quáng Phìn"
+        },
+        {
+            "uid": "03c06e72b7b44a928a8a317dd458e38e",
+            "name": "Xã Vần Chải"
+        },
+        {
+            "uid": "9e61f5a4435e4c96888207db87a2d090",
+            "name": "Xã Lũng Phìn"
+        },
+        {
+            "uid": "260c5c1d70a74c7492731b85ac3a571c",
+            "name": "Xã Sủng Trái"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "uid": "54c6ed1af6534203a7ac2ace6ea22bc7",
+    "name": "Huyện Lạc Sơn",
+    "wards": [
+        {
+            "uid": "d9ff1d96ae314f27a70d71dd0e5c9aee",
+            "name": "Thị trấn Vụ Bản"
+        },
+        {
+            "uid": "e239cd9d9c5e459a8bbc3de5351484b6",
+            "name": "Xã Quý Hòa"
+        },
+        {
+            "uid": "46989296cc6b4299a73c7afc32df8ac5",
+            "name": "Xã Miền Đồi"
+        },
+        {
+            "uid": "7073d1cf668f40e2ae28cee855b920b2",
+            "name": "Xã Mỹ Thành"
+        },
+        {
+            "uid": "0edfd42a383e456e8a470878eb4cf5d9",
+            "name": "Xã Tuân Đạo"
+        },
+        {
+            "uid": "17f1b52dfc144fe4955f8006d3614b06",
+            "name": "Xã Văn Nghĩa"
+        },
+        {
+            "uid": "cacb17c1b77641619fa379f6edb6eaf1",
+            "name": "Xã Văn Sơn"
+        },
+        {
+            "uid": "7095cc84e076493aa52924fd993992c4",
+            "name": "Xã Tân Lập"
+        },
+        {
+            "uid": "a24b84921e3048c6bf3eb6beb971de6a",
+            "name": "Xã Nhân Nghĩa"
+        },
+        {
+            "uid": "af80400ac1064a929c8b9b64a9ace863",
+            "name": "Xã Thượng Cốc"
+        },
+        {
+            "uid": "7fe6974a3e4e49f9ac97bb05e4d2ee0e",
+            "name": "Xã Quyết Thắng"
+        },
+        {
+            "uid": "18f3e433064e4320afbd2cda0f110c58",
+            "name": "Xã Xuất Hóa"
+        },
+        {
+            "uid": "2d6cfe6c6a82425f9de1f1e9be78878f",
+            "name": "Xã Yên Phú"
+        },
+        {
+            "uid": "b3f6a6333af944ce8b6af8960c7f937a",
+            "name": "Xã Bình Hẻm"
+        },
+        {
+            "uid": "0daf0fff30b847c586f0d7e692356af9",
+            "name": "Xã Định Cư"
+        },
+        {
+            "uid": "7e7dc3ef65554d89932857d65cdd9c73",
+            "name": "Xã Chí Đạo"
+        },
+        {
+            "uid": "4dab48f458ec4b428d37eeccc6f3261d",
+            "name": "Xã Ngọc Sơn"
+        },
+        {
+            "uid": "925d1fb1bfd241979984fb205f4c47b8",
+            "name": "Xã Hương Nhượng"
+        },
+        {
+            "uid": "0091851aeb0143e8af205cddf4d096ee",
+            "name": "Xã Vũ Bình"
+        },
+        {
+            "uid": "8c74f3d082e04ef5af5703c531a2f06f",
+            "name": "Xã Tự Do"
+        },
+        {
+            "uid": "a89bd9d04fce48359edaab5c96f50850",
+            "name": "Xã Yên Nghiệp"
+        },
+        {
+            "uid": "8c5d693206a341b78a291ebeee83c8ae",
+            "name": "Xã Tân Mỹ"
+        },
+        {
+            "uid": "e6e3e7e6a15148fdbe5e6e69289bf0a6",
+            "name": "Xã Ân Nghĩa"
+        },
+        {
+            "uid": "583bfdb23ee84236a97ec42789b35015",
+            "name": "Xã Ngọc Lâu"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "uid": "1952bfe6838b4cdd80e1d089874f4b39",
+    "name": "Huyện Cờ Đỏ",
+    "wards": [
+        {
+            "uid": "ea45621446564425bc0ff27d354f9f8c",
+            "name": "Xã Trung An"
+        },
+        {
+            "uid": "112caa7aa07c4fa3951664f3fe73072b",
+            "name": "Xã Trung Thạnh"
+        },
+        {
+            "uid": "1b7d6c956578407190603b5c972a348b",
+            "name": "Xã Thạnh Phú"
+        },
+        {
+            "uid": "90621c3fecce4067a2fbd53b5d53fb4b",
+            "name": "Xã Trung Hưng"
+        },
+        {
+            "uid": "3e56a8e6e3a14177b90d14d05433180b",
+            "name": "Thị trấn Cờ Đỏ"
+        },
+        {
+            "uid": "b398429320ae45709d079c1705623213",
+            "name": "Xã Thới Hưng"
+        },
+        {
+            "uid": "64ce4dc744fb4537a19461f5faffb606",
+            "name": "Xã Đông Hiệp"
+        },
+        {
+            "uid": "dcc41c3d8c5140e294850e070fa88c56",
+            "name": "Xã Đông Thắng"
+        },
+        {
+            "uid": "85c9b3f3f37b47e880c9117cb710a268",
+            "name": "Xã Thới Đông"
+        },
+        {
+            "uid": "dac1187a186348b1afcaf364e093bcd8",
+            "name": "Xã Thới Xuân"
+        }
+    ]
+}

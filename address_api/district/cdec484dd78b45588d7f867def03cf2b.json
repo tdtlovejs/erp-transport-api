@@ -1,0 +1,38 @@
+{
+    "uid": "cdec484dd78b45588d7f867def03cf2b",
+    "name": "Huyện Sốp Cộp",
+    "wards": [
+        {
+            "uid": "429c89249e814911997acf5b12140b7a",
+            "name": "Xã Sam Kha"
+        },
+        {
+            "uid": "7ffe9b78287d423a8737546095ac0ffc",
+            "name": "Xã Púng Bánh"
+        },
+        {
+            "uid": "5209ed505fee439fbee1cec43637ab56",
+            "name": "Xã Sốp Cộp"
+        },
+        {
+            "uid": "25322cc91b364e03bcd5f92634f2c45d",
+            "name": "Xã Dồm Cang"
+        },
+        {
+            "uid": "c5016103beb14f67bf6b2552342bdd14",
+            "name": "Xã Nậm Lạnh"
+        },
+        {
+            "uid": "0c9e495f00f149569e003db710cc5443",
+            "name": "Xã Mường Lèo"
+        },
+        {
+            "uid": "7a08caff62474f24b7b5f9f29ef9d8a8",
+            "name": "Xã Mường Và"
+        },
+        {
+            "uid": "251305abbf494a7580593b424e116988",
+            "name": "Xã Mường Lạn"
+        }
+    ]
+}
