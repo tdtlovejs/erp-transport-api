@@ -93,12 +93,19 @@ gpsRouteController.showCurrent = async (req, res, next) => {
                 }
             })
             .populate('transportOrder')
-            .populate({
-                path: 'driver',
-                populate: {
-                    path: 'logo',
-                }
-            })
+            // .populate('populate')
+            // .populate({
+            //     path: 'driver',
+            //     populate: {
+            //         path: 'logo',
+            //     }
+            // })
+            // .populate({
+            //     path: 'vehicle',
+            //     populate: {
+            //         path: 'logo',
+            //     }
+            // })
             // .populate({
             //     path: 'transportOrder',
             //     populate: {
