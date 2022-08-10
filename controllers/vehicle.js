@@ -1,7 +1,9 @@
 const httpStatus = require("../utils/httpStatus");
 const formidable = require("formidable");
 const UserModel = require("../models/user");
-const {STATUS_UPLOAD_FILE_SUCCESS, DOCUMENT_TYPE_LOGO, ROLE_SUPERADMIN, ROLE_ADMIN, LANGUAGE_EN, VEHICLE_STATUS_MOVING} = require("../utils/constants");
+const {STATUS_UPLOAD_FILE_SUCCESS, DOCUMENT_TYPE_LOGO, ROLE_SUPERADMIN, ROLE_ADMIN, LANGUAGE_EN, VEHICLE_STATUS_MOVING,
+    GPS_ROUTE_STATUS_MOVING
+} = require("../utils/constants");
 const {uploadFile} = require("../uploads/UploadFile");
 const DocumentModel = require("../models/document");
 const VehicleModel = require("../models/vehicle");
@@ -42,7 +44,8 @@ vehicleController.list = async (req, res, next) => {
                             const item = doc[index];
                             const lastGpsRouteByVehicle = await GpsRouteModel
                                 .findOne({
-                                    vehicle: item._id
+                                    vehicle: item._id,
+                                    status: GPS_ROUTE_STATUS_MOVING
                                 })
                                 .sort({'updatedAt': -1})
                             if (lastGpsRouteByVehicle) {
