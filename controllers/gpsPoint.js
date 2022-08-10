@@ -108,7 +108,8 @@ gpsPointController.create = async (req, res, next) => {
 
                 return res.status(httpStatus.OK).json({
                     item: gpsPointSaved,
-                    vehicle: vehicleSaved
+                    vehicle: vehicleSaved,
+                    gpsRoute: gpsRouteSaved,
                 })
             } catch (e) {
                 next(e)
