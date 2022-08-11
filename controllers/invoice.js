@@ -512,6 +512,7 @@ invoiceController.exportPdf = async (req, res, next) => {
                         mimeType: 'application/pdf',
                         documentType: DOCUMENT_TYPE_INVOICE_PDF
                     }).save();
+                    console.log(pdfSaved)
                     const itemSaved = await InvoiceModel.findByIdAndUpdate(item._id, {
                         pdf: pdfSaved ? pdfSaved._id : null,
                     });
