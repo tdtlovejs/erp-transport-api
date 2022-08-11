@@ -3,7 +3,7 @@ const formidable = require("formidable");
 const UserModel = require("../models/user");
 const {ROLE_EMPLOYEE, STATUS_UPLOAD_FILE_SUCCESS, DOCUMENT_TYPE_LOGO, ROLE_SUPERADMIN, ROLE_ADMIN,
     TRANSPORT_STATUS_WAITING, GPS_ROUTE_STATUS_MOVING, TRANSPORT_STATUS_COMPLETED, TRANSPORT_STATUS_CANCELED,
-    VEHICLE_STATUS_MOVING, GPS_ROUTE_STATUS_COMPLETED, LANGUAGE_EN
+    VEHICLE_STATUS_MOVING, GPS_ROUTE_STATUS_COMPLETED, LANGUAGE_EN, TRANSPORT_STATUS_MOVING
 } = require("../utils/constants");
 const {uploadFile} = require("../uploads/UploadFile");
 const DocumentModel = require("../models/document");
@@ -194,7 +194,8 @@ gpsRouteController.create = async (req, res, next) => {
                     status: VEHICLE_STATUS_MOVING
                 });
                 const transportOrderSaved = await TransportModel.findByIdAndUpdate(transportOrder, {
-                    departAt: newISOString
+                    departAt: newISOString,
+                    status: TRANSPORT_STATUS_MOVING
                 });
                 return res.status(httpStatus.OK).json({
                     item: gpsRouteSaved,
