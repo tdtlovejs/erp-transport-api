@@ -68,7 +68,19 @@ gpsPointController.create = async (req, res, next) => {
                     isComplete
                 } = fields;
                 const newISOString = new Date().toISOString();
-                const gpsRouteFind = gpsRoute ? await GpsRouteModel.findById(gpsRoute) : null;
+                const gpsRouteFind = gpsRoute ? await GpsRouteModel.findById(gpsRoute).populate({
+                    path: 'vehicle',
+                    populate: {
+                        path: 'logo',
+                    }
+                })
+                    .populate({
+                        path: 'driver',
+                        populate: {
+                            path: 'avatar',
+                        }
+                    })
+                    .populate('transportOrder') : null;
                 let gpsRouteSaved = gpsRouteFind;
                 const gpsPoint = GpsPointModel({
                     longitude: longitude,
@@ -80,16 +92,21 @@ gpsPointController.create = async (req, res, next) => {
                 let vehicleSaved = await VehicleModel.findById(gpsRouteFind.vehicle);
                 const gpsPointSaved = await gpsPoint.save();
                 if (isComplete == 1 && gpsRouteFind) {
+                    if (gpsRouteFind.vehicle) {
+                        vehicleSaved = await VehicleModel.findByIdAndUpdate(gpsRouteFind.vehicle, {
+                            status: ''
+                        })
+                    }
                     gpsRouteSaved = await GpsRouteModel.findByIdAndUpdate(gpsRouteFind._id, {
                         status: GPS_ROUTE_STATUS_COMPLETED,
                         endAt: newISOString
                     })
-                        // .populate({
-                        //     path: 'vehicle',
-                        //     populate: {
-                        //         path: 'logo',
-                        //     }
-                        // })
+                        .populate({
+                            path: 'vehicle',
+                            populate: {
+                                path: 'logo',
+                            }
+                        })
                         .populate({
                             path: 'driver',
                             populate: {
@@ -98,11 +115,6 @@ gpsPointController.create = async (req, res, next) => {
                         })
                         .populate('transportOrder');
 
-                    if (gpsRouteFind.vehicle) {
-                        vehicleSaved = await VehicleModel.findByIdAndUpdate(gpsRouteFind.vehicle, {
-                            status: ''
-                        })
-                    }
                     if (gpsRouteFind.transportOrder) {
                         const transportSaved = await TransportOrderModel.findByIdAndUpdate(gpsRouteFind.transportOrder, {
                             status: TRANSPORT_STATUS_COMPLETED,
